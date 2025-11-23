@@ -88,7 +88,7 @@ I. To do list
 
 		- what are the ways to use math functions like 'fourier transforms' on neural networks, like how a neural network 'adds component variables of a polynomial' and a fourier transform 'splits a polynomial into component functions', which could be used to 'find functions with common component functions to score similarity of functions and therefore identify a function of each similarity group to test for relevance'
 		
-		- what are all the intents related to a concept, like how 'randomize' or 'connect random variables' are related to 'creativity' bc the definition network of 'creativity' includes 'connecting seemingly random/independent variables in a new trivial way', and what are the math functions (like a 'randomness-generating function') that can fulfill those intents, and create a neural network to generate structures implementing each concept using these math functions for those intents
+		- what are all the intents related to a concept, like how 'randomize' or 'connect random variables' or 'connect independent variables' are related to 'creativity' bc the definition network of 'creativity' includes 'connecting seemingly random/independent/distant variables in a new trivial way', and what are the math structures (like a 'randomness-generating function' and a 'graph connecting random/independent/distant variables with trivial connections') that can fulfill those intents, and create a neural network to generate structures implementing each concept using these math functions for those intents
 
 
 II. Queries and Results
@@ -96,7 +96,7 @@ II. Queries and Results
 
 - intents to solve a field
 	
-	- chatgpt query
+	- LLM query
 
 		- identify intents like 'identify what experiments havent been run yet among this set of useful possible interactions that are likely to have unexpected outcomes' and 'identify rules/requirements that rely on uncertain assumptions which might not be true' and 'identify redundancies/synergies in limits on variables to identify the full set of relevant limits/variables' and 'identify unresolved contradictions that could be connected with symmetries like spectrums' that could complete knowledge or understanding of a field like physics or math
 
@@ -179,7 +179,7 @@ II. Queries and Results
 
 - new physics technologies
 	
-	- chatgpt query
+	- LLM query
 
 		- generate other useful scientific concepts (using combinations of structures and variables, with structures like elements, crystals, lasers, light, radiation, filters, lenses, reactors, colliders, bombs, lattices, spectrums, gravity, networks, atoms, electrons, quarks, bosons, mesons, protons, neutrons and variables like time, mass, chirality, energy, entropy, charge, entanglement, force, reactivity, radioactivity, electricity, magnetism, heat, activity, distribution, simultaneity, synchronicity, opposition, duality, stability, balance, independence)
 
@@ -253,7 +253,7 @@ II. Queries and Results
 
 - unsolved intents
 	
-	- chatgpt query
+	- LLM query
 	
 		- since core intents like 'implementation' are solved because for example, implementations typically 'trivially vary from requirements/intents', similar to how 'summarization' is solved largely because summaries typically trivially vary from inputs, what intents are still unsolved with current technology, such as inventing and organization?
 
@@ -330,7 +330,7 @@ II. Queries and Results
 
 - theory contradictions and optimizations
 	
-	- chatgpt query
+	- LLM query
 
 		- what contradictions exist between theories about reality like string theory or the multiverse theory or quantum field theories that can be optimized for or solved with valid logical changes like 'changing some ambiguous definition to be less ambiguous' or 'changing prioritization of requirements' or 'changing possibilities into requirements'
 
@@ -392,7 +392,7 @@ II. Queries and Results
 
 - optimal system graphs 
 
-	- chatgpt query
+	- LLM query
 
 		- what is the optimal graph of a system, like should a graph be connected with linear functions, or connected with causal variable interactions, or should connections be multiple similarities graphed by their interactions/similarities to each other, and should nodes be combinations or units, and should the graph be a manifold of states or should it reflect static structures like requirements/definitions
 
@@ -475,7 +475,7 @@ II. Queries and Results
 
 - new concepts/theories
 
-	- chatgpt query
+	- LLM query
 
 		- what are the important/new/relevant/useful iterations of concepts like 'entangled independent entropy' or 'required information limit cascades' or 'deterministic ambiguity' that can be connected in new theories and what are those theories
 
@@ -595,7 +595,7 @@ II. Queries and Results
 
 - structures to end reality
 
-	- chatgpt query
+	- LLM query
 
 		- what structures could exist or be created that could end reality before its solved, like a quantum entanglement cascade or a randomness-generating device or a singularity recursion, that could get out of control and destroy the universe before it can be computationally solved, and what could be discovered that could determine reality like how identifying an upper energy limit at any given point in the universe could determine all other energy interaction limits and therefore all other energy interactions
 
@@ -647,7 +647,7 @@ II. Queries and Results
 
 - questions to solve reality
 	
-	- chatgpt query
+	- LLM query
 
 		- what questions should one ask to solve reality, questions like 'how to connect/graph all disconnected/independent variables in math/physics to solve reality' or 'how to identify generative/restrictive variables/limits of graphs to solve reality'
 
@@ -749,7 +749,7 @@ II. Queries and Results
 
 - workflow/graph connections to solve reality
 
-	- chatgpt query
+	- LLM query
 
 		- list all the graphs like a 'concept-theory graph' and associated workflows that could solve reality, like 'identify new concept/theory -> update this specific set of interface graphs with new concept/theory -> identify structures like new contradictions/interactions/requirements introduced by new concept/theory -> update concept/theory with new structures like limits to integrate those structures like contradictions' or 'identify new concepts and new theories generated by structures like definitions/requirements/interactions of these concepts' or 'identify comparisons like "maximal differences" that could solve reality if changed in some way like "connected"'
 
@@ -856,7 +856,7 @@ II. Queries and Results
 
 - connected physics intents
 
-	- chatgpt query
+	- LLM query
 
 		- what physics intents would be useful if they were true/possible, like an intent such as it would be useful if there was a way to "transport information without cost instantaneously" and quantum physics supports this possibility with the concept of "entanglement", so what other intents would be useful if true/possible and how could a physics concept support that useful intent? create a table of other intents that would be useful if true/possible and concepts in physics that could support those intents
 
@@ -883,7 +883,7 @@ II. Queries and Results
 
 - connected math intents
 	
-	- chatgpt query
+	- LLM query
 
 		- what would be useful if it was connected in math, like it would be useful if an intent like multiplication was connected to a specific function type like derivatives/integrals or Fourier transforms so some more efficient function could be used instead of the original multiplication operation, so create a table of math functions/intents that would be useful if they were connected, and identify what each useful connection would be useful for like "more efficient multiplication"
 
@@ -915,7 +915,7 @@ II. Queries and Results
 
 - connected math and physics concepts
 	
-	- chatgpt query
+	- LLM query
 
 		- what are the maximally different concepts in math and physics that would be useful to connect, like connecting maximally different concepts like matrices and quantum field theories, or Fourier transforms and quantum entanglement, or entropy and algebras, or primes and topologies, or integrals and probability, and identify what connecting these maximally different concepts would be useful for, like how connecting signal processing and quantum entanglement could reveal new explanations for quantum entanglement
 
@@ -1007,7 +1007,7 @@ II. Queries and Results
 
 - math/physics connection graphs
 	
-	- chatgpt query
+	- LLM query
 
 		- what types of graphs would possibly advance understanding in mathematics/physics, like a graph of connectible variables/causes, or a graph of abstract concept definition networks, or a graph of similar patterns across math functions, or a graph of common components of math systems, or a graph connecting math with corresponding physics phenomena indicating patterns/definitions of the related math, or a graph of math functions relevant to physics concepts, or a graph of similar inputs/outputs organizing math functions?
 
@@ -1045,7 +1045,7 @@ II. Queries and Results
 
 - definition errors
 	
-	- chatgpt query
+	- LLM query
 
 		- what are the gaps in math/physics concept definitions that can be identified by what isn't connected or completely understood in math/physics, like how a poorly understood math concept could connect to a poorly understood physics concept, or how a theory that is known to be incomplete could have missing pieces that correspond to the pieces of a known complete corollary theory, or how an interim definition between two math concept definitions exists and is useful to define to fill the gap in definitions?
 
@@ -1123,7 +1123,7 @@ II. Queries and Results
 
 - graph similarity structures
 
-	- chatgpt query
+	- LLM query
 
 		- what are the interface structures of similarities (like the limits of symmetries) in math/physics, like are known similarities or analogies or dualities or spectrums complete or are there more similar items to include with the similarity/analogy/duality/spectrum and what is the limit of that symmetry/analogy/duality/spectrum, and what is the best graph of all of these similarities/differences, like overlapping networks indicating relevance/similarity/interactivity of symmetries, and what is the limit of these optimal graphs, like how many iterations of similarities/differences should be applied in order to identify the graphs that solve reality?
 
@@ -1236,7 +1236,7 @@ II. Queries and Results
 
 - theory connection network
 	
-	- chatgpt query	
+	- LLM query	
 		- what are the connections that are missing to indicate interactions between theories, like quantum field theories and p=np and the incompleteness theorem and a theory on the limit of maximum possible entropy?
 
 	- results
@@ -1338,7 +1338,7 @@ II. Queries and Results
 
 - randomness sources
 
-	- chatgpt query
+	- LLM query
 
 		- what are the remaining sources of real randomness in reality, randomness referring to "poorly understood or poorly organized systems, where anything could happen with equal probability", is there more randomness in quantum physics or some obscure branch of math that is consistently surprising or confusing, or is there no real randomness and reality can likely be completely understood with existing understanding/knowledge paired with the right set of workflows/experiments/queries?
 
@@ -1433,7 +1433,7 @@ II. Queries and Results
 
 - concepts to understand reality
 	
-	- chatgpt query
+	- LLM query
 
 		- what concepts could intervene with understanding reality and how could they prevent understanding reality, like how the concept of a "universal minimum of entropy" could prevent info from being organized in a way that is sufficient to understand reality, and what concepts of interface structures (interface structures like information, logic, intent, function, concept, structure, definition, requirement, graph, connection, filter, perspective, potential, probability, math) are missing to understand reality, like how there could be an information concept like "information expiration" where if info is not used, it stops being relevant and so there is a "lifetime of information" where info needs to be connected in order to survive or be useful?
 
