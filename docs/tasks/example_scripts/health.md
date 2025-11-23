@@ -1004,15 +1004,26 @@
 					- https://www.mdpi.com/1422-0067/24/4/4129
 
 			- specific treatments for cancer types
-				- brain cancer: air pollution mask, turmeric, green tea, ashwagandha, probiotics, oats, mango, artemisinin, rosemary, milk thistle
+				- brain cancer: air pollution mask, turmeric, green tea, ashwagandha, probiotics, oats, mango, artemisinin, rosemary, milk thistle, quercetin, sulforaphane, resveratrol
 				- gastric cancer (has some overlap with gallbladder/liver/pancreatic cancer)
 					- avoid: vitamin b3/b9 supplements
 						- https://pubmed.ncbi.nlm.nih.gov/30873873/
 					- use: vitamin b12, ginkgo, oats, barley, green tea (theanine), olive oil, cabbage, carrots, tomatoes, broccoli, astragalus, sesame, garlic, onion, shiitake, zeaxanthin (bell peppers/goji/papaya), papaya (lycopene, zeaxanthin, and lutein), beta-cryptoxanthin (peppers, papaya, oranges, peaches)
 					- other gastric cancer supplements: chrysanthemum, astragalus, chanca piedra
-				- pancreatic cancer supplements: branched-chain amino acids, pancreatic enzymes, quercetin	
-				- liver cancer substances: milk thistle, bupleurum, red yeast rice
-				- leukemia: turmeric, ginseng, vitamin c, green tea, ginger, lesser galangal, Curcuma comosa, chinese skullcap, resveratrol, Curcuma wenyujin, Curcuma amada, L-asparaginase, purple sweet potato, Artemisia absinthium, Curcuma ochrorhiza, C. heyneana, Alpinia oxyphylla, Indigofera tinctoria, Cephalotaxus hainanesis, capsaicin (red pepper), Artemisia capillaris, Taxus cuspidata, Anthriscus sylveatris, Curcuma zedoaria
+				- pancreatic cancer supplements: branched-chain amino acids, pancreatic enzymes, quercetin, turmeric, resveratrol, omega 3s
+				- liver cancer substances: milk thistle, bupleurum, red yeast rice, turmeric, green tea (EGCG)
+				- leukemia: turmeric, ginseng, vitamin c/d, green tea, ginger, lesser galangal, Curcuma comosa, chinese skullcap, resveratrol, Curcuma wenyujin, Curcuma amada, L-asparaginase, purple sweet potato, Artemisia absinthium, Curcuma ochrorhiza, C. heyneana, Alpinia oxyphylla, Indigofera tinctoria, Cephalotaxus hainanesis, capsaicin (red pepper), Artemisia capillaris, Taxus cuspidata, Anthriscus sylveatris, Curcuma zedoaria
+				- breast cancer: turmeric, green tea (EGCG), vitamin d, omega 3s, resveratrol
+				- prostate cancer: pomegranate, green tea (EGCG), lycopene (tomatoes), vitamin d, sulforaphane (broccoli)
+				- colorectal cancer: turmeric, butyrate, omega 3s, vitamin d + calcium, berberine
+				- lung cancer: quercetin, ginseng, turmeric, vitamin d
+				- ovarian cancer: quercetin, resveratrol, turmeric
+				- lymphomas: turmeric, green tea (EGCG), omega 3s
+				- melanoma: vitamin d, resveratrol, quercetin
+				- bladder cancer: green tea (EGCG), turmeric, cranberry
+				- esophageal & gastric cancer: green tea, turmeric
+				- head & neck cancers: turmeric, green tea (EGCG), black raspberry
+				- cervical cancer: turmeric, green tea (EGCG), resveratrol
 
 			- 'cancer cause' diagnostic sequence
 
