@@ -1,7 +1,7 @@
 - useful sub-intents with associated substances
 
-	- fix your other medical problems so you can fight your medical problems better
 		- some of these substances kill pathogens, some inhibit/suppress pathogen activity indirectly/directly, some boost the immune system, and some help only with specific symptoms rather than the causal pathogen
+
 		- fungal infections:
 			- keto diet, holy basil, sitosterol, kombucha/kefir/probiotics/lactic acid bacteria, beets, coconut (dont take sitosterol if you have cancer, it suppresses a tumor suppressor IL-25), capsaicin
 		- viral infections: 
@@ -431,7 +431,7 @@
 			- low DHEA: coconut, avocados, olive oil, nuts, seeds, omega-3s, vitamin d, turmeric, ginger, rosemary, thyme, oregano
 			- low cortisol/adrenal insufficiency: use hydrocortisone/cortisol, b vitamins, resveratrol, keto diet, DHEA (low DHEA can cause heart damage and cancer)
 				- fludrocortisone for symptoms of low aldosterone like salt cravings
-				- avoid causes of low cortisol: lavender, magnesium, theanine, schisandra, olive oil, phosphatidylserine, ashwagandha, rhodiola, magnolia, bacopa, lemon balm, holy basil, betaine, l-ornithine, malaysian ginseng, choline, astragalus, turmeric, zinc, maca, whey protein, inositol, st johns wort, passionflower, lion's mane, valerian, GABA, chamomile, melatonin, omega 3's, vitamin c/d/e/b5/b6/b12, coq10, glutathione, NAC, turmeric, probiotics, Bright Light Therapy, Transcranial direct current stimulation, Transcranial magnetic stimulation, ginkgo biloba, chinese skullcap, avoiding caffeine/refined carbs/alcohol/smoking which cause high cortisol, also low cholesterol is associated with lower cortisol
+				- avoid causes of low cortisol: lavender, magnesium, theanine, schisandra, olive oil, phosphatidylserine, ashwagandha, rhodiola, magnolia, bacopa, lemon balm, holy basil, betaine, l-ornithine, malaysian ginseng, choline, astragalus, turmeric, zinc, maca, whey protein, inositol, st johns wort, passionflower (an MAOI), lion's mane, valerian, GABA, chamomile, melatonin, omega 3's, vitamin c/d/e/b5/b6/b12, coq10, glutathione, NAC, turmeric, probiotics, Bright Light Therapy, Transcranial direct current stimulation, Transcranial magnetic stimulation, ginkgo biloba, chinese skullcap, avoiding caffeine/refined carbs/alcohol/smoking which cause high cortisol, also low cholesterol is associated with lower cortisol
 				- related conditions to adrenal problems include pituitary/hypothalamus imbalance, which can be corrected with: vitamin A/C/D/E, B1/B12, manganese, milk thistle, sagebrush, alfalfa, gotu kola, ashwagandha, eleuthero, holy basil, maca, panax ginseng, rhodiola rosea, schisandra
 				- birth control pills may be helpful or harmful in increasing cortisol, given the connection between cortisol/estrogen/vasopressin
 				- first dose of hydrocortisone should be taken in the morning at awakening and the last dose 4 to 6 hours before going to sleep
@@ -835,7 +835,7 @@
 				- neural fuel: leucine, pterostilbene
 				- brain cleaning: coffee, walnuts/flax seeds/omega 3s, substances that clean your liver like coffee/artichoke/milk thistle, and substances that clean your blood like air pollution purifiers and heavy metal chelators like spirulina/chlorella could also help clean the brain
 			- adhd
-				- passionflower, saffron crocus, almond, valerian, lemon balm, pycnogenol, ginseng, ginkgo, vitamin d/b6, magnesium, zinc, iron, omega 3s, melatonin, ashwagandha
+				- passionflower (an MAOI), saffron crocus, almond, valerian, lemon balm, pycnogenol, ginseng, ginkgo, vitamin d/b6, magnesium, zinc, iron, omega 3s, melatonin, ashwagandha
 					- https://pubmed.ncbi.nlm.nih.gov/36062480/
 					- https://pubmed.ncbi.nlm.nih.gov/37663386/
 			- autism 
@@ -849,7 +849,7 @@
 				- rosemary for cocaine addiction
 					- https://www.futurity.org/rosemary-extract-compound-cocaine-sensitivity-3245642/
 			- depression
-				- vitamin K, omega 3s, folate, tyrosine, sarcosine (cancer patients should avoid sarcosine)
+				- GABA, SAMe, probiotics, zinc, ashwagandha, 5-htp (avoid for heart impact), st john's wort (avoid for drug interactions), melatonin (avoid for heart impact), turmeric, magnesium, theanine, green tea, berberine, mucuna pruriens (l-dopa), kanna, vitamin d/b9/b12/k, omega 3s, tyrosine, sarcosine (cancer patients should avoid sarcosine), passionflower (an MAOI), lavender, saffron, chamomile, ginseng, ginkgo biloba
 			- anxiety:
 				- Beta-blockers are commonly prescribed for both conditions due to their ability to block stress hormones that raise heart rate and blood pressure
 				- Alpha-2 agonists like clonidine and guanfacine also work by stimulating receptors in the brain to reduce sympathetic nervous system activity, leading to decreased heart rate and blood pressure
@@ -881,7 +881,7 @@
 					- most of the following will positively impact GABA levels: hops, melatonin (avoid for possible heart failure), medicinal mushrooms, chamomile, taurine, lemon balm, st johns wort (avoid for interactions with other substances), EGCG, passion flower, ashwagandha, lavender, chinese skullcap, black seed oil, valerian, alpha gpc, bacopa, kava (avoid for liver toxicity), vitamin b6, magnesium, zinc, theanine, theobromine, CBD (avoid for heart damage), mint, chlorella
 						- https://pmc.ncbi.nlm.nih.gov/articles/PMC9500625/
 					- supplements such as B6 may help convert glutamate to GABA, which can be beneficial for reducing anxiety
-					- increases GABA or GABA activity: cold, Lactobacillus and Bifidobacterium, lactic-acid producing probiotic bacteria, theanine, passionflower, lemon balm, b vitamins, taurine, valerian, hops, EGCG with vitamin C, ashwagandha, lavender, chinese skullcap, black seed oil, 5-HTP (avoid for heart impact), gotu kola
+					- increases GABA or GABA activity: cold, Lactobacillus and Bifidobacterium, lactic-acid producing probiotic bacteria, theanine, passionflower (an MAOI), lemon balm, b vitamins, taurine, valerian, hops, EGCG with vitamin C, ashwagandha, lavender, chinese skullcap, black seed oil, 5-HTP (avoid for heart impact), gotu kola
 					- restores GABA receptors: bacopa
 					- activates/strengthens GABA receptors: kava
 					- binds to GABA receptors: chinese skullcap
@@ -889,10 +889,10 @@
 					- positive allosteric modulators of the GABAA receptor: eugenol, chamomile/apigenin, chamomile/luteolin, EGCG, thymol, nicotinamide, valerian, lavender
 					- avoid GABA antagonists: ginkgo biloba, kudzu, thujone (sage, mugwort, oregano, mint, wormwood, yarrow)
 				- decrease glutamate: cold, omega 3's, magnesium, vitamin b6/c/e, zinc, theanine, taurine, resveratrol, turmeric, NAC, avoid MSG/aspartame/caffeine
-				- decrease cortisol: lavender, magnesium, theanine, schisandra, olive oil, phosphatidylserine, ashwagandha, rhodiola, magnolia, bacopa, lemon balm, holy basil, betaine, l-ornithine, malaysian ginseng, choline, astragalus, turmeric, zinc, maca, whey protein, inositol, st johns wort, passionflower, lion's mane, valerian, GABA, chamomile, melatonin, omega 3's, vitamin c/d/e/b5/b6/b12, coq10, glutathione, NAC, probiotics, bright light therapy, transcranial direct current stimulation, transcranial magnetic stimulation, ginkgo biloba, chinese skullcap, avoiding caffeine/refined carbs/alcohol/smoking which cause high cortisol, also low cholesterol is associated with lower cortisol
+				- decrease cortisol: lavender, magnesium, theanine, schisandra, olive oil, phosphatidylserine, ashwagandha, rhodiola, magnolia, bacopa, lemon balm, holy basil, betaine, l-ornithine, malaysian ginseng, choline, astragalus, turmeric, zinc, maca, whey protein, inositol, st johns wort, passionflower (an MAOI), lion's mane, valerian, GABA, chamomile, melatonin, omega 3's, vitamin c/d/e/b5/b6/b12, coq10, glutathione, NAC, probiotics, bright light therapy, transcranial direct current stimulation, transcranial magnetic stimulation, ginkgo biloba, chinese skullcap, avoiding caffeine/refined carbs/alcohol/smoking which cause high cortisol, also low cholesterol is associated with lower cortisol
 				- decrease norepinephrine/adrenaline: kava, panax ginseng, holy basil, ashwagandha, astragalus, licorice, rhodiola, cordyceps, black/green tea, indian snakeroot
 				- increase oxytocin: vitamin d/c, magnesium, taurine, Lactobacillus reuteri, chamomile, Oleoylethanolamide, melatonin, fenugreek, jasmine, clary sage, anise seed, intermittent drinking
-				- increase serotonin: exercise, vitamin d, omega 3's, ashwagandha, theanine, bacopa, lemon balm, saffron, sceletium tortuosum, 5-HTP, nigella sativa, tryptophan (eggs, cheese, nuts), sunlight, SAMe, probiotics, avoid caffeine and artificial sweeteners
+				- increase serotonin: exercise, vitamin d, omega 3's, ashwagandha, theanine, bacopa, lemon balm, saffron, sceletium tortuosum (kanna), 5-HTP, nigella sativa, tryptophan (eggs, cheese, nuts), sunlight, SAMe, probiotics, avoid caffeine and artificial sweeteners
 					- serotonin can be either low or high in anxiety
 				- increase dopamine: theanine, bacopa, tyrosine, phenylalanine, probiotics, avoid saturated fat
 					- dopamine can be either low or high in anxiety
