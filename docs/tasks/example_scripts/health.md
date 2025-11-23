@@ -1004,6 +1004,7 @@
 					- https://www.mdpi.com/1422-0067/24/4/4129
 
 			- specific treatments for cancer types
+				- brain cancer: air pollution mask, turmeric, green tea, ashwagandha, probiotics, oats, mango, artemisinin, rosemary, milk thistle
 				- gastric cancer (has some overlap with gallbladder/liver/pancreatic cancer)
 					- avoid: vitamin b3/b9 supplements
 						- https://pubmed.ncbi.nlm.nih.gov/30873873/
@@ -1011,7 +1012,7 @@
 					- other gastric cancer supplements: chrysanthemum, astragalus, chanca piedra
 				- pancreatic cancer supplements: branched-chain amino acids, pancreatic enzymes, quercetin	
 				- liver cancer substances: milk thistle, bupleurum, red yeast rice
-				- leukemia: turmeric, ginseng, vitamin c, green tea, ginger, lesser galangal, Curcuma comosa Roxb, chinese skullcap, resveratrol, Curcuma wenyujin, Curcuma amada, L-asparaginase, purple sweet potato, Artemisia absinthium, Curcuma ochrorhiza, C. heyneana, Alpinia oxyphylla, Indigofera tinctoria, Cephalotaxus hainanesis, capsaicin (red pepper), Artemisia capillaris, Taxus cuspidata, and Anthriscus sylveatris, Curcuma zedoaria
+				- leukemia: turmeric, ginseng, vitamin c, green tea, ginger, lesser galangal, Curcuma comosa, chinese skullcap, resveratrol, Curcuma wenyujin, Curcuma amada, L-asparaginase, purple sweet potato, Artemisia absinthium, Curcuma ochrorhiza, C. heyneana, Alpinia oxyphylla, Indigofera tinctoria, Cephalotaxus hainanesis, capsaicin (red pepper), Artemisia capillaris, Taxus cuspidata, Anthriscus sylveatris, Curcuma zedoaria
 
 			- 'cancer cause' diagnostic sequence
 
