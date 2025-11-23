@@ -87,6 +87,8 @@ I. To do list
 		- what are the smarter/dumber variants of each neural network type like how a dumber version of LLMs are 'word sequence networks where common word patterns connect rarer nodes' and a smarter version of LLMs 'starts by applying intent optimization and then identifies useful intent interactions and connect variables for each possible intent'
 
 		- what are the ways to use math functions like 'fourier transforms' on neural networks, like how a neural network 'adds component variables of a polynomial' and a fourier transform 'splits a polynomial into component functions', which could be used to 'find functions with common component functions to score similarity of functions and therefore identify a function of each similarity group to test for relevance'
+		
+		- what are all the intents related to a concept, like how 'randomize' or 'connect random variables' are related to 'creativity' bc the definition network of 'creativity' includes 'connecting seemingly random/independent variables in a new trivial way', and what are the math functions (like a 'randomness-generating function') that can fulfill those intents, and create a neural network to generate structures implementing each concept using these math functions for those intents
 
 
 II. Queries and Results
