@@ -1,6 +1,3 @@
-- chatgpt queries to solve reality
-
-
 I. To do list
 
 	- list unsolved intents for LLMs: 
