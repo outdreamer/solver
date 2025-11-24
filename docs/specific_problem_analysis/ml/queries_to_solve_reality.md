@@ -87,6 +87,8 @@ I. To do list
 		
 		- what are all the intents related to a concept, like how 'randomize' or 'connect random variables' or 'connect independent variables' are related to 'creativity' bc the definition network of 'creativity' includes 'connecting seemingly random/independent/distant variables in a new trivial way', and what are the math structures (like a 'randomness-generating function' and a 'graph connecting random/independent/distant variables with trivial connections') that can fulfill those intents, and create a neural network to generate structures implementing each concept using these math functions for those intents
 
+		- what are the graphs with useful connection types, like how a 'causality' connection is useful bc it 'encodes multiple similarities' (like 'similarity in position in a sequence' and 'similarity in requirement/causation')
+
 
 II. Queries and Results
 
