@@ -571,11 +571,11 @@
 				- it is loss of MTAP that leads to reduced TIL density
 				- MTAP loss causes accumulation of methylthioadenosine (MTA) both intracellularly and extracellularly and profoundly impairs T cell function via the inhibition of protein arginine methyltransferase 5 (PRMT5) and by adenosine receptor agonism
 				- Administration of MTA-depleting enzymes reverses this immunosuppressive effect, increasing TILs and drastically impairing tumor growth
-		- increase parts of the covid/flu/bird flu immune response, which extremely reduced my brain tumor during the active immune response
+		- increase parts of the covid/flu/bird flu immune response, which reduces brain tumors during the active immune response
 			- iodine
 				- The antimicrobial action of iodine is quick and works at low concentrations, and thus it is used in operating theatres. Its specific mode of action is unknown. It penetrates into microorganisms and attacks particular amino acids (such as cysteine and methionine), nucleotides, and fatty acids, ultimately resulting in cell death
 			- try reducing and increasing interferon-gamma and TNF-α bc they can both attack and help cancer (as part of the covid immune reponse, they attacked cancer for me), so its useful to find out which function your cancer responds to, by testing both sets of substances
-				- such as groups like 'astragalus/milk thistle/quercetin' vs. 'turmeric/boswellia/green tea/resveratrol/holy basil/limonene/berberine' and then a known useful mix like 'quercetin/holy basil' as they are both powerful in my experience
+				- such as groups like 'astragalus/milk thistle/quercetin' vs. 'turmeric/boswellia/green tea/resveratrol/holy basil/limonene/berberine' and then a known useful mix like 'quercetin/holy basil' as they are both powerful 
 			- increase CD4+ T cells (astragalus, lauric acid/coconut oil) 
 				- Regulatory T helper 17 cells are generated from CD4+ T cells
 				- https://en.wikipedia.org/wiki/CD4%2B_T_cells_and_antitumor_immunity
@@ -583,7 +583,7 @@
 		    	- limonene, holy basil, echinacea, and berberine all decrease TNF-α
 		    	- astragalus increases TNF-α
 			- increase IL-2 (ginseng, reishi, DHA, echinacea, lauric acid/coconut oil)
-				- IL-2 is one of the factors increased by the covid immune response, which reduced my brain tumor
+				- IL-2 is one of the factors increased by the covid immune response, which reduces brain tumors
 			    - ginseng, reishi, DHA increase IL-2, chlorella decreased IL-2
 			- increase IL-7 (Glutathione)
 				- Glutathione increases IL-7
@@ -3543,3 +3543,182 @@
 		- anti-cancer antibodies
 			- monoclonal antibodies
 				- Bevacizumab is a monoclonal antibody that binds to a protein called vascular endothelial growth factor (VEGF) and may prevent the growth of new blood vessels that tumors need to grow
+
+
+	- 'cancer cause' diagnostic sequence
+
+				- you will probably want to rule out causes/enhancers of your cancer in specific sequences
+
+					- if you dont care about identifying the cause and want to skip to treatment or prevention, you can start with:
+						- the anti-cancer herbs/fruits/vegetables/vitamins referenced below (especially berries, mango, coconut, citrus, mushrooms, broccoli, ginger, garlic, turmeric, ashwagandha, iodine, small amounts like 1 oz of green tea/coffee)
+						- a common base of gentle supplements to be used daily (like probiotics/kefir, modified citrus pectin, oatmeal, bromelain, resistant starch)
+						- substances to reduce acidosis/inflammation (vitamin C/D, calcium, avoid large amounts of vitamin d if you have organ failure, only get it from sunlight or fish/algae rather than supplements if you have kidney damage)
+						- an air pollution mask for outside/travel time and an air purifier for indoor time and a reverse osmosis water purifier for toxins in water (whole foods 365 italian mineral water in glass bottles is the cleanest water)
+						- cycling off strong immune response substances every 30 - 60 days to maximize immune response (using one of the 30 - 60 strong substances like wasabi, blue agave syrup each day to maximize the immune response which wears off and comes back after a period of cycling off of it for several weeks)
+						- occasionally if youre healthy (without organ damage), you can also supplement with harsher substances like artemisinin, large amounts of coffee/green tea like 4 - 8 oz, thunder god vine, cat's claw, and honokiol (which are effective but are hard on your organs and not for people with organ damage), but these should be avoided unless other treatments arent working
+						- high intensity interval training, dopamine cycling, etc
+						- avoid dietary carcinogens that can make some cancers worse (potato chips, agglutinin from peanuts/wheat, folic acid/niacin supplements)
+
+					- otherwise, if you want to identify the cause
+						- first you can test if your cancer is caused by air pollution quickly by using an air pollution mask and an air pollution air purifier (and a reverse osmosis water purifier to check if your water is making you sick) for a few days and checking if it helps reduce cancer growth (if your cancer is slow growing, this might take longer and you should start with an anti-inflammatory diet and herbs while also using an air pollution air purifier, rather than letting your cancer get slowly worse for long periods of time just to check if its the air pollution)
+						- then you can check if acidity/inflammation causes your cancer by taking calcium carbonate and/or potassium bicarbonate to see if they help reduce cancer growth
+							- vitamin c powder (take this in doses of 1 - 2 g/day with zinc to help prevent kidney stones, assuming youre otherwise healthy and can handle large doses of vitamin c) is another anti-inflammation substance to try, but it can make some cancers grow
+							- also check if other vitamin deficiencies are the cause of your cancer, such as by taking anti-cancer vitamins/minerals like iodine and vitamin d (not a huge dose, bc vitamin d can hurt your kidneys in large doses) to see if that fixes the cancer growth, or taking a multivitamin or eating a nutritionally complete diet (getting nutrients from diet rather than supplements will avoid the problem of 'feeding cancer directly by eating vitamins/minerals in supplement form, which puts it directly in the bloodstream')
+						- then check if 'low immunity' causes your cancer to grow, by stimulating immunity/klotho (klotho being a tumor suppressor) such as with a keto diet or high intensity interval training (half an hour of sprinting/resting cycles creates a strong immune response)
+							- another way to stimulate your immune response is to apply the flu/bird flu immune response (like by eating milk/eggs), which extremely reduces brain tumors during the active immune response
+						- then check if neurotransmitter imbalance contributes to cancer (this is likelier to impact brain cancers) or hormonal imbalance (like how estrogen/DHEA imbalances can contribute to cancer)
+							- for example, dopamine imbalance can change the immune response, so make sure your dopamine levels are normal (exercise, tyrosine, theanine, green tea, vitamin D/B5/B6, omega 3s, magnesium all increase dopamine, try all of them if you can to check if a maximum level of dopamine is useful against your cancer, its not just the dopamine but the way it changes the immune response that is useful)
+						- then if none of those fixes your cancer growth, you can try other anti-cancer herbs/fruits/vegetables (like prunella vulgaris, ashwagandha, modified citrus pectin, probiotics/kefir, turmeric, hibiscus, fruits/vegetables, small amounts of coffee and green tea) which are gentler on your organs than other substances, to see if those help reduce cancer growth
+							- try the strongest anti-cancer substances that are gentle on your organs first (try eating these once every few hours during the day, if treating your own cancer, bc some of their effects only last a few hours), like:
+								- green banana resistant starch
+								- oats (beta-glucans)
+									- https://pmc.ncbi.nlm.nih.gov/articles/PMC8625765/
+								- syzygium cumini (or similarly clove)
+								- prunella vulgaris (self-heal, which was 100 - 1000x more powerful than a typical brain cancer treatment like modified citrus pectin)
+								- kefir/probiotics (Green Valley and Lifeway brands are good, and Garden of Life probiotics are as well)
+								- blue agave syrup (the Wholesome brand)
+								- artemisinin
+								- ashwagandha (the Gaia Herbs brand)
+								- milk thistle
+								- coffee (Chameleon coffee is the best brand Ive tried, or chlorogenic acid is similarly powerful as coffee)
+								- wasabi (the S and B brand)
+								- green tea (Tejava Hojicha organic green tea)
+								- berries (for the vitamin K, antioxidants, anti-inflaatory effect), pomegranats, mangoes, mushrooms, cabbage
+									- golden berries/Physalis peruviana are powerful against cancer but make sure to avoid high doses to avoid cardiac/cardiovascular damage and avoid unripe golden berries
+									- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3863561/
+									- https://pmc.ncbi.nlm.nih.gov/articles/PMC9408722/
+								- both probiotics/kefir and blue agave are super strong against brain cancer, and have an impact of about 10 - 100x that of a teaspoon of modified citrus pectin
+								- the others in this list all have an impact of about 1 - 5x that of teaspoon of modified citrus pectin
+								- the substances that wear off after a while can be cycled on and off to increase the immune response
+						- if that diet doesnt work, which it should in most cases caused by inflammation/acidity or pollution/chemicals, then you can try specific protocols according to the type of cancer, like the brain cancer-specific herb protocol used here
+							- mistletoe, valerian, stinging nettle, thyme, mountain germander, rosemary, oregano, yarrow, peppermint, lemon balm, chamomile, hops, st john's wort, glechoma hederacea (ground ivy/evergreen creeper), catnip, artemisia absinthium (common wormwood), artemisia vulgaris (common mugwort), greater celandine, erythrea centaurium, calendula officinalis (marigold), capsella bursa-pastoris (shepherd's purse), betula pendula roth (common birch), basil, althaea officinalis (marshmallow)
+							- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809810/
+						- if those specific protocols dont work, then you can try substances that are more harsh on your organs (like thunder god vine, cat's claw, kumquats, quercetin, chlorogenic acid, artemisinin, etc), but otherwise avoid these unless you need them and start with fractions of a dose if you need them 
+							- kumquats fight stress and boost natural killer (NK) cells (which get rid of cancer cells and other cells infected by viruses)
+								- kumquats have cyanide in the seeds, like apricots/apples
+						- if these dont work, youll want to keep looking for other pollutants/chemicals you might be exposed to that could cause cancer (like alcohol, excessive sunlight, pesticides, toxic cleaning chemicals, processed food, peanuts/wheat which have agglutinin that can make some cancers worse, potato chips which have acrylamide which can make cancer worse, supplements like beta-sitosterol that can suppress tumor-fighting defenses, arginine/b vitamins/vitamin c/vitamin e/iron/zinc which can feed cancer if taken in supplement or other processed form, etc)
+							- also check if your lifestyle variables like circadian rhythm dysregulation are a cause (if the cancer grows more at night, or days when you dont get sunlight, or in different sleeping postures, or when using a nightlight)
+
+			- here's a good probiotic (Garden of Life RAW Probiotics Colon Care) that has a powerful anti-cancer effect (paired with an air pollution mask and a healthy diet with vitamin C/D)
+				- https://www.amazon.com/Garden-Life-Probiotics-Colon-Stable/dp/B07CZGVXKY/
+				- if your microbiome is messed up, you wont be able to fight cancer optimally, probiotics are a powerful immune booster
+					- lower doses are recommended for some people like thyroid patients, not sure what the upper limit is on the dose, lactic acid from the bacteria and SCFA/bile acid production which impact the thyroid are probably the dose-limiting factors
+					- https://www.sciencedaily.com/releases/2024/05/240517164108.htm
+					- high doses of probiotics can interfere with levothyroxine or thyroid function, so increased doses of levothyroxine may be necessary when taking probiotics for people with thyroid damage, and lower doses of probiotics may be necessary for thyroid patients, partly bc of the metabolites of probiotics like SCFAs or bile acids
+						- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8397005/
+				- another article about other probiotics for cancer treatment
+					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6586914/
+
+			- inhibiting ABCA1 to lower 'astrocytic cholesterol efflux' to starve tumors is useful for glioblastoma
+				- https://pmc.ncbi.nlm.nih.gov/articles/pmid/35899587/
+				- https://scitechdaily.com/groundbreaking-method-starves-highly-lethal-cancer-tumors-of-energy-eradicating-them/
+
+			- some of the scripts and questions are my inventions, as in 'new useful unique thoughts, using my other inventions to analyze info', although a 'cancer-curing protocol for most cancers (such as rotating through subsets of supplements or combinations of supplemments that cover a high ratio of functionality or finding a gene that can be changed to cure most cancers while avoiding other health problems)' would be an invention (its valuable and not trivial to identify)
+			- similarly, 'identifying which substances in which structures like 'combination/sequence' that inhibit/activate the structures that would reduce all relevant cancerous processes in specific cancer states/types/co-occurrence with other conditions' is an intent that, if fulfilled, would likely constitute a cancer-curing script, since the problem of cancer is largely a problem of 'not yet knowing all the impacts of each substance and the net impact of that substance when applied with other substances and in specific states of health and for specific cancer types', so identifying the 'net impact of a diet and set of supplements on these anti-cancer intents' is likely sufficient to cure cancer in many cases, except where the impact is not fully known
+				- for example, for a 'brain cancer patient, with kidney failure', this might be a protocol such as 'avoid unfiltered outdoor air to avoid pollution, avoid noise pollution like traffic noise, avoid chemicals like cleaners/pesticides/PFAS, exercise indoors, eat coconut oil, omega 3s to repair kidneys, and some anti-cancer herbs like ashwagandha/prunella vulgaris and foods like artichokes, coconut, pomegranates/berries, and shiitake mushrooms, as well as baking soda if tolerable, treat "low doses of vitamin d or cortisol at night" by taking anti-cancer substances before bed, take modified citrus pectin, and use a low-carb or low-fat or low-methionine diet, for a period such as several weeks, in order to avoid cancerous inputs', but there is no tool to identify implementations of intents or the intents themselves for specific patients, and if there was, that might constitute a cancer cure
+
+			- this means 'iterating through genes (and then structures of genes like components/combinations) to find unnecessary ones' might be useful to determine if there is one that can be switched off without causing health problems and if it could also usefully alter cancer growth (like disabling growth factors and replacing them with less mutable alternatives)
+			- this also means 'identifying coordinating as well as complementary intents' (inhibit CSC and inhibit autophagy) is useful to identify possible supplement sets fulfilling these intents that is generally useful at reducing cancer growth and identifying usefulness of 'structures of intents like rotating between intents (to keep cancer cells from adapting too successfully)' is similarly useful
+			- another way to solve this problem is letting cancer patients try these drugs for a few hours or days to see if they work without risking the patients' life (a 'low-dose' strategy)
+			- another way is identifying markers of injuries that stop cancer growth temporarily (like kidney damage) and checking if they are safe to take or increase and if they are effective at signaling to cancer cells to stop growing, or if its more of a 'energy diversion' reason
+				- Uromodulin (UMOD), also known as Tamm-Horsfall protein, is an 85-kDa glycoprotein exclusively produced by cells of the thick ascending limb of Henle
+					- implicated in regulation of salt homeostasis and conferring immunologic renal protection, including preventing infections and inhibiting nephrolithiasis
+					- biomarker for tubular mass and function 
+					- inversely associated with many kidney disease states
+					- direct marker of the amount of intact tubular cells of the ascending limb of the loop of Henle, so may represent a marker for the number of remaining functional tubules
+				- YKL-40, also known as chitinase 3-Dlike protein 1 (CHI3L1), is a 40-kDa inflammatory glycoprotein produced in a wide range of inflammatory cell types involved in modulating favorable responses to cellular damage (65). It has been hypothesized that this protein may signal the adaptive repair response following inflammation
+				- Biomarkers of tubular injury that are depicted include KIM-1 and NGAL, which are produced by proximal tubular cells early after kidney injury
+				- Biomarkers of tubular function that are depicted include L-FABP, CysC, and α1M, which are proteins that build up in the urine due to tubular dysfunction
+				- Biomarkers of inflammation that are depicted include IL-6 (increase with ginseng, reishi, bacillus subtilis, lactobacillus plantarum, alanine, cordyceps), IL-10 (increase with ginseng, bacillus subtilis, linoleic acid in most seeds/nuts, cordyceps), IL-18 (increase with palmitic acid in coconut oil, avoid DHA which decreases it), and MCP-1/CCL2, which are produced as part of the inflammatory response to injury
+				- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7879424/
+
+			- similarly, a script to identify what 'symptoms/reactions from a specific supplement/diet mean' (like if corticosteroids hurt you, that means you probably had heart damage) would be useful to diagnose conditions without labwork or without reliable tests/known markers which is a lot of conditions
+
+			- similarly, a script to identify useful possible experiments given possibilities like 'gain of function mutations' would be useful, by identifying which substances might help useful probiotics gain useful functions by growing probiotics in those substances, given how the probiotics interact (if some probiotic produces some useful compound where the substance it was grown in is attached to that compound, which delivers the substance in a useful way, or if probiotics grown in patient's saliva/blood/cancer cell sample gain different functions)
+
+		- get an air pollution mask, an air purifier that filters out air pollution such as benzene, and a reverse osmosis water purifier, these arent optional for cancer treatment
+			- These are the solutions to avoid chemicals that I've been using:
+				- an air pollution mask like this one which can attach filtering cartridges that filter out airplane/car fuel pollution: https://www.amazon.com/dp/B07Y2S71T1/
+				- a reverse osmosis purifier like this one to get chemicals out of the water: https://www.amazon.com/Bluevua-RO100ROPOT-LITE-Countertop-Reverse-Purification/dp/B0BGK3YLTN/
+				- an indoor air purifier that filters out airplane/car fuel pollution (IQAir purifiers create compounds that cause kidney damage so avoid IQAir products)
+
+		- cancer treatment with organ damage
+			- this will involve smaller amounts of gentler but powerful anti-cancer substances
+				- 'cancer treatment with organ damage' diet:
+					- carrots/turmeric/grapes/broccoli/chamomile to inhibit PD-L1, pomegranate/berries/grapes/apples/tomatoes/onions/citrus fruit for the quercetin which inhibits IGF-1, mangos, as well as probiotics/kefir, wheat grass, brussel sprouts, broccoli sprouts, mushrooms (medicinal mushrooms and also white button mushrooms), wasabi/garlic/ginger, walnuts/almonds/macadamia nuts, flax seeds, coconut, modified citrus pectin, hibiscus, prunella vulgaris, and ashwagandha
+					- turmeric isnt always good for every cancer type, so brain cancer patients will want to be careful with that, same with melatonin, it may help or hurt different cancer types
+					- coffee/green tea are useful for reducing brain cancer, so even if you have organ damage, small amounts of these may be worth it if your system can handle it
+					- also make sure you take an antacid (I use baking soda/potassium bicarbonate and calcium carbonate/citrate) - unless you have alkalosis or another medical condition like that
+					- also make sure you eat plenty of vegetables with vitamin C (like oranges or bell peppers) or you wont have as good of an anti-cancer immune response
+					- also make sure you get enough vitamin D every morning
+					- a low-fat diet can improve cancer outcomes
+						- https://cancerandmetabolism.biomedcentral.com/articles/10.1186/s40170-018-0189-0
+						- https://pubmed.ncbi.nlm.nih.gov/1616815/
+						- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7312362/
+						- https://medicalxpress.com/news/2022-12-low-fat-diet-key-cancer-growth.html - low fat diet improves outcomes in cancer with IDH1 mutation
+				- chlorogenic acid is a safer alternative to temozolomide for people with organ damage
+					- https://pubmed.ncbi.nlm.nih.gov/31660066/
+				- curcumin can be optimized for delivery to the brain, so either eat turmeric with black pepper or alternately, buy it in this form rather than normal turmeric
+					- https://www.sciencedirect.com/science/article/abs/pii/S0378517320304609
+				- avoid vitamin E supplements or in oil
+				- some supplements can either help or hurt cancer, such as CBD/quercetin, depending on the cancer state/type
+			- some combinations of herbs have been tried successfully for brain cancer for a period of 2 - 4 years (with TMZ, radiation, surgery, and dexamethasone)
+				- mistletoe, valerian, stinging nettle, thyme, mountain germander, rosemary, oregano, yarrow, peppermint, lemon balm, chamomile, hops, st john's wort, glechoma hederacea (ground ivy/evergreen creeper), catnip, artemisia absinthium (common wormwood), artemisia vulgaris (common mugwort), greater celandine, erythrea centaurium, calendula officinalis (marigold), capsella bursa-pastoris (shepherd's purse), betula pendula roth (common birch), basil, althaea officinalis (marshmallow)
+					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809810/
+					- note the dosing of wormwood twice a day for higher intensity requirements
+					- active ingredients in these substances: diosmin, thujone, thymol, xanthohumol 
+					- be careful where you buy supplements from, its often better to grow them yourself using seeds than to order non-organic supplements online from other countries, supplements can be contaminated with viruses like those that cause hepatitis
+				- Diosmin is the active compound in Germander (Teucrium gnaphalodes) and is very powerful against brain cancer cells
+					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8150927/
+			- if you cant take herbs, some devices like pulsed electric fields (PEFs), pulsed electromagnetic fields (PEMFs), and cold atmospheric plasma (CAP) devices may help if you can access the right devices
+				- https://onlinelibrary.wiley.com/doi/full/10.1002/VIW.20220029
+				- active hz ranges for PEMF devices against glioblastoma
+					- https://pubmed.ncbi.nlm.nih.gov/27874284/
+					- PEMF has been found to be effective when its frequency ranges from 0.16 to 480Hz and the intensity ranges from 0.6 to 250mT
+					- (100Hz, 10 mT) or (10 Hz, 5 mT) could promote differentiation and induce apoptosis in U87 cells by affecting the cell cycle or cell division
+					- ELF‐PEMF(120Hz, 10–20mT) suppressed tumor angiogenesis
+					- ELF‐PEMF could decrease miR‐421, miR‐21, and miR‐17 levels, which were found to be overexpressed in tumor cells and to lead to apoptosis resistance in an epigenetic manner
+					- ELF‐PEMF exerted some effects on glycolysis and TCA cycle pathways and increased ROS levels
+					- ELF‐PEMF influenced ARs and augmented their anti‐tumor effects
+					- extremely low‐frequency PEMF(ELF‐PEMF), a subdivision of PEMF with frequencies between 0 and 300Hz, has the potential to penetrate the skull and inhibit the growth of glioma cell lines
+					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9939155/
+					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8342182/
+					- https://www.sciencedirect.com/science/article/abs/pii/S0079610723000299
+					- higher intensities up to 1 tesla have also been tried with some success on some cancers
+						- https://onlinelibrary.wiley.com/doi/full/10.1002/VIW.20220029
+				- video on how to build a PEMF device
+					- https://www.youtube.com/watch?v=JeDhKn0fTYI
+					- https://www.hackster.io/mircemk/pemf-therapy-device-experiments-general-description-build-13bd13
+					- components of a PEMF device:
+						- signal generator (can be a smartphone/laptop) to create/control the electric signal that changes the magnetic field
+						- coil array to create the magnetic field
+						- A/C Converter to be plugged into a wall outlet for a power supply
+					- example using a PC using the CHIamp program to control the electrical signals generated:
+						- https://www.hackster.io/mircemk/diy-pc-controlled-high-power-pemf-therapy-device-212269
+					- the magnetic fields may need to be oscillating/rotating, and you may need multiple devices pointed in multiple directions in order to have an effect
+						- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10630398/
+						- uni-directional TTFields had little effect
+							- However, multi-directional TTFields caused statistically significant inhibition of tumor growth, reaching 42.6% and 53.4% for two and three directions positioned at 45–90° to each other, respectively
+				- devices
+					- ultrasound
+						- ultrasound devices can be used for surgery by a professional
+					- infrared
+						- all infrared devices should be avoided, they can cause cancer
+					- electromagnetic
+						- OMI (can cause cancer)
+							- 210 microtesla or 2 Gauss
+							- Frequency range: 1 - 99 Hz
+						- DCcure (can cause cancer)
+							- frequency spectrum from 1 Hz to 45 kHz
+							- electromagnetic field is generated by a current from a square wave signal with intensity of 16v p-p which is divided by a 700kΩ resistor
+							- field intensity: 80 nanoTesla (equal to 0.8 Milli-Gauss or 0.0008 Gauss)
+						- Sedona (not clear if it causes cancer, probably causes cancer)
+							Frequency: 1 - 15 kHz
+							Intensity: 1 - 100 Gauss, 0.00001 - 0.01 tesla
+						- open source self-constructed PEMF device (not clear if it causes cancer)
+					- electric
+						- Optune (therapeutic electric fields only, not electromagnetic)
+							- 200 kHz
+							- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7671789/
+							- TTF treatment also produces a paradoxical increase in clonogenic survival in the U251 GBM cell line (so electric TTF devices may not be as good as PEMF devices for brain cancer)
+								- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10630398/
