@@ -1047,5 +1047,9 @@
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC9657766/
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC3806377/
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC4759694/
-				- head & neck cancers: turmeric, green tea (EGCG), black raspberry
+				- head & neck cancers: turmeric, green tea (EGCG), black raspberry, Apigetrin, vitamin A, curcumin, isothiocyanate, luteolin, resveratrol, genistein, lycopene, bitter melon, withaferin A (ashwagandha), guggulsterone, Triptolide (Tripterygium wilfordii), Brazilian propolis
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC12027195/
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC6072563/
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC8188724/
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC8532192/
 				- cervical cancer: turmeric, green tea (EGCG), resveratrol
