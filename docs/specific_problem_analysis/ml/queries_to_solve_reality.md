@@ -90,7 +90,12 @@ I. To do list
 		- what are the graphs with useful connection types, like how a 'causality' connection is useful bc it 'encodes multiple similarities' (like 'similarity in position in a sequence' and 'similarity in requirement/causation')
 
 		- what concept structures exist like 'complexity reductions' in neural networks and what are the functions implementing those structures
-		
+
+		- identify useful graph sequences like the following until a relevant graph is identified
+			- identifying an extended 'requirements network' is useful, to determine all the structures that are required, given some starting requirement set and extending it until no more requirements can be interacted with in any direction/position/structure and all requirements that can be identified are identified
+				- identifying a state change network (context network) of this requirements network is useful, to identify different sets of requirements in different contexts
+					- identifying the interface structures like 'requirements' of this 'state network of the requirements network' is useful, to identify structures like 'requirements/limits/commonalities' of requirements and filter out states that are required to be impossible and identify other relevant structures of the state network
+					
 
 II. Queries and Results
 
