@@ -89,6 +89,8 @@ I. To do list
 
 		- what are the graphs with useful connection types, like how a 'causality' connection is useful bc it 'encodes multiple similarities' (like 'similarity in position in a sequence' and 'similarity in requirement/causation')
 
+		- what concept structures exist like 'complexity reductions' in neural networks and what are the functions implementing those structures
+		
 
 II. Queries and Results
 
