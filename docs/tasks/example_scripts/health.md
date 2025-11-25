@@ -156,6 +156,8 @@
 			- atherosclerosis caused by diabetes: prunella vulgaris
 			- atherosclerosis caused by air pollution: air purifier
 			- statins (red yeast rice) and PCSK9 inhibitors (berberine)
+				- statins are linked to a higher diabetes risk
+					- https://medicalxpress.com/news/2025-11-ldl-cholesterol-linked-higher-diabetes.html
 				- https://www.heart.org/en/news/2018/10/04/researchers-suggest-way-to-possibly-eliminate-artery-clogging-condition
 				- https://pmc.ncbi.nlm.nih.gov/articles/PMC9650693/
 		- preventing heart attack from blood clots using blood thinners
@@ -626,7 +628,7 @@
 				- avoid substances that interact with blood thinners (st. john's wort, vitamin e), avoid trans fats, avoid eating food high in AGEs, reduce exposure to PFAS
 				- avoid as they can increase blood sugar: 
 					- niacin, ginkgo biloba, vitamin C, treat hyperthyroidism, corticosteroids, octreotide, beta blockers, epinephrine, thiazide diuretics, statins, pentamidine, protease inhibitors, L-asparaginase, and antipsychotics
-				- avoid as they may increase diabetes risk: melatonin (impairs glucose control)
+				- avoid as they may increase diabetes risk: melatonin (impairs glucose control), statins
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC7349733/
 				- low blood glucose symptoms: headaches, hunger, blurred vision, tingling, fatigue, nerve pain, weakness, dizziness, shakiness, anxiety, sweating, fast heartbeat
 				- high blood glucose symptoms: headaches, hunger, blurred vision, tingling, fatigue, nerve pain, fever, thirst, frequent urination, numbness
@@ -927,7 +929,7 @@
 				- avoid 12 risk factors for dementia: hypertension, hearing impairment, smoking, obesity, depression, low social contact, low level of education, physical inactivity, diabetes, excessive alcohol consumption, traumatic brain injury, and air pollution
 				- also use an anti-inflammatory diet including eggs/choline and avoid eating food high in AGEs to avoid increasing dementia risk (involves a mostly vegan diet and boiling/steaming food wherever possible), which helps avoid heart/kidney/metabolic diseases as well
 			- alzheimers: 
-				- 40hz waves, statins, a diet including eggs/choline, low-saturated fat diet, Polygala tenuifolia Willdenow, blarcamesine, lithium, hibiscus, policosanol, uridine, b-vitamins, vitamin E, vitamin C, selenium, omega 3s, vitamin d, betaine, soy isoflavones (daidzin and genistin), s-adenosylmethionine, n-acetyl cysteine, acetyl-l-carnitine, ginseng, curcumin, ginkgo biloba, antioxidants like lycopene/beta-carotene, resveratrol, DDL-920
+				- 40hz waves, statins (avoid for increased diabetes risk), a diet including eggs/choline, low-saturated fat diet, Polygala tenuifolia Willdenow, blarcamesine, lithium, hibiscus, policosanol, uridine, b-vitamins, vitamin E, vitamin C, selenium, omega 3s, vitamin d, betaine, soy isoflavones (daidzin and genistin), s-adenosylmethionine, n-acetyl cysteine, acetyl-l-carnitine, ginseng, curcumin, ginkgo biloba, antioxidants like lycopene/beta-carotene, resveratrol, DDL-920
 					- https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model
 					- https://www.sciencealert.com/drugs-that-lower-cholesterol-may-also-reduce-dementia-risk-says-huge-new-study
 				- avoid air pollution, avoid anticholinergic medicines, inhibit overstimulation by glutamate with NMDA receptor antagonists like memantine/magnesium/huperzine a/phenylalanine/kynurenic acid from tryptophan, treat inflammation (use an anti-inflammatory diet) and other conditions including autoimmune conditions, reduce homocysteine levels, avoid supplements that use animal products like gelatin that can contain disease-causing prions
