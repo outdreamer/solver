@@ -94,8 +94,12 @@ I. To do list
 		- identify useful graph sequences like the following until a relevant graph is identified
 			- identifying an extended 'requirements network' is useful, to determine all the structures that are required, given some starting requirement set and extending it until no more requirements can be interacted with in any direction/position/structure and all requirements that can be identified are identified
 				- identifying a state change network (context network) of this requirements network is useful, to identify different sets of requirements in different contexts
-					- identifying the interface structures like 'requirements' of this 'state network of the requirements network' is useful, to identify structures like 'requirements/limits/commonalities' of requirements and filter out states that are required to be impossible and identify other relevant structures of the state network
-					
+					- identifying the interface structures like 'requirements' of this 'state network of the requirements network' is useful, to identify networks of structures like 'requirements/limits/commonalities' of requirements and use these structures to filter out states that are required to be impossible and identify other relevant structures of the state network
+
+		- identify optimization rules like 'thinking ahead enables skipping implementation tasks'
+
+		- identify alternate equivalent or similar problems to solve, like how 'identifying/generating variables and then identifying causal variables' is one way to build a neural network, and an alternative way is to 'solve the problem of causation (identify all ways that variables can cause other variables)' and an alternate way is to 'build a maze network of barriers/limits to causation so that whatever variation is possible represents causation' and identify 'sequences of these alternate equivalents' that intersect with other sequences to build a network of equivalent problems/intents (or a set of sequences that dont intersect) and select one problem/intent on each sequence to solve that 'has its requirements fulfilled' or 'has overlapping requirements with the other selected problems' or is 'otherwise optimal to solve'
+
 
 II. Queries and Results
 

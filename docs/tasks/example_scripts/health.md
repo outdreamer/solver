@@ -513,7 +513,7 @@
 			- avoid chemicals including artificial sweeteners, BPA/PFAS/BPA/plastic/antimicrobials/air pollution/water pollution until you know what triggers the autoimmunity
 			- multiple sclerosis:
 				- Apigenin, chrysin, baicalein, cyanidin, flavone glycoside, daidzein, coumestrol, sulforaphane, bee venom, huperzine A, linoleic acid, Ursolic acid, Gossypol, Folic acid, Honokiol, Vinorelbine, Myriocin (Isaria Sinclairii)
-					- vitamins (A, B12, D, H), minerals (selenium and lithium), n-3 PUFAs, lipoic acid, statins, resveratrol, marijuana, green tea (EGCG) and some probiotics have shown significant helpful effects in MS by preventing or delaying the onset of disease
+					- vitamins (A, B12, D, H), minerals (selenium and lithium), n-3 PUFAs, lipoic acid, statins (avoid for diabetes risk), resveratrol, marijuana, green tea (EGCG) and some probiotics have shown significant helpful effects in MS by preventing or delaying the onset of disease
 					- Other natural compounds such as xanthines, anthocyanins, glucosinolates, isoflavones, organosulfurs, steroid glycosides, and alkaloids have also shown protective effects in the treatment of MS
 					- https://pubmed.ncbi.nlm.nih.gov/27829351/
 					- https://pubmed.ncbi.nlm.nih.gov/15732263/
