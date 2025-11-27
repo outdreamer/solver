@@ -41,3 +41,66 @@
 		- Use in ML: covariance analysis, stability of dynamic systems, understanding transformations
 	- Singular Value Decomposition (SVD) — More general than eigen-decomposition: every real matrix (not just square symmetric ones) can be factorized as A = U Σ V ⊤
 		- Here, U and V are orthogonal matrices (left- and right-singular vectors), and Σ is diagonal with singular values. SVD helps understand how a matrix transforms space — especially for non-square/transformation between spaces of different dimensions — and is widely useful for e.g. dimensionality reduction, pseudoinverses, stability analysis. SVD is the core of PCA, whitening, pseudoinverse, low-rank approximation.
+
+- Probability formula
+	- Expectation: E[f(x)] = Σ_x P(x) f(x) (or ∫ p(x) f(x) dx)
+	- Linearity of Expectation  
+	- Variance: Var(x) = E[(x − E[x])²]
+	- Covariance (for random vector / two variables)  
+	- Joint / Marginal Probability: P(x,y) joint → P(x) = Σ_y P(x,y) (marginalization)
+	- Conditional Probability 
+	- Chain Rule (full joint decomposition) 
+	- Independence: Two variables x and y are independent if P(x,y) = P(x) * P(y).
+	- Conditional independence
+	- Bayesian: P(y|x) = P(x,y) / P(x) - Use Bayes’ rule to update belief (posterior) based on prior + likelihood + evidence.
+	- Probability: can represent “frequentist” event-frequencies or “degrees of belief”
+	- Random variables (discrete & continuous): A random variable is a variable whose possible values follow a probability distribution. Variables can be discrete (with a probability mass function: PMF) or continuous (with a probability density function: PDF)
+	- Entropy of random variable X: H(P) = – E_x [ log P(x) ]
+	- Cross-Entropy between distributions: H(P,Q) = – E_x [ log Q(x) ]
+	- Kullback–Leibler divergence (KL divergence): Dₖₗ(P‖Q) = E_x [ log P(x) – log Q(x) ] 
+	- Relation between cross-entropy, entropy, and KL divergence: H(P,Q) = H(P) + Dₖₗ(P‖Q)
+
+- Probability distributions and models
+	- For discrete variables: PMF assigns probability to each possible state.
+	- For continuous variables: PDF assigns density, and probability comes from integrating density over a region. 
+	- Joint, marginal, and conditional probability
+	- Joint distribution: P(x,y) describes probability for two (or more) variables simultaneously. 
+	- Marginalization: from joint distribution you can derive the distribution of a subset of variables
+	- Conditional probability
+	- Chain rule (product decomposition): any joint distribution can be factored as a product of conditional probabilities
+	- Expectation, Variance, Covariance: For a random variable x, expectation gives the average under the distribution. Variance measures spread (how much values deviate from the mean), and covariance (or covariance matrix for multivariate) describes linear correlation between components. 
+	- Bernoulli distribution
+	- Multinoulli (Categorical): discrete variable with k possible categories, each with its own probability. Useful for classification, categorical data modeling. 
+	- Normal (Gaussian) distribution: continuous, defined by mean μ and variance (or precision). Very important because many real-world phenomena approximate a Gaussian (by, e.g., central limit theorem), and because among all distributions with a given variance, Gaussian maximizes entropy (i.e. injects minimal prior assumptions).
+	- Other distributions: exponential, Laplace (useful when you want a sharp peak at a point), as well as the idea of the Dirac delta for a distribution concentrated at a point (or empirical distributions built from data): useful to model deterministic samples or empirical data distributions.
+	- Mixture distributions: P(x) = Σ_i P(c=i) · P(x | c=i) - combining simpler distributions (e.g. Gaussian mixture) via a latent “component identity” variable. Mixture models and latent variables become very powerful for modeling complex, multimodal data distributions. 
+	- Latent variables & mixture models: The idea of latent (unobserved) variables helps build much richer models. For example, a mixture model expresses the observed distribution as a blend over multiple latent-component distributions. This is at the heart of many generative models: allows modeling complex, multimodal distributions. 
+	- Structured probabilistic models / Graphical Models: When modeling many interacting random variables, it’s often inefficient or intractable to specify a full joint distribution naively. Instead, we can exploit conditional independence assumptions to factor the joint into simpler conditional distributions (directed graphical models) or potential functions over cliques (undirected graphical models). These factorizations massively reduce complexity and make inference/learning feasible. 
+
+- Information theory quantities: self-information, entropy, KL divergence, cross-entropy: how informative an event or distribution is
+	- Self-information/surprise of an event
+	- Rare events (low probability) carry more “information.” 
+	- Entropy: measures the average uncertainty or “information content” in a distribution. A uniform distribution has maximal entropy; a deterministic distribution minimal entropy. High entropy ⇒ more unpredictable; low entropy ⇒ more certain.
+	- Kullback–Leibler (KL) divergence: measures how “different” (or “inefficient to represent”) a model distribution Q is relative to true distribution P: often used in machine learning for measuring how well a model distribution Q approximates a true (data) distribution P. It’s non-negative and equals zero only if the distributions are (almost everywhere) identical.
+	- Cross-entropy (closely related to KL): is often used in ML as a loss function: minimizing cross-entropy between true labels (distribution P) and model outputs (distribution Q) is equivalent to minimizing KL divergence (when P fixed) plus a constant; so minimizing cross-entropy is often equivalent to minimizing KL divergence when fitting models. This underlies many ML training objectives (classification, density estimation).
+	- Continuous variables technicalities: when working with continuous distributions, properly handling transformations requires accounting for changes in “volume” via the determinant of the Jacobian (change-of-variables formula). This is important for correctly deriving transformed distributions, density transformations, and for advanced modeling (normalizing flows, etc.). 
+  	- Continuous Variables & Densities: For continuous random variables with density p(x), expectation/integration versions apply. Mixture models, change-of-variable formula, empirical distributions, and delta-like distributions are used to build flexible distributions: but care needed about proper density definitions. 
+
+- Representing uncertainty
+	- Real-world data is noisy, uncertain, or incomplete. Probability provides the formalism to encode our uncertainty: about data, about model predictions, about latent causes.
+	- Expectation, variance, mixture distributions: specify how data (or predictions) are distributed, how uncertain they are, how to combine simpler distributions into complex ones.
+- Learning from data via likelihood, generative modeling, and inference
+	- Using probability distributions (and latent-variable models) lets ML systems learn to generate or reason about data in a statistically coherent way: including handling multimodal outputs, missing data, uncertainty, etc.
+	- Bayes’ rule, conditional probability, and joint/marginal distributions let you reason about probabilities of latent variables, posterior inference, generative modeling, etc.
+- Measuring information and divergence
+	- Tools like entropy and KL divergence are at the core of many ML methods: from regularization to variational inference, from generative modeling to representation learning. Understanding them enables you to reason about how “surprising” data is, how “close” two distributions are, or how “uncertain” a model’s predictions are.
+	- Entropy gives a baseline uncertainty; KL divergence quantifies how well a model approximates true distribution; key for generative models, approximations, compression, representation learning.
+- Building tractable models with structure
+	- Real data often involves many interacting variables. Graphical models and factorized distributions allow representing complex joint distributions compactly: which makes inference, sampling, and learning tractable. This is especially important for structured prediction, generative models, Bayesian models, etc.
+- Continuous & discrete distributions 
+	- flexibility in modeling: By knowing both PMF and PDF, you can model a wide variety of data: categorical, discrete, continuous: or hybrid. Many ML tasks involve mixtures of such variables
+	- Flexible modeling via mixtures and latent-variable models: Mixture distributions + latent variables let you model multimodal, complex data distributions: more expressive than simple parametric distributions.
+- Transformations and density manipulations 
+	- For modern deep-learning methods that do density modeling, generative modeling, normalizing flows, variational autoencoders: correctly transforming densities under variable changes (Jacobian, change-of-variables) is critical
+- Training & loss functions
+	- Cross-entropy and KL divergence are foundational loss/objective functions: used in classification, density estimation, variational inference, etc.
