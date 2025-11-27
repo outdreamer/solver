@@ -126,3 +126,61 @@
 	    - Constrained optimization (e.g. weight regularization, norm constraints) is common in ML — like weight decay (norm constraints), max-norm constraints, or constrained parameter spaces (like probability distributions) — and the theory supports principled ways to handle them (projected gradients, Lagrangians, KKT)
 	    - Constrained optimization, while general, can complicate both analysis and computation. Solving the Lagrangian dual may require extra care, and feasibility/constraint activation must be handled properly
 	  - Example: linear least squares — As a concrete example, minimizing 1/2 * ||Ax + b|| ^ 2 can be implemented via gradient descent (iteratively) or — because it's a quadratic function — solved directly (or via Newton’s method). This bridges classical linear algebra methods (direct solvers) and iterative gradient-based methods
+
+- Deep learning insights
+
+	- Never trust a mathematically correct formula to be numerically safe
+		- If a computation involves exponentials, logs, subtraction of nearly equal numbers, or huge dynamic ranges, assume the naïve version is unstable
+	- The softmax trick isn’t optional; always subtract the max first, it prevents overflow (huge exponentials) and underflow (tiny exponentials)
+		- Without this, overflow happens instantly on modern models
+	- Avoid subtracting nearly equal numbers
+		- Subtraction of close numbers causes catastrophic cancellation, losing significant digits
+	- Work in log-space when dealing with products of probabilities log(ab)=loga+logb
+		- Avoids multiplying a stack of tiny numbers (leading to underflow)
+	- Logs and exponentials need companion formulas
+		- Use log-sum-exp instead of log(sum(exp(...)))
+		- Use numerically stable log-softmax instead of log(softmax(x))
+		- This prevents NaNs in training
+	- If your numbers span multiple orders of magnitude, expect underflow/overflow
+		- Floating-point cannot represent extremely tiny and extremely huge numbers simultaneously with accuracy
+	- A badly conditioned matrix (large condition number) will sabotage your computation. The condition number tells you how sensitive your result is to small errors
+		- Ill-conditioned problems/matrices lead to unstable gradients, exploding updates, amplifying tiny numerical errors into giant deviations
+		- Clues: near-collinearity, almost-singular matrices, huge eigenvalue ratios
+	- Avoid explicit matrix inversion unless you have no other option
+		- Use solves (Ax = b) instead of x = A^{-1}b; prefer solving systems Ax=b via decomposition (QR, Cholesky) or iterative methods
+		- Direct inversion magnifies numerical error unnecessarily; inversion is slow and numerically unstable
+	- Gradient descent works when curvature is unknown; Newton’s method works when curvature is trustworthy
+		- Newton-like updates assume the Hessian is locally accurate and positive-definite
+		- In deep nets: almost never true globally, often true near a minimum
+	- Use gradient descent variants for high-dimensional problems
+		- Second-order methods (Newton, quasi-Newton) are often impractical because: storing Hessians is expensive, in non-convex landscapes Hessians aren’t trustworthy, so stick to first-order
+	- Most bad training behavior comes from curvature, not the gradient itself
+		- Plateaus, exploding gradients, and instability often reflect curvature (e.g. saddle points) far more than they reflect lack of descent
+	- Use curvature information cautiously
+		- A Hessian is only reliable when: you're near a local minimum, and the Hessian is positive-definite, otherwise Newton steps can shoot you straight into a saddle
+	- Second derivatives are expensive, but the Hessian’s eigenvalues tell you everything
+		- Positive: nice bowl, Negative: saddle, Extreme disparity: ill-conditioned valley
+		- Deep networks are mostly saddles, not local minima
+	- Understand that deep-learning landscapes are non-convex
+		- Classical guarantees (convex optimization) are not equal to deep learning
+		- Empirical stability is more important than theoretical guarantees
+	- Clip or regularize gradients to avoid explosion
+		- Gradient explosion leads to huge parameter jumps and NaNs
+		- Solutions: gradient clipping, better initialization, normalization layers
+	- Constrained optimization = gradient step + projection (in practice)
+		- Max-norm constraints, L2-ball constraints, probability-simplex constraints project after each step
+		- The KKT/Lagrangian machinery gives the theory; projection gives the implementation
+	- Trust your optimizer more when the loss is locally quadratic; trust it less when the surface is weird
+		- Quadratic: stable, predictable
+		- Nonconvex cliff: chaotic, unstable
+		- This shapes learning-rate schedules and momentum behavior
+	- Checkpoints should capture the state of the optimizer, not just weights
+		- Because optimizers are iterative numerical procedures, their internal state (momentum, curvature estimates) matters for stability
+	- Floating-point precision matters more as networks deepen
+		- Errors accumulate; gradients propagate through many steps; small numeric mistakes ripple outward
+		- This is why mixed-precision training requires scaling and guards
+	- Test your numeric assumptions with tiny examples before scaling up
+		- Computations that look fine theoretically may blow up when tried on extreme values
+		- Try feeding adversarially large/small numbers
+	- In deep learning, numerical stability is as important as statistical correctness
+		- A model with perfect math but unstable numerics is unusable — stability is an algorithmic property, not a detail.
