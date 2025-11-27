@@ -1,10 +1,12 @@
+- Source: https://www.deeplearningbook.org/
+
 - Linear Algebra insights
-	- Matrices are linear transformations.
-	- Eigenvectors = invariant directions.
-	- Singular values = how much each axis is stretched.
-	- Determinant = how much volume is scaled.
-	- Orthogonal matrices = pure rotations/reflections (no distortion).
-	- Rank = number of dimensions preserved.
+	- Matrices are linear transformations
+	- Eigenvectors = invariant directions
+	- Singular values = how much each axis is stretched
+	- Determinant = how much volume is scaled
+	- Orthogonal matrices = pure rotations/reflections (no distortion)
+	- Rank = number of dimensions preserved
 
 - Linear algebra components
 	- Scalars, Vectors, Matrices, Tensors: the basic objects. Scalars are single numbers; vectors are ordered 1-D arrays; matrices are 2-D arrays; and tensors generalize that to arbitrary numbers of axes. 
@@ -13,25 +15,25 @@
 	- Matrix addition/multiplication, dot product, matrix-vector multiplication, elementwise hadamard product, transpose
 	- Transpose: flipping a matrix across its main diagonal. Vectors are special cases of matrices, so you can transpose a row vector into a column vector, etc. 
 	- Addition and scalar multiplication (broadcasting): Matrices (or vectors) of the same shape can be added elementwise. You can also multiply by scalars (scaling). Importantly: one can also broadcast a vector to add to each row of a matrix 
-	- Matrix multiplication corresponds to linear transformations; for instance, the operations in a fully connected layer of a neural network, or transformations of data via weight matrices, are exactly these multiplications. Understanding matrix multiplication’s shape rules, broadcast semantics, and algebraic properties helps avoid bugs and conceptual mistakes when designing or analyzing networks.
+	- Matrix multiplication corresponds to linear transformations; for instance, the operations in a fully connected layer of a neural network, or transformations of data via weight matrices, are exactly these multiplications. Understanding matrix multiplication’s shape rules, broadcast semantics, and algebraic properties helps avoid bugs and conceptual mistakes when designing or analyzing networks
 	- Algebraic properties: matrix multiplication is distributive, associative, but not generally commutative. However, vector dot product is commutative. 
-	- matrices transform space (stretching, rotating, compressing) which is why some directions in input get amplified or suppressed, why some features become more salient, etc.
+	- matrices transform space (stretching, rotating, compressing) which is why some directions in input get amplified or suppressed, why some features become more salient, etc
 
 - Linear algebra concepts 
 	- Linear independence, linear combination, column space, invertibility, singularity: 
 	- For a matrix to be invertible, it must be square and have linearly independent columns (i.e. full rank). If columns are linearly dependent, the matrix is singular: inversion fails. That means some transformations collapse dimensions, lose information. This matters deeply in learning, generalization, invertibility, stability. 
-	- Invertibility, rank, pseudoinverse: useful when thinking about expressivity, reconstructing signals, solving linear systems (e.g. in least-squares, linear regression), projections; helps understand when a transformation loses information (singular), or when there are infinite solutions / no unique solution.
+	- Invertibility, rank, pseudoinverse: useful when thinking about expressivity, reconstructing signals, solving linear systems (e.g. in least-squares, linear regression), projections; helps understand when a transformation loses information (singular), or when there are infinite solutions/no unique solution
 	- Norms and distances (l2, matrix frobenius norm, distance between vectors): 
-		- To measure the “size” or “length” of vectors, we use norms. This is vital in ML: for regularization, measuring distances, errors, and controlling stability. Norms are used everywhere in ML: loss functions, regularization, embeddings.
-		- Norms and geometry: Many ML concepts hinge on distances, lengths, angles (e.g. regularization, similarity, orthogonality, normalization). Norms allow consistent quantitative reasoning about size, magnitude, and controlling overfitting.
+		- To measure the “size” or “length” of vectors, we use norms. This is vital in ML: for regularization, measuring distances, errors, and controlling stability. Norms are used everywhere in ML: loss functions, regularization, embeddings
+		- Norms and geometry: Many ML concepts hinge on distances, lengths, angles (e.g. regularization, similarity, orthogonality, normalization). Norms allow consistent quantitative reasoning about size, magnitude, and controlling overfitting
 
 - Matrix types
-	- Identity matrix & inverse: The identity matrix leaves any vector unchanged when multiplied. The inverse of A lets you “undo” A. This formalism underlies solving linear systems, understanding linear transformations, etc.
+	- Identity matrix & inverse: The identity matrix leaves any vector unchanged when multiplied. The inverse of A lets you “undo” A. This formalism underlies solving linear systems, understanding linear transformations, etc
 		- Inverse & Pseudoinverse (Moore–Penrose Pseudoinverse): For non-square or singular matrices (where the usual inverse doesn’t exist), the pseudoinverse generalizes the inverse. This is critical for solving least-squares problems, underdetermined or overdetermined systems, and in training models when exact inversion isn’t feasible. 
-	- Determinant (and volume / invertibility interpretation): The determinant of a square matrix measures how the linear transformation associated with the matrix scales volume (or area). If determinant is zero, the transformation collapses space along at least one dimension (i.e. the transformation is non-invertible, information lost). If determinant is one (or ±1), the transformation preserves volume (though may rotate or reflect). Understanding determinant gives insight into invertibility and volume distortion under transformations. The determinant is the volume scaling factor of the linear transformation
+	- Determinant (and volume/invertibility interpretation): The determinant of a square matrix measures how the linear transformation associated with the matrix scales volume (or area). If determinant is zero, the transformation collapses space along at least one dimension (i.e. the transformation is non-invertible, information lost). If determinant is one (or ±1), the transformation preserves volume (though may rotate or reflect). Understanding determinant gives insight into invertibility and volume distortion under transformations. The determinant is the volume scaling factor of the linear transformation
 	- Symmetric: Many matrices in ML (e.g. covariance matrices, kernel matrices) are symmetric. 
-	- Diagonal / diagonalizable: occurring often when parameters or features are independent or when scaling axes — much cheaper to store/compute.
-	- Orthogonal matrices: rows (and columns) mutually orthonormal. Orthogonal matrices preserve lengths and angles; important for stability, transformations that don’t distort “geometry” of data.
+	- Diagonal/diagonalizable: occurring often when parameters or features are independent or when scaling axes — much cheaper to store/compute
+	- Orthogonal matrices: rows (and columns) mutually orthonormal. Orthogonal matrices preserve lengths and angles; important for stability, transformations that don’t distort “geometry” of data
 	- Positive (semi-)definite matrices: These matrices often appear in optimization problems, covariance matrices, Hessians, etc. 
 
 - Matrix eigen/singular value decompositions: 
@@ -40,19 +42,19 @@
 		- This reveals how A stretches/compresses space along different directions — essential for understanding linear transformations, dynamics, and in ML for e.g. spectral analysis, understanding covariance, stability, etc. 
 		- Use in ML: covariance analysis, stability of dynamic systems, understanding transformations
 	- Singular Value Decomposition (SVD) — More general than eigen-decomposition: every real matrix (not just square symmetric ones) can be factorized as A = U Σ V ⊤
-		- Here, U and V are orthogonal matrices (left- and right-singular vectors), and Σ is diagonal with singular values. SVD helps understand how a matrix transforms space — especially for non-square/transformation between spaces of different dimensions — and is widely useful for e.g. dimensionality reduction, pseudoinverses, stability analysis. SVD is the core of PCA, whitening, pseudoinverse, low-rank approximation.
+		- Here, U and V are orthogonal matrices (left- and right-singular vectors), and Σ is diagonal with singular values. SVD helps understand how a matrix transforms space — especially for non-square/transformation between spaces of different dimensions — and is widely useful for e.g. dimensionality reduction, pseudoinverses, stability analysis. SVD is the core of PCA, whitening, pseudoinverse, low-rank approximation
 
 - Probability formula
 	- Expectation: E[f(x)] = Σ_x P(x) f(x) (or ∫ p(x) f(x) dx)
 	- Linearity of Expectation  
 	- Variance: Var(x) = E[(x − E[x])²]
-	- Covariance (for random vector / two variables)  
-	- Joint / Marginal Probability: P(x,y) joint → P(x) = Σ_y P(x,y) (marginalization)
+	- Covariance (for random vector/two variables)  
+	- Joint/Marginal Probability: P(x,y) joint → P(x) = Σ_y P(x,y) (marginalization)
 	- Conditional Probability 
 	- Chain Rule (full joint decomposition) 
-	- Independence: Two variables x and y are independent if P(x,y) = P(x) * P(y).
+	- Independence: Two variables x and y are independent if P(x,y) = P(x) * P(y)
 	- Conditional independence
-	- Bayesian: P(y|x) = P(x,y) / P(x) - Use Bayes’ rule to update belief (posterior) based on prior + likelihood + evidence.
+	- Bayesian: P(y|x) = P(x,y)/P(x) - Use Bayes’ rule to update belief (posterior) based on prior + likelihood + evidence
 	- Probability: can represent “frequentist” event-frequencies or “degrees of belief”
 	- Random variables (discrete & continuous): A random variable is a variable whose possible values follow a probability distribution. Variables can be discrete (with a probability mass function: PMF) or continuous (with a probability density function: PDF)
 	- Entropy of random variable X: H(P) = – E_x [ log P(x) ]
@@ -61,7 +63,7 @@
 	- Relation between cross-entropy, entropy, and KL divergence: H(P,Q) = H(P) + Dₖₗ(P‖Q)
 
 - Probability distributions and models
-	- For discrete variables: PMF assigns probability to each possible state.
+	- For discrete variables: PMF assigns probability to each possible state
 	- For continuous variables: PDF assigns density, and probability comes from integrating density over a region. 
 	- Joint, marginal, and conditional probability
 	- Joint distribution: P(x,y) describes probability for two (or more) variables simultaneously. 
@@ -71,36 +73,56 @@
 	- Expectation, Variance, Covariance: For a random variable x, expectation gives the average under the distribution. Variance measures spread (how much values deviate from the mean), and covariance (or covariance matrix for multivariate) describes linear correlation between components. 
 	- Bernoulli distribution
 	- Multinoulli (Categorical): discrete variable with k possible categories, each with its own probability. Useful for classification, categorical data modeling. 
-	- Normal (Gaussian) distribution: continuous, defined by mean μ and variance (or precision). Very important because many real-world phenomena approximate a Gaussian (by, e.g., central limit theorem), and because among all distributions with a given variance, Gaussian maximizes entropy (i.e. injects minimal prior assumptions).
-	- Other distributions: exponential, Laplace (useful when you want a sharp peak at a point), as well as the idea of the Dirac delta for a distribution concentrated at a point (or empirical distributions built from data): useful to model deterministic samples or empirical data distributions.
+	- Normal (Gaussian) distribution: continuous, defined by mean μ and variance (or precision). Very important because many real-world phenomena approximate a Gaussian (by, e.g., central limit theorem), and because among all distributions with a given variance, Gaussian maximizes entropy (i.e. injects minimal prior assumptions)
+	- Other distributions: exponential, Laplace (useful when you want a sharp peak at a point), as well as the idea of the Dirac delta for a distribution concentrated at a point (or empirical distributions built from data): useful to model deterministic samples or empirical data distributions
 	- Mixture distributions: P(x) = Σ_i P(c=i) · P(x | c=i) - combining simpler distributions (e.g. Gaussian mixture) via a latent “component identity” variable. Mixture models and latent variables become very powerful for modeling complex, multimodal data distributions. 
 	- Latent variables & mixture models: The idea of latent (unobserved) variables helps build much richer models. For example, a mixture model expresses the observed distribution as a blend over multiple latent-component distributions. This is at the heart of many generative models: allows modeling complex, multimodal distributions. 
-	- Structured probabilistic models / Graphical Models: When modeling many interacting random variables, it’s often inefficient or intractable to specify a full joint distribution naively. Instead, we can exploit conditional independence assumptions to factor the joint into simpler conditional distributions (directed graphical models) or potential functions over cliques (undirected graphical models). These factorizations massively reduce complexity and make inference/learning feasible. 
+	- Structured probabilistic models/Graphical Models: When modeling many interacting random variables, it’s often inefficient or intractable to specify a full joint distribution naively. Instead, we can exploit conditional independence assumptions to factor the joint into simpler conditional distributions (directed graphical models) or potential functions over cliques (undirected graphical models). These factorizations massively reduce complexity and make inference/learning feasible. 
 
-- Information theory quantities: self-information, entropy, KL divergence, cross-entropy: how informative an event or distribution is
+- Information theory quantifies how informative an event or distribution is
 	- Self-information/surprise of an event
 	- Rare events (low probability) carry more “information.” 
-	- Entropy: measures the average uncertainty or “information content” in a distribution. A uniform distribution has maximal entropy; a deterministic distribution minimal entropy. High entropy ⇒ more unpredictable; low entropy ⇒ more certain.
-	- Kullback–Leibler (KL) divergence: measures how “different” (or “inefficient to represent”) a model distribution Q is relative to true distribution P: often used in machine learning for measuring how well a model distribution Q approximates a true (data) distribution P. It’s non-negative and equals zero only if the distributions are (almost everywhere) identical.
-	- Cross-entropy (closely related to KL): is often used in ML as a loss function: minimizing cross-entropy between true labels (distribution P) and model outputs (distribution Q) is equivalent to minimizing KL divergence (when P fixed) plus a constant; so minimizing cross-entropy is often equivalent to minimizing KL divergence when fitting models. This underlies many ML training objectives (classification, density estimation).
+	- Entropy: measures the average uncertainty or “information content” in a distribution. A uniform distribution has maximal entropy; a deterministic distribution minimal entropy. High entropy ⇒ more unpredictable; low entropy ⇒ more certain
+	- Kullback–Leibler (KL) divergence: measures how “different” (or “inefficient to represent”) a model distribution Q is relative to true distribution P: often used in machine learning for measuring how well a model distribution Q approximates a true (data) distribution P. It’s non-negative and equals zero only if the distributions are (almost everywhere) identical
+	- Cross-entropy (closely related to KL): is often used in ML as a loss function: minimizing cross-entropy between true labels (distribution P) and model outputs (distribution Q) is equivalent to minimizing KL divergence (when P fixed) plus a constant; so minimizing cross-entropy is often equivalent to minimizing KL divergence when fitting models. This underlies many ML training objectives (classification, density estimation)
 	- Continuous variables technicalities: when working with continuous distributions, properly handling transformations requires accounting for changes in “volume” via the determinant of the Jacobian (change-of-variables formula). This is important for correctly deriving transformed distributions, density transformations, and for advanced modeling (normalizing flows, etc.). 
   	- Continuous Variables & Densities: For continuous random variables with density p(x), expectation/integration versions apply. Mixture models, change-of-variable formula, empirical distributions, and delta-like distributions are used to build flexible distributions: but care needed about proper density definitions. 
 
-- Representing uncertainty
-	- Real-world data is noisy, uncertain, or incomplete. Probability provides the formalism to encode our uncertainty: about data, about model predictions, about latent causes.
-	- Expectation, variance, mixture distributions: specify how data (or predictions) are distributed, how uncertain they are, how to combine simpler distributions into complex ones.
-- Learning from data via likelihood, generative modeling, and inference
-	- Using probability distributions (and latent-variable models) lets ML systems learn to generate or reason about data in a statistically coherent way: including handling multimodal outputs, missing data, uncertainty, etc.
-	- Bayes’ rule, conditional probability, and joint/marginal distributions let you reason about probabilities of latent variables, posterior inference, generative modeling, etc.
-- Measuring information and divergence
-	- Tools like entropy and KL divergence are at the core of many ML methods: from regularization to variational inference, from generative modeling to representation learning. Understanding them enables you to reason about how “surprising” data is, how “close” two distributions are, or how “uncertain” a model’s predictions are.
-	- Entropy gives a baseline uncertainty; KL divergence quantifies how well a model approximates true distribution; key for generative models, approximations, compression, representation learning.
-- Building tractable models with structure
-	- Real data often involves many interacting variables. Graphical models and factorized distributions allow representing complex joint distributions compactly: which makes inference, sampling, and learning tractable. This is especially important for structured prediction, generative models, Bayesian models, etc.
-- Continuous & discrete distributions 
-	- flexibility in modeling: By knowing both PMF and PDF, you can model a wide variety of data: categorical, discrete, continuous: or hybrid. Many ML tasks involve mixtures of such variables
-	- Flexible modeling via mixtures and latent-variable models: Mixture distributions + latent variables let you model multimodal, complex data distributions: more expressive than simple parametric distributions.
-- Transformations and density manipulations 
-	- For modern deep-learning methods that do density modeling, generative modeling, normalizing flows, variational autoencoders: correctly transforming densities under variable changes (Jacobian, change-of-variables) is critical
-- Training & loss functions
-	- Cross-entropy and KL divergence are foundational loss/objective functions: used in classification, density estimation, variational inference, etc.
+- Probability Usage
+	- Representing uncertainty
+		- Real-world data is noisy, uncertain, or incomplete. Probability provides the formalism to encode our uncertainty: about data, about model predictions, about latent causes
+		- Expectation, variance, mixture distributions: specify how data (or predictions) are distributed, how uncertain they are, how to combine simpler distributions into complex ones
+	- Learning from data via likelihood, generative modeling, and inference
+		- Using probability distributions (and latent-variable models) lets ML systems learn to generate or reason about data in a statistically coherent way: including handling multimodal outputs, missing data, uncertainty, etc
+		- Bayes’ rule, conditional probability, and joint/marginal distributions let you reason about probabilities of latent variables, posterior inference, generative modeling, etc
+	- Measuring information and divergence
+		- Tools like entropy and KL divergence are at the core of many ML methods: from regularization to variational inference, from generative modeling to representation learning. Understanding them enables you to reason about how “surprising” data is, how “close” two distributions are, or how “uncertain” a model’s predictions are
+		- Entropy gives a baseline uncertainty; KL divergence quantifies how well a model approximates true distribution; key for generative models, approximations, compression, representation learning
+	- Building tractable models with structure
+		- Real data often involves many interacting variables. Graphical models and factorized distributions allow representing complex joint distributions compactly: which makes inference, sampling, and learning tractable. This is especially important for structured prediction, generative models, Bayesian models, etc
+	- Continuous & discrete distributions 
+		- flexibility in modeling: By knowing both PMF and PDF, you can model a wide variety of data: categorical, discrete, continuous: or hybrid. Many ML tasks involve mixtures of such variables
+		- Flexible modeling via mixtures and latent-variable models: Mixture distributions + latent variables let you model multimodal, complex data distributions: more expressive than simple parametric distributions
+	- Transformations and density manipulations 
+		- For modern deep-learning methods that do density modeling, generative modeling, normalizing flows, variational autoencoders: correctly transforming densities under variable changes (Jacobian, change-of-variables) is critical
+	- Training & loss functions
+		- Cross-entropy and KL divergence are foundational loss/objective functions: used in classification, density estimation, variational inference, etc
+
+- Numeric analysis
+	- Numeric problems: numerical stability must be a first-class concern when implementing algorithms; even valid algorithms can fail in practice because of finite-precision arithmetic
+	  - Floating-point representation limitations: Computers can’t represent all real numbers exactly, so almost all real values incur approximation error. With many operations, rounding errors can accumulate. 
+	  - Underflow & overflow: When numbers get very close to zero (underflow) or become very large (overflow), numeric representations can collapse to 0 or ±∞. That can break functions that assume non-zero or finite inputs (e.g. division, logarithm). 
+	  - Instability of naive implementations: Even mathematically correct formulas can cause numerical issues if implemented naively. For example: the naive implementation of the softmax function can underflow or overflow when inputs are large or very negative — leading to undefined or meaningless outputs. In deep learning, many operations involve exponentials, logs, matrix multiplications, and other numerically delicate operations. If implemented naively, the model may suffer from “numerical catastrophes” (NaNs, infinities, silent instability)
+	  - Many modern deep-learning loss landscapes are non-convex, high-dimensional, and messy: guarantees from convex or quadratic optimization often don’t apply, so robust implementations (e.g. stable softmax) matter
+	  - Knowing when to use direct (e.g. closed-form/second-order) solvers vs. iterative, gradient-based methods, depending on problem structure (quadratic vs. non-convex), helps make informed choices about efficiency/stability
+	- Core numerical-computation concepts
+	  - Stabilized implementations for sensitive functions: For functions like softmax (or log-softmax), one should transform the computation to avoid underflow/overflow, like shift the input vector by its maximum before exponentiating. 
+	  - Conditioning & condition number: Some computations are “ill-conditioned”: small perturbations (e.g. tiny rounding errors) in the input can lead to large changes in the output. For example, in solving linear systems via inversion, if A has a large ratio between largest and smallest eigenvalue (large condition number), the solution can be very sensitive to error. 
+	    - Poor conditioning of matrices or transformations can lead to very unstable behavior, large gradients, or ineffective learning. Awareness of conditioning helps in designing stable architectures or preprocessing (e.g. normalization, regularization)
+	  - Gradient-based optimization (first-order methods): Since many problems (e.g. training neural networks) don’t have closed-form analytic solutions, iterative optimization is used. The basic approach: use gradient descent (move in negative gradient direction) to decrease loss. Understanding gradient, curvature, Hessian, local minima/saddle points helps reason about training dynamics, convergence, stability
+	  - Derivatives: Jacobian: the Jacobian matrix captures all first partial derivatives. Hessian: the second derivatives form the Hessian (an n×n symmetric matrix); its eigenvalues describe curvature along different directions. 
+	  - Second-order (Newton-style) optimization: When the function is (locally) well approximated by a quadratic (with a positive-definite Hessian), one can use a Newton step which can converge much faster than gradient descent — sometimes in one step for a pure quadratic. Second-order methods (e.g. Newton) are powerful, but only reliable if the Hessian is positive-definite (i.e. near a genuine minimum). Near saddle points or non-convex regions, they can mislead. 
+	  - Constrained optimization (adding regularization or norm constraints): Sometimes one needs to minimize a function subject to constraints (e.g. norm bounds). A common method is to use projected gradient descent (take a gradient step, then project back into feasible region). Another, more general method uses the Karush–Kuhn–Tucker (KKT) conditions, where one introduces a Lagrangian combining objective and constraints, and optimizes both primal variables and multipliers. 
+	    - Constrained optimization (e.g. weight regularization, norm constraints) is common in ML — like weight decay (norm constraints), max-norm constraints, or constrained parameter spaces (like probability distributions) — and the theory supports principled ways to handle them (projected gradients, Lagrangians, KKT)
+	    - Constrained optimization, while general, can complicate both analysis and computation. Solving the Lagrangian dual may require extra care, and feasibility/constraint activation must be handled properly
+	  - Example: linear least squares — As a concrete example, minimizing 1/2 * ||Ax + b|| ^ 2 can be implemented via gradient descent (iteratively) or — because it's a quadratic function — solved directly (or via Newton’s method). This bridges classical linear algebra methods (direct solvers) and iterative gradient-based methods
