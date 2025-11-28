@@ -538,6 +538,10 @@ F-beta score
 Chain Rule
 Xavier Initialization
 
+- fine-tuning large language models (LLMs):
+	Supervised Fine-Tuning (SFT) employs traditional supervised learning using input-output pairs to adjust model parameters, aiming to replicate the preferences found in provided examples
+	Direct Preference Optimization (DPO) uses pairwise comparisons to optimize a model to favor certain outputs over others, learning to replicate the preference patterns found in the provided comparison data
+	Reinforcement Learning from Human Feedback (RLHF) focuses on aligning the model with human preferences, often using reinforcement learning to evaluate outputs and adjust the model accordingly
 
 Sources
 https://aman.ai/primers/ai/

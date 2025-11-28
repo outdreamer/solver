@@ -102,6 +102,12 @@ I. To do list
 
 		- given graph connection types (like 'graph connections/embeddings/mappings/integrations/bindings') and graph generative variables (like 'graph definitions') and other graph variables, what is the optimal graph of all the optimal interaction rules (like 'use the graph definition graph to optimize the graph intent graph') between graphs of graphs that are useful to connect (like how its useful to connect 'a graph of graph intents and a graph of graph definitions and a graph of graph optimizations'), and what are intents that differ in this graph of graphs of graphs, and what are optimal queries for those intents given the optimization of the graph
 
+		- identify optimal graph connections like a 'math-structure map connected to a math-structure-intent map' to identify useful connections of graphs like how a 'PDE/multiple network nodes' math-structure connection can be integrated into a math-structure-intent connection like 'PDE/multiple network nodes/identify causal variables'
+
+		- identify neural network errors based on some contextual input, like 'mismatching structures for an input' like 'integrated variables that should be split into multiple nodes, given the variation of the variable or independent forms of the variable' or 'insufficiently long sequences of nodes, given a causal variable sequence and possible/probable/defined weight sequences', and identify the sets of neural network structures that should be connected/similar
+
+		- identify neural network structures that should be applied in a sequence, like how 'building a base polynomial from a component weight sequence' can be applied before 'fine-tuning a base polynomial from a filtering/specifying weight sequence' and identify different weight initialization/update optimizations for these different weight intents, and identify patterns like 'common weight update sequences' for either/both intents or for specific cases like a 'specific starting point/data set' or high-level intents like 'identify causal variables'
+
 
 II. Queries and Results
 
