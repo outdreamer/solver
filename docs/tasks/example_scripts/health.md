@@ -903,10 +903,14 @@
 				- decrease cortisol: lavender, magnesium, theanine, schisandra, olive oil, phosphatidylserine, ashwagandha, rhodiola, magnolia, bacopa, lemon balm, holy basil, betaine, l-ornithine, malaysian ginseng, choline, astragalus, turmeric, zinc, maca, whey protein, inositol, st johns wort, passionflower (an MAOI), lion's mane, valerian, GABA, chamomile, melatonin, omega 3's, vitamin c/d/e/b5/b6/b12, coq10, glutathione, NAC, probiotics, bright light therapy, transcranial direct current stimulation, transcranial magnetic stimulation, ginkgo biloba, chinese skullcap, avoiding caffeine/refined carbs/alcohol/smoking which cause high cortisol, also low cholesterol is associated with lower cortisol
 				- decrease norepinephrine/adrenaline: kava, panax ginseng, holy basil, ashwagandha, astragalus, licorice, rhodiola, cordyceps, black/green tea, indian snakeroot
 				- increase oxytocin: vitamin d/c, magnesium, taurine, Lactobacillus reuteri, chamomile, Oleoylethanolamide, melatonin, fenugreek, jasmine, clary sage, anise seed, intermittent drinking
-				- increase serotonin: exercise, vitamin d, omega 3's, ashwagandha, theanine, bacopa, lemon balm, saffron, sceletium tortuosum (kanna), 5-HTP, nigella sativa, tryptophan (eggs, cheese, nuts), sunlight, SAMe, probiotics, avoid caffeine and artificial sweeteners
+				- increase serotonin: exercise, vitamin d, omega 3's, ashwagandha, theanine, bacopa, lemon balm, saffron, sceletium tortuosum (kanna), nigella sativa, 5-HTP/tryptophan (eggs, cheese, nuts), sunlight, SAMe, probiotics, avoid caffeine and artificial sweeteners
 					- serotonin can be either low or high in anxiety
-				- increase dopamine: theanine, bacopa, tyrosine, phenylalanine, probiotics, avoid saturated fat
+				- change dopamine:
 					- dopamine can be either low or high in anxiety
+					- dopamine agonist: cbd, caffeine, l-dopa creates dopamine/norepinephrine/adrenaline, tyrosine/phenylalanine creates dopamine, ginkgo, rhodiola
+	                    - high tyrosine foods: meat, fish, cheese, eggs, tofu, avocados, sesame seeds, nuts, phenylalanine
+	                - dopamine antagonist: melatonin, valerian, passionflower, theanine, magnesium, bacopa, white mulberry, lemon, turkey corn, noni fruit, magnolia, licorice, graviola, tryptophan (creates serotonin), 5htp, burdock, dandelion, ginseng, black cohosh, oat meal straw
+	                    - high tryptophan foods: meat, fish, cheese, eggs, tofu, yeast, nuts, sesame seeds, spirulina, pumpkin seeds, parsley, wheat germ, chia seeds, sunflower seeds
 				- stimulate vagus nerve: zinc, probiotics, choline/acetylcholine, vitamin B12, magnesium, calcium, sodium, omega 3s
 				- deactivate HPA axis which activates to create cortisol
 					- if the HPA axis is overactive, suppress its triggers
