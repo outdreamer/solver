@@ -614,6 +614,8 @@
 				- use probiotics (preferably kefir) to manage blood sugar and insulin sensitivity
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC8166562/
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC6714347/
+				- avoid some amino acid supplements
+					- phenylalanine, tryptophan, tyrosine, alanine, isoleucine, leucine, valine, aspartate, and glutamate were significantly associated with decreases in insulin secretion and increases in glucose levels
 				- avoid a high advanced glycation end-products (AGE) diet
 					- Metabolic factors include the formation of advanced glycation end-products (AGEs), which have a central role in the pathophysiology of many of the complications of diabetes mellitus, including cardiovascular complications
 					- avoid high saturated fat foods, highly processed foods, and foods cooked at high temperatures (baked/grilled) and eat vegetables, fruits, legumes, skimmed dairy products, and whole grains
@@ -884,7 +886,11 @@
 					- HDAC inhibitors also inhibit the function of accumbal ΔFosB by inducing G9a expression in the nucleus accumbens after prolonged use
 					- HDAC inhibitors include sulforaphane, curcumin, genistein, and cinnamon
 						- https://pmc.ncbi.nlm.nih.gov/articles/PMC3092901/
-				- lower side effects of anxiety, like high blood pressure, with beta blockers: Indian snakeroot, berberine, red yeast rice, hawthorn, garlic, potassium, arginine, antioxidants, Banxia Baizhu Tianma Tang, Paeoniae Rubra, Rhubarbs, Suaeda asparagoides, Nelumbo nucifera (Higenamine 4′-O-β-d-glucoside), Notopterygium incisum (Isoimperatorin), Pimpinella anisum (Trans-anethole)
+				- inhibit MAO (MAOIs/RIMAs): passionflower, ginger, turmeric, resveratrol, ginkgo biloba, licorice, rhodiola, quercetin, st. john's wort, Syrian rue, ayahuasca, nutmeg, kava, Acacetin derivative, Agastache rugosa, Angelica decursiva, Angelica gigas, Angelica keiskei, Angelica pubescens, Banisteriopsis caapi, Calea urticifolia, Cassia obtusifolia, Chironia krebsii, Cirsium maacki, Clausena anisum-olens, Clitocybe illudens, Colvillea racemosa, Coptis japonica, Crossyne guttata, Curcuma longa, Cytisus villosus, Desmonium elegans, Diaporthe mahothocarpus, Dictamnus albus, Diverse vendors, Ecklonia stolonifera, Eisenia bicyclis, Elaphoglossum paleaceum, Evodia rutaecarpa, Garcinia gardneriana, Garcinia gerrardii, Geijera parviflora, Gentiana kochiana, Gentiana lactea, Gentiana lutea, Gentina lutea, Glycine max, Hypericum afrum, Hypericum aucheri, Hypericum brasiliense, Hypericum hircinum, Juglans, Lithospermum erythrorhizon, Lonicera japonica, Lonicera macranthoides, Maackia amurensis, Nicotiana tabacum, Paeonia, Piper longum, Piper methysticum, Plumbago, Polygonaceae Fam, Propolis, Prunus padus, Psoralea corylifolia, Psychotria laciniata, Psychotria nemorosa, Psychotria Laciniata, Pueraria lobata, Renealmia alpinia, Rosellinia corticium, Rubia tinctorum, Salvia miltiorrhiza, Scadoxus puniceus, Sideritis, Sophora flavescens, Source, Streptomyces, Symphyocladia latiuscula, Turnera diffusa, Uncaria rhynchophylla, Vit K derivative, Vitex grandiflora, Vitis vinifera, Xylaria nigripes, Zanthoxylum rigidum
+					- dont take MAOIs with substances that increase serotonin like SSRIs, SNRIs, or tryptophan/tryptamine/5-htp
+						- Taking MAOIs in combination with SSRIs can be fatal, since MAOIs disrupt monoamine oxidase, an enzyme which is needed to break down serotonin and other neurotransmitters
+				- lower side effects of anxiety, like high blood pressure, with beta blockers: 
+					- Indian snakeroot, berberine, red yeast rice, hawthorn, garlic, potassium, arginine, antioxidants, Banxia Baizhu Tianma Tang, Paeoniae Rubra, Rhubarbs, Suaeda asparagoides, Nelumbo nucifera (Higenamine 4′-O-β-d-glucoside), Notopterygium incisum (Isoimperatorin), Pimpinella anisum (Trans-anethole)
 				- treat multiple sclerosis, acidosis, thyroid, heart, and adrenal problems which can cause anxiety
 					- improve kidney/cardiovascular health, which results in hormone dysregulation (vasopressin, angiotensin II, adrenaline, cortisol, estrogen), which are hormones that can cause anxiety
 						- https://pmc.ncbi.nlm.nih.gov/articles/PMC3312460/ - 'The link between angiotensin II-mediated anxiety and mood disorders with NADPH oxidase-induced oxidative stress'
@@ -901,16 +907,18 @@
 					- avoid GABA antagonists: ginkgo biloba, kudzu, thujone (sage, mugwort, oregano, mint, wormwood, yarrow)
 				- decrease glutamate: cold, omega 3's, magnesium, vitamin b6/c/e, zinc, theanine, taurine, resveratrol, turmeric, NAC, avoid MSG/aspartame/caffeine
 				- decrease cortisol: lavender, magnesium, theanine, schisandra, olive oil, phosphatidylserine, ashwagandha, rhodiola, magnolia, bacopa, lemon balm, holy basil, betaine, l-ornithine, malaysian ginseng, choline, astragalus, turmeric, zinc, maca, whey protein, inositol, st johns wort, passionflower (an MAOI), lion's mane, valerian, GABA, chamomile, melatonin, omega 3's, vitamin c/d/e/b5/b6/b12, coq10, glutathione, NAC, probiotics, bright light therapy, transcranial direct current stimulation, transcranial magnetic stimulation, ginkgo biloba, chinese skullcap, avoiding caffeine/refined carbs/alcohol/smoking which cause high cortisol, also low cholesterol is associated with lower cortisol
-				- decrease norepinephrine/adrenaline: kava, panax ginseng, holy basil, ashwagandha, astragalus, licorice, rhodiola, cordyceps, black/green tea, indian snakeroot
+    		    - decrease norepinephrine/adrenaline: glycine, kava, panax ginseng, holy basil, ashwagandha, astragalus, licorice, rhodiola, cordyceps, black/green tea, indian snakeroot, avoid tyramine
 				- increase oxytocin: vitamin d/c, magnesium, taurine, Lactobacillus reuteri, chamomile, Oleoylethanolamide, melatonin, fenugreek, jasmine, clary sage, anise seed, intermittent drinking
-				- increase serotonin: exercise, vitamin d, omega 3's, ashwagandha, theanine, bacopa, lemon balm, saffron, sceletium tortuosum (kanna), nigella sativa, 5-HTP/tryptophan (eggs, cheese, nuts), sunlight, SAMe, probiotics, avoid caffeine and artificial sweeteners
+				- increase serotonin: turmeric, exercise, vitamin d, omega 3's, ashwagandha, theanine, bacopa, lemon balm, saffron, sceletium tortuosum (kanna), nigella sativa, 5-HTP/tryptophan (eggs, cheese, nuts), sunlight, SAMe, probiotics, avoid caffeine and artificial sweeteners
 					- serotonin can be either low or high in anxiety
 				- change dopamine:
 					- dopamine can be either low or high in anxiety
-					- dopamine agonist: cbd, caffeine, l-dopa creates dopamine/norepinephrine/adrenaline, tyrosine/phenylalanine creates dopamine, ginkgo, rhodiola
-	                    - high tyrosine foods: meat, fish, cheese, eggs, tofu, avocados, sesame seeds, nuts, phenylalanine
-	                - dopamine antagonist: melatonin, valerian, passionflower, theanine, magnesium, bacopa, white mulberry, lemon, turkey corn, noni fruit, magnolia, licorice, graviola, tryptophan (creates serotonin), 5htp, burdock, dandelion, ginseng, black cohosh, oat meal straw
-	                    - high tryptophan foods: meat, fish, cheese, eggs, tofu, yeast, nuts, sesame seeds, spirulina, pumpkin seeds, parsley, wheat germ, chia seeds, sunflower seeds
+					- increase dopamine: turmeric, kava
+						- dopamine agonist: cbd, caffeine, l-dopa creates dopamine/norepinephrine/adrenaline, tyrosine/phenylalanine creates dopamine, ginkgo, rhodiola
+	                    	- high tyrosine foods: meat, fish, cheese, eggs, tofu, avocados, sesame seeds, nuts, phenylalanine
+	                - decrease dopamine
+	                	- dopamine antagonist: melatonin, valerian, passionflower, theanine, magnesium, bacopa, white mulberry, lemon, turkey corn, noni fruit, magnolia, licorice, graviola, tryptophan (creates serotonin), 5htp, burdock, dandelion, ginseng, black cohosh, oat meal straw
+	                    	- high tryptophan foods: meat, fish, cheese, eggs, tofu, yeast, nuts, sesame seeds, spirulina, pumpkin seeds, parsley, wheat germ, chia seeds, sunflower seeds
 				- stimulate vagus nerve: zinc, probiotics, choline/acetylcholine, vitamin B12, magnesium, calcium, sodium, omega 3s
 				- deactivate HPA axis which activates to create cortisol
 					- if the HPA axis is overactive, suppress its triggers
