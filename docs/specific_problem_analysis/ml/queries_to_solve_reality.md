@@ -110,6 +110,8 @@ I. To do list
 
 		- what are the 'optimizations to useful graphs related to neural networks like causal variable graphs, and reasons for those optimizations' like how an 'optimization to a causal graph' is to 'integrate multiple contradictory causal graphs in one graph' because 'there are usually multiple contradictory causal connections in real complex systems' or an 'optimization to a causal graph' could be 'indicate thresholds that change causal variable connections rather than connecting variables in a causal network' because 'thresholds that cause changes in causal variable connections are the "causal variables of causal variables" so this is an alternate graph that could be more optimal to graph'
 
+		- what are useful relevant graphs, like a graph of spectrums as points, where spectrums represent highly differentiating variables (like being on a 'spectrum of related concepts' like 'filter/perspective/standard/reduction' or 'balance/equivalence/similarity' or 'power/causation/independence') so anything on that spectrum is represented as being on the point representing the spectrum in the graph of spectrums
+
 
 II. Queries and Results
 
