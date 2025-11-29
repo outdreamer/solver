@@ -329,3 +329,40 @@
 		  - Learning rate too high → diverges, Too low → gets stuck in shallow regions or plateaus, No momentum → slow progress
 		  - symptoms: Large oscillations in loss, Very slow convergence, Training stuck at a random accuracy plateau
 		  - fix: Start with Adam or SGD+Momentum, Tune learning rate; use warmup schedules if needed
+
+- regularization
+
+	- Core definitions & motivations
+		- Regularization refers to any modification of a learning algorithm intended to reduce generalization error, not merely minimize training error. In other words: the goal is not to “fit the training data as well as possible,” but to perform well on new/unseen data.
+		- Deep models often have enormous capacity (many parameters), and thus can easily overfit: i.e. learn a function that fits training data perfectly, but fails to generalize. Because the true data-generating process (especially in domains like images, text, audio) is extremely complex (often far more complex than our model), overfitting is a real risk. Regularization is critical to counteract that risk. 
+		- Regularization involves a bias–variance tradeoff: by restricting the model capacity (or encouraging simpler models), we may increase bias (i.e. limit how closely we could match the true function), but we often reduce variance — i.e. reduce sensitivity to random fluctuations in the training data. A good regularizer makes a “profitable trade”: lower variance with acceptable bias. 
+
+	- Major Regularization Strategies 
+		- Parameter norm penalties (“weight decay”, L1 / L2 regularization)
+			- E.g. adding to the loss a penalty term proportional to the norm of the weight vector (like L2 squared norm, or L1 norm) — encourages smaller weights or sparsity. 
+			- The effect: weights in directions that do not strongly contribute to reducing loss tend to shrink toward zero, effectively “removing” or down-weighting unnecessary degrees of freedom. 
+		- constraint-based regularization / norm constraints + re-projection
+			- Instead of (or in addition to) adding a penalty to the loss, one can explicitly enforce constraints on parameter norms — e.g. limit the norm of each column of a weight matrix, or enforce a global bound. After each parameter update, re-project back into the allowed “norm-ball.” This helps prevent uncontrolled growth of parameters (especially with large learning rates) and keeps learning stable. 
+		- Regularization via data
+			- Data augmentation: create additional “artificial” data by transforming existing examples in ways that preserve labels (e.g. in image tasks: small translations, flips, color shifts, noise). This enlarges the effective training set and helps the model generalize better. 
+			- Adding noise to inputs or activations: training with noisy inputs or injecting noise during training can encourage robustness. (In effect, the network learns to ignore small perturbations and generalize beyond exact training samples.) 
+		- Model-level / representation-level regularization
+			- Sparse representations: encourage sparsity in activations (or weights) so that only a few units activate strongly per input. This reduces overfitting by limiting how “specialized” hidden units can become. 
+			- Multi-task learning / parameter sharing / architecture constraints: by forcing a model to solve multiple related tasks, or sharing parameters across tasks or parts of the model, one imposes additional structure — effectively reducing overfitting by constraining the hypothesis space. 
+		- Training-time regularization techniques
+			- Early stopping: monitor performance on a validation set during training; stop training when validation error stops improving or starts to degrade. This prevents the model from overfitting the training data (even if training error is still decreasing). 
+
+	- How regularization is useful
+		- Reducing capacity or “flattening” unlikely directions: Norm penalties (or constraints) shrink weights, especially those in “unimportant” directions (i.e. those not strongly impacting training loss). This reduces the model’s effective complexity — fewer “flexible” degrees of freedom means less chance to overfit noise or idiosyncratic patterns in training data. 
+		- expanding data support / encouraging invariances: Data augmentation (or noise injection) increases the diversity of training examples — the model learns to treat slightly different inputs as equivalent (if they share labels). This imposes the prior belief that small transformations should not change the class — helpful especially in domains like vision where small shifts/rotations shouldn’t change the label. 
+		- Sparsity and parameter sharing → simplicity and generalizable structure: By encouraging sparsity (in weights or activations), or by sharing parameters across tasks or parts of the network, you force the network to extract common, shared patterns rather than memorize everything — leaning toward solutions that capture underlying structure instead of noise. 
+		- Stopping before overfitting sets in: Early stopping is a very direct way to avoid overfitting: once the model starts fitting noise in the training data (over-specializing), validation error often rises — halting training then preserves generalization ability. 
+		- Regularization as prior / inductive bias: Every regularization method implicitly encodes assumptions or preferences about the kinds of functions we expect: “solutions with smaller weights,” “representations invariant to small transforms,” “sparse or shared structure,” etc. These assumptions narrow the hypothesis space — which is critical especially when the true data-generating process is enormously complex (and realistically outside the model class). 
+		- In practice this means that larger, more expressive models can work best — if they are properly regularized. The goal is not always “small model,” but “large model + good regularization” that leverages capacity while controlling overfitting. 
+
+	- Limitations, Trade-offs & What to Watch Out For
+		- Regularization trades bias for variance — over-regularizing (too strong penalty, too much noise, too early stopping) can underfit: the model becomes too simple to capture relevant structure. There is no free lunch. Finding the right balance (hyperparameters, regularization strength, when to stop) is often empirical.
+		- Some “regularizers” impose heavy computational or modeling burden — e.g. data augmentation may require domain-specific transforms, noise injection or sparse constraints may complicate training, parameter-sharing or multi-task architectures may need careful design.
+		- Not all regularization works equally well for all tasks / all data regimes — e.g. sparsity or dropout may help in large-data regimes but be less effective (or even harmful) when data is very limited. 
+		- The effectiveness of regularization often depends on how well the regularizer aligns with the “true invariances” or structure of the task/data — e.g. data augmentation only helps if the augmentations reflect real-world variations that do not change labels. Poor choices can mislead the model or inject harmful bias.
+		- Hyperparameter sensitivity — regularization methods (strength of weight decay, how much noise, when to stop, how to augment) introduce extra hyperparameters. Poor tuning can lead to underfitting, overfitting or unstable training.
