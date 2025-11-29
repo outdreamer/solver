@@ -112,6 +112,8 @@ I. To do list
 
 		- what are useful relevant graphs, like a graph of spectrums as points, where spectrums represent highly differentiating variables (like being on a 'spectrum of related concepts' like 'filter/perspective/standard/reduction' or 'balance/equivalence/similarity' or 'power/causation/independence') so anything on that spectrum is represented as being on the point representing the spectrum in the graph of spectrums
 
+		- what are useful variants of neural networks, like how 'weight encodes variable relevance/importance' so it could encode other structures of relevance like 'similarity to interface variables', or how 'weight as in a spectrum of relevance' could be replaced by alternatives like 'alternate relevance structures' like 'relevance definition structures'
+
 
 II. Queries and Results
 
