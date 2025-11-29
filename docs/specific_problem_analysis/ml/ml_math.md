@@ -118,13 +118,13 @@
 	- Core numerical-computation concepts
 	  - Stabilized implementations for sensitive functions: For functions like softmax (or log-softmax), one should transform the computation to avoid underflow/overflow, like shift the input vector by its maximum before exponentiating. 
 	  - Conditioning & condition number: Some computations are “ill-conditioned”: small perturbations (e.g. tiny rounding errors) in the input can lead to large changes in the output. For example, in solving linear systems via inversion, if A has a large ratio between largest and smallest eigenvalue (large condition number), the solution can be very sensitive to error. 
-	    - Poor conditioning of matrices or transformations can lead to very unstable behavior, large gradients, or ineffective learning. Awareness of conditioning helps in designing stable architectures or preprocessing (e.g. normalization, regularization)
+		- Poor conditioning of matrices or transformations can lead to very unstable behavior, large gradients, or ineffective learning. Awareness of conditioning helps in designing stable architectures or preprocessing (e.g. normalization, regularization)
 	  - Gradient-based optimization (first-order methods): Since many problems (e.g. training neural networks) don’t have closed-form analytic solutions, iterative optimization is used. The basic approach: use gradient descent (move in negative gradient direction) to decrease loss. Understanding gradient, curvature, Hessian, local minima/saddle points helps reason about training dynamics, convergence, stability
 	  - Derivatives: Jacobian: the Jacobian matrix captures all first partial derivatives. Hessian: the second derivatives form the Hessian (an n×n symmetric matrix); its eigenvalues describe curvature along different directions. 
 	  - Second-order (Newton-style) optimization: When the function is (locally) well approximated by a quadratic (with a positive-definite Hessian), one can use a Newton step which can converge much faster than gradient descent — sometimes in one step for a pure quadratic. Second-order methods (e.g. Newton) are powerful, but only reliable if the Hessian is positive-definite (i.e. near a genuine minimum). Near saddle points or non-convex regions, they can mislead. 
 	  - Constrained optimization (adding regularization or norm constraints): Sometimes one needs to minimize a function subject to constraints (e.g. norm bounds). A common method is to use projected gradient descent (take a gradient step, then project back into feasible region). Another, more general method uses the Karush–Kuhn–Tucker (KKT) conditions, where one introduces a Lagrangian combining objective and constraints, and optimizes both primal variables and multipliers. 
-	    - Constrained optimization (e.g. weight regularization, norm constraints) is common in ML — like weight decay (norm constraints), max-norm constraints, or constrained parameter spaces (like probability distributions) — and the theory supports principled ways to handle them (projected gradients, Lagrangians, KKT)
-	    - Constrained optimization, while general, can complicate both analysis and computation. Solving the Lagrangian dual may require extra care, and feasibility/constraint activation must be handled properly
+		- Constrained optimization (e.g. weight regularization, norm constraints) is common in ML — like weight decay (norm constraints), max-norm constraints, or constrained parameter spaces (like probability distributions) — and the theory supports principled ways to handle them (projected gradients, Lagrangians, KKT)
+		- Constrained optimization, while general, can complicate both analysis and computation. Solving the Lagrangian dual may require extra care, and feasibility/constraint activation must be handled properly
 	  - Example: linear least squares — As a concrete example, minimizing 1/2 * ||Ax + b|| ^ 2 can be implemented via gradient descent (iteratively) or — because it's a quadratic function — solved directly (or via Newton’s method). This bridges classical linear algebra methods (direct solvers) and iterative gradient-based methods
 
 - Deep learning insights
@@ -188,26 +188,144 @@
 	  - Deep learning creates computations that geometrically involve: extreme stretching or shrinking of space (ill-conditioning), exponential cliffs and plateaus (overflow, underflow), nearly parallel vectors (cancellation), high-dimensional landscapes with mixed curvature (saddles, Hessian issues), long iterative trajectories sensitive to tiny misalignments (rounding drift)
 	  - Floating-point arithmetic provides only a coarse, discrete mesh for representing real numbers When complex high-dimensional geometry demands: ultra-fine resolution, huge dynamic ranges, delicate curvature distinctions, the mesh simply cannot capture it accurately → numerical failures
 	  - Underflow & Overflow
-	    - floating point oversimplifies the extreme changes of exponential functions (like exp(x), softmax, log-likelihoods) into either 0/underflow or infinity/overflow
-	    - Exponential curves expand/contract distances so aggressively that numerical thresholds cannot accommodate the true shape
+		- floating point oversimplifies the extreme changes of exponential functions (like exp(x), softmax, log-likelihoods) into either 0/underflow or infinity/overflow
+		- Exponential curves expand/contract distances so aggressively that numerical thresholds cannot accommodate the true shape
 	  - Rounding Errors Accumulate
-	    - High-dimensional trajectories (gradients, iterative updates) amplify the drift that is created by tiny directional errors and floating point over-simplifies and intensifies these errors with rounding
+		- High-dimensional trajectories (gradients, iterative updates) amplify the drift that is created by tiny directional errors and floating point over-simplifies and intensifies these errors with rounding
 	  - Catastrophic Cancellation
-	    - Floating-point cannot “resolve” that narrow wedge between nearly parallel vectors, which destroys important curvature or gradient information
+		- Floating-point cannot “resolve” that narrow wedge between nearly parallel vectors, which destroys important curvature or gradient information
 	  - Ill-Conditioning & Condition Numbers
-	    - An ill-conditioned matrix transformation stretches space in some directions and squashes it in others, amplifying errors in some directions and hiding errors in others
-	    - During inversion: The tiny squashed dimensions must be “unsquashed,” which amplifies any noise or numerical rounding in those directions
+		- An ill-conditioned matrix transformation stretches space in some directions and squashes it in others, amplifying errors in some directions and hiding errors in others
+		- During inversion: The tiny squashed dimensions must be “unsquashed,” which amplifies any noise or numerical rounding in those directions
 	  - Gradients in Deep Networks Vanish or Explode
-	    - repeatedly compressing/stretching space along a chain of transformations makes some paths disappear (vanishing gradients) and others blow up (exploding gradients)
+		- repeatedly compressing/stretching space along a chain of transformations makes some paths disappear (vanishing gradients) and others blow up (exploding gradients)
 	  - Non-Convexity & Saddle Points
-	    - most critical points in high-dimensional terrain are saddles (one direction curves up/looks like a minimum, one curves down/looks like a maximum), not valleys — they are stable in some directions and unstable in others
-	    - Gradient descent sees an almost-zero slope and thinks its a minimum, and tiny numeric noise from floating-point may kick it off the saddle unpredictably, and second-order methods see contradictory curvature signs and break down
-	    - curvature has mixed signs, so numerical steps can become unstable or ambiguous
+		- most critical points in high-dimensional terrain are saddles (one direction curves up/looks like a minimum, one curves down/looks like a maximum), not valleys — they are stable in some directions and unstable in others
+		- Gradient descent sees an almost-zero slope and thinks its a minimum, and tiny numeric noise from floating-point may kick it off the saddle unpredictably, and second-order methods see contradictory curvature signs and break down
+		- curvature has mixed signs, so numerical steps can become unstable or ambiguous
 	  - Softmax Instability
-	    - exponentials cause different logits to occupy very separated height scales; if one coordinate is much larger, that direction stretches into the exponential cliff, while all other directions collapse to the valley floor (zero)
-	    - subtracting max(x) recenters the geometry so the cliff height fits in finite altitude range
-	    - exponentials make the scale of height differences too extreme for fixed-resolution arithmetic
+		- exponentials cause different logits to occupy very separated height scales; if one coordinate is much larger, that direction stretches into the exponential cliff, while all other directions collapse to the valley floor (zero)
+		- subtracting max(x) recenters the geometry so the cliff height fits in finite altitude range
+		- exponentials make the scale of height differences too extreme for fixed-resolution arithmetic
 	  - Hessian & Second-Order Instability
-	    - curvature is extremely irregular in deep networks; the Hessian (encodes bendiness/flatness/twisting directions in high-dimensional space) often has huge eigenvalue spreads
-	    - if the Hessian has: a few huge eigenvalues (very steep ravines), many tiny eigenvalues (flat plateaus), some negative eigenvalues (downhill directions), then Newton’s method tries to invert that wildly uneven curvature map
-	    - Inverting this is like trying to “unscramble” a shape that is simultaneously: almost flat, extremely curved, flipped in some directions, which numerically explodes, because the curvature landscape is too irregular to invert stably
+		- curvature is extremely irregular in deep networks; the Hessian (encodes bendiness/flatness/twisting directions in high-dimensional space) often has huge eigenvalue spreads
+		- if the Hessian has: a few huge eigenvalues (very steep ravines), many tiny eigenvalues (flat plateaus), some negative eigenvalues (downhill directions), then Newton’s method tries to invert that wildly uneven curvature map
+		- Inverting this is like trying to “unscramble” a shape that is simultaneously: almost flat, extremely curved, flipped in some directions, which numerically explodes, because the curvature landscape is too irregular to invert stably
+
+- MLPs
+
+	- Core ideas: what MLPs are & why they matter
+	  - An MLP (or “deep feedforward network”) defines a mapping y=f(x;θ) meant to approximate some true target function — e.g. mapping an input x to a label or output y
+	  - The network is feedforward: input flows through a stack of layers (possibly many), from input → hidden layers → output. There are no feedback (recurrent) connections in a pure MLP
+	  - Hidden layers (i.e. layers between input and output) give MLPs their expressive power. The training data only specify input → output behavior; the structure and behavior inside hidden layers is learned
+	  - Using deeper architectures — more hidden layers — lets the network express more complex functions while often using fewer units (per layer) or fewer total parameters than a wide shallow network. Also, empirical evidence often shows deeper networks generalize better
+	  - Conceptually, choosing a deep model expresses a belief / prior that the underlying function is a composition of simpler functions (a hierarchical structure), or that the data-generating process involves multiple “factors of variation” that build on each other
+	
+	- Key design/learning components & decisions in MLPs
+	  - When building/training an MLP, you need to make multiple design/implementation choices:
+		- Cost function / output representation: Often you model p(y∣x;θ) (a probability distribution over outputs) and train by maximum likelihood, which becomes minimizing the negative log-likelihood — equivalently, cross-entropy for classification
+		- Regularization: As with simpler models, regularization (e.g. weight decay) helps prevent overfitting. This is commonly applied to the weight matrices of hidden and output layers
+		- Hidden unit (activation) functions: The choice of activation for hidden units is critical. This is one of the aspects unique to neural networks (not present in linear models). For example, using nonlinear activations is what allows expressive, non-linear decision boundaries
+		  - default good practice is to use rectified linear units (ReLU) — though many other activations are possible
+		  - There is no “one-size-fits-all” theoretical guarantee about which activation is best; often one tries different ones and picks based on validation performance
+		- Architecture choices: depth, width, connectivity: Deciding how many layers, how many units per layer, how layers connect, etc., significantly affects expressivity, computational cost, training difficulty
+		- Gradient-based learning & efficient differentiation
+		  - Training uses gradient-based optimization (e.g. gradient descent), like many other ML models
+		  - To compute gradients efficiently, one uses the Backpropagation algorithm. This makes it tractable even for deep networks with many layers and parameters
+	
+	- Why MLPs (and deep feedforward networks) work: representational power & function approximation
+	  - Even a single hidden layer MLP is more powerful (in expressivity) than a purely linear model: because the hidden layer uses nonlinear activations, the class of functions representable is much richer
+	  - Deeper networks build complexity via composition of simpler functions: each layer transforms its input, building progressively more abstract/high-level representations. This matches how many real-world tasks (images, speech, etc.) are believed to be structured: from low-level features to higher-level semantic features
+	  - Depth often leads to better generalization compared to simply widening a shallow network: you can learn complex mappings efficiently (less parameters, better inductive bias) using depth rather than brute-force width
+	
+	- Practical & conceptual cautions / limitations
+	  - Nonlinear activations may be non-differentiable at some points (e.g. ReLU at 0), but in practice this rarely causes issues for optimization; gradient-based training still works well
+	  - Deep networks may be harder to optimize than shallow models — the loss landscape becomes more complex, with many parameters, possibly making optimization/training more difficult (slower convergence, risk of local minima or other issues)
+
+	- tips for building MLPs
+
+	  - problem: A composition of linear transformations is itself a linear transformation. the network behaves like logistic or linear regression no matter how deep it is
+		- fix: instead use nonlinear activations (ReLU, GELU, etc.) in all hidden layers
+		- Only the output layer should match task constraints (e.g., linear for Gaussian regression)
+
+	  - problem: Assuming depth always helps leads to exploding difficulty without guaranteed gain
+		- While deeper nets can represent functions more efficiently, optimization difficulty grows nonlinearly with depth due to vanishing/exploding gradients, ill-conditioning, and more saddle points
+		- symptoms: Training accuracy flatlines, Gradients vanish to 0 or blow up to NaNs, Learning stalls even with more data or epochs
+		- fix: Increase depth gradually, Use initialization schemes, normalization, skip connections, or start with a smaller model
+
+	  - problem: Bad initialization (→ vanishing/exploding gradients)
+		- Naive initialization (e.g., all small random numbers) causes the forward activations and gradients to decay or blow up exponentially with depth
+		- symptoms: Loss doesn’t decrease at all, For some inputs the network saturates immediately (sigmoid/tanh), Weights become all-zero or all-infinite
+		- fix: Use modern initialization schemes (e.g., He initialization for ReLU), Avoid deep sigmoids unless normalized/initialized carefully
+
+	   - problem: Expecting convex-optimization behavior
+		  - Recognize and accept non-convexity — use iterative, gradient-based learning
+		  - Unlike linear models or simpler parametric models, once you stack nonlinearities, the loss surface becomes non-convex. There is no guarantee of finding a global optimum via training
+		  - Once nonlinear activations are introduced, the loss surface becomes: High-dimensional, riddled with saddle points, Locally non-convex everywhere, Training will never behave like logistic regression or SVM optimization
+		  - As a result: initialization, optimization hyperparameters (learning rate, momentum, etc.), and training protocol matter a lot. What works well for one architecture/problem may fail for another
+		  - Many ML practitioners come from linear models (SVM, LR, least-squares regression) where the loss surface is convex → guaranteed unique optimum
+		  - MLP training surfaces have exponentially many saddle points, local minima, and flat regions
+		  - Initialization heavily influences the optimization trajectory
+		  - symptoms: Two runs of the same network give different performance, Loss suddenly gets stuck or drops unpredictably, Unstable training if learning rate is too high, Getting stuck in bad plateaus, Overinterpretation of training curves (“Why didn’t it converge?”)
+		  - fix: Expect non-determinism, Run multiple seeds, Tune hyperparameters pragmatically, Treat MLP training as an experimental process, not a solved convex problem. Use: careful initialization, adaptive optimizers, learning-rate schedules, batch normalization (if using ReLU)
+		
+	   - problem: Mis-matched output layer and loss function (→ wrong probability interpretation, bad stability): Cost function and output representation choice should match the task
+		  - For classification tasks: model p(y∣x;θ) in output layer; using maximum likelihood often leads to using cross-entropy loss
+		  - For regression or real-valued outputs: choose a loss appropriate to the output distribution (e.g. mean squared error if modeling Gaussian noise) or more general distributions if needed
+		  - problem: Poorly chosen output layer & cost function
+			- Practitioners often use MSE for everything, including classification, or they use a sigmoid output but treat the result as unnormalized scores
+			- symptoms: Classification accuracy capped at ~70% even when the model should do better, Probabilities don’t sum to 1, Training unstable or incredibly slow; Slow or unstable training. Miscalibrated probabilities. Outputs incapable of representing the target distribution
+			- fix: Always design output + loss based on the statistical model of the problem. For multi-class classification → Softmax + cross-entropy, Binary classification → Sigmoid + binary cross-entropy, Regression → Linear output + MSE (or appropriate likelihood)
+			- The output layer must match the probability model of the task. If mismatched, optimization behaves poorly or model cannot represent the right distribution
+			- Examples:
+			  Task							Correct Output Layer  	Typical Cost
+			  Multi-class classification  	Softmax			   		Cross-entropy
+			  Binary classification	   		Sigmoid			   		Log-loss
+			  Real-valued regression	  	Linear					MSE or Gaussian NLL
+
+	   - Be pragmatic with activation choice — no “one-size-fits-all”, but start simple
+		  - While many activation functions exist (sigmoid, tanh, “maxout”, etc.), there is no theoretically optimal choice that works everywhere
+		  - Because of that uncertainty, defaulting to a simple, well-behaved activation like ReLU is often a good starting point. If that fails (or shows poor performance), you can experiment with alternatives
+		  - problem: Choosing sigmoids/tanh without accounting for saturation (→ slow or impossible training)
+			- The classic ML literature used sigmoids everywhere, but sigmoids saturate → gradients ≈ 0 when |input| is large
+			- symptoms: Very slow convergence, Gradients close to zero, Hidden units “dead.”
+			- fix: Prefer ReLU variants for most modern tasks (unless domain-specific reason otherwise), Use batch normalization if sigmoids/tanh are required
+		  - problem: Using linear activations (or saturating sigmoids) in hidden layers
+			- If all hidden layers are linear, the entire network collapses into a single linear transformation — destroying the whole point of having depth. If you use sigmoid/tanh, their gradients vanish in saturation regions (inputs too positive or too negative), slowing learning to a crawl
+			- symptoms: Training fails to escape flat regions → extremely slow or nonexistent learning. Depth becomes useless → the model behaves like logistic regression
+			- fix: Use ReLU or similar as a baseline. only use sigmoid/tanh in output layers when modeling probabilities or bounded outputs
+
+	   - Use efficient gradient-computation (back-propagation)
+		  - Training deep nets involves many parameters and layers — computing gradients by naive symbolic differentiation is inefficient or infeasible. Instead, use the structured algorithm Backpropagation to compute gradients efficiently, with cost roughly proportional to the number of edges/connections in the network — in essence, one “Jacobian-product per edge.” 
+		  - That ensures training cost (forward + backward pass) stays manageable even for large networks
+		
+	   - Treat architecture design as setting a prior / inductive bias
+		  - Choosing a deep architecture (depth, width, connectivity) is equivalent to expressing a prior belief about the kind of function you expect to learn. For many real-world tasks, assuming a hierarchical/compositional structure — which a deep network naturally encodes — is often reasonable
+		  - Because the data doesn’t tell the network what each hidden layer should do — only what the final output should match — the hidden layers learn their function through optimization. That means your architecture choice strongly influences what kinds of representations the network can learn
+		  - problem: Practitioners often treat MLPs like “universal approximators” so they think structure doesn’t matter; Architecture is a prior
+			- For structured data (images, sequences), a plain MLP wastes parameters and learns inefficiently
+			- symptoms: Needs far more data than a CNN/RNN, Learns unstable or uninterpretable internal representations, Generalization worse than simpler models
+			- fix: Use an MLP only when you have no important spatial or sequential structure, Otherwise prefer CNNs, RNN/transformer, or specialized architectures
+		  - problem: Expecting hidden layers to learn good features automatically without proper architecture/regularization
+			- Hidden units don’t have direct supervision — only the final output does. Thus, representations can drift into: redundancies, poorly conditioned transformations, dead ReLUs, useless features
+			- symptoms: Overfitting (too many parameters without constraints). Unstable gradients. Representation collapse
+			- fix: Use architectural priors (depth, size, nonlinearities). Apply regularization:m dropout, weight decay, early stopping. Monitor activations to ensure they aren’t saturating or dying
+			
+	   - If underfitting, increase capacity (depth/width). If overfitting, apply regularization, or reduce capacity
+		  - problem: Using too few units (→ underfitting + poor feature learning)
+			- Fear of overfitting leads to overly small hidden layers, but MLPs with insufficient capacity fail to learn internal representations
+			- symptoms: Training set accuracy is low (even before considering generalization), Loss doesn’t decrease even with lots of iterations
+			- fix: Increase width or depth, Monitor training loss to detect underfitting (not validation alone)
+		  - problem: Using too many units (→ overfitting + high variance)
+			- Adding width always increases representational power, but it also increases the model’s ability to memorize
+			- symptoms: Training accuracy is perfect, Validation accuracy lags far behind, Large generalization gap
+			- fix: Add regularization (L2, dropout), Reduce width, Use early stopping
+		  - problem: Building networks that are too shallow (or too wide)
+			- A single hidden layer neural net is a universal approximator in theory, but in practice it may require: Astronomically many units, very brittle training behavior, Poor generalization
+			- symptoms: Massive parameter counts → overfitting, Harder optimization → local minima, slow convergence, Underfitting for hierarchical data (vision, language, audio)
+			- fix: Err on the side of moderate depth rather than one giant hidden layer. Prefer depth when tasks have hierarchical/compositional structure
+
+	   - problem: Using poor optimization hyperparameters (→ unstable or stalled learning)
+		  - Learning rate too high → diverges, Too low → gets stuck in shallow regions or plateaus, No momentum → slow progress
+		  - symptoms: Large oscillations in loss, Very slow convergence, Training stuck at a random accuracy plateau
+		  - fix: Start with Adam or SGD+Momentum, Tune learning rate; use warmup schedules if needed
