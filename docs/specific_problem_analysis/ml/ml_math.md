@@ -366,3 +366,71 @@
 		- Not all regularization works equally well for all tasks / all data regimes — e.g. sparsity or dropout may help in large-data regimes but be less effective (or even harmful) when data is very limited. 
 		- The effectiveness of regularization often depends on how well the regularizer aligns with the “true invariances” or structure of the task/data — e.g. data augmentation only helps if the augmentations reflect real-world variations that do not change labels. Poor choices can mislead the model or inject harmful bias.
 		- Hyperparameter sensitivity — regularization methods (strength of weight decay, how much noise, when to stop, how to augment) introduce extra hyperparameters. Poor tuning can lead to underfitting, overfitting or unstable training.
+
+	- Regularization method 																																	
+		- L2 weight decay									
+			- use case: You have a medium/large dataset; model overfits but not severely	
+			- impact: Shrinks weights smoothly toward zero					
+			- useful because: Encourages “simple” functions by penalizing large sensitivity to any input direction	
+			- common errors: Too strong → underfitting; interacts with learning rate; ineffective if features not normalized
+		- L1 regularization									
+			- use case: You expect sparse features/weights; interpretability matters		
+			- impact: Forces many weights exactly to zero						
+			- useful because: Produces sparse connections (feature selection)	
+			- common errors: Can make learning unstable; often worse than L2 for deep networks
+		- Max-norm / weight constraints	
+			- use case: Training is unstable (e.g., large learning rates); ReLU networks blow up				
+			- impact: Clips weight vector norms to a fixed radius				
+			- useful because: Prevents weight explosions; stabilizes learning	
+			- common errors: Too tight → kills model capacity
+		- Dropout											
+			- use case: Large models; co-adaptation; classification tasks; data large		
+			- impact: Randomly removes units during training					
+			- useful because: Encourages redundancy and robust distributed representations	
+			- common errors: Hurts performance on very small datasets; requires scaling at test time; may complicate optimization
+		- Early stopping									
+			- use case: Validation loss starts rising before training loss converges		
+			- impact: Stops training when generalization begins to degrade	
+			- useful because: Very strong regularizer; cheap and task-agnostic	
+			- common errors: Sensitive to noise in validation curve; premature stopping under-utilizes capacity
+		- Data augmentation									
+			- use case: Vision, audio, text tasks with known invariances; limited data		
+			- impact: Adds label-preserving transformations of inputs			
+			- useful because: Expands support of training distribution, encodes invariances
+			- common errors: Wrong augmentations insert harmful bias; can distort labels
+		- Add noise to inputs/activations					
+			- use case: Need robustness; training is noisy; want smooth decision boundaries	
+			- impact: Equivalent to Tikhonov regularization in many cases		
+			- useful because: Creates models invariant to small perturbations	
+			- common errors: Excess noise slows training; too much noise behaves like adversarial corruption
+		- Sparse activation penalties (L1 on activations)	
+			- use case: Want sparse hidden representations; autoencoders					
+			- impact: Forces most neurons off for each example				
+			- useful because: Produces disentangled features; combats overfitting	
+			- common errors: Hard to tune; can collapse representations if too strong
+		- Multi-task learning								
+			- use case: Tasks share structure; datasets small								
+			- impact: Shares parameters across tasks							
+			- useful because: Strong structural constraint; reduces effective capacity		
+			- common errors: Negative transfer if tasks are mismatched
+		- Parameter sharing (e.g., CNNs, RNNs)				
+			- use case: Inputs have local or temporal structure								
+			- impact: Same weights reused across space/time					
+			- useful because: Encodes inductive priors: translation invariance, sequential structure	
+			- common errors: Wrong architecture → strong bias, poor fit
+		- Batch normalization as implicit regularizer		
+			- use case: Deep networks prone to internal covariate shift						
+			- impact: Adds noise through mini-batch stats						
+			- useful because: Slight implicit regularization effect	
+			- common errors: Not a replacement for regularizers; with very small batches gives bad statistics
+
+	- regularization insights
+		- Regularization ≈ narrowing the set of functions the network can represent.
+		- Different methods express different beliefs (priors) about what solutions are reasonable.
+		- Small weights = smoother functions.
+		- L2 shrinkage suppresses oscillatory, brittle mappings.
+		- Noise-based methods = local invariance.
+		- Dropout or input noise destroy fragile “memorized” patterns.
+		- Data augmentation = building invariances directly into the data.
+		- Sharing parameters = forcing the model to reuse the same abstraction in multiple places.
+		- Early stopping = preventing the model from entering the “memorization phase.”
