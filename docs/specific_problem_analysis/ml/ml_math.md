@@ -184,12 +184,30 @@
 		- Try feeding adversarially large/small numbers
 	- In deep learning, numerical stability is as important as statistical correctness
 		- A model with perfect math but unstable numerics is unusable — stability is an algorithmic property, not a detail.
-
-
-
-
-
-
-
-
-
+	- why floating point arithmetic (finite precision) causes failures
+	  - Deep learning creates computations that geometrically involve: extreme stretching or shrinking of space (ill-conditioning), exponential cliffs and plateaus (overflow, underflow), nearly parallel vectors (cancellation), high-dimensional landscapes with mixed curvature (saddles, Hessian issues), long iterative trajectories sensitive to tiny misalignments (rounding drift)
+	  - Floating-point arithmetic provides only a coarse, discrete mesh for representing real numbers When complex high-dimensional geometry demands: ultra-fine resolution, huge dynamic ranges, delicate curvature distinctions, the mesh simply cannot capture it accurately → numerical failures
+	  - Underflow & Overflow
+	    - floating point oversimplifies the extreme changes of exponential functions (like exp(x), softmax, log-likelihoods) into either 0/underflow or infinity/overflow
+	    - Exponential curves expand/contract distances so aggressively that numerical thresholds cannot accommodate the true shape
+	  - Rounding Errors Accumulate
+	    - High-dimensional trajectories (gradients, iterative updates) amplify the drift that is created by tiny directional errors and floating point over-simplifies and intensifies these errors with rounding
+	  - Catastrophic Cancellation
+	    - Floating-point cannot “resolve” that narrow wedge between nearly parallel vectors, which destroys important curvature or gradient information
+	  - Ill-Conditioning & Condition Numbers
+	    - An ill-conditioned matrix transformation stretches space in some directions and squashes it in others, amplifying errors in some directions and hiding errors in others
+	    - During inversion: The tiny squashed dimensions must be “unsquashed,” which amplifies any noise or numerical rounding in those directions
+	  - Gradients in Deep Networks Vanish or Explode
+	    - repeatedly compressing/stretching space along a chain of transformations makes some paths disappear (vanishing gradients) and others blow up (exploding gradients)
+	  - Non-Convexity & Saddle Points
+	    - most critical points in high-dimensional terrain are saddles (one direction curves up/looks like a minimum, one curves down/looks like a maximum), not valleys — they are stable in some directions and unstable in others
+	    - Gradient descent sees an almost-zero slope and thinks its a minimum, and tiny numeric noise from floating-point may kick it off the saddle unpredictably, and second-order methods see contradictory curvature signs and break down
+	    - curvature has mixed signs, so numerical steps can become unstable or ambiguous
+	  - Softmax Instability
+	    - exponentials cause different logits to occupy very separated height scales; if one coordinate is much larger, that direction stretches into the exponential cliff, while all other directions collapse to the valley floor (zero)
+	    - subtracting max(x) recenters the geometry so the cliff height fits in finite altitude range
+	    - exponentials make the scale of height differences too extreme for fixed-resolution arithmetic
+	  - Hessian & Second-Order Instability
+	    - curvature is extremely irregular in deep networks; the Hessian (encodes bendiness/flatness/twisting directions in high-dimensional space) often has huge eigenvalue spreads
+	    - if the Hessian has: a few huge eigenvalues (very steep ravines), many tiny eigenvalues (flat plateaus), some negative eigenvalues (downhill directions), then Newton’s method tries to invert that wildly uneven curvature map
+	    - Inverting this is like trying to “unscramble” a shape that is simultaneously: almost flat, extremely curved, flipped in some directions, which numerically explodes, because the curvature landscape is too irregular to invert stably
