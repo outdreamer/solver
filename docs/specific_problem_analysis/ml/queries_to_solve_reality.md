@@ -108,6 +108,8 @@ I. To do list
 
 		- identify neural network structures that should be applied in a sequence, like how 'building a base polynomial from a component weight sequence' can be applied before 'fine-tuning a base polynomial from a filtering/specifying weight sequence' and identify different weight initialization/update optimizations for these different weight intents, and identify patterns like 'common weight update sequences' for either/both intents or for specific cases like a 'specific starting point/data set' or high-level intents like 'identify causal variables'
 
+		- what are the 'optimizations to useful graphs, and reasons for those optimizations' like how an 'optimization to a causal graph' is to 'include multiple causal graphs in one graph' because 'there are usually multiple contradictory causal connections in real complex systems'
+
 
 II. Queries and Results
 
