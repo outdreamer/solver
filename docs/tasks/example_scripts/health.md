@@ -871,6 +871,7 @@
 				- increase IL-4 and IL-10 to suppress anxiety
 				- melatonin, taurine, apigenin, magnolia, magnesium, rhodiola rosea, saffron, bitter orange, bergamot, CNS depressants
 				- glycine transporter type 1 inhibitors: sarcosine (cancer patients should avoid sarcosine)
+				- avoid GLP-1 agonists which can cause anxiety
 				- suppress non-Hoxb8 microglia and mutant Hoxb8 microglia
 					- https://pubmed.ncbi.nlm.nih.gov/40897864/ 
 				- NMDAR antagonists: phenylalanine, kynurenic acid from tryptophan, magnesium

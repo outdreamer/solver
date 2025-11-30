@@ -114,6 +114,8 @@ I. To do list
 
 		- what are useful variants of neural networks, like how 'weight encodes variable relevance/importance' so it could encode other structures of relevance like 'similarity to interface variables', or how 'weight as in a spectrum of relevance' could be replaced by alternatives like 'alternate relevance structures' like 'relevance definition structures'
 
+		- identify new graph sequences like 'graphs connecting extremes/spectrums/structures of interface variables (like graphs from simplicity to complexity, like "graphs of one interface variable and its structures connected to graphs of multiple interface variables and their structures")'
+
 
 II. Queries and Results
 
