@@ -449,12 +449,18 @@
 		- Deep networks = many layers = vanishing/exploding signals/gradients: When composing many layers, small or large weights, activations, or poor initialization can lead to gradients or activations diminishing or blowing up — making learning unstable. 
 
 	- Key Optimization Strategies & Algorithms
-		Stochastic Gradient Descent (SGD) (mini-batch)														Efficient approximate gradient descent: works with subsets of data → scalability to large datasets; reduces cost per parameter update. 
-		Momentum / (e.g., Nesterov Momentum)																Helps accelerate learning especially in presence of ill-conditioning or noisy gradients: momentum “smooths” updates, helps push through 																									shallow directions or flat regions. 
-		Adaptive learning-rate methods (e.g. Adam, RMSProp, etc.)											Adjust per-parameter (or per-dimension) learning rates dynamically — useful when different parameters have different sensitivities or 																										gradient variances. This helps deal with noisy gradients, ill-conditioning, sparse gradients, etc. 
-		Approximate/2nd-order methods (quasi-Newton, Hessian-based, often impractical)						In principle allow “smarter” steps by using curvature information (not just gradient), but in deep nets full Hessian is too large — 																										approximations are sometimes used. 
-		Careful parameter initialization																	Good initialization scales and distributions help avoid early problems (vanishing/exploding activations or gradients), set up the 																											optimization to be more stable and effective. 
-		High-level strategies: combining optimizers, pretraining, curriculum / “continuation” strategies	For very difficult tasks / models: techniques like pretraining simpler models first; gradually increasing difficulty; layering phases of 																									 optimization — to help avoid getting stuck in bad local regions and ease training.
+		Stochastic Gradient Descent (SGD) (mini-batch)														Efficient approximate gradient descent: works with subsets of data → scalability to large datasets; reduces cost per parameter 	
+																											update. 
+		Momentum / (e.g., Nesterov Momentum)																Helps accelerate learning especially in presence of ill-conditioning or noisy gradients: momentum “smooths” updates, helps push 
+																											through shallow directions or flat regions. 
+		Adaptive learning-rate methods (e.g. Adam, RMSProp, etc.)											Adjust per-parameter (or per-dimension) learning rates dynamically — useful when different parameters have different sensitivities or 
+																											gradient variances. This helps deal with noisy gradients, ill-conditioning, sparse gradients, etc. 
+		Approximate/2nd-order methods (quasi-Newton, Hessian-based, often impractical)						In principle allow “smarter” steps by using curvature information (not just gradient), but in deep nets full Hessian is too large — 
+																											approximations are sometimes used. 
+		Careful parameter initialization																	Good initialization scales and distributions help avoid early problems (vanishing/exploding activations or gradients), set up the 
+																											optimization to be more stable and effective. 
+		High-level strategies: combining optimizers, pretraining, curriculum / “continuation” strategies	For very difficult tasks / models: techniques like pretraining simpler models first; gradually increasing difficulty; layering phases
+		 																									of optimization — to help avoid getting stuck in bad local regions and ease training.
 
 	- Optimization Concepts
 		- Optimization for deep learning ≈ “search for good-enough, not perfect”: Because of non-convex, high-dimensional landscapes — we don’t aim for the global optimum. Instead, we aim for parameter settings that yield acceptable performance and generalization.
@@ -462,6 +468,7 @@
 		- Adaptive and momentum-based methods tame instability: The combination of noisy gradients, curvature problems, many parameters, etc., makes naive gradient descent brittle. Momentum and adaptive-rate algorithms smooth out some of the roughness, making training more stable and faster.
 		- Initialization & architecture design are deeply tied to optimization: Good design decisions (initial weights, layer architecture, normalization, etc.) can make the optimization problem significantly easier; bad ones can make it nearly intractable.
 		- Optimization and generalization are intertwined — not the same as pure mathematical optimization: Minimizing training cost is only a proxy; success depends on how well those parameters generalize. Thus choices (optimizer, regularization, batch size, initialization) that help optimization also must respect generalization.
+		- Deep-learning optimization isn’t about finding the perfect minimum — it’s about guiding a huge, noisy, ill-conditioned system toward stable, flat, generalizable solutions using learning-rate schedules, momentum, normalization, and good initialization.
 
 	1. Choose SGD + Momentum or Adam Unless You Have a Reason Not To
 		- SGD + momentum (or Nesterov momentum) is the default when you want: stable, predictable training, good generalization
@@ -512,4 +519,45 @@
 		- Look at: training-loss curve vs. validation-loss curve, gradient norms (exploding/vanishing?), update-to-weight ratio (“scale of steps”), learning-rate ranges test (“LR finder”)
 		- Most optimization problems reveal themselves quickly in diagnostics.
 
-	- Deep-learning optimization isn’t about finding the perfect minimum — it’s about guiding a huge, noisy, ill-conditioned system toward stable, flat, generalizable solutions using learning-rate schedules, momentum, normalization, and good initialization.
+- ConvNets
+	- A ConvNet is a neural network that uses convolution (rather than general dense matrix multiplication) in at least some layers. Convolution here means applying a small “kernel” (or filter) across the input’s grid-like structure (e.g. an image’s 2D grid of pixels, or time-series 1D grid). 
+	- The key insight: many data domains (images, audio, video, time series, etc.) naturally exhibit a grid topology (spatial, temporal, or both), and convolution exploits that structure — enabling parameter sharing and sparse connectivity. 
+	- CNNs were among the earliest deep network architectures that performed well in real-world tasks, especially in vision, and helped revive interest in deep learning. 
+
+	- Structural principles that make CNNs efficient and powerful
+		- Sparse connectivity / Local receptive fields
+			- Instead of every output unit connecting to every input (as in a dense layer), in convolution each output unit only looks at a small neighborhood (the kernel’s footprint) of the input. This “local receptive field” lets the network detect local patterns (e.g. edges, textures) efficiently. 
+			- This reduces the number of parameters dramatically (vs. a fully connected layer). It also reduces computation — convolution is much cheaper than dense matrix multiplication when inputs are large (like images). 
+		- Parameter sharing (weight tying)
+			- The same small kernel parameters are applied across all spatial locations (or times) of the input. That means the network learns only one set of parameters per filter — which is reused everywhere. This encodes a prior that useful features (e.g. an edge detector) are useful across the image, regardless of position.
+			- Parameter sharing drastically improves statistical efficiency (fewer parameters to learn) and often leads to better generalization — especially important when data is limited but inputs are high-dimensional (e.g. high-res images). 
+		- Translation equivariance / (partial) translation invariance
+			- Because of the nature of convolution + parameter sharing, if an object or pattern shifts in the input (e.g. moves a few pixels), the “feature map” output will shift in a corresponding way. The network doesn't need to learn a separate detector for every possible location. 
+			- This property makes CNNs especially well-suited for tasks where the same pattern can occur anywhere (e.g. edges, textures, object parts), and we care about what appears, not where exactly (or at least are robust to small spatial shifts).
+		- Hierarchical feature learning: from local to global
+			- By stacking multiple convolutional layers, each with local receptive fields, deeper layers effectively have a larger effective receptive field, allowing them to integrate information from increasingly larger regions of the input. That means early layers learn low-level local features (edges, gradients), while deeper layers combine them into higher-level, more global patterns (textures, shapes, object parts). 
+			- This hierarchical abstraction is a powerful inductive bias — it mirrors how natural signals (images, audio) are structured: local features combine to form more global, semantically meaningful features.
+		- Flexibility to handle variable-sized inputs
+			- Because convolution is applied locally and shared across spatial locations, CNNs can work with varying input dimensions (e.g. different image sizes, different time-series lengths), as long as the grid structure is preserved. This is much harder with a fixed-size dense (fully-connected) layer. 
+		- Efficiency (parameter- and compute-wise) → scalability
+			- The combined effect of local connectivity + parameter sharing + convolutional operations: CNNs are much more memory-efficient and computationally efficient than dense networks, for structured data like images. This efficiency makes it feasible to build very deep / wide models. 
+			- This scalability is one of the reasons why CNNs have been successful in large-scale applications (e.g. high-res image classification) — they balance expressive power with computational feasibility.
+
+	- What additional operations / features CNNs often use
+		- Pooling (or downsampling): reduces spatial resolution while summarizing local information (e.g. max-pool, average-pool). Pooling layers help build invariance to small translations or distortions and reduce computational cost in deeper layers. 
+		- Multichannel (depth) convolution: inputs (e.g. RGB image) may have multiple channels; convolution is extended to handle multiple input and output channels, enabling the network to detect more complex features (color edges, texture, combinations) — convolution becomes a tensor operation over spatial and channel dims. 
+		- Strided convolution, padding options, etc.: To control output size (resolution), receptive fields, and downsampling, CNNs often use strides (skip pixels) or padding (zero-pad borders), giving flexibility in architecture design. 
+		- Structured outputs: CNNs can output not just a classification (single label) but a full spatial map — e.g. per-pixel predictions for segmentation, object detection, or other structured tasks. This is possible because convolution preserves spatial layout. 
+
+	- What are the implicit assumptions / priors built by CNNs — when they work well (or may fail)
+		- A big assumption: locality + translation invariance is useful. The prior encoded by convolution/pooling is that features useful in one part of the input will be useful elsewhere; that local patterns matter more than global positional context. This is often correct in vision, audio, and other structured data.
+		- Because of this prior, CNNs have much smaller parameter space than fully connected nets. But that also means they are less flexible in modeling arbitrary dependencies — e.g. long-range dependencies across distant spatial locations (unless layers are deep enough, or architecture includes mechanisms to aggregate global context). In tasks requiring precise global spatial relationships, naive CNN+pooling may under-perform. Pooling/invariance trades off precise spatial information for robustness to shifts / distortions. If the task requires exact localization (e.g. fine-grained spatial prediction, detailed segmentation), too much pooling / invariance may degrade performance or lead to underfitting. The built-in bias of - CNNs means that comparing CNNs to fully-connected (or non-convolutional) models is not always fair — since CNNs are explicitly given structure (grid topology, translation invariance) that makes them much better suited for structured data. 
+
+	- Historical and conceptual significance of CNNs
+		- CNNs represent a successful integration of neuroscientific inspiration (retina / early visual cortex receptive fields) with machine learning — convolutional layers mimic “feature detectors” similar to “simple cells” and “complex cells” in biological vision systems. 
+		- Historically, CNNs were some of the first deep-network architectures that achieved real-world success — long before the deep-learning explosion of modern times. Their efficiency and practical success helped pave the way for broader acceptance of deep learning. 
+		- They illustrate a powerful design pattern: specialize your network architecture to the known structure of the data (e.g. grid, locality, invariances) — rather than treating data as generic vectors and hoping the network learns structure from scratch. That specialization (inductive bias) is what gives deep models their power in real-world tasks.
+
+	- What the CNN chapter does not prescribe — what it leaves as design decisions / trade-offs
+		- The architecture of your CNN (how many layers, how many filters, kernel sizes, pooling strategy, etc.) remains a design choice; hyper-parameters are often determined empirically. 
+		- Because convolution + pooling encodes strong priors, CNNs may underfit if the task contradicts those priors — e.g. if spatial location matters a lot, or long-range dependencies across distant input regions matter, or if invariances (like translation invariance) are harmful. The book shows convolutional operations (and their forward/backprop) in detail, but leaves broader architectural design (when to use pooling, when to downsample, how many channels, etc.) to later chapters / to practitioner decision.
