@@ -423,7 +423,7 @@
 				- avoid pollution, CBD, caffeine, peppermint, licorice, minoxidil, excess choline, corticosteroids like hydrocortisone, potasssium/salt (added salt isnt actually necessary in the diet), and other substances that can cause heart failure in normal amounts
 			- liver damage:
 				- fasting, hibiscus, artichoke, milk thistle, feverfew, beets, chicory, dandelion, celery, turmeric, ginger, grape seed, berries, decaf coffee, digestive enzymes, treat hormone imbalances like estrogen toxicity which can damage organs like the liver
-				- metabolic dysfunction-associated steatotic liver disease (MASLD): keto diet or low calorie diet
+				- metabolic dysfunction-associated steatotic liver disease (MASLD, fatty liver): keto diet or low calorie diet, avoid sorbitol
 		- adrenal problems
 			- adrenal insufficiency and related condition symptoms
 				- cortisol deficiency: severe fatigue, weakness, weight loss, hyperpigmentation, nausea, loss of appetite
