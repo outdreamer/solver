@@ -119,6 +119,8 @@ I. To do list
 
 		- what are all the relevant graph sequences to identify, like a graph sequence of 'structure to meaning', so that the meaning (as in relevance/usefulness/impact) of structures like 'mixed regularizations' can be identified for some relevance structure like 'meaning for cost function intents' so the final graph in the sequence would involve 'cost functions and their intents'
 
+		- what are all the meanings that should apply to the optimal graph of graphs, like the 'concept definition network' and the 'concept interaction network' should have a meaning of 'being on the same sub-graph' or 'connectible with a query type' or 'in a similar position' on this optimal graph of graphs, as a way of generating the optimal graph of graphs with these meaning requirements
+
 
 II. Queries and Results
 
