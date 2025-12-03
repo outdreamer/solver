@@ -121,6 +121,8 @@ I. To do list
 
 		- what are all the meanings that should apply to the optimal graph of graphs, like the 'concept definition network' and the 'concept interaction network' should have a meaning of 'being on the same sub-graph' or 'connectible with a query type' or 'in a similar position' on this optimal graph of graphs, as a way of generating the optimal graph of graphs with these meaning requirements
 
+		- what are useful graphs, like a graph that applies every workflow, like instead of applying 'trial and error' by 'trying every query of a graph', apply the workflow in the graph itself, like 'generate every query as a node in a graph', so the queries can be organized by similarities and query structures like query set areas can be identified more trivially
+
 
 II. Queries and Results
 
