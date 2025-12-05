@@ -126,6 +126,8 @@ I. To do list
 
 		- identify useful structures like relevant workflows to work around the limits of 'trivial/alternate types of inference', like how there is a limit on how much an intent network can be trivially inferred without 'trying every combination of intent similarities and checking for patterns', where structures like 'relevant graphs for intents (a definition network for "define" intents)' can be inferred, required level of specificity of intents can be inferred (like a common function and a common structure are required for each intent), different intent similarities can be inferred to generate a graph of intents (like 'positioning contradictory intents at opposing sides of the graph'), but the optimal intent network cant be trivially inferred without extending these structures until they interact, or applying relevant interface variable combinations until they interact with inferred structures, or until every combination is checked for patterns or applying some other non-trivial workflow, and identify the relevant workflows for each inference structure like an 'inference type limit', and identify the network of interface structures that is useful to connect/interact with inference structures like 'trivial inference starting points'
 
+		- what are the relevant graphs, like the 'net graph of graphs, created by the net of all similarities across graph sequences' (like the average graph of graph sequences and the intersection graphs of graph sequences)
+
 
 II. Queries and Results
 
