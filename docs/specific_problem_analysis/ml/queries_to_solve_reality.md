@@ -128,7 +128,7 @@ I. To do list
 
 		- what are the relevant graphs, like the 'net graph of graphs, created by the net of all similarities across graph sequences' (like the average graph of graph sequences and the intersection graphs of graph sequences)
 
-		- identify the graph of structures like 'variants of networks/algorithms/parameters/data sets' required to identify variables like 'complexity/variability/volatility of structures of a neural network/algorithm/parameter', and identify the 'network of optimal interactions' (like 'what structures should be constant/variable') of these network/algorithm/parameter structures
+		- identify the graph of structures like 'variants of networks/algorithms/parameters/data sets' required to identify variables like 'complexity/variability/volatility of structures of a neural network/algorithm/parameter', and identify the 'network of optimal interactions' (like 'what structures should be constant/variable') of these network/algorithm/parameter structures, and identify level of specificity required to determine the requirement/optimization networks (like 'this network, given this algorithm set and these parameter ranges'), and identify other useful graphs to connect (other than a set of 'graphs of "variable identification requirement/interaction optimization" algorithms/parameters/networks')
 
 
 II. Queries and Results
