@@ -128,6 +128,8 @@ I. To do list
 
 		- what are the relevant graphs, like the 'net graph of graphs, created by the net of all similarities across graph sequences' (like the average graph of graph sequences and the intersection graphs of graph sequences)
 
+		- identify the graph of structures like 'networks/algorithms/parameters/data sets' required to identify variables like 'complexity/variability/volatility of a neural network/algorithm/parameter'
+
 
 II. Queries and Results
 

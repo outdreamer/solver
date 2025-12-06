@@ -540,7 +540,7 @@
 					- serotonin: exercise, vitamin d, omega 3's, ashwagandha, theanine, bacopa, lemon balm, saffron, sceletium tortuosum, 5-HTP, nigella sativa, tryptophan (eggs, cheese, nuts), sunlight, SAMe, probiotics, avoid caffeine and artificial sweeteners
 					- endorphins: exercise, dark chocolate, wine, inhale lavender/citrus/rosemary/frankincense/ylang ylang
 					- nitric oxide: arginine, vitamin c, folic acid can boost nitric oxide, and beets/spinach/arugula/chicory/cabbage/cauliflower/carrots/broccoli/parsley/kale contain nitrites
-				- https://www.scientificamerican.com/article/surprising-ways-that-sunlight-might-heal-autoimmune-diseases/
+					- https://www.scientificamerican.com/article/surprising-ways-that-sunlight-might-heal-autoimmune-diseases/
 				- Supplements that boost your immune response (selenium, copper, zinc, and manganese) may worsen autoimmune attacks in MS
 					- Large doses of vitamin E and vitamin C can thin your blood, which may lead to MS complications
 					- Vitamin C: High doses of vitamin C may promote Fenton’s reaction, which can worsen inflammation in the body
@@ -567,7 +567,7 @@
 						- pumpkin seeds, purple turmeric, pearl barley, corn pistil, and cinnamon
 							- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8809074/
 				- avoid silica (found in supplements like Zeolite, Alfalfa, Bamboo, Nettle, and Horsetail which contain silica, and products like paint, toothpaste, and Fiji water) and immune stimulants (like pycnogenol)
-				- for silica-based paint fumes, use charcoal, baking soda, vinegar, water to absorb paint fumes
+					- for silica-based paint fumes, use charcoal, baking soda, vinegar, water to absorb paint fumes
 				- avoid biotin supplements which may increase disease activity
 				- use hydrocortisone to control inflammation (in small amounts to avoid heart damaage), vitamin d, b-vitamins, coq10, carnitine, probiotics, lipoic acid, gotu kola, black seed oil, gingko biloba, ginseng, curcumin, CBD (in small amounts to prevent heart attack), monolaurin
 					- https://www.frontiersin.org/files/Articles/985943/fncel-16-985943-HTML/image_m/fncel-16-985943-t001.jpg
@@ -577,7 +577,7 @@
 				- repair myelin and take nerve repair/regeneration supplements
 					- clemastine to block M1R and regenerate myelin
 						- https://medicalxpress.com/news/2024-08-drug-clock-multiple-sclerosis.html
-					- rest/melatonin, iodine, vitamin B/C/D/K2, zinc, iron, lithium, oxygen therapy, a keto diet, low-level laser therapy, phosphatidylserine, uridine, pregnenolone, ashwagandha, ginkgo biloba, lion’s mane mushroom, flavonoids (luteolin, quercetin and fisetin), omega 3s, choline/citicoline, probiotics/prebiotics, collagen
+					- rest, iodine, vitamin B/C/D/K2, zinc, iron, lithium, oxygen therapy, a keto diet, low-level laser therapy, phosphatidylserine, uridine, pregnenolone, ashwagandha, ginkgo biloba, lion’s mane mushroom, flavonoids (luteolin, quercetin and fisetin), omega 3s, choline/citicoline, probiotics/prebiotics, collagen
 					- increase brain-derived neurotrophic factor (BDNF): saffron, taurine, olive oil, vitamin b3, quercetin, decaf coffee and coffee fruit, DHEA, progesterone, blueberries, zinc, adaptogens (rhodiola, bacopa, ginseng), theanine, NAC, chocolate, lithium, magnesium, prebiotics/resistant starch, resveratrol, omega 3s, green tea, curcumin, lycopene
 					- treat other conditions that can decrease myelin like thyroid problems
 				- reduce inflammation with anti-inflammatory substances
@@ -588,7 +588,7 @@
 			- blessed thistle (cnicin) 
 				- https://scitechdaily.com/completely-new-use-discovered-this-traditional-herb-has-remarkable-nerve-regenerative-properties/
 		- hair loss: 
-			- treat dermatological problems (seborrheic dermatitis, fungal/bacterial infections), organ (adrenal/thyroid/kidney/liver) damage problems, diabetes/high blood sugar, PCOS, vitamin deficiencies (vitamin d, potassium, iodine and b-vitamins) and hormone imbalances first, then use choline, iodine, inositol, b-vitamins, multi-vitamins, collagen, biotin, ferritin, msm, pumpkin seed oil, cinnamic acid, caffeine, deoxy-d-ribose, vitamin d
+			- treat dermatological problems (seborrheic dermatitis, fungal/bacterial infections), organ (adrenal/thyroid/kidney/liver) damage problems, diabetes/high blood sugar, PCOS, vitamin deficiencies (vitamin d, potassium, iron, zinc, iodine and b-vitamins) and hormone imbalances first, then use choline, iodine, inositol, b-vitamins, multi-vitamins, collagen, biotin, ferritin, msm, pumpkin seed oil, cinnamic acid, caffeine, deoxy-d-ribose, vitamin d
 		- metabolic problems
 			- avoid air pollution containing lipopolysaccharide (LPS) and treat bacterial infections which can cause diabetes, heart disease, and liver problems through increasing lipopolysaccharide levels
 			- obesity:
