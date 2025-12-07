@@ -893,6 +893,8 @@
 						- Excessive concentrations of tyramine in blood plasma can lead to hypertensive crisis by increasing the release of norepinephrine, which causes blood vessels to constrict by activating alpha-1 adrenergic receptors, so MAOIs make this high blood pressure worse after consuming tyramine
 				- lower side effects of anxiety, like high blood pressure, with beta blockers: 
 					- Indian snakeroot, berberine, red yeast rice, hawthorn, garlic, potassium, arginine, antioxidants, Banxia Baizhu Tianma Tang, Paeoniae Rubra, Rhubarbs, Suaeda asparagoides, Nelumbo nucifera (Higenamine 4′-O-β-d-glucoside), Notopterygium incisum (Isoimperatorin), Pimpinella anisum (Trans-anethole)
+				- C. oxycantha, E. californica and magnesium
+					- https://pubmed.ncbi.nlm.nih.gov/29508154/
 				- treat multiple sclerosis, acidosis, thyroid, heart, and adrenal problems which can cause anxiety
 					- improve kidney/cardiovascular health, which results in hormone dysregulation (vasopressin, angiotensin II, adrenaline, cortisol, estrogen), which are hormones that can cause anxiety
 						- https://pmc.ncbi.nlm.nih.gov/articles/PMC3312460/ - 'The link between angiotensin II-mediated anxiety and mood disorders with NADPH oxidase-induced oxidative stress'
