@@ -845,3 +845,36 @@
 		- Autoencoders provide a flexible, neural-net-based framework for unsupervised representation learning — far more expressive than classical linear methods (e.g. PCA), and adaptable to different data types (images, audio, etc.) and constraints.
 		- Through their variants (sparse, denoising, contractive, deep), they show how carefully designed training objectives / regularizers can turn unsupervised reconstruction into feature discovery, manifold learning, denoising, compression, and pretraining — all vital tasks in modern machine learning.
 		- They lay conceptual and practical groundwork for more advanced generative models (e.g. latent-variable models, variational autoencoders, deep generative nets), by framing representation learning as compression + reconstruction with constraints/priors.
+
+- Representation Learning
+	- What is “Representation Learning”
+		- The core idea: rather than using raw features or manually-designed inputs, learn a transformation (a representation) from input data to a feature space such that subsequent learning tasks become easier. A good representation makes tasks like classification, regression, density estimation, transfer learning more efficient.
+		- The quality of a representation is judged by how much it simplifies downstream tasks (makes them easier, more data-efficient, more robust), not necessarily by reconstructing inputs perfectly. 
+		- Representations learned by deep models (or any representation learning system) allow the algorithm to share statistical strength across tasks — for example, unsupervised data can help build features that improve supervised learning. 
+	- Transfer Learning, Multi-Task & Domain Adaptation through Representations
+		- A key benefit: once you learn a representation for one task/domain, you can reuse it for other tasks — this is the idea of transfer learning or domain adaptation. For instance: learn features on a large dataset/domain P₁, then apply them in a new domain P₂ with little data. 
+		- This concept extends to zero-shot learning: if you represent not just inputs x but also tasks/classes (or modalities) as vectors in representation spaces, you can generalize to tasks or classes never seen in training, as long as their representation vector is provided. 
+		- Multimodal learning also benefits: you can learn shared or aligned representations across different data modalities (e.g. images and text), then map between them — enabling e.g. image-to-text retrieval, cross-modal generalization, etc. 
+	- What Makes a “Good” Representation — Desiderata & Hypotheses
+		- One hypothesis articulated: ideally, a representation disentangles the underlying causal factors of variation in the data. That is, different components (features) in representation space correspond to different “causes” or generative factors. 
+		- More concretely: good representations tend to satisfy some of these desirable properties:
+		- Distributed representations: rather than one-hot or symbolic representation (where each concept is a separate discrete symbol), use vectors where many features combine. This allows representing rich and combinatorial variation in a compact way. 
+		- Factorization / independence: ideally, factors of variation are independent or at least simply related; making the representation easier to model (density estimation, generative modeling, classification). 
+		- Sparsity (or selectivity): many features may be “inactive” for a given input; only a few matter — this aligns with how real-world causes tend to work (only some factors change at a time). 
+		- Manifold structure: real data often lies on a low-dimensional manifold embedded in high-dimensional ambient space; a representation should capture that manifold structure rather than the full high-dimensional ambient complexity. 
+		- Hierarchical / deep structure: many causal factors are hierarchical (abstract concepts built on simpler ones), so deep architectures can capture these hierarchical compositions better; deeper distributed representations can represent complex variation more compactly than shallow ones. 
+		- Shared factors across tasks: if multiple tasks depend on overlapping underlying factors, a shared representation lets multiple tasks benefit. 
+		- Thus — a “good” representation isn’t just a compression; it’s a structured, disentangled, reusable description of the data’s generative factors.
+	- Approaches to Learning Representations & When They Help
+		- Unsupervised / semi-supervised learning: Because labeled data are often scarce, using large amounts of unlabeled data to learn representations (which can then be fine-tuned for supervised tasks) can improve generalization and reduce overfitting. 
+		- Greedy layer-wise unsupervised pretraining: Historically, this was a key method: learn each layer (feature representation) in an unsupervised way, then stack and fine-tune for the supervised task. This let deep networks be trained before modern methods became widespread. 
+		- When it helps most: pretraining / representation learning tends to show greatest benefit when:
+		- Labeled data is scarce but unlabeled data is plentiful. 
+		- The task function is complex, making naive supervised learning prone to overfitting or requiring too many examples. 
+		- There is domain shift or a new but related task/domain — transfer learning or domain adaptation benefits strongly. 
+		- That said — representation learning doesn’t guarantee success. Whether a learned representation is helpful depends on whether its structure (features, disentanglement, invariances) matches what downstream tasks need. The representation may capture lots of information, but not necessarily the right kind.
+	- Why Representation Learning Matters
+		- It helps generalization: by focusing on underlying causes or factors rather than raw data details, models become more robust to noise, variation, and domain shift.
+		- It enables data efficiency: sharing representations across tasks, leveraging unlabeled data, reusing features — that reduces the amount of labeled data needed.
+		- It supports transfer learning, zero-shot learning, multi-task & multimodal learning: once you have a good representation space, you can more easily learn new tasks, new modalities, or relate different modalities.
+		- It reflects a plausible model of how intelligence (biological or artificial) might work: instead of memorizing every input, building structured, disentangled internal representations capturing causes.
