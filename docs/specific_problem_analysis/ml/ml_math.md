@@ -790,3 +790,58 @@
 		- Understanding the tradeoffs of simplicity vs. expressiveness: Linear models highlight the tradeoff between tractability (simple inference, closed-form solutions) and model capacity (limited ability to model complex, highly structured data). This tradeoff is central when we design deep models.
 		- Insight into how to structure latent representations: The choices about prior p(h), noise model, inference method, and decoder (linear vs. nonlinear) directly influence what kinds of representations are learned — sparse, independent, smooth/slow, low-dimensional manifold, etc. These design decisions remain relevant when building modern deep representation learning systems.
 
+	- Model	                     Prior p(h)	                Noise	              Key Objective	            Notes
+	- PCA	                       none	                      none	              max variance	            linear subspace
+	- PPCA	                     Gaussian	                  isotropic	          ML	                      probabilistic PCA
+	- FA	                       Gaussian	                  diagonal	          ML	                      general covariance
+	- ICA	                       independent, non-Gaussian	none	              maximize independence	    source separation
+	- Sparse coding	             sparse (L1)	              Gaussian	          MAP of h + ML of W	      good features, weak generator
+	- SFA	                       none	                      none	              minimize temporal change	learns invariant features
+
+	- Key Limitations Across Linear Factor Models
+	  - All models assume linear mixing → fail on nonlinear manifolds.
+	  - ICA requires data to be non-Gaussian.
+	  - Sparse coding = good reconstructions but poor generative samples (random codes don’t make coherent data).
+	  - Low flexibility → motivates nonlinear deep generative models (VAEs, flows, diffusion, deep autoencoders).
+
+- Autoencoders
+
+	- What is an Autoencoder — basic idea
+		- An autoencoder is a neural network whose goal is to reproduce its input at its output. Internally, it uses a hidden (latent) representation h = f(x) (encoder) and a reconstruction r = g(h) (decoder). 
+		- The hope is not simply to memorize the identity function, but for the autoencoder to learn a compressed (or otherwise constrained) representation h that captures “what matters” about the data distribution. 
+		- Because the representation is forced through a bottleneck or constrained in other ways, the latent code tends to capture salient structure or underlying factors rather than noise or irrelevant details. 
+	- Undercomplete vs Regularized Autoencoders — making them useful
+		- Undercomplete Autoencoders
+		- The simplest mechanism: make the hidden representation lower-dimensional than the input (i.e. dim(h) < dim(x)). This forces the model to compress — only essential information gets retained. 
+		- With typical loss (e.g., mean squared error) on reconstruction, the model tries to reconstruct inputs as well as possible — but because of the bottleneck, it must learn to encode major structure, not trivial identity. 
+		- Regularized and Overcomplete Autoencoders
+		- If the latent dimension is large (equal or greater than input), or if the network is powerful (high capacity), a plain autoencoder could simply learn to copy — yielding trivial / useless encoding. 
+		- To avoid that, one uses regularization or constraints beyond bottleneck. Examples:
+		- Sparse autoencoders: add a penalty Ω(h) (e.g. encouraging many latent units to be zero) on the code, so that only a few units are active per input. 
+		- Denoising autoencoders (DAE): instead of reconstructing the input as-is, the autoencoder is trained to reconstruct the original from a corrupted version of the input — forcing the model to learn the underlying structure and disregard noise. 
+		- Contractive autoencoders (CAE): add a penalty on the Jacobian (derivative) of the encoder output with respect to the input, encouraging the representation to be insensitive to small perturbations in input. 
+		- These regularized variants allow the autoencoder to have high capacity (overcomplete latent space, deep network) while still learning meaningful structure instead of trivial identity mapping. 
+	- What Autoencoders Learn — Manifold & Representation View
+		- When data lie near a lower-dimensional manifold in input space, a well-regularized autoencoder tends to learn a mapping that captures local coordinates on that manifold. Roughly: the encoder maps input x to latent code h that varies along the manifold directions, but is insensitive to variations orthogonal to the manifold (noise / improbable variation). 
+		- For example, a denoising autoencoder trained with Gaussian corruption + reconstruction error can implicitly estimate the score (gradient of log density) of the data distribution: the vector “reconstruction minus input” tends to point towards regions of higher data density (i.e. toward the manifold). 
+		- More intuitively: autoencoders learn a coordinate chart over the data manifold — an embedding or “code space” in which similar data points map close together. That embedding can serve as a meaningful representation for downstream tasks (classification, clustering, retrieval, etc.). 
+	- Why Depth / Nonlinearity / Capacity Matters
+		- An autoencoder need not be shallow or linear: both encoder and decoder can be deep (multiple layers). Because a deep feed-forward network with hidden layers is a universal approximator, a sufficiently deep autoencoder can approximate very complex mappings. 
+		- Depth (plus nonlinearity) allows capturing nonlinear structure in data — so that the latent representation can reflect complex manifolds / nonlinear dependencies — which linear methods (e.g. PCA) cannot. 
+		- But high capacity also risks trivial identity mapping. That’s why regularization (sparsity, contractive penalty, denoising) or architectural constraints (bottleneck) remain important to guide the autoencoder toward useful representations. 
+	- Applications & Uses of Autoencoders
+		- Autoencoders (and variants) have been applied successfully in tasks such as:
+		- Dimensionality reduction / compression — obtaining compact latent codes that nonetheless preserve most of the information needed to reconstruct inputs. 
+		- Representation learning: latent codes often capture high-level, semantically meaningful features, useful for tasks like classification, clustering, retrieval. 
+		- Denoising / noise robustness: denoising autoencoders learn to remove noise / corruptions and recover clean data, which can be very useful for image/audio preprocessing, feature extraction, etc. 
+		- Manifold learning / unsupervised discovery of structure: through regularized training, autoencoders learn the shape (manifold) of the data distribution in input space — identifying which variations are “natural” and which are noise or unlikely. 
+	Pretraining or initializing deep networks: when labeled data are limited, autoencoders can be used to learn features from unlabeled data, which can then serve as a starting point for supervised tasks. 
+	- Limitations, Trade-offs & What Autoencoders Don’t Solve
+		- If not properly regularized or constrained, an autoencoder with high capacity may simply learn the identity function — yielding a latent code h that’s no more meaningful than the input itself. 
+		- Regularization design matters: different regularizers (sparsity, contractivity, noise) bias the learned representation in different ways — you must choose based on desired properties (e.g. sparsity, robustness, smoothness).
+		- Although autoencoders can learn representations, they do not automatically define a full generative model (i.e. a clean joint probability p(x, h)) unless extended (e.g. with stochastic / probabilistic decoder & encoder). The deterministic autoencoders are mostly useful for representation learning, not sampling new data.
+		- The learned latent representation (code) depends heavily on the architecture, regularization, and training objective — there is no guarantee that it corresponds to “true meaningful causal factors.”
+	- Broader Significance & Why Autoencoders Are Important
+		- Autoencoders provide a flexible, neural-net-based framework for unsupervised representation learning — far more expressive than classical linear methods (e.g. PCA), and adaptable to different data types (images, audio, etc.) and constraints.
+		- Through their variants (sparse, denoising, contractive, deep), they show how carefully designed training objectives / regularizers can turn unsupervised reconstruction into feature discovery, manifold learning, denoising, compression, and pretraining — all vital tasks in modern machine learning.
+		- They lay conceptual and practical groundwork for more advanced generative models (e.g. latent-variable models, variational autoencoders, deep generative nets), by framing representation learning as compression + reconstruction with constraints/priors.
