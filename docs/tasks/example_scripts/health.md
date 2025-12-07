@@ -778,7 +778,7 @@
 				- most second-generation (atypical) antipsychotic medications are also considered safe in renal diseases as most of them are metabolized in the liver
 				- Caution needs to be exercised while using antipsychotic medications such as flupentixol, pimozide, trifluoperazine, and zuclopenthixol
 				- First-generation antipsychotic drugs: less likely to cause high blood sugar than second-generation drugs
-					Chlorpromazine (Thorazine) - caution for kidney damage
+					Chlorpromazine (Thorazine) - caution for kidney damage, causes a movement disorder
 					Fluphenazine (Proxlixin) - causes high blood pressure, movement disorder, liver damage
 					Haloperidol (Haldol) - safest first generation medicine, causes heart problems and movement disorder
 					Loxapine (Loxitane) - causes movement disorder, lowers white blood cells

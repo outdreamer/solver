@@ -21,8 +21,8 @@
 
 - Linear algebra concepts 
 	- Linear independence, linear combination, column space, invertibility, singularity: 
-	- For a matrix to be invertible, it must be square and have linearly independent columns (i.e. full rank). If columns are linearly dependent, the matrix is singular: inversion fails. That means some transformations collapse dimensions, lose information. This matters deeply in learning, generalization, invertibility, stability. 
-	- Invertibility, rank, pseudoinverse: useful when thinking about expressivity, reconstructing signals, solving linear systems (e.g. in least-squares, linear regression), projections; helps understand when a transformation loses information (singular), or when there are infinite solutions/no unique solution
+		- For a matrix to be invertible, it must be square and have linearly independent columns (i.e. full rank). If columns are linearly dependent, the matrix is singular: inversion fails. That means some transformations collapse dimensions, lose information. This matters deeply in learning, generalization, invertibility, stability. 
+		- Invertibility, rank, pseudoinverse: useful when thinking about expressivity, reconstructing signals, solving linear systems (e.g. in least-squares, linear regression), projections; helps understand when a transformation loses information (singular), or when there are infinite solutions/no unique solution
 	- Norms and distances (l2, matrix frobenius norm, distance between vectors): 
 		- To measure the “size” or “length” of vectors, we use norms. This is vital in ML: for regularization, measuring distances, errors, and controlling stability. Norms are used everywhere in ML: loss functions, regularization, embeddings
 		- Norms and geometry: Many ML concepts hinge on distances, lengths, angles (e.g. regularization, similarity, orthogonality, normalization). Norms allow consistent quantitative reasoning about size, magnitude, and controlling overfitting
@@ -66,9 +66,9 @@
 	- For discrete variables: PMF assigns probability to each possible state
 	- For continuous variables: PDF assigns density, and probability comes from integrating density over a region. 
 	- Joint, marginal, and conditional probability
-	- Joint distribution: P(x,y) describes probability for two (or more) variables simultaneously. 
-	- Marginalization: from joint distribution you can derive the distribution of a subset of variables
-	- Conditional probability
+		- Joint distribution: P(x,y) describes probability for two (or more) variables simultaneously. 
+		- Marginalization: from joint distribution you can derive the distribution of a subset of variables
+		- Conditional probability
 	- Chain rule (product decomposition): any joint distribution can be factored as a product of conditional probabilities
 	- Expectation, Variance, Covariance: For a random variable x, expectation gives the average under the distribution. Variance measures spread (how much values deviate from the mean), and covariance (or covariance matrix for multivariate) describes linear correlation between components. 
 	- Bernoulli distribution
@@ -86,7 +86,7 @@
 	- Kullback–Leibler (KL) divergence: measures how “different” (or “inefficient to represent”) a model distribution Q is relative to true distribution P: often used in machine learning for measuring how well a model distribution Q approximates a true (data) distribution P. It’s non-negative and equals zero only if the distributions are (almost everywhere) identical
 	- Cross-entropy (closely related to KL): is often used in ML as a loss function: minimizing cross-entropy between true labels (distribution P) and model outputs (distribution Q) is equivalent to minimizing KL divergence (when P fixed) plus a constant; so minimizing cross-entropy is often equivalent to minimizing KL divergence when fitting models. This underlies many ML training objectives (classification, density estimation)
 	- Continuous variables technicalities: when working with continuous distributions, properly handling transformations requires accounting for changes in “volume” via the determinant of the Jacobian (change-of-variables formula). This is important for correctly deriving transformed distributions, density transformations, and for advanced modeling (normalizing flows, etc.). 
-  	- Continuous Variables & Densities: For continuous random variables with density p(x), expectation/integration versions apply. Mixture models, change-of-variable formula, empirical distributions, and delta-like distributions are used to build flexible distributions: but care needed about proper density definitions. 
+  	- Continuous Variables & Densities: For continuous random variables with density p(x), expectation/integration versions apply. Mixture models, change-of-variable formula, empirical distributions, and delta-like distributions are used to build flexible distributions: but care is needed about proper density definitions. 
 
 - Probability Usage
 	- Representing uncertainty
@@ -122,7 +122,7 @@
 	  - Gradient-based optimization (first-order methods): Since many problems (e.g. training neural networks) don’t have closed-form analytic solutions, iterative optimization is used. The basic approach: use gradient descent (move in negative gradient direction) to decrease loss. Understanding gradient, curvature, Hessian, local minima/saddle points helps reason about training dynamics, convergence, stability
 	  - Derivatives: Jacobian: the Jacobian matrix captures all first partial derivatives. Hessian: the second derivatives form the Hessian (an n×n symmetric matrix); its eigenvalues describe curvature along different directions. 
 	  - Second-order (Newton-style) optimization: When the function is (locally) well approximated by a quadratic (with a positive-definite Hessian), one can use a Newton step which can converge much faster than gradient descent — sometimes in one step for a pure quadratic. Second-order methods (e.g. Newton) are powerful, but only reliable if the Hessian is positive-definite (i.e. near a genuine minimum). Near saddle points or non-convex regions, they can mislead. 
-	  - Constrained optimization (adding regularization or norm constraints): Sometimes one needs to minimize a function subject to constraints (e.g. norm bounds). A common method is to use projected gradient descent (take a gradient step, then project back into feasible region). Another, more general method uses the Karush–Kuhn–Tucker (KKT) conditions, where one introduces a Lagrangian combining objective and constraints, and optimizes both primal variables and multipliers. 
+	  - Constrained optimization (adding regularization or norm constraints): Sometimes one needs to minimize a function subject to constraints (e.g. norm bounds). A common method is to use projected gradient descent (take a gradient step, then project back into feasible region). Another, more general method uses the Karush–Kuhn–Tucker (KKT) conditions, where one introduces a Lagrangian (a strategy for finding the local maxima and minima of a function f subject to equation constraints like the the equality constraint g(x)=0, where the lagrangian(x, lagrange multiplier) = f(x) + inner product of g(x) and the lagrange multiplier, so in order to find the maximum or minimum of a function f, find the stationary points of L, where stationary points have a derivative of 0) combining objective and constraints, and optimizes both primal variables and multipliers. 
 		- Constrained optimization (e.g. weight regularization, norm constraints) is common in ML — like weight decay (norm constraints), max-norm constraints, or constrained parameter spaces (like probability distributions) — and the theory supports principled ways to handle them (projected gradients, Lagrangians, KKT)
 		- Constrained optimization, while general, can complicate both analysis and computation. Solving the Lagrangian dual may require extra care, and feasibility/constraint activation must be handled properly
 	  - Example: linear least squares — As a concrete example, minimizing 1/2 * ||Ax + b|| ^ 2 can be implemented via gradient descent (iteratively) or — because it's a quadratic function — solved directly (or via Newton’s method). This bridges classical linear algebra methods (direct solvers) and iterative gradient-based methods
@@ -147,7 +147,7 @@
 		- Ill-conditioned problems/matrices lead to unstable gradients, exploding updates, amplifying tiny numerical errors into giant deviations
 		- Clues: near-collinearity, almost-singular matrices, huge eigenvalue ratios
 	- Avoid explicit matrix inversion unless you have no other option
-		- Use solves (Ax = b) instead of x = A^{-1}b; prefer solving systems Ax=b via decomposition (QR, Cholesky) or iterative methods
+		- Use (Ax = b) instead of x = A^{-1}b; prefer solving systems Ax=b via decomposition (QR, Cholesky) or iterative methods
 		- Direct inversion magnifies numerical error unnecessarily; inversion is slow and numerically unstable
 	- Gradient descent works when curvature is unknown; Newton’s method works when curvature is trustworthy
 		- Newton-like updates assume the Hessian is locally accurate and positive-definite
@@ -186,7 +186,7 @@
 		- A model with perfect math but unstable numerics is unusable — stability is an algorithmic property, not a detail.
 	- why floating point arithmetic (finite precision) causes failures
 	  - Deep learning creates computations that geometrically involve: extreme stretching or shrinking of space (ill-conditioning), exponential cliffs and plateaus (overflow, underflow), nearly parallel vectors (cancellation), high-dimensional landscapes with mixed curvature (saddles, Hessian issues), long iterative trajectories sensitive to tiny misalignments (rounding drift)
-	  - Floating-point arithmetic provides only a coarse, discrete mesh for representing real numbers When complex high-dimensional geometry demands: ultra-fine resolution, huge dynamic ranges, delicate curvature distinctions, the mesh simply cannot capture it accurately → numerical failures
+	  - Floating-point arithmetic provides only a coarse, discrete mesh for representing real numbers, when complex high-dimensional geometry demands: ultra-fine resolution, huge dynamic ranges, delicate curvature distinctions, the mesh simply cannot capture it accurately, leading to numerical failures
 	  - Underflow & Overflow
 		- floating point oversimplifies the extreme changes of exponential functions (like exp(x), softmax, log-likelihoods) into either 0/underflow or infinity/overflow
 		- Exponential curves expand/contract distances so aggressively that numerical thresholds cannot accommodate the true shape
@@ -263,7 +263,7 @@
 		  - Unlike linear models or simpler parametric models, once you stack nonlinearities, the loss surface becomes non-convex. There is no guarantee of finding a global optimum via training
 		  - Once nonlinear activations are introduced, the loss surface becomes: High-dimensional, riddled with saddle points, Locally non-convex everywhere, Training will never behave like logistic regression or SVM optimization
 		  - As a result: initialization, optimization hyperparameters (learning rate, momentum, etc.), and training protocol matter a lot. What works well for one architecture/problem may fail for another
-		  - Many ML practitioners come from linear models (SVM, LR, least-squares regression) where the loss surface is convex → guaranteed unique optimum
+		  - Many ML practitioners come from linear models (SVM, LR, least-squares regression) where the loss surface is convex with a guaranteed unique optimum
 		  - MLP training surfaces have exponentially many saddle points, local minima, and flat regions
 		  - Initialization heavily influences the optimization trajectory
 		  - symptoms: Two runs of the same network give different performance, Loss suddenly gets stuck or drops unpredictably, Unstable training if learning rate is too high, Getting stuck in bad plateaus, Overinterpretation of training curves (“Why didn’t it converge?”)
@@ -272,22 +272,21 @@
 	   - problem: Mis-matched output layer and loss function (→ wrong probability interpretation, bad stability): Cost function and output representation choice should match the task
 		  - For classification tasks: model p(y∣x;θ) in output layer; using maximum likelihood often leads to using cross-entropy loss
 		  - For regression or real-valued outputs: choose a loss appropriate to the output distribution (e.g. mean squared error if modeling Gaussian noise) or more general distributions if needed
-		  - problem: Poorly chosen output layer & cost function
-			- Practitioners often use MSE for everything, including classification, or they use a sigmoid output but treat the result as unnormalized scores
-			- symptoms: Classification accuracy capped at ~70% even when the model should do better, Probabilities don’t sum to 1, Training unstable or incredibly slow; Slow or unstable training. Miscalibrated probabilities. Outputs incapable of representing the target distribution
-			- fix: Always design output + loss based on the statistical model of the problem. For multi-class classification → Softmax + cross-entropy, Binary classification → Sigmoid + binary cross-entropy, Regression → Linear output + MSE (or appropriate likelihood)
+		  - Practitioners often use MSE for everything, including classification, or they use a sigmoid output but treat the result as unnormalized scores
+		  - symptoms: Classification accuracy capped at ~70% even when the model should do better, Probabilities don’t sum to 1, Training unstable or incredibly slow; Slow or unstable training. Miscalibrated probabilities. Outputs incapable of representing the target distribution
+		  - fix: Always design output + loss based on the statistical model of the problem. 
 			- The output layer must match the probability model of the task. If mismatched, optimization behaves poorly or model cannot represent the right distribution
 			- Examples:
-			  Task							Correct Output Layer  	Typical Cost
-			  Multi-class classification  	Softmax			   		Cross-entropy
-			  Binary classification	   		Sigmoid			   		Log-loss
-			  Real-valued regression	  	Linear					MSE or Gaussian NLL
+				Task							Correct Output Layer  	Typical Cost
+				Multi-class classification  	Softmax			   		Cross-entropy
+				Binary classification	   		Sigmoid			   		Log-loss/binary cross-entropy
+				Real-valued regression	  		Linear					MSE (or appropriate likelihood) or Gaussian NLL
 
 	   - Be pragmatic with activation choice — no “one-size-fits-all”, but start simple
 		  - While many activation functions exist (sigmoid, tanh, “maxout”, etc.), there is no theoretically optimal choice that works everywhere
 		  - Because of that uncertainty, defaulting to a simple, well-behaved activation like ReLU is often a good starting point. If that fails (or shows poor performance), you can experiment with alternatives
-		  - problem: Choosing sigmoids/tanh without accounting for saturation (→ slow or impossible training)
-			- The classic ML literature used sigmoids everywhere, but sigmoids saturate → gradients ≈ 0 when |input| is large
+		  - problem: Choosing sigmoids/tanh without accounting for saturation (the activation functions of neurons reach their maximum or minimum values, causing gradients to approach zero), leading to slow or impossible training
+			- The classic ML literature used sigmoids everywhere, but sigmoids saturate leading to gradients ≈ 0 when |input| is large
 			- symptoms: Very slow convergence, Gradients close to zero, Hidden units “dead.”
 			- fix: Prefer ReLU variants for most modern tasks (unless domain-specific reason otherwise), Use batch normalization if sigmoids/tanh are required
 		  - problem: Using linear activations (or saturating sigmoids) in hidden layers
@@ -309,7 +308,7 @@
 		  - problem: Expecting hidden layers to learn good features automatically without proper architecture/regularization
 			- Hidden units don’t have direct supervision — only the final output does. Thus, representations can drift into: redundancies, poorly conditioned transformations, dead ReLUs, useless features
 			- symptoms: Overfitting (too many parameters without constraints). Unstable gradients. Representation collapse
-			- fix: Use architectural priors (depth, size, nonlinearities). Apply regularization:m dropout, weight decay, early stopping. Monitor activations to ensure they aren’t saturating or dying
+			- fix: Use architectural priors (depth, size, nonlinearities). Apply regularization: dropout, weight decay, early stopping. Monitor activations to ensure they aren’t saturating or dying
 			
 	   - If underfitting, increase capacity (depth/width). If overfitting, apply regularization, or reduce capacity
 		  - problem: Using too few units (→ underfitting + poor feature learning)
@@ -449,18 +448,12 @@
 		- Deep networks = many layers = vanishing/exploding signals/gradients: When composing many layers, small or large weights, activations, or poor initialization can lead to gradients or activations diminishing or blowing up — making learning unstable. 
 
 	- Key Optimization Strategies & Algorithms
-		Stochastic Gradient Descent (SGD) (mini-batch)														Efficient approximate gradient descent: works with subsets of data → scalability to large datasets; reduces cost per parameter 	
-																											update. 
-		Momentum / (e.g., Nesterov Momentum)																Helps accelerate learning especially in presence of ill-conditioning or noisy gradients: momentum “smooths” updates, helps push 
-																											through shallow directions or flat regions. 
-		Adaptive learning-rate methods (e.g. Adam, RMSProp, etc.)											Adjust per-parameter (or per-dimension) learning rates dynamically — useful when different parameters have different sensitivities or 
-																											gradient variances. This helps deal with noisy gradients, ill-conditioning, sparse gradients, etc. 
-		Approximate/2nd-order methods (quasi-Newton, Hessian-based, often impractical)						In principle allow “smarter” steps by using curvature information (not just gradient), but in deep nets full Hessian is too large — 
-																											approximations are sometimes used. 
-		Careful parameter initialization																	Good initialization scales and distributions help avoid early problems (vanishing/exploding activations or gradients), set up the 
-																											optimization to be more stable and effective. 
-		High-level strategies: combining optimizers, pretraining, curriculum / “continuation” strategies	For very difficult tasks / models: techniques like pretraining simpler models first; gradually increasing difficulty; layering phases
-		 																									of optimization — to help avoid getting stuck in bad local regions and ease training.
+		Stochastic Gradient Descent (SGD) (mini-batch)														Efficient approximate gradient descent: works with subsets of data → scalability to large datasets; reduces cost per parameter update. 
+		Momentum / (e.g., Nesterov Momentum)																Helps accelerate learning especially in presence of ill-conditioning or noisy gradients: momentum “smooths” updates, helps push through shallow directions or flat regions. 
+		Adaptive learning-rate methods (e.g. Adam, RMSProp, etc.)											Adjust per-parameter (or per-dimension) learning rates dynamically — useful when different parameters have different sensitivities or gradient variances. This helps deal with noisy gradients, ill-conditioning, sparse gradients, etc. 
+		Approximate/2nd-order methods (quasi-Newton, Hessian-based, often impractical)						In principle allow “smarter” steps by using curvature information (not just gradient), but in deep nets full Hessian is too large — approximations are sometimes used. 
+		Careful parameter initialization																	Good initialization scales and distributions help avoid early problems (vanishing/exploding activations or gradients), set up the optimization to be more stable and effective. 
+		High-level strategies: combining optimizers, pretraining, curriculum / “continuation” strategies	For very difficult tasks / models: techniques like pretraining simpler models first; gradually increasing difficulty; layering phases of optimization — to help avoid getting stuck in bad local regions and ease training.
 
 	- Optimization Concepts
 		- Optimization for deep learning ≈ “search for good-enough, not perfect”: Because of non-convex, high-dimensional landscapes — we don’t aim for the global optimum. Instead, we aim for parameter settings that yield acceptable performance and generalization.
