@@ -878,3 +878,47 @@
 		- It enables data efficiency: sharing representations across tasks, leveraging unlabeled data, reusing features — that reduces the amount of labeled data needed.
 		- It supports transfer learning, zero-shot learning, multi-task & multimodal learning: once you have a good representation space, you can more easily learn new tasks, new modalities, or relate different modalities.
 		- It reflects a plausible model of how intelligence (biological or artificial) might work: instead of memorizing every input, building structured, disentangled internal representations capturing causes.
+
+- Graphical Models
+	- What is a Graphical Model
+		- A structured probabilistic model (graphical model) represents a probability distribution over many random variables by using a graph: nodes = variables, edges = direct dependencies. This lets us describe complex high-dimensional distributions much more compactly than a naive “full joint table.” 
+		- Without structure, representing a joint distribution over many discrete variables would require a table whose size grows exponentially with the number of variables — which is generally infeasible for high-dimensional data like images, audio, or text. 
+		- Graphical models provide a language / abstraction for expressing which variables directly influence which, and which are conditionally independent — letting us formalize assumptions about structure (e.g. causality, independence, locality) to tame complexity. 
+		- In practice: by encoding conditional independence via graph sparsity (few edges per node), we avoid combinatorial explosion in parameters — making modeling, inference, and sampling tractable (or at least tractable-ish) relative to the full joint. 
+	- Types of Graphical Models: Directed vs Undirected vs Factor Graphs
+		- Graphical models come in (at least) two major flavors:
+		- Directed models (a.k.a. Bayesian networks, belief networks): edges are arrows, expressing conditional distributions. E.g. a variable’s value depends on its “parent” variables. 
+		- Undirected models (a.k.a. Markov random fields / Markov networks): edges have no direction, representing symmetrical interaction (no “parent → child” semantics). The joint distribution is defined via clique potentials / factors. 
+		- Factor graphs: a bipartite representation that makes explicit the “factors” (potentials) and which variables each factor depends on — resolving some ambiguity of clique-based undirected representations. 
+		- Which type you choose depends on the problem: directed when there's a natural “causal” or sequential interpretation; undirected when interactions are symmetric or not clearly directional. 
+	- Why Graphical Models Help: Inference & Sampling via Structure
+		- Because the graph encodes dependencies explicitly, we can exploit the structure to:
+		- Perform efficient sampling — for directed models: ancestral sampling: sample variables in a topological order, each conditioned only on its parents. 
+		- Use approximate inference algorithms (e.g. variational inference, Gibbs sampling, message passing) when exact marginalization is intractable. Graph structure can make these tasks much more manageable than with naïve joint distributions. 
+		- Keep models modular and interpretable: separating representation of knowledge/structure (graph) from learning/inference algorithms. That makes it easier to design, debug, extend, or reuse parts of models — rather than building a monolithic “everything at once” system. 
+	- Role of Latent Variables — Capturing Hidden Structure & Representations
+		- A major use case: introduce latent (hidden) variables to model unobserved factors, dependencies, or structure. This has multiple benefits:
+		- Latent variables enable indirect interactions among observables: even if observed variables are not directly connected, they can become dependent via shared latent parents. This lets us express complex marginal distributions over observed variables while maintaining a simpler graph. 
+		- Latent variables also provide a representation of data — much like in representation learning: the hidden variables can encode abstract, higher-level features, clusters, mixture components, etc., which might correspond to semantic / structural aspects of data. 
+		- This matches well with the goals of deep learning: latent-variable graphical models can serve as generative models (sample new data), density estimators, or feature learners — depending on design. 
+		- In short: graphical models with latent variables give a probabilistic, structured way to capture unobserved / abstract factors underlying observed high-dimensional data.
+	- Challenges & Limitations — What Graphical Modeling Cannot Solve Easily
+		- Even with structured graphs, exact inference (marginals, posterior distributions, partition functions) often remains intractable — especially for large models with many variables. For many interesting real-world distributions this is #P-hard. 
+		- In undirected models, computing the partition function (normalization constant) often involves summing/integrating over exponentially many states — typically intractable, forcing approximate methods. 
+		- Graphical models only encode some independences (those expressible by edges/structure). They cannot always express context-specific independences (i.e. conditional independences that hold only under certain variable values), or arbitrarily complex dependencies. Graph structure may impose either too few or too many constraints relative to the real data distribution. 
+		- There's a design tradeoff: making the graph too sparse → might fail to capture needed dependencies; making it too dense → makes inference & learning intractable. Finding the “right” structure (edges, latent variables) is non-trivial, especially for complex data. 
+		- Thus — while graphical models offer powerful abstraction and tractability advantages, they still struggle (in many realistic settings) to both model complexity and allow tractable inference.
+	- How Modern Deep Learning Uses Graphical Models
+		- The chapter argues that deep learning practitioners often use graphical-model ideas, but combine them with other design principles — resulting in models quite different from classical “PGM (probabilistic graphical model)” traditions. 
+		-  Key points:
+		- Deep-learning–style generative models often use layers of latent variables, but usually only a single layer of latent variables (or a few), rather than deeply nested latent hierarchies in terms of the graphical model structure. Instead, “depth” comes from the computational graph (neural network), not the probabilistic graph. 
+		- Connectivity tends to be dense and distributed: typically, each visible unit is connected to many latent units — unlike classical sparse-graph PGMs. This dense, matrix-based connectivity facilitates efficient computation (matrix multiplications, GPUs), but generally makes exact inference or belief propagation impractical.
+		- As a result, classical inference algorithms for PGMs (exact inference, belief propagation) are often not used in deep learning. Instead, we rely on approximate inference (variational inference, Gibbs sampling, approximate gradients) — or we design models so latent variable inference is simpler (e.g. factorial posteriors, conditional independence). 
+		- A canonical example: the Restricted Boltzmann Machine (RBM) — an undirected, energy-based model with visible and hidden units, connected densely across layers, with no visible-visible or hidden-hidden connections. That structure ensures conditional independence between units in same layer given the other layer, allowing efficient Gibbs sampling and relatively tractable training. 
+		- Deep learning emphasizes “distributed latent representations” learned from data (not necessarily interpretable by humans) rather than manually designed probabilistic graphical structures. The goal is flexibility, scalability, and reusability across tasks — even at the cost of intractable exact inference.
+		- Thus — graphical models remain a core conceptual tool, but deep learning blends them with neural-net architectures, approximate inference, and high-capacity parameterizations to scale to very complex data/distributions.
+	- Why This Matters: What Graphical Models Bring to Deep Learning & ML
+		- Graphical models provide a formal, interpretable language to articulate assumptions about independence, latent structure, and causal (or correlational) relationships. That helps in model design, analysis, and communication.
+		- They ground generative modeling: if you want to model full data distributions (not just predict labels), sample new data, estimate densities — graphical models (especially with latent variables) give a principled way to do so.
+		- They show trade-offs and limitations clearly: which dependences you model, what you assume independent, whether inference is tractable. This helps to reason about when probabilistic modeling is feasible, and when approximations are necessary.
+		- Combining graphical models with neural networks (deep models) leverages strengths of both — structured probabilistic semantics + expressive function approximation + scalable computation — enabling modern generative models, unsupervised learning, representation learning, and hybrid probabilistic-neural approaches.
