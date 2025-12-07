@@ -779,33 +779,33 @@
 				- Caution needs to be exercised while using antipsychotic medications such as flupentixol, pimozide, trifluoperazine, and zuclopenthixol
 				- First-generation antipsychotic drugs: less likely to cause high blood sugar than second-generation drugs
 					Chlorpromazine (Thorazine) - caution for kidney damage
-					Fluphenazine (Proxlixin)
-					Haloperidol (Haldol) - safest first generation medicine
-					Loxapine (Loxitane)
-					Perphenazine (Trilafon)
-					Pimozide (Orap)
-					Thioridazine (Mellaril)
-					Thiothixene (Navane)
-					Trifluoperazine (Stelazine)
+					Fluphenazine (Proxlixin) - causes high blood pressure, movement disorder, liver damage
+					Haloperidol (Haldol) - safest first generation medicine, causes heart problems and movement disorder
+					Loxapine (Loxitane) - causes movement disorder, lowers white blood cells
+					Perphenazine (Trilafon) - causes heart problems, high blood sugar, movement disorder
+					Pimozide (Orap) - causes heart problems, movement disorder
+					Thioridazine (Mellaril) - causes heart problems, low white blood cells, movement disorder
+					Thiothixene (Navane) - causes high blood sugar, movement disorder
+					Trifluoperazine (Stelazine) - causes liver problems, lowers white blood cells, movement disorder
 				- Newer antipsychotic drugs
-					Amisulpride - needs to be avoided in kidney disease, causes high blood pressure
-					Aripiprazole (Abilify) - causes anxiety
-					Asenapine (Saphris) - poorly studied in kidney disease, raises blood sugar
+					Amisulpride - needs to be avoided in kidney disease, causes high blood pressure, causes high blood sugar
+					Aripiprazole (Abilify) - causes anxiety, causes high blood sugar
+					Asenapine (Saphris) - poorly studied in kidney disease, causes high blood sugar
 					Brexpiprazole (Rexulti) - causes high blood sugar
 					Cariprazine (Vraylar) - causes high blood sugar
-					Clozapine (Clozaril) - not for kidney damage patients, excreted by kidney
-					Iloperidone (Fanapt) - excreted by kidney
+					Clozapine (Clozaril) - not for kidney damage patients, excreted by kidney, causes high blood sugar
+					Iloperidone (Fanapt) - excreted by kidney, causes high blood sugar
 					Lumateperone (Caplyta) - causes high blood sugar
-					Lurasidone (Latuda) - caution for kidney damage, causes anxiety, causes high blood pressure
+					Lurasidone (Latuda) - caution for kidney damage, causes anxiety, causes high blood pressure, causes high blood sugar
 						- lurasidone may improve glucose and cholesterol levels, making it another suitable choice for patients at risk of diabetes
 						- lurasidone is less likely to cause high blood sugar levels in most patients, but hyperosmolar hyperglycemic syndrome may occur
-					Olanzapine (Zyprexa) - excreted by kidney
-					Olanzapine/samidorphan (Lybalvi) - excreted by kidney
-					Paliperidone (Invega) - excreted by kidney
-					Quetiapine (Seroquel) - causes a movement disorder, excreted by kidney
+					Olanzapine (Zyprexa) - excreted by kidney, causes high blood sugar
+					Olanzapine/samidorphan (Lybalvi) - excreted by kidney, causes high blood sugar
+					Paliperidone (Invega) - excreted by kidney, causes high blood sugar
+					Quetiapine (Seroquel) - causes a movement disorder, excreted by kidney, causes high blood sugar
 					Risperidone (Risperdal) - excreted by kidney, increases blood sugar
-					Ziprasidone (Geodon) - caution for kidney damage
-					Milnacipran - causes high blood pressure
+					Ziprasidone (Geodon) - caution for kidney damage, causes high blood sugar
+					Milnacipran - causes high blood pressure, anxiety
 					Cobenfy - causes high blood pressure
 					- d-serine may cause kidney damage, may either increase or reduce anxiety
 					- daao inhibitor to increase d-serine: risperidone, sodium benzoate, luvadaxistat
