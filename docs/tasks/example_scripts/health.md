@@ -908,7 +908,7 @@
 					- binds to GABA receptors: chinese skullcap
 					- inhibits GABA breakdown: valerian
 					- positive allosteric modulators of the GABAA receptor: eugenol, chamomile/apigenin, chamomile/luteolin, EGCG, thymol, nicotinamide, valerian, lavender
-					- avoid GABA antagonists: ginkgo biloba, kudzu, thujone (sage, mugwort, oregano, mint, wormwood, yarrow)
+					- avoid GABA antagonists: ginkgo biloba, kudzu, thujone (sage, mugwort, oregano, mint, wormwood, yarrow), caffeine
 				- decrease glutamate: cold, omega 3's, magnesium, vitamin b6/c/e, zinc, theanine, taurine, resveratrol, turmeric, NAC, avoid MSG/aspartame/caffeine
 				- decrease cortisol: lavender, magnesium, theanine, schisandra, olive oil, phosphatidylserine, ashwagandha, rhodiola, magnolia, bacopa, lemon balm, holy basil, betaine, l-ornithine, malaysian ginseng, choline, astragalus, turmeric, zinc, maca, whey protein, inositol, st johns wort, passionflower (an MAOI), lion's mane, valerian, GABA, chamomile, melatonin, omega 3's, vitamin c/d/e/b5/b6/b12, coq10, glutathione, NAC, probiotics, bright light therapy, transcranial direct current stimulation, transcranial magnetic stimulation, ginkgo biloba, chinese skullcap, avoiding caffeine/refined carbs/alcohol/smoking which cause high cortisol, also low cholesterol is associated with lower cortisol
     		    - decrease norepinephrine/adrenaline: glycine, kava, panax ginseng, holy basil, ashwagandha, astragalus, licorice, rhodiola, cordyceps, black/green tea, indian snakeroot, avoid tyramine
