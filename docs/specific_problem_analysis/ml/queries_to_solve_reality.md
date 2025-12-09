@@ -143,7 +143,8 @@ I. To do list
 
 		- identify useful graphs like by filtering the set of all possible accuracy-increasing networks by accuracy type/thresholds (like 'not increasing accuracy above a percentage') and accuracy cause (like 'not increasing accuracy because it connects all the input data set points') and valid accuracy algorithms like 'identify principal components, then fine-tune up to an accuracy threshold' and other accuracy interface structures
 
-		- identify useful graphs to connect, like how a set of constants (what is true) is useful to connect to different subsets of unfilterable possibilities (what could be true) and connect these possibility sets to extended conditions (what would be true, if the possibility set was true) and connect these conditions to requirements (what should be true or what would be useful if true), which is a useful graph sequence
+		- identify useful graphs to connect, like how a set of constants (what is true) is useful to connect to different subsets of unfilterable possibilities (what could be true) and connect these possibility sets to extended conditions (what would be true, if the possibility set was true) and connect these conditions to requirements (what should be true or what would be useful if true), which is a useful graph sequence for testing various possible realities
+			- similarly, 'extensions of definitions' (applying definitions or variants of definitions until they cant be applied further as they hit a limit) is a useful graph to integrate with this truth/possibility/conditional possibility/requirement graph
 
 
 II. Queries and Results
