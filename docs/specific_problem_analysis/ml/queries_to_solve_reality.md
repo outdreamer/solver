@@ -146,6 +146,8 @@ I. To do list
 		- identify useful graphs to connect, like how a set of constants (what is true) is useful to connect to different subsets of unfilterable possibilities (what could be true) and connect these possibility sets to extended conditions (what would be true, if the possibility set was true) and connect these conditions to requirements (what should be true or what would be useful if true), which is a useful graph sequence for testing various possible realities
 			- similarly, 'extensions of definitions' (applying definitions or variants of definitions until they cant be applied further as they hit a limit) is a useful graph to integrate with this truth/possibility/conditional possibility/requirement graph
 
+		- identify useful graphs like graphs with overlapping layers between related areas/points/structures (like regularization points and normalization points) and identify composable/combinable impact/meaning graphs like graphs of loss function-polynomial impact vectors and graphs of data set-polynomial impact vectors (where small vectors/changes in a data set have no impact on the polynomial, given other variables like regularization) to identify areas/points/structures of impact limits/structures like combinations of parameters/algorithms/data sets with 'limited impact on a polynomial'
+
 
 II. Queries and Results
 
