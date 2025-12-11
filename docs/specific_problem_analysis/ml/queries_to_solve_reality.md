@@ -148,6 +148,9 @@ I. To do list
 
 		- identify useful graphs like graphs with overlapping layers between related areas/points/structures (like regularization points and normalization points) and identify composable/combinable impact/meaning graphs like graphs of loss function-polynomial impact vectors and graphs of data set-polynomial impact vectors (where small vectors/changes in a data set have no impact on the polynomial, given other variables like regularization) to identify areas/points/structures of impact limits/structures like combinations of parameters/algorithms/data sets with 'limited impact on a polynomial'
 
+		- identify useful variants of neural networks, like networks with static weight combinations (like how one node in a set of local nodes is weighted as more important than the surrounding nodes which represents an abstraction of the surrounding nodes, so that abstractions fit into these more important nodes in each set and the surrounding nodes fit specifications of the abstraction)
+			- identify useful graph sequences to generate neural network types, like identifying 'organization of nodes by similarity' as a useful general graph intent, then identifying 'fixed weighting' as a way to organize a network and specifically to identify interface structures like 'abstractions'
+
 
 II. Queries and Results
 
