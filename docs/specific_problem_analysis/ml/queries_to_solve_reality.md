@@ -151,6 +151,8 @@ I. To do list
 		- identify useful variants of neural networks, like networks with static weight combinations (like how one node in a set of local nodes is weighted as more important than the surrounding nodes which represents an abstraction of the surrounding nodes, so that abstractions fit into these more important nodes in each set and the surrounding nodes fit specifications of the abstraction)
 			- identify useful graph sequences to generate neural network types, like identifying 'organization of nodes by similarity' as a useful general graph intent, then identifying 'fixed weighting' as a way to organize a network and specifically to identify interface structures like 'abstractions'
 
+		- identify relevant sets of rules like 'pairs of coordinating/otherwise similar "filtering/generating" graph rules' (like 'generate maximally different (unique) structures' and 'only some fraction of structures needs to be represented in a graph, given that the opposite structures of a set of structures are one trivial transform away, so only the original unique set needs to be represented in the graph' which filters the generated structures by a definition of uniqueness, which is a 'coordinating' rule set) and identify symmetries/similarities in rules like 'reversible rule sequences' to identify maximally different rule sequences which can form the basis of a neural network that encodes/applies these maximally different rule sequences
+
 
 II. Queries and Results
 
