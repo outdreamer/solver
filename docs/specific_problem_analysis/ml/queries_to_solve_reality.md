@@ -155,7 +155,7 @@ I. To do list
 
 		- identify the cause of why parameter-assigning functions create cost functions for neural networks, like the parameter-assigning function takes the form of a polynomial that when its parameters are increased, creates various different wave functions with similar properties, which is why the cost function has multiple local minima near the sections of parameters where the wave function shape occurs, which is an example of an increasing parameter like rank with a similar periodic function shape like a wave, and identify rules of how these parameter-assigning functions can create cost functions depending on whether their output function has a shape like the data set or not, since a function that periodically generates a wave function will have similar levels of correctness (like similar minima) at similar/adjacent ranks of waves
 
-		- identify rules like 'any algorithm that filters any set of solutions/errors is the general variant of a "polynomial/weight-guessing function followed by a cost evaluation function"' which can generate neural network algorithm variants
+		- identify rules like 'any algorithm that filters any set of solutions/errors (which means that any sufficiently different set of functions is likely to contain a solution function) is the general variant of a "solution polynomial/weight-guessing function followed by a cost-evaluation function and an error-assigning function"' which can generate neural network algorithm variants
 			- identify rules like 'identify solutions (like "increase non-linearity") to the causes of error like a "non-linearity/linearity mismatch" rather than just identifying the error and its size' which can generate neural network algorithm variants
 
 
