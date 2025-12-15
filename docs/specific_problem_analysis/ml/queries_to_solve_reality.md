@@ -166,6 +166,8 @@ I. To do list
 
 		- identify different descriptions (like 'filtering trivial changes') of solutions like 'regularization' to neural network errors like 'overfitting' that can generate different solutions to prevent the errors, similar to how different descriptions of regression like 'filtering outliers' and 'applying averages of high/low limit points' generate different regression solutions, and identify the different structures of sets of overfitting solutions that are coordinating/canceling (like 'degrees of regularization/normalization which are coordinating/canceling, given common starting guessed polynomial types and common solution polynomial types')
 
+		- identify relevant structures like 'convolutions/spectrums of interface structures and graphs' like by identifying iterated interface structures like 'volatility of simplicity' and 'volatility limits of variational simplicity' and 'volatility errors of variational simplicity' and connecting these to all relevant interface graphs like 'graphs of intents' and 'graphs of graphs' in a 'spectrum of relevance/reality', like starting by connecting these structures by 'interface similarities' and then connecting them to 'specifying/relevant graphs' like 'intent graphs'
+		
 
 II. Queries and Results
 
