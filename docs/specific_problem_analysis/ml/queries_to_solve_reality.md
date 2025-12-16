@@ -171,6 +171,8 @@ I. To do list
 
 		- identify all the relevant interactions between low/high dimensional structures (like low dimensional spectrums/points/subsets/queries compared to a high dimensional graph) like 'relevant numbers of dimensions' and identify the low dimensional structures (like 'average/change/intersection points') of all relevant high dimensional structures like 'relevant graphs' to implement intents like 'summarize'
 
+		- identify all relevant (maximally different) graphs since these graphs can be used to generate different neural networks/algorithms, like how the 'intersecting spectrum graph' can be used to identify a function's optimal variants by selecting a set of orthogonal spectrums and identifying a function's optimal position on each of the orthogonal spectrums iteratively, given that independent variables are useful to apply as limiting/opposing/specifying variables to identify a more complete function than one variable can identify, and identify usages of these graphs which are optimal, like 'sequences of spectrums' to apply with the 'intersecting spectrum graph'
+
 
 II. Queries and Results
 
