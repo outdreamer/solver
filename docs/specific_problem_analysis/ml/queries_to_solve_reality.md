@@ -173,6 +173,8 @@ I. To do list
 
 		- identify all relevant (maximally different) graphs and identify what these graphs are most useful for, which can be applied to generate different neural networks/algorithms, like how the 'intersecting spectrum graph' is useful for identifying sets of independent/orthogonal variables and identifying optimal points on intersecting spectrums, where these independent variable sets or optimal points can be used to identify a function's optimal variants by selecting a set of orthogonal spectrums and identifying a function's optimal position on each of the orthogonal spectrums iteratively or iteratively moving a function near an optimal point on a set of intersecting spectrums, given that independent variables are useful to apply as limiting/opposing/specifying variables to identify a more complete function than one variable can identify, and identify usages of these graphs which are optimal, like 'sequences of spectrums or optimal points' to apply with the 'intersecting spectrum graph'
 
+		- identify all the relevant graphs of a graph, like an 'interpretation/parsing graph of a graph that interprets the relevance/meaning of local changes in the graph' and a 'representation graph that summarizes the graph'
+
 
 II. Queries and Results
 
