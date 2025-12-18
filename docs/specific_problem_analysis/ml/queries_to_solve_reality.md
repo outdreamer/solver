@@ -175,6 +175,8 @@ I. To do list
 
 		- identify all the relevant graphs of a graph, like an 'interpretation/parsing graph of a graph that interprets the relevance/meaning of local changes in the graph' and a 'representation graph that summarizes the graph'
 
+		- identify the useful similarities to implement search intents, like embedded intersecting sorted spectrums on sorted spectrums, where any spectrum can be a 1-to-1 map as well, and spectrums represent interface variables like requirement/type/cause
+
 
 II. Queries and Results
 
