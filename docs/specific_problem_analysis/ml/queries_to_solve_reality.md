@@ -177,6 +177,8 @@ I. To do list
 
 		- identify the useful similarities to implement search intents, like embedded intersecting sorted spectrums on sorted spectrums, where any spectrum can be a 1-to-1 map as well, and spectrums represent interface variables like requirement/type/cause
 
+		- identify all relevant targets/limits that can be applied in training a neural network, like how 'aligned error minimums across different error types/functions' can be applied as a target for variable changes and 'combined error thresholds across error types/functions' can be applied as a limit for variable changes during training
+
 
 II. Queries and Results
 
