@@ -182,6 +182,8 @@ I. To do list
 
 		- identify all useful rules to apply when navigating a 'graph of known error structures applied as limits' like 'change direction when approaching an error from n steps away, to the nearest direction with an error m steps away'
 
+		- identify relevant graphs applied to graphs like applying a 'graph of graphs' to the 'intersecting spectrum graph' so each spectrum is a spectrum of graphs, to apply useful structures of the intersecting spectrum graph like 'optimal points' to identify 'optimal complexity graphs' for example
+
 
 II. Queries and Results
 
