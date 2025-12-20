@@ -184,6 +184,8 @@ I. To do list
 
 		- identify relevant graphs applied to graphs like applying a 'graph of graphs' to the 'intersecting spectrum graph' so each spectrum is a spectrum of graphs, to apply useful structures of the intersecting spectrum graph like 'optimal points' to identify 'optimal complexity graphs' for example
 
+		- identify variants of neural networks like how neural networks are networks of 'nodes representing changes/generations and filters' to vary it like by applying 'nodes which are only changes' and 'nodes which are only filters' or 'nodes with variable change/filtering functions' or 'node sequences of optimized change/filter type interactions like applying a change of one type in one network layer, followed by a filter type layer for that change type'
+
 
 II. Queries and Results
 
