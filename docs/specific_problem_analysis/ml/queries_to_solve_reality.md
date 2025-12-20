@@ -179,6 +179,8 @@ I. To do list
 
 		- identify all relevant targets/limits that can be applied in training a neural network, like how 'aligned error minimums across different error types/functions' can be applied as a target for variable changes and 'combined error thresholds across error types/functions' can be applied as a limit for variable changes during training
 
+		- identify all useful rules to apply when navigating a 'graph of known error structures applied as limits' like 'change direction when approaching an error from n steps away, to the nearest direction with an error m steps away'
+
 
 II. Queries and Results
 
