@@ -887,6 +887,40 @@
 					- HDAC inhibitors also inhibit the function of accumbal ΔFosB by inducing G9a expression in the nucleus accumbens after prolonged use
 					- HDAC inhibitors include sulforaphane, curcumin, genistein, and cinnamon
 						- https://pmc.ncbi.nlm.nih.gov/articles/PMC3092901/
+				- brain pathways involved in anxiety
+					- https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1609145/full
+					- The basolateral amygdala to the central amygdala (BLA-CeA) pathway plays a crucial role in emotional memory and exhibit anxiolytic effects
+					- Additionally, the amygdala forms extensive connections with BNST, ventral hippocampus (vHPC), and medial prefrontal cortex (mPFC), establishing essential neural circuits that underlie the expression of anxiety-like behaviors and emotional memory
+					- Notably, studies indicate that activation of the BLA-vHPC pathway increases anxiety-like behaviors, whereas its inhibition exerts anxiolytic effects 
+					- The BNST is another key region implicated in anxiety disorders, with its subregions, including its subregions-the oval nucleus (ov) of the BNST (ovBNST), the anterodorsal of the BNST (adBNST) and the ventrolateral BNST (vlBNST), also plays a central role in the development of anxiety disorders 
+					- Notably, the ovBNST and adBNST exhibit opposing roles in modulating anxiety
+					- Previous optogenetic studies revealed that inhibition of the ovBNST produced anxiolytic effects
+					- Reducing BLA fiber terminal activity in the adBNST increased anxiety-like behaviors 
+					- Many promising anxiolytic drugs in this category, such as buspirone, ipsapirone, gepirone, and SM-3997 (Feighner and Boyer, 1989), demonstrate high selectivity for these 5-HT1A receptor subtypes and show strong potential for clinical application
+					- Specifically, the anxiolytic effects of selective 5-HT1A receptor partial agonists may depend not only on their agonist properties but also on potential antagonistic actions
+					- Beyond monoaminergic systems, glutamatergic modulation has emerged as a promising frontier
+					- Drugs targeting the glutamatergic system, particularly NMDA receptors, have also shown promise
+					- Ketamine, a non-competitive NMDA receptors antagonist, has gained attention for its rapid and robust anxiolytic effects in reducing treatment-resistant anxiety
+					- Pharmacological inhibition of these presynaptic receptors, such as those with CGP36216, reduces the activity of LHb neurons, resulting in increased dopamine (DA) and serotonin (5-HT) in the BLA, producing anxiolytic effects
+					- Notably, systemic activation of KORs has been found to block the anxiolytic effects mediated by the BLA-BNST circuit in the OFT, further emphasizing their role in anxiety regulation 
+					- Studies indicate that reducing glutamatergic signaling via mGlUR agonists can mitigate HPA axis overactivation, producing anxiolytic effects 
+					- Conversely, the ovBNST is linked to anxiogenic processes, actively intensifying anxiety by either inhibiting adBNST activity or through direct connections with anxiety-related structures such as the central amygdala (CeA) 
+					- Neural projections from the BLA to the vHPC directly influence the expression of anxiety-like behaviors in response to anxiogenic stimulus, as demonstrated by the EPMT and OFT
+					- Furthermore, dopamine neurons projecting from the VTA to the BLA modulate anxiety-like behaviors, as altering their activity changes exploration in anxiogenic environments
+					- This information is transmitted to the prelimbic cortex (PL) in the PFC, often through synchronized neural activity, particularly theta waves, which synchronize during exposure to anxiogenic contexts and correlate with anxiety-like behavioral states
+					- Lastly, neural projections from the ventral CA1 (vCA1) region of the HPC to the lateral hypothalamic area (LHA) rapidly modulate avoidance behavior in anxiogenic environments through glutamate-producing neurons
+					- By influencing neuronal firing in limbic and septal regions, 5-HT1A agonists can modulate both anxiogenic processes and hypothalamic neurotransmission relevant to anxiety regulation 
+					- Presynaptic GABAB receptor inhibition in LHb increases DA and 5-HT release in the BLA, promoting anxiolytic effects, while postsynaptic GABAB receptor inhibition decreases DA and 5-HT release, leading to anxiogenic effects.
+					- The septohippocampal axis, which heavily involves the HPC, is another crucial system in stress-induced anxiety, balancing opposing anxiolytic and anxiogenic processes
+					- By influencing neuronal firing in limbic and septal regions, 5-HT1A agonists can modulate both anxiogenic processes and hypothalamic neurotransmission relevant to anxiety regulation
+					- Benzodiazepines act on the GABA-A receptor to increase chloride channel opening the rate of opening of the chloride channel, resulting in excessive hyperpolarization of the postsynaptic neuron
+					- This reduces neuronal excitability and leads to decreased anxiety-like behaviors
+					- In human, dysregulated GABAergic signaling is implicated in pathological anxiety states, and benzodiazepines restore inhibitory tone by amplifying endogenous GABA effects 
+					- Benzodiazepines amplify GABA’s impact, offering rapid anxiety relief by modulating inhibitory neurotransmitters 
+					- Selective serotonin reuptake inhibitors (SSRIs) elevate serotonin levels in the synaptic cleft by blocking the serotonin, contributing to alleviate anxiety symptoms via the serotonin system
+					- The 5-HT1A receptor exists as both autoreceptors on serotonergic neurons in the raphe nucleus and heteroreceptors on non-serotonin-containing neurons in forebrain regions such as the septum, hippocampus, or cortex
+					- Activation of these two types of receptor typically induces membrane hyperpolarization via G protein-gated inwardly rectifying potassium channels, reducing neuronal excitability
+					- This is particularly significant in the dorsal raphe nucleus, a key site for serotonergic regulation
 				- inhibit MAO (MAOIs/RIMAs): passionflower, ginger, turmeric, resveratrol, ginkgo biloba, licorice, rhodiola, quercetin, st. john's wort, Syrian rue, ayahuasca, nutmeg, kava, Acacetin derivative, Agastache rugosa, Angelica decursiva, Angelica gigas, Angelica keiskei, Angelica pubescens, Banisteriopsis caapi, Calea urticifolia, Cassia obtusifolia, Chironia krebsii, Cirsium maacki, Clausena anisum-olens, Clitocybe illudens, Colvillea racemosa, Coptis japonica, Crossyne guttata, Curcuma longa, Cytisus villosus, Desmonium elegans, Diaporthe mahothocarpus, Dictamnus albus, Diverse vendors, Ecklonia stolonifera, Eisenia bicyclis, Elaphoglossum paleaceum, Evodia rutaecarpa, Garcinia gardneriana, Garcinia gerrardii, Geijera parviflora, Gentiana kochiana, Gentiana lactea, Gentiana lutea, Gentina lutea, Glycine max, Hypericum afrum, Hypericum aucheri, Hypericum brasiliense, Hypericum hircinum, Juglans, Lithospermum erythrorhizon, Lonicera japonica, Lonicera macranthoides, Maackia amurensis, Nicotiana tabacum, Paeonia, Piper longum, Piper methysticum, Plumbago, Polygonaceae Fam, Propolis, Prunus padus, Psoralea corylifolia, Psychotria laciniata, Psychotria nemorosa, Psychotria Laciniata, Pueraria lobata, Renealmia alpinia, Rosellinia corticium, Rubia tinctorum, Salvia miltiorrhiza, Scadoxus puniceus, Sideritis, Sophora flavescens, Source, Streptomyces, Symphyocladia latiuscula, Turnera diffusa, Uncaria rhynchophylla, Vit K derivative, Vitex grandiflora, Vitis vinifera, Xylaria nigripes, Zanthoxylum rigidum
 					- dont take MAOIs with substances that increase serotonin like SSRIs, SNRIs, or tryptophan/tryptamine/tyramine/5-htp
 						- Taking MAOIs in combination with SSRIs can be fatal, since MAOIs disrupt monoamine oxidase, an enzyme which is needed to break down serotonin and other neurotransmitters
