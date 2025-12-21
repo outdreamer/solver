@@ -187,6 +187,7 @@ I. To do list
 		- identify variants of neural networks like how neural networks are networks of 'nodes representing changes/generations and filters' to vary it like by applying 'nodes which are only changes' and 'nodes which are only filters' or 'nodes with variable change/filtering functions' or 'node sequences of optimized change/filter type interactions like applying a change of one type in one network layer, followed by a filter type layer for that change type'
 
 		- identify variants of intents like 'regression' ('identifying general patterns of sets of specific points') like 'time-based patterns (future pattern) prediction' ('identifying iterated interactions of current directions/patterns/structures with interactive structures like limits/representations/generators/variables of structures (like "degree" like "amplifiers") and opposing/neutralizing structures and other implementing structures of interface variables like randomness') and identify graphs of intents/functions that implement these intent variants like how the 'intersecting spectrum graph' can be regularly applied in an iterated interaction graph to identify/predict 'interactions with interface variables' by identifying 'limits/other structures of these interface variables' which can connect to/change/reduce/generate 'iterated interactions'
+			- relatedly, identify the useful variants of a graph like the 'net result of a graph' after applying interactions with interface structures like 'entropy limits' and 'change limits'
 
 
 II. Queries and Results
