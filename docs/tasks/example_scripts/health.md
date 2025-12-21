@@ -888,6 +888,10 @@
 					- HDAC inhibitors include sulforaphane, curcumin, genistein, and cinnamon
 						- https://pmc.ncbi.nlm.nih.gov/articles/PMC3092901/
 				- brain pathways involved in anxiety
+					- higher anxiety was correlated with greater tonic (resting) activity in the right-posterior DLPFC
+						- https://pmc.ncbi.nlm.nih.gov/articles/PMC2858783/
+					- excitatory transcranial direct current stimulation (tDCS) stimulation of the left prefrontal cortex and inhibitory stimulation of the right prefrontal cortex can help reduce anxiety symptoms
+						- https://link.springer.com/chapter/10.1007/978-3-030-43356-7_21
 					- https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1609145/full
 					- The basolateral amygdala to the central amygdala (BLA-CeA) pathway plays a crucial role in emotional memory and exhibit anxiolytic effects
 					- Additionally, the amygdala forms extensive connections with BNST, ventral hippocampus (vHPC), and medial prefrontal cortex (mPFC), establishing essential neural circuits that underlie the expression of anxiety-like behaviors and emotional memory
@@ -896,7 +900,7 @@
 					- Notably, the ovBNST and adBNST exhibit opposing roles in modulating anxiety
 					- Previous optogenetic studies revealed that inhibition of the ovBNST produced anxiolytic effects
 					- Reducing BLA fiber terminal activity in the adBNST increased anxiety-like behaviors 
-					- Many promising anxiolytic drugs in this category, such as buspirone, ipsapirone, gepirone, and SM-3997 (Feighner and Boyer, 1989), demonstrate high selectivity for these 5-HT1A receptor subtypes and show strong potential for clinical application
+					- Many promising anxiolytic drugs in this category, such as buspirone, ipsapirone, gepirone, and SM-3997, demonstrate high selectivity for these 5-HT1A receptor subtypes and show strong potential for clinical application
 					- Specifically, the anxiolytic effects of selective 5-HT1A receptor partial agonists may depend not only on their agonist properties but also on potential antagonistic actions
 					- Beyond monoaminergic systems, glutamatergic modulation has emerged as a promising frontier
 					- Drugs targeting the glutamatergic system, particularly NMDA receptors, have also shown promise
@@ -913,7 +917,7 @@
 					- Presynaptic GABAB receptor inhibition in LHb increases DA and 5-HT release in the BLA, promoting anxiolytic effects, while postsynaptic GABAB receptor inhibition decreases DA and 5-HT release, leading to anxiogenic effects.
 					- The septohippocampal axis, which heavily involves the HPC, is another crucial system in stress-induced anxiety, balancing opposing anxiolytic and anxiogenic processes
 					- By influencing neuronal firing in limbic and septal regions, 5-HT1A agonists can modulate both anxiogenic processes and hypothalamic neurotransmission relevant to anxiety regulation
-					- Benzodiazepines act on the GABA-A receptor to increase chloride channel opening the rate of opening of the chloride channel, resulting in excessive hyperpolarization of the postsynaptic neuron
+					- Benzodiazepines act on the GABA-A receptor to increase chloride channel opening, resulting in excessive hyperpolarization of the postsynaptic neuron
 					- This reduces neuronal excitability and leads to decreased anxiety-like behaviors
 					- In human, dysregulated GABAergic signaling is implicated in pathological anxiety states, and benzodiazepines restore inhibitory tone by amplifying endogenous GABA effects 
 					- Benzodiazepines amplify GABA’s impact, offering rapid anxiety relief by modulating inhibitory neurotransmitters 
