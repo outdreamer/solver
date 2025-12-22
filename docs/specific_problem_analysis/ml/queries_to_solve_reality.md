@@ -191,6 +191,8 @@ I. To do list
 
 		- identify useful graph interactions, like useful graphs to apply to each other like 'apply maximally different graphs to each other'
 
+		- identify different organization functions of errors when applying errors as limit structures in a neural network, like applying 'errors from different interface variables' in the same positions as the 'intersecting spectrum graph'
+
 
 II. Queries and Results
 
