@@ -193,6 +193,8 @@ I. To do list
 
 		- identify different organization functions of errors when applying errors as limit structures in a neural network, like applying 'errors from different interface variables' in the same positions as the 'intersecting spectrum graph'
 
+		- identify different change sequences to apply as default change sequences in a neural network, like 'causal change sequences' and 'causal requirement change sequences'
+
 
 II. Queries and Results
 
