@@ -197,6 +197,8 @@ I. To do list
 
 		- identify useful graph sequences to 'minimize error irrelevance', since the errors of a later graph might be made irrelevant by the errors solved in a previous graph
 
+		- identify the optimal sequence of filters to identify 'relevant differences' (like 'different solution/optimal points'), given cases like that filtering by 'maximal differences' can be applied to incorrect inputs, in which case 'maximal differences from an irrelevant structure' are applied to identify other irrelevant structures (rather than applying maximal differences to a solution structure to identify other solution structures), and identify useful variants of each filter to apply, like 'applying relevant maximal differences to maintain relevant similarities with solution structures', and identify rules for each filter like 'applying maximal differences within solution limits to avoid known errors' or 'applying maximal differences, as maximal differences are defined on some relevant graph'
+
 
 II. Queries and Results
 
