@@ -195,6 +195,8 @@ I. To do list
 
 		- identify different change sequences to apply as default change sequences in a neural network, like 'causal change sequences' and 'causal requirement change sequences'
 
+		- identify useful graph sequences to 'minimize error irrelevance', since the errors of a later graph might be made irrelevant by the errors solved in a previous graph
+
 
 II. Queries and Results
 
