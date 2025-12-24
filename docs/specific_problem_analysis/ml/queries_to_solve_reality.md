@@ -199,6 +199,8 @@ I. To do list
 
 		- identify the optimal sequence of filters to identify 'relevant differences' (like 'different solution/optimal points'), given cases like that filtering by 'maximal differences' can be applied to incorrect inputs, in which case 'maximal differences from an irrelevant structure' are applied to identify other irrelevant structures (rather than applying maximal differences to a solution structure to identify other solution structures), and identify useful variants of each filter to apply, like 'applying relevant maximal differences to maintain relevant similarities with solution structures', and identify rules for each filter like 'applying maximal differences within solution limits to avoid known errors' or 'applying maximal differences, as maximal differences are defined on some relevant graph'
 
+		- identify useful optimizations of graphs like how 'overlapping causal sequences organized by similar source causes' is a useful way to organize a causal network
+
 
 II. Queries and Results
 
