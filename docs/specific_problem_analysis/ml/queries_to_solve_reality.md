@@ -203,6 +203,10 @@ I. To do list
 
 		- identify useful structures like 'similarities' across 'graph sequences' to enable queries like 'identify changes to this variable set (like variable rules involving uncertain structures) that will not change this variable set (like constant/certainty rules such as rules about known errors/limits/optimals)' which applies a perspective of multiple graphs including a 'graph where a subset of variables is possibly connectible' (a graph involving constant/certain rules like rules about what is possible) and connects that graph to a graph sequence with some constant across the sequence (like a 'constant rule set'), or 'interface structures like "limits" of similarities' to enable queries like 'identify a graph sequence where this certain/constant/similar variable set changes (it reaches the limit of the similarity)', and identify other graphs which can be applied to generate other graph intents
 
+		- identify different brain descriptions (like a 'set of specialized components with outputs being integrated/evaluated' or a 'set of connections with variable relevance/priority' or a 'sequence of change generating/filtering layers' or a 'causal variable connection network' or a 'set of system contexts around primary change directions') to identify different neural networks/algorithms as well as the useful integrations of these descriptions like 'integrated requirements of these descriptions'
+
+		- identify the ways a graph can interact with a neural network, like as default weight initializations, a set of connection functions for different layers, a graph of functions related to networks like cost functions, etc and identify the graphs that optimize these interactions
+
 
 II. Queries and Results
 
