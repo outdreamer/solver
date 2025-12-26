@@ -207,8 +207,10 @@ I. To do list
 
 		- identify the ways a graph can interact with a neural network, like as default weight initializations, a set of connection functions for different layers, a graph of functions related to networks like cost functions, etc and identify the graphs that optimize these interactions
 
-		- identify a network of graphs organized by intent relevance (and intent relevance structures like 'intent relevance patterns'), like a intersecting spectrum graph followed by a complexity reduction graph followed by a intersecting spectrum combination graph followed by the complexity reduction graph to implement relevant intent patterns like 'generate/filter' by 'generating complexity/reducing complexity'
+		- identify a network of graphs organized by intent relevance (and intent relevance structures like 'intent relevance patterns'), like a maximal difference-connecting graph like the intersecting spectrum graph followed by a complexity reduction graph followed by another maximal difference-connecting graph like the intersecting spectrum cross-interface/combination graph followed by another complexity reduction graph to implement relevant intent patterns like 'generate/filter' by 'generating complexity/reducing complexity'
 			- identify all the useful variants of the intersecting spectrum graph and ways to connect these graphs by similarity or by relevance to the maximum intents or other interface metrics
+			- the point of this is to identify relevant graph sequences to apply, so that once a structure is standardized to some initial graph, the next useful steps are the following graphs in the sequence
+			- once a similarity to an interface variable is identified on the intersecting spectrum graph (identifying the points of a structure on some interface spectrums), it will be useful to apply relevant graphs to those interface spectrum points, so 'indexing graphs to sets of points on the intersecting spectrum graph' is useful to apply to that graph and other relevant graphs (once a structure is identified as high complexity on the intersecting spectrum graph, it will be useful to apply relevant graphs to high complexity, like complexity-reduction/simplifying graphs), so identifying relevant intents for the intents possible on a graph is useful
 
 
 II. Queries and Results
