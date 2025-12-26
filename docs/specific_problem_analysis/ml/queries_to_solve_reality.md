@@ -207,6 +207,9 @@ I. To do list
 
 		- identify the ways a graph can interact with a neural network, like as default weight initializations, a set of connection functions for different layers, a graph of functions related to networks like cost functions, etc and identify the graphs that optimize these interactions
 
+		- identify a network of graphs organized by intent relevance (and intent relevance structures like 'intent relevance patterns'), like a intersecting spectrum graph followed by a complexity reduction graph followed by a intersecting spectrum combination graph followed by the complexity reduction graph to implement relevant intent patterns like 'generate/filter' by 'generating complexity/reducing complexity'
+			- identify all the useful variants of the intersecting spectrum graph and ways to connect these graphs by similarity or by relevance to the maximum intents or other interface metrics
+
 
 II. Queries and Results
 
