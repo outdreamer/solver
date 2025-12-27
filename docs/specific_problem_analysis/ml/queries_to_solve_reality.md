@@ -217,6 +217,8 @@ I. To do list
 
 		- identify all the queries that should be run as a set given optimization reasons like 'balancing opposing interface variables is useful to filter solutions', like how a general query to 'identify a structure' should be run with a query to 'identify examples representing maximally different meanings/definitions of that structure' since balancing as in 'specification' of general queries is useful to 'filter solutions' (like how a query to 'identify a graph to generate mathematics' should be run with a query to 'identify the starting point of definitions to apply combinations/other structures to in order to generate all of mathematics') and identify optimizations to queries to solve problem structures like imbalances/mismatches/gaps like 'completing optimizations' like 'completing a query of a relevant graph' by applying the 'interface variants of the query' or applying the 'corresponding variants of the query to other relevant graphs'
 
+		- identify graphs to connect useful graphs to connect, like how its useful to identify interim connecting graphs of the 'intersecting spectrum graph' and a 'graph of structures aligning with points on the intersecting spectrum graph', like a 'graph of prioritized implementation sequences of interface variables'
+
 
 II. Queries and Results
 
