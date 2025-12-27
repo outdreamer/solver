@@ -215,6 +215,8 @@ I. To do list
 			- its useful to connect graphs by 'causality' and 'organizability' for 'evaluatability', so identify all the graph connection/generation/organization variables for different optimization metrics
 			- similarly, its useful to 'differentiate' once 'similarities' have been applied, as a way of optimizing 'relevance' in general and for intents related to metrics like 'creativity'
 
+		- identify all the queries that should be run as a set given optimization reasons like 'balancing opposing interface variables is useful to filter solutions', like how a general query to 'identify a structure' should be run with a query to 'identify examples representing maximally different meanings/definitions of that structure' since balancing as in 'specification' of general queries is useful to 'filter solutions' (like how a query to 'identify a graph to generate mathematics' should be run with a query to 'identify the starting point of definitions to apply combinations/other structures to in order to generate all of mathematics') and identify optimizations to queries to solve problem structures like imbalances/mismatches/gaps like 'completing optimizations' like 'completing a query of a relevant graph' by applying the 'interface variants of the query' or applying the 'corresponding variants of the query to other relevant graphs'
+
 
 II. Queries and Results
 
