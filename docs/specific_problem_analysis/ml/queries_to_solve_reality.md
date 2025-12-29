@@ -227,6 +227,8 @@ I. To do list
 			- on a definition graph, an optimal point would be a 'definition (or component/step of a definition route) that is accurate across relevant variation graphs'
 			- on the 'combination intersecting spectrum graph', an optimal point set would be for example an 'optimal level of complexity/abstraction (pairing the problem variable "complexity" and a solution variable "abstraction" to that problem)' and a complementary pair like a 'optimal level of volatility/standardization' for optimal 'interface coverage' by applying multiple interfaces
 
+		- identify useful graphs like 'system graphs (interactions) of optimization structures like optimal function/limit/point sets' to integrate with existing graphs like the 'combination intersecting spectrum graph' of cross-interface optimal point sets as a specification/structurization of optimal structure sets, applying intents like 'isolate a structure in its own graph of variants' in an optimal causal intent sequence including 'identify optimal types/variants of a structure' and 'integrate optimal types/variants of a structure with optimal types/variants of other structures' and 'identify optimal system interactions in a system of types/variants of the structures'
+
 
 II. Queries and Results
 
