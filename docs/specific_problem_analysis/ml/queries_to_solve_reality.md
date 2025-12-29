@@ -219,7 +219,7 @@ I. To do list
 
 		- identify graphs to connect useful graphs to connect, like how its useful to identify interim connecting graphs of the 'intersecting spectrum graph' and a 'graph of structures aligning with points on the intersecting spectrum graph', like a 'graph of prioritized implementation sequences of interface variables'
 
-		- identify structures like 'relevant graph connection sequences' that could be applied as other relevant structures like 'workflows' or 'queries' and identify useful graphs to optimize these workflows/queries and identify intents that these workflows/queries as 'relevant graph connection sequences' are useful for
+		- identify structures like 'relevant graph connection sequences' that could be applied as other relevant structures like 'workflows' or 'queries' and identify useful graphs to optimize these workflows/queries and identify intents that these workflows/queries as 'relevant graph connection sequences' are useful for, where identifying/optimizing an alternate graph for a query can involve compressing the shape of a query and identifying a graph to fit the new compressed shapes
 
 
 II. Queries and Results

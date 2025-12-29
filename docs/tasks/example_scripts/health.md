@@ -105,7 +105,7 @@
 					- probiotics/wine/beer, pepto bismol, sodium butyrate, saccharomyces boulardii, wasabi
 		- thyroid problems: 
 			- treat thyroid problems, which can make cancer worse, and avoid using thyroid gland, which can make cancer worse
-			- hypothyroidism: zinc, copper, iodine, tyrosine, ashwagandha, levothyroxine, avoid goitrogens (pomegranate, soy, broccoli, cabbage, brussel sprouts, millet) and shepherd's purse which suppress thyroid function
+			- hypothyroidism: coleus forskohlii, rhodiola rosea, bacopa, ginger, siberian ginseng, licorice, zinc, copper, iodine, tyrosine, ashwagandha, levothyroxine, avoid goitrogens (pomegranate, soy, broccoli, cabbage, brussel sprouts, millet) and shepherd's purse which suppress thyroid function
 			- selenium, l-carnitine, myo-inositol, melatonin, and resveratrol all impact thyroid function
 				- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6770945/
 		- neuropathy/nerve damage:
