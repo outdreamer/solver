@@ -232,6 +232,8 @@ I. To do list
 		- identify 'adjacent/connected/similar sequences of errors' to identify 'sequences of errors in cost functions, that are possible with some structure like some level of parameter changes' to identify 'limits/extremes/structures of errors in cost functions', and identify 'causal sequences of errors' to 'connect parameter changes and cost function changes'
 			- 'identify how in/correct a parameter set can be/become', given its 'application of interface structures like optimization structures' (as in 'reduce possible error in cost functions by applying interface analysis rules', which are realistic system interaction rules, so variable interactions reflecting these rules will minimize possible error)
 
+		- identify useful graph structures like useful 'graph causal filter networks' that allow graphs to conflict/oppose/merge/connect to resolve variable conflicts in a relevant causal sequence
+
 
 II. Queries and Results
 
