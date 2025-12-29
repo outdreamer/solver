@@ -224,6 +224,8 @@ I. To do list
 		- identify intents like 'identify the required level of specification/structurization to identify errors in intents' and 'identify equivalent intents' to optimize for intents like 'identifying intents which can be filtered out' (skipping intents with suboptimal levels of errors, to avoid unnecessary intents like 'implementation of intents' by 'identifying errors with intents' first) with graphs like 'intent graphs to identify intersections/limits/structures of maximally different intents on other intents, when intents are applied iteratively/otherwise similarly'
 
 		- identify 'sets of optimal structures like optimal points on a graph' like the 'simplicity-maximizing/complexity-limiting point' or other cross-interface optimal points and identify queries to identify these optimal structure sets and identify graphs of these optimal points to optimize for intents like 'identify optimal point sets trivially'
+			- on a definition graph, an optimal point would be a 'definition (or component/step of a definition route) that is accurate across relevant variation graphs'
+			- on the 'combination intersecting spectrum graph', an optimal point set would be for example an 'optimal level of complexity/abstraction (pairing the problem variable "complexity" and a solution variable "abstraction" to that problem)' and a complementary pair like a 'optimal level of volatility/standardization' for optimal 'interface coverage' by applying multiple interfaces
 
 
 II. Queries and Results
