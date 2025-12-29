@@ -219,9 +219,11 @@ I. To do list
 
 		- identify graphs to connect useful graphs to connect, like how its useful to identify interim connecting graphs of the 'intersecting spectrum graph' and a 'graph of structures aligning with points on the intersecting spectrum graph', like a 'graph of prioritized implementation sequences of interface variables'
 
-		- identify structures like 'relevant graph connection sequences' that could be applied as other relevant structures like 'workflows' or 'queries' and identify useful graphs to optimize these workflows/queries and identify intents that these workflows/queries as 'relevant graph connection sequences' are useful for, where identifying/optimizing an alternate graph for a query can involve compressing the shape of a query and identifying a graph to fit the new compressed shapes
+		- identify structures like 'relevant graph connection/adjacency/layer sequences' that could be applied as other relevant structures like 'workflows' or 'queries' and identify useful graphs to optimize these workflows/queries and identify intents that these workflows/queries as 'relevant graph connection sequences' are useful for, where identifying/optimizing an alternate graph for a query can involve compressing the shape of a query and identifying a graph to fit the new compressed shapes
 
 		- identify intents like 'identify the required level of specification/structurization to identify errors in intents' and 'identify equivalent intents' to optimize for intents like 'identifying intents which can be filtered out' (skipping intents with suboptimal levels of errors, to avoid unnecessary intents like 'implementation of intents' by 'identifying errors with intents' first) with graphs like 'intent graphs to identify intersections/limits/structures of maximally different intents on other intents, when intents are applied iteratively/otherwise similarly'
+
+		- identify 'sets of optimal structures like optimal points on a graph' like the 'simplicity-maximizing/complexity-limiting point' or other cross-interface optimal points and identify queries to identify these optimal structure sets and identify graphs of these optimal points to optimize for intents like 'identify optimal point sets trivially'
 
 
 II. Queries and Results
