@@ -234,6 +234,8 @@ I. To do list
 
 		- identify useful graph structures like useful 'graph causal filter networks' that allow graphs to conflict/oppose/merge/connect to resolve variable conflicts in a relevant causal sequence
 
+		- identify graph sequences that apply useful optimization intents like 'complexity-reduction' or 'error priority optimization' 
+
 
 II. Queries and Results
 
