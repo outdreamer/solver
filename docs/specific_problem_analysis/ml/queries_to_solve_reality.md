@@ -234,7 +234,11 @@ I. To do list
 
 		- identify useful graph structures like useful 'graph causal filter networks' that allow graphs to conflict/oppose/merge/connect to resolve variable conflicts in a relevant causal sequence
 
-		- identify graph sequences that apply useful optimization intents like 'complexity-reduction' or 'error priority optimization' and identify interface structures of these sequences like 'overlapping sequences that fulfill the same intent' and 'limiting sequences of other sequences'
+		- identify graph sequences that apply useful optimization intents like 'complexity-reduction' or 'error priority optimization' and identify interface structures of these sequences like 'overlapping sequences that fulfill the same intent' and 'limiting sequences of other sequences', for intents like 'identify graph adjacency/similarity to graph sequences to identify the relevance of a graph for the intent of adjacent graph sequences'
+
+		- identify the relevance of similarities in structures like 'similarity index graphs', and whether there are similarity structures like 'embedded similarities' like 'causal similarities'
+
+		- identify maximally different structures to connect like a 'complexity-reduction structure in a volatility-sensitivity graph'
 
 
 II. Queries and Results
