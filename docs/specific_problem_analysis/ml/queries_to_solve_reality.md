@@ -240,6 +240,11 @@ I. To do list
 
 		- identify new 'maximally different structures to connect' like a 'complexity-reduction structure in a volatility-sensitivity graph' to 'identify new relevant connections or connection types or relevance variables'
 
+		- identify what differences are useful to apply in a similarity, like 'applying a difference in direction like the "opposite sequence" of a sequence implementing a similarity (as in its useful to identify info in the opposite direction in the sequence)'
+
+		- identify graphs that implement relevant cross-interface functionality like 'multiple interface functions/structures/variables' (like a 'graph that acts as a filter/base/specification') of other graphs
+
+
 
 II. Queries and Results
 
