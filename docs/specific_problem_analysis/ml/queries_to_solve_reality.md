@@ -236,9 +236,9 @@ I. To do list
 
 		- identify graph sequences that apply useful optimization intents like 'complexity-reduction' or 'error priority optimization' and identify interface structures of these sequences like 'overlapping sequences that fulfill the same intent' and 'limiting sequences of other sequences', for intents like 'identify graph adjacency/similarity to graph sequences to identify the relevance of a graph for the intent of adjacent graph sequences'
 
-		- identify the relevance of similarities in structures like 'similarity index graphs', and whether there are similarity structures like 'embedded similarities' like 'causal similarities'
+		- identify the relevance of similarities in structures like 'similarity index graphs' and 'similarity sequences of graphs like generative/descriptive similarities', and whether there are similarity structures like 'embedded similarities' like 'causal similarities'
 
-		- identify maximally different structures to connect like a 'complexity-reduction structure in a volatility-sensitivity graph'
+		- identify new 'maximally different structures to connect' like a 'complexity-reduction structure in a volatility-sensitivity graph' to 'identify new relevant connections or connection types or relevance variables'
 
 
 II. Queries and Results
