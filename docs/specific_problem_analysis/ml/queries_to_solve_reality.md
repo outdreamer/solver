@@ -244,6 +244,7 @@ I. To do list
 
 		- identify graphs that implement relevant cross-interface functionality like 'multiple interface functions/structures/variables' (like a 'graph that acts as a filter/base/specification') of other graphs
 
+		- identify interface structures like 'bases' of the graphs (like the 'base graphs') in a network of graphs to organize queries on the network
 
 
 II. Queries and Results
