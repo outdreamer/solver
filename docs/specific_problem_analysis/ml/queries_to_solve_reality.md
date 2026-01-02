@@ -250,6 +250,8 @@ I. To do list
 
 		- identify the relevant interactions of graph structures, like how a 'generative graph of a graph' can be optimally applied first in a 'generate/filter workflow' and a 'requirement graph of a graph' can be optimally applied second in a 'generate/filter workflow'
 
+		- identify useful query optimizations based on 'query descriptions' like 'queries that avoid limits like "error connections/nodes/sequences/starting points/structures" of a graph'
+
 
 II. Queries and Results
 
