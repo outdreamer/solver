@@ -246,6 +246,8 @@ I. To do list
 
 		- identify interface structures like 'bases' of the graphs (like the 'base graphs') in a network of graphs to organize queries on the network
 
+		- identify optimization structures like the 'optimal query sequence on an optimal graph sequence'
+
 
 II. Queries and Results
 
