@@ -258,6 +258,7 @@ I. To do list
 			- relatedly, identify algorithms to represent 'matrixes' as 'networks of vectors representing interfaces (relevant connections given a base connection)' (either directly by connecting the matrix values, or indirectly by connecting matrix metadata values like eigenvectors) and identify 'directions toward these matrixes' given a starting matrix (identify numbers that can represent an interface given the representation algorithm, and identify ways to transform numbers to create those numbers, as in 'what numbers are necessary to represent an interface')
 
 		- identify 'possible error structures that can be ir/relevant' for different neural network architectures/algorithms like 'possible errors that are trivial, even in aggregate across all nodes'
+			- identify 'connections to cause error structures' like 'incorrectly changing to extremes' in different neural networks/algorithms which are all likely to be capable of generating many different error structures, given the 'change types that are possible' with a neural network architecture/algorithm and the "solution/error graphs enabling those change types to change 'position/structure from a solution to an error'"
 
 
 II. Queries and Results
