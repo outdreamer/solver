@@ -244,9 +244,11 @@ I. To do list
 
 		- identify graphs that implement relevant cross-interface functionality like 'multiple interface functions/structures/variables' (like a 'graph that acts as a filter/base/specification') of other graphs
 
-		- identify interface structures like 'bases' of the graphs (like the 'base graphs') in a network of graphs to organize queries on the network
+		- identify interface structures like 'bases' of the graphs (like the 'base graphs') in a 'network of graphs' for intents like 'organize queries on the network of graphs' to apply query optimization rules like 'start/end queries on the base graphs'
 
-		- identify optimization structures like the 'optimal query sequence on an optimal graph sequence'
+		- identify optimization structures like the 'optimal query sequence on an optimal graph sequence' and structures to 'organize graph sequences in graph networks' to optimize queries across different sequences, using algorithms to generate 'optimized graphs' from 'optimal queries on graph sequences' like 'group similar queries by similar structures/steps/nodes/starting points/limits/common hub points/causes/generators/other interface structures in that sequence, then identify the remaining components of the graph' or 'group similar queries by subsets of descriptive/generative/limiting/connecting variables, then generate graphs with these variables and graph subsets of queries and update graph organization until all queries are optimized' or 'graph common nodes/starting points/limits/overlaps/structures of queries, then organize remaining components of the graph iteratively to implement optimizations to queries' or 'identify the variables of relevance of "maximal differences in different graphs when connecting the same pair of nodes" and generate graphs with those relevance variables'
+
+		- identify the relevant interactions of graph structures, like how a 'generative graph of a graph' can be optimally applied first in a 'generate/filter workflow' and a 'requirement graph of a graph' can be optimally applied second in a 'generate/filter workflow'
 
 
 II. Queries and Results
