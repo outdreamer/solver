@@ -268,7 +268,7 @@ I. To do list
 
 		- identify 'variables/functions/queries/optimizations/structures' that 'maximize error/loss functions in graphs' (when trying to 'predict optimal queries/generators/optimizations of a graph' or 'predict optimal graphs') despite using interface analysis to make predictions, to 'identify new interface analysis optimizations from maximal error/loss generators/descriptors/filters', and identify 'structures/stacks/optimal networks of errors to maximize error/losses' that can be connected to 'structures/combinations of interface structures in graphs that can cause those error structures'
 
-		- identify variants of neural networks as a workflow like 'generate variables, then filter causes of errors/solutions' like 'identify networks/graphs of common error/solution causes and generate differences from errors'
+		- identify variants of neural networks formatted as a workflow like 'generate functions, then filter causes of errors/solutions' like 'identify networks/graphs of common error/solution causes and generate differences from errors' or 'identify components/descriptors/other interface structures than "causes" of errors' or 'identify solution structure/component/limit graphs that can be varied to generate maximally different solutions'
 
 
 II. Queries and Results
