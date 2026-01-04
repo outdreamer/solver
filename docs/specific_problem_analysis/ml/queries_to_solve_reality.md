@@ -278,8 +278,9 @@ I. To do list
 			- connecting 'structures/sets of error structures like limits' in a 'graph of varying structures/subsets of error structures connected to other structures/subsets' is another possible starting point of 'generating all relevant interface analysis graphs'
 			- identifying 'interim graphs with a spectrum of varying definition/certainty' to connect/identify 'uncertain optimal alternatives' like 'varying graphs to graph interface analysis' are another useful graph to identify, when identifying the optimal graphs in between 'description/generative/causal/other graphs' by applying 'variants of intersecting spectrums of descriptive/generative/causal/other graphs', which applies certain graphs as limits of an uncertainty space of graphs
 			- identifying spectrums of graphs like 'applying structures like "limits" as either "filters or generators"' is useful to identify graph variants
-			- identifying optimal structures/interactions of graphs like 'optimal angles of relevant spectrums like certainty/complexity, connected at relevant points' is also useful to identify
-			
+			- identifying 'optimal structures/interactions of graphs' like 'optimal angles of relevant spectrums like certainty/complexity, connected at relevant points' is also useful to identify
+			- identify causes/reasons/intents to filter graph structures like 'identifying a specific starting point to generate interface analysis can be done by applying certainty spectrums (the starting point is the most certain structure and uncertain structures follow this certain structure, which is followed by another vacillation between certainty/uncertainty, etc (the certainty causes the starting point)' and 'identifying similarities in vacillations/subsets/queries of angled/intersecting spectrums' is also useful to identify
+
 
 II. Queries and Results
 
