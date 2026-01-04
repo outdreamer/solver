@@ -276,7 +276,8 @@ I. To do list
 			- another useful starting point as opposed to 'applying spectrums to concepts' is 'applying relevant graphs as components like "layers/generators/descriptors" of another graph'
 			- identifying the optimal interaction rules between graph components like 'apply spectrums of graphs in a graph of graphs, then apply limits to subsets of the spectrums to identify thresholds' is also useful
 			- connecting 'structures/sets of error structures like limits' in a 'graph of varying structures/subsets of error structures connected to other structures/subsets' is another possible starting point of 'generating all relevant interface analysis graphs'
-			- identifying 'interim graphs with a spectrum of varying definition/certainty' to connect/identify 'uncertain optimal alternatives' like 'varying graphs to graph interface analysis' are another useful graph to identify, when identifying the optimal graphs in between 'description/generative/causal/other graphs' by applying 'variants of intersecting spectrums of descriptive/generative/causal/other graphs'
+			- identifying 'interim graphs with a spectrum of varying definition/certainty' to connect/identify 'uncertain optimal alternatives' like 'varying graphs to graph interface analysis' are another useful graph to identify, when identifying the optimal graphs in between 'description/generative/causal/other graphs' by applying 'variants of intersecting spectrums of descriptive/generative/causal/other graphs', which applies certain graphs as limits of an uncertainty space of graphs
+			- identifying spectrums of graphs like 'applying structures like "limits" as either "filters or generators"' is useful to identify graph variants
 
 
 II. Queries and Results
