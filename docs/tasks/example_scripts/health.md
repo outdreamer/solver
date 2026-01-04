@@ -849,6 +849,8 @@
 				- neural antioxidants: coq10, pqq, resveratrol
 				- neural immunity: glutathione, curcumin, propolis
 				- neural fuel: leucine, pterostilbene
+				- advantageous risk-taking: Panax; Astragalus membranaceous; Masnetitum; Ostrea gigas; Thinleaf Milkwort Root Radix Polygalae; and Os Draconis
+					- https://pubmed.ncbi.nlm.nih.gov/19679384/
 				- brain cleaning: coffee, walnuts/flax seeds/omega 3s, substances that clean your liver like coffee/artichoke/milk thistle, and substances that clean your blood like air pollution purifiers and heavy metal chelators like spirulina/chlorella could also help clean the brain
 			- adhd
 				- passionflower (an MAOI), saffron crocus, almond, valerian, lemon balm, pycnogenol, ginseng, ginkgo, vitamin d/b6, magnesium, zinc, iron, omega 3s, melatonin, ashwagandha
