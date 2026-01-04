@@ -290,7 +290,9 @@ I. To do list
 
 		- identify useful structures of graphs like 'infinite sequences of graphs (given some graph variable/change/generating function)' and useful applications of these graph structures like for intents like 'generate relevant variation' (like by 'applying points from different infinite graph sequences') or 'spirals of graphs' for intents like 'connect graphs across different interface layers using one function' or 'identify "similar but different" graphs for quick access to a subset of similar/previous graphs in the sequence while also generating different/new graphs with the update function and with increasing distance across the spiral of graphs'
 
-		- identify useful mappings like 'problems to graph sequences' or 'graphs of problems to graphs of graphs'
+		- identify useful mappings like 'problems, to (graph sequences/queries of graph sequences)' or 'graphs of problems, to graphs of (graphs/graph sequences/graph optimizations/solutions)'
+
+		- identify interface structures like the 'level of specificity required' for a graph sequence to be optimal, like 'only this specific graph can be used in the sequence, with these graph variables to vary the graph within limits'
 
 
 II. Queries and Results
