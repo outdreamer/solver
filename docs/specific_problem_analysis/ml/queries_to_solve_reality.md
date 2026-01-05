@@ -296,10 +296,10 @@ I. To do list
 
 		- identify interface structures like the 'level of specificity required' for a graph sequence to be optimal, like 'only this specific graph can be used in the sequence, with these graph variables to vary the graph within limits'
 
-		- identify workflows like 'identify the most constant rules and try to break them to find errors' (like 'connections that apply across interface variable connections and intra/inter-graph connections') which applies a workflow of 'trial and error' to 'identify errors' which leads to related concepts like 'democracy/randomness', and similarly identify 'workflows that lead to graphs' and 'concepts that lead to graphs' and the network of their optimal interactions
+		- identify workflows like 'identify the most constant rules and try to break them to find errors' (like 'connections that apply across interface variable connections and intra/inter-graph connections'), which applies a workflow of 'trial and error' to 'identify differences to apply' to 'identify errors', workflows which cause related concepts like 'democracy/randomness', and similarly identify 'workflows that cause graphs' and 'concepts that cause graphs' and the network of the optimal interactions of these causal sequences
 			- identify relevant concepts like 'randomness' to apply in 'graph sequences' given structures like 'input/output requirements' like 'requiring equivalence of inputs' and 'requiring equal weight applied to equivalent inputs' and 'equally probable outputs'
 
-		- identify concepts like 'randomness' that can connect graphs in a useful way like 'connecting a graph to all possible variant graphs, given variants of a variable' by applying each variant as an 'equivalent alternative that is equally possible as other alternatives' and identify useful concept structures/sequences to generate useful graphs or graph structures/sequences and optimizations to these concept structures/sequences
+		- identify concepts like 'randomness' that can 'connect graphs' in a useful way like 'connecting a graph to all possible variant graphs, given variants of a variable' by applying each variant as an 'equivalent alternative that is equally possible as other alternatives' and identify useful concept structures/networks/sequences to generate useful graphs or graph structures/networks/sequences and optimizations to these concept structures/networks/sequences
 
 
 
