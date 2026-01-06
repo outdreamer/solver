@@ -301,6 +301,7 @@ I. To do list
 
 		- identify concepts like 'randomness' that can 'connect graphs' in a useful way like 'connecting a graph to all possible variant graphs, given variants of a variable' by applying each variant as an 'equivalent alternative that is equally possible as other alternatives' and identify useful concept structures/networks/sequences to generate useful graphs or graph structures/networks/sequences and optimizations to these concept structures/networks/sequences
 
+		- identify optimization structures like 'optimization sequences/spectrums' in a graph (like 'optimal node sequences to optimize' or 'optimal priority sequences to optimize for' or 'intents optimized for, with varying optimization on a spectrum, in a graph') and identify graphs required for identifying optimizations like 'graphs of queries of a graph' required for 'identifying optimal queries and optimizing queries'
 
 
 II. Queries and Results
