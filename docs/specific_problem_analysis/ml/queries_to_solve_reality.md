@@ -305,6 +305,8 @@ I. To do list
 
 		- identify variables of the most optimal structures like how 'applying interface analysis' is an optimal structure but sequences of optimizations like 'applying interface analysis, then connecting resulting interface structures to a graph of these interface structures' and 'applying interface analysis, then connecting resulting interface structures in a graph, then identifying the position of that graph in a graph of graph variants' and 'applying interface analysis, then connecting resulting interface structures to maximally different graphs' and 'applying interface structures, then connecting resulting interface structures to optimization/problem/solution graphs' are more optimal bc they connect more relevant variation in an optimal way (like an 'efficient way' like a 'similarly simple way')
 
+		- identify useful structures to similarize/differentiate like how a 'cross-interface graph like a graph of complexity/abstract networks/spectrums/sequences' is useful to apply with a 'set of alternate cross-interface intersecting spectrums like a graph of intersecting variation/volatility spectrums' and a 'graph of graphs of intersecting spectrums, organized so similarities/adjacencies are maximally different' (the graph is graphed according to a base graph of intersecting spectrums, where the graph variables and the intersecting spectrum variables are maximally different, to connect maximally different structures in a relevant way, and the base graph is graphed according to another base graph of graphs connecting maximally different base graphs to 'check for relevant spectrums/sequences/similarities of maximally different graphs')
+
 
 II. Queries and Results
 
