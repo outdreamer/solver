@@ -321,7 +321,8 @@ I. To do list
             	- to generate embeddings/connections for each graph, identify 'similarities of structures' by applying interface structures like 'iterations of interface structures of similarity' (like 'input similarity, component similarity, causal similarity, etc')
             		- to identify integrated similarity, identify similarity integration functions like 'similarity prioritization/weighting functions'
             - alternately, generate graphs for each 'similarity structure/type/combination/integration' ('generate iterated (like "complexity reduction") graphs of nodes like "concept structures", with 'variability-volatility component' similarities, optimized for filter intents, with 'interface structure' graph layers, and with optimizations for general intents like "integration with other graphs" and "filter/generate workflows" and metrics like "relevance"') after identifying 'specific similarity structures/sequences/integrations to optimize a graph for intents, given its requirements' after identifying the 'intent generality/variables to optimize a graph for'
-            - whether to 'generate graphs with specific similarity structures' or 'identify emergent similarity structures using graphs' is a filter to apply
+            - whether to 'generate graphs with specific similarity structures' or 'identify emergent specific similarity structures using general graph required similarities' is a filter to apply
+            - relatedly, 'identifying specific/different similarities identifiable with required similarities' involves 'identifying the possible distance on the similarity index graph that is traversible by a graph, given its initial required similarities, and its variation potential with varying nodes/queries/optimizations/interface structures'
 
 
 II. Queries and Results
