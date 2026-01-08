@@ -1,0 +1,100 @@
+- implementation organization
+
+    - create a graph with n degree connections for usage similarity, identify usage similarity by weighting low-degree connections higher and weighting connections higher if theyre in the same phrase
+    - start from structure/filter/error
+        - apply structures/filters/errors as nodes, starting with the biggest errors like 'opposites (like the opposite of is)'
+    - iterate through algorithms, choosing the one that scores high on test cases
+    - identify specific structures like 'context' to identify similar words
+    - identify problems with each graph/similarity/algorithm combination
+        - generate a set of graph descriptions with components like 'de-duplicate' or 'apply errors as nodes' (node types like inner/outer nodes, node identities like concepts/errors/structures, weights/connections/distance/similarity)
+        - then generate the graph-generating code
+        - then generate error examples/types of each graph/algorithm/similarity 
+    
+    - apply an algorithm based on 'reasons for word adjacency and other similarities' ('relevant adjacency' like 'specification' and 'identify a list of adjacency reasons' and 'identify the list of all possible similarity causes'), then write an algorithm to identify each cause of similarity, and identify relevant similarity causes and relevant similarities to identify general search intent/relevance similarity (like 'specificity-adjacency can cause context similarity and context similarity can cause relevance/meaning similarity') and score these similarity causes and similarities by relevance to relevance similarities
+        - similarities:
+            - words are in the same sentence because: they support a connection/similarity/difference between clauses, phrases, or words
+            - words are in the same clause because: they support a connection/similarity/difference between phrases or words
+            - words are in the same phrase because: they support a connection/similarity/difference between words
+            - words are adjacent because: they specify/connect/optimize/etc each other
+        - similarity type scores:
+            - specifying connection (b-type a): 1
+            - similarity/difference connection (x is y, x identifies y, x causes y): 10
+        - what to do with these 'reasons for similarities'? identify the 'reasons for similarities' that cause a sentence to be useful at identifying interface structures of a word
+            - identify 'interface structures of a word' ('limits', 'requirements', 'definitions', 'variants', 'causes') with specific subsets of 'reasons for similarities like adjacency' (a word 'specifies' another word) and 'relevance/meaning of similarities' ('specifying a word' indicates its 'useful variants'), so an 'adjacency similarity' like a 'specifying word of a word' can identify 'interface structures' like 'variants' of a word
+            - 'specifications: identify variants'
+                - 'variants identify specific connections'
+                - 'specific connections are relevant results'
+            - 'similarity cause: identifies interface structure (limits/requirements/etc) of a word'
+                - 'interface structure of a word identifies connections of a type (connection types like optimizing/similarizing/organizing/etc)'
+                - 'that type of connection is a relevant result'
+            - filter out interface structures that are equivalent, only identify maximally different interface structures
+            - then generate an algorithm that identifies all the 'interface structures that identify relevant results'
+            - also offer identifying 'iterated n degree causal/defining/requirement/variable connections' (for searching 'a', identify sentences with 'a', 'causes of a' and 'variables caused by a', and sentences with 'causes of a' and 'variables caused by a', as in inputs/outputs of a), to identify 'other things to know about downstream impacts of a or things a depends on'
+            - apply high priority words like 'fail' or 'error' as indicating a more important sentence in general to sort results or apply n-degree iterations until an error sentence is connected to a word sentence
+        - create a graph of a word node with all connection structures (adjacent, same phrase, same clause, same sentences, sequence) with associated connection types (specify, identify, similarize, equate, differentiate, interact, standardize, extremify, base, contain, combine, merge, integrate, organize, optimize, complexify, simplify, abstract, cause, implement, intend, require, describe, create, limit, apply, invalidate, relate, connect, isolate, contradict, confirm, enable, disable, extend, compress, expand, reduce, subset, superset, systematize, define, mean, specified by iterations of interface variables like complexity/volatility as in 'complexity-reducing') around it, and identify the words implementing those connection types for that word and cluster word nodes by similarity of connection implementations and score the connection types (connect connections are more important than extremify connections), so that later to check if a word is similar to that word, you can check if it implements a connection type for that word or a similar word
+            - or create a graph of these connection types (volatility-complexifying, relevance-optimizing, similarity-abstracting, complexity-reducing) as nodes, organized by similarity of these connection types, and map words connected by those connection types around each connection type node, and score each connection type, and identify similar words by whether they are connected by high-scoring or multiple connection types
+    
+    - identify graph variables like iterated interface (like 'relevance-optimizing') connection type nodes, connection type weights, connection type structure weights like 'connection type combination/sequence' weights
+        - these connection types will graph word pairs together if those word pairs have similar connection types (word pairs that 'reduce complexity' of each other, which is highly relevant but may not help finding medium-relevance word pairs like specific relevance)
+        - when you search, what are you looking for? sentences with info about alternate queries, insights/limits/requirements related to a structure
+        - the interface structures of a word are what to look for
+        - so create a graph of interface structures of each word (limits, limit requirements, etc) and try to fill in the interface structures of each word with specific words/sentences (this sentence describes the limit of this word)
+        - that is bc interface structures of a word indicate specific-relevance words of a word
+
+    - create similarity index so equal/opposite interface structures can be used to identify other interface structures by similarity/difference like 'identify variant structures by specificity' so you can implement an 'identify interface structures of the keyword' search algorithm
+         - do you need a graph for the similarity search, other than a similarity list of lists? a graph would enable counting adjacent items, items with a connection type, or counting steps to an item
+    - identify equivalent similarities to group and identify irrelevant similarities to filter out
+        - a 'select query' is a common similarity but is too general to be relevant across different queries
+        - 'equivalent similarities' should be grouped as one similarity
+
+- queries to support
+    - identify relevant/prioritized/important interface structures like 'errors/solutions' of a keyword
+        - identify how similar a structure is to important/error structures on the similarity index graph
+    - identify 'causal' similarities on the 'cause/component/input/output/requirement/definition' graphs
+    - identify 'similarities of two structures' across their 'similar connecting graph sequences'
+    - standardize every keyword/word to interface structures and then find their similarity on the similarity index graph
+    - alternately, create maps/graphs of specific non-interface words & find their similarity on specific graphs
+
+- prioritized functions
+    - identify relevant similar sentences to a keyword
+    - filter result structures by uniqueness (this result only occurs with this keyword, not most keywords)
+        - generate a 'specification score' (as in 'you could filter results by this % if you increase specificity of keyword')
+        - apply probable test keywords and identify unique results for each test keyword, across different keyword searches
+    - sort results by important structures like errors/solutions (and causes/limits/requirements/definitions)
+
+- intent sequence
+    - identify interface structures/variables/functions
+    - identify relevant iterations of interface structures (up to 4 degrees like 'structure variable-functioning structure', of/with/which/as, etc)
+    - once you generate a graph, identify interface structures on a graph (identify errors/limits on a graph), then optimizations to minimize errors
+        - generate a general similarity index graph of interface similarities
+            - similarities between complexity reductions and relevance optimizations
+        - generate iterated non-interface structure graphs and integrated non-interface structure graphs and connections between these graphs
+            - generate a specific similarity graph of specific non-interface words
+                - similarities between a specific component of a physical system and a specific input of a physical system 
+                - then identify interface structures on this graph like 'causes/limits/components/similarities' of non-interface words
+        - connect these graph sets (standardize non-interface structures to interface structures) to identify interface similarities relevant to a non-interface structure
+            - at some point, as you iterate each graph set, the graph sets (general and specific) will overlap
+            - then youve standardized specific non-interface structures to interface structures
+        - identify relevant graph sequences/connections/similarities like 'sequences of causal/similarity graphs' for queries to support
+            - this enables queries like 'identify interface structure causes of this specific error'
+    
+- decisions
+    - decide if the similarity index graph should contain interface structures like 'complexity reductions' or similarities like 'complexity-reducing similarities'
+        - this is like saying 'complexity-reducing similarities/variables/inputs/components/interface structures'
+        - but connecting similarities is useful for finding similarities to connect structures
+    - alternately, generate a graph for each interface structure type (similarities of iterated interface structures like complexity-reductions, and iterated graphs for similarities of iterated interface structures of those iterated interface structures like complexity-reducing components, complexity-reducing variables, complexity-reducing causes of variables)
+    
+- maps/graphs
+    - components/inputs/outputs: generate map of an interface structure to its concept definition components/inputs/outputs for similarity identification
+        - similarities/differences: identify map of similar iterated interface structures (synonyms/equivalents and opposites)
+        - identify specific implementation algorithms/graphs/indexes to identify each structure (create a graph of definition route example structures like a 'specific structure is the opposite structure of an abstract structure')
+    - iterations: general n degrees of iterated interface structures (limits/requirements/complexity reductions)
+    - similar similarities: generate the similarity index graph to identify sequences of similarities to connect variables
+    - identify similarity sequences/distance from a keyword/sentence on the similarity index graph
+        - identify similar words/sentences: a query like 'identify n-degree similarity/component connections of the structure' to 'identify similar structures of a structure' (specifically 'identify sentences implementing similar interface structures of a structure')
+        - identify similarity of a keyword/sentence: a query like 'identify sequences of similarities' to 'identify connecting sequences of a structure to another structure' (specifically, 'identify similarities required to connect keyword with sentence' to identify relevance by 'similarity graph distance')
+        - examples:
+            - identify variants by specifications, identify complexity by complexity reductions - equal/similar interface structure in common
+            - identify similarities by differences to opposites - equivalent interface structure
+            - identify variation limits by complexity/iteration/requirement limits - similar components of the interface structure
+        - so replace the words of each generated iterated structure with their interface synonyms/defined components to find/generate similar structures
