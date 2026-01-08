@@ -1,14 +1,17 @@
 - implementation organization
 
-    - create a graph with n degree connections for usage similarity, identify usage similarity by weighting low-degree connections higher and weighting connections higher if theyre in the same phrase
-    - start from structure/filter/error
-        - apply structures/filters/errors as nodes, starting with the biggest errors like 'opposites (like the opposite of is)'
-    - iterate through algorithms, choosing the one that scores high on test cases
-    - identify specific structures like 'context' to identify similar words
-    - identify problems with each graph/similarity/algorithm combination
-        - generate a set of graph descriptions with components like 'de-duplicate' or 'apply errors as nodes' (node types like inner/outer nodes, node identities like concepts/errors/structures, weights/connections/distance/similarity)
-        - then generate the graph-generating code
-        - then generate error examples/types of each graph/algorithm/similarity 
+    - general algorithm
+        - start from structure/filter/error
+            - apply structures/filters/errors as nodes, starting with the biggest errors like 'opposites (like the opposite of is)'
+        - iterate through algorithms, choosing the one that scores high on test cases
+        - identify specific structures like 'context' to identify similar words
+        - identify errors for each graph/similarity/algorithm combination
+            - generate a set of graph descriptions with components like 'de-duplicate' or 'apply errors as nodes' (node types like inner/outer nodes, node identities like concepts/errors/structures, weights/connections/distance/similarity)
+                - then generate the graph-generating code
+                    - then generate error examples/types/structures for each graph/algorithm/similarity 
+        
+        - identify useful graph sequences like 'generate a similarity index of interface structures (like 'function' is a 'component' of 'intent', 'abstract' is an 'opposite' of 'specific', 'filter' is a 'alternate' of 'identify'), then generate iterated interface graphs (like 'complexity graphs', 'complexity component graphs', 'complexity-reducing structure graphs'), then identify optimal similarity sequences to apply to connect graphs, then identify equivalent/different nodes/queries/graphs across graphs and connect the graphs by equivalent/different nodes/queries/graphs by similarity sequences (like 'similar usage' then 'similar adjacencies' then 'similar causes'), then generate graphs of interface structures of nodes/queries/graphs, then identify equivalent/different interface structures of nodes/queries/graphs by similarity sequence, then integrate similar/different nodes/queries/graphs and interface structures of nodes/queries/graphs across graphs in integrated/similarity graphs and isolated/difference graphs, then identify relevant 'differences in a similarity' and 'similarities in a difference' to identify relevant similarities/variables/patterns/structures in the graphs, then generate and identify interface structures of structures of graphs/queries/nodes, then identify intents relevant to each graph/query/node set/structure (as in intents optimized for, and intents not optimized for like similarities/differences not "trivially connected or otherwise optimally similar/different" in a graph), then generate graphs to optimize for those intents', then identify optimal graphs in the generated graph set (like 'this graph contains the most maximally different structures' or 'this graph contains the most relevant variables like similarities of similarities') and optimal queries/filters/variables/similarities/structures of those optimal graphs, then connect optimal graphs/queries/nodes in a graph
+            - the abstraction of this is: generate similarity, generate iterated structure, identify optimal similarity sequence, identify similarities, connect similarities, generate graphs of graphs, identify interface structures of graphs by similarity sequence, connect graphs and interface structures of graphs, identify similarity/difference graphs, identify relevant similarities in graphs, generate interface structures of interface structures of graphs, identify interface structures of interface structures of graphs, identify relevant intents, generate graphs for those intents, identify optimal generated graphs, identify optimal structures of those graphs, connect optimal graph structures in a graph, which implies a general 'generate, iterate, identify, connect, optimize' workflow pattern
     
     - apply an algorithm based on 'reasons for word adjacency and other similarities' ('relevant adjacency' like 'specification' and 'identify a list of adjacency reasons' and 'identify the list of all possible similarity causes'), then write an algorithm to identify each cause of similarity, and identify relevant similarity causes and relevant similarities to identify general search intent/relevance similarity (like 'specificity-adjacency can cause context similarity and context similarity can cause relevance/meaning similarity') and score these similarity causes and similarities by relevance to relevance similarities
         - similarities:
@@ -36,13 +39,12 @@
     
     - identify graph variables like iterated interface (like 'relevance-optimizing') connection type nodes, connection type weights, connection type structure weights like 'connection type combination/sequence' weights
         - these connection types will graph word pairs together if those word pairs have similar connection types (word pairs that 'reduce complexity' of each other, which is highly relevant but may not help finding medium-relevance word pairs like specific relevance)
-        - when you search, what are you looking for? sentences with info about alternate queries, insights/limits/requirements related to a structure
-        - the interface structures of a word are what to look for
-        - so create a graph of interface structures of each word (limits, limit requirements, etc) and try to fill in the interface structures of each word with specific words/sentences (this sentence describes the limit of this word)
+        - when you search, what are you looking for? sentences with info about alternate queries, insights/limits/requirements related to a structure - the 'interface structures of a word' are what to look for
         - that is bc interface structures of a word indicate specific-relevance words of a word
 
-    - create similarity index so equal/opposite interface structures can be used to identify other interface structures by similarity/difference like 'identify variant structures by specificity' so you can implement an 'identify interface structures of the keyword' search algorithm
-         - do you need a graph for the similarity search, other than a similarity list of lists? a graph would enable counting adjacent items, items with a connection type, or counting steps to an item
+    - create a similarity index so equal/opposite interface structures can be used to identify other interface structures by similarity/difference like 'identify variant structures by specificity' so you can implement an 'identify interface structures of the keyword' search algorithm
+         - identify whether you need a graph for the similarity search, other than a similarity list of lists/indexes
+         - a graph would enable counting adjacent items, items with a connection type, or counting steps to an item
     - identify equivalent similarities to group and identify irrelevant similarities to filter out
         - a 'select query' is a common similarity but is too general to be relevant across different queries
         - 'equivalent similarities' should be grouped as one similarity
@@ -85,6 +87,8 @@
     - alternately, generate a graph for each interface structure type (similarities of iterated interface structures like complexity-reductions, and iterated graphs for similarities of iterated interface structures of those iterated interface structures like complexity-reducing components, complexity-reducing variables, complexity-reducing causes of variables)
     
 - maps/graphs
+    - create a graph of interface structures of each word (limits, limit requirements, etc) and try to fill in the interface structures of each word with specific words/sentences (this sentence describes the limit of this word)
+    - create a graph with n degree connections for usage similarity, identify usage similarity by weighting low-degree connections higher and weighting connections higher if theyre in the same phrase
     - components/inputs/outputs: generate map of an interface structure to its concept definition components/inputs/outputs for similarity identification
         - similarities/differences: identify map of similar iterated interface structures (synonyms/equivalents and opposites)
         - identify specific implementation algorithms/graphs/indexes to identify each structure (create a graph of definition route example structures like a 'specific structure is the opposite structure of an abstract structure')
