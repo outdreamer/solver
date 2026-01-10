@@ -9,7 +9,7 @@
             - generate a set of graph descriptions with components like 'de-duplicate' or 'apply errors as nodes' (node types like inner/outer nodes, node identities like concepts/errors/structures, weights/connections/distance/similarity)
                 - then generate the graph-generating code
                     - then generate error examples/types/structures for each graph/algorithm/similarity 
-        - identify the useful graphs to apply as 'base graphs to apply changes/connections to' which implement 'useful core identified intents' and identify when to apply graph types like 'interface graphs (like optimization graphs)' to a graph/structure (when to optimize a graph/structure for next intents in a sequence) 
+        - identify the useful graphs to apply as 'base graphs to apply changes/connections to' which implement 'useful core identified intents' and identify when to apply graph types like 'interface graphs (like optimization graphs)' to a graph/structure (when to optimize a graph/structure for next intents in a sequence)
 
     - apply an algorithm based on 'reasons for word adjacency and other similarities' ('relevant adjacency' like 'specification' and 'identify a list of adjacency reasons' and 'identify the list of all possible similarity causes'), then write an algorithm to identify each cause of similarity, and identify relevant similarity causes and relevant similarities to identify general search intent/relevance similarity (like 'specificity-adjacency can cause context similarity and context similarity can cause relevance/meaning similarity') and score these similarity causes and similarities by relevance to relevance similarities
         - similarities:

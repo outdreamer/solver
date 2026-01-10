@@ -997,15 +997,18 @@
 				- avoid 12 risk factors for dementia: hypertension, hearing impairment, smoking, obesity, depression, low social contact, low level of education, physical inactivity, diabetes, excessive alcohol consumption, traumatic brain injury, and air pollution
 				- also use an anti-inflammatory diet including eggs/choline and avoid eating food high in AGEs to avoid increasing dementia risk (involves a mostly vegan diet and boiling/steaming food wherever possible), which helps avoid heart/kidney/metabolic diseases as well
 			- alzheimers: 
-				- bacopa, coffee, 40hz waves, statins (avoid for increased diabetes risk), a diet including eggs/choline, low-saturated fat diet, Polygala tenuifolia Willdenow, blarcamesine, lithium, hibiscus, policosanol, uridine, b-vitamins, vitamin E, vitamin C, selenium, omega 3s, vitamin d, betaine, soy isoflavones (daidzin and genistin), s-adenosylmethionine, n-acetyl cysteine, acetyl-l-carnitine, ginseng, ginkgo biloba, antioxidants like lycopene/beta-carotene, resveratrol, DDL-920, Flavonoids (tangeretin, luteolin, isoorientin), phenylethanoid glycosides (forsythoside A), polyphenols (curcumin), carotenoids (crocetin, astaxanthin), alkaloids (berberine, capsaicin, neoline, and isorhynchophylline), coumarins (daphnetin), schisandra
+				- ashwagandha, cat’s claw, gotu kola, lion’s mane, saffron, shankhpushpi (convolvulus pluricaulis), triphala, bacopa, coffee, 40hz waves, statins (avoid for increased diabetes risk), a diet including eggs/choline, low-saturated fat diet, polygala tenuifolia, blarcamesine, lithium, hibiscus, policosanol, uridine, b-vitamins, vitamin E, vitamin C, selenium, omega 3s, vitamin d, betaine, soy isoflavones (daidzin and genistin), s-adenosylmethionine, n-acetyl cysteine, acetyl-l-carnitine, ginseng, ginkgo biloba, ginger, antioxidants like lycopene/beta-carotene, resveratrol, DDL-920, flavonoids (tangeretin, luteolin, isoorientin), phenylethanoid glycosides (forsythoside A), polyphenols (turmeric), carotenoids (crocetin, astaxanthin), alkaloids (berberine, capsaicin, neoline, and isorhynchophylline), coumarins (daphnetin), schisandra, sage, lemon balm, rosemary, green tea, garlic, phosphatidylserine, tramiprosate
 					- https://www.uclahealth.org/news/release/molecule-restores-cognition-memory-alzheimers-disease-model
 					- https://www.sciencealert.com/drugs-that-lower-cholesterol-may-also-reduce-dementia-risk-says-huge-new-study
 					- https://www.sciencedirect.com/science/article/abs/pii/S0163725824001712
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC8068256/
+					- https://neurolaunch.com/herbs-for-alzheimers/
+					- https://www.alzheimersproof.com/top-25-herbs-for-treating-avoiding-alzheimers-dementia/
 				- avoid air pollution, avoid anticholinergic medicines, inhibit overstimulation by glutamate with NMDA receptor antagonists like memantine/magnesium/huperzine a/phenylalanine/kynurenic acid from tryptophan, treat inflammation (use an anti-inflammatory diet) and other conditions including autoimmune conditions, reduce homocysteine levels, avoid supplements that use animal products like gelatin that can contain disease-causing prions
 				- treat high blood pressure which is a risk factor for alzheimer's
-				- reelin association with resistance to alzheimer's
+				- increase reelin levels bc of the association between reelin and resistance to alzheimer's
 					- https://www.npr.org/sections/shots-health-news/2024/07/29/g-s1-13519/alzheimers-protein-reelin-brain-aging-amyloid-tau-memory
-				- treat metabolic problems to reduce risk of dementia/alzheimer's (liraglutide)
+				- treat metabolic problems to reduce risk of dementia/alzheimer's
 					- https://www.smithsonianmag.com/smart-news/weight-loss-and-diabetes-drug-could-slow-alzheimers-progression-preliminary-study-suggests-180984808/
 			- parkinsons: 
 				- coffee, b-vitamins, vitamin C/D/E, omega 3s, coq10, creatine, whey protein, tyrosine/dopa/phenylalanine, phosphatidylserine, DHEA, probiotics/SCFAs

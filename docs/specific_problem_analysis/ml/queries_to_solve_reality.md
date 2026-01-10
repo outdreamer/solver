@@ -335,6 +335,8 @@ I. To do list
 
         - identify relevant "cross-interface (like 'intent/requirement/optimization/complexity/extreme/permanence') interactions" like how 'always optimizing for minimal effort' requires 'maximum effort to always apply'
 
+        - identify structures that can be applied as 'filters specific enough to allow workflows' like 'random selections/trial and error' for some intent, like how a 'graph with structures like n interface layers and interface nodes and an interface spectrum' may be a specific enough graph description to enable the graph to be 'complete/otherwise useful' for some intent with any implementation of those structures (as in 'any interfaces as layers, any combination of interface nodes, any interface spectrum'), and identify other 'structures of graphs' that make a graph 'complete/otherwise useful' for general intents
+
 
 II. Queries and Results
 
