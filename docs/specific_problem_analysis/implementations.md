@@ -3,7 +3,7 @@
     - general algorithm
         - start from structure/filter/error
             - apply structures/filters/errors as nodes/connections in a similarity index graph or similarly relevant graph, starting with the biggest errors like 'opposites (like the opposite of is)'
-        - iterate through algorithms, choosing the one that scores high on test cases
+        - alternately, iterate through algorithms, choosing the one that scores high on test cases
         - identify specific structures like 'context' to identify similar words
         - identify errors for each graph/similarity/algorithm combination
             - generate a set of graph descriptions with components like 'de-duplicate' or 'apply errors as nodes' (node types like inner/outer nodes, node identities like concepts/errors/structures, weights/connections/distance/similarity)
@@ -11,7 +11,9 @@
                     - then generate error examples/types/structures for each graph/algorithm/similarity 
         - identify the useful graphs to apply as 'base graphs to apply changes/connections to' which implement 'useful core identified intents' and identify when to apply graph types like 'interface graphs (like optimization graphs)' to a graph/structure (when to optimize a graph/structure for next intents in a sequence)
         - identify workflows like 'change/generate and optimize/standardize/filter' to optimize a graph from a starting graph, to regularly require optimization of relevant structures like 'queries/possible/probable usages of a graph/graph interactions' that should be optimized regularly, so that optimal structures like 'relevant variation' regularly occur in these relevant structures while the graph is being optimized, by comparing the graph with 'relevant variation graphs' (like the 'latest optimal graphs') and 'relevant structures of optimization metrics' (as in 'a query on a graph of structures of optimization metrics')
-            - identify changes to apply to graphs and tests of relevance of each change to core/general intents
+            - identify changes to apply to graphs and regular tests of relevance of each change to core/general intents
+        - identify optimal intent graphs, then identify relevant implementing/causal/optimizing graphs for the optimal intent graph
+            - identify graphs of connectible intent sequences like 'changing connections of a graph' and 'changing connection weights of a graph' and identify optimal intent sequences and optimizations of intent sequences
 
     - apply an algorithm based on 'reasons for word adjacency and other similarities' ('relevant adjacency' like 'specification' and 'identify a list of adjacency reasons' and 'identify the list of all possible similarity causes'), then write an algorithm to identify each cause of similarity, and identify relevant similarity causes and relevant similarities to identify general search intent/relevance similarity (like 'specificity-adjacency can cause context similarity and context similarity can cause relevance/meaning similarity') and score these similarity causes and similarities by relevance to relevance similarities
         - similarities:
