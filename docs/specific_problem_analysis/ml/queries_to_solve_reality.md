@@ -342,6 +342,12 @@ I. To do list
         - identify useful comparisons/queries like identifying whether a higher dimensional graph optimizes some lower dimensional graph like a 'interface variable intersection' (comparing a higher dimensional graph to a lower dimensional graph) and identifying whether the 'lower dimensional graph (the intersecting variable spectrums) should be evaluated by similarity based on the higher dimensional graph (is the lower dimensional graph a component/point/subset/other similarity to the higher dimensional graph, or does the lower dimensional graph optimize the higher dimensional graph, or implement some optimal point on the higher dimensional graph, or represent the higher dimensional graph like a compression of the higher dimensional graph)' or whether the 'higher dimensional graph should be evaluated by whether it optimizes the lower dimensional graph (whether the higher dimensional graph represents the optimal position/structure/direction of some interface variable spectrum)'
 
 
+        - identify graph generation methods like 'applying a set of nodes to connect (nodes which are definitely relevant by some similarity or should be relevant by some similarity) and identifying new relevant similarities between those nodes', and 'applying a set of identified connections and identifying the relevance/position/causality/structure of those connections', and 'applying different relevant graphs to generate graphs' like:
+        	- 'applying similarities in a causal sequence to generate graphs (generate graph description variables with the first causal similarity, then generate graph generation variables with the next similarity in the causal sequence, etc) that is reflected in a causal similarity graph'
+        	- 'identifying relevant insights from different relevant graphs' to apply as 'initial connections to connect to generate a graph'
+        	- checking for 'similarities connected on another graph (like the similarity index graph)' as a limit for identifying 'differences that are likely to generate new relevant similarities from an initial set of similarities' (like 'if the similarities are distant on the similarity index graph, that may be an absolute/stable difference that cant be changed with any amount/structure of differences applied')
+
+
 II. Queries and Results
 
 
