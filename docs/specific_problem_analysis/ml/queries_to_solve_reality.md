@@ -346,8 +346,15 @@ I. To do list
         	- 'applying similarities in a causal sequence to generate graphs (generate graph description variables with the first causal similarity, then generate graph generation variables with the next similarity in the causal sequence, etc) that is reflected in a causal similarity graph'
         	- 'identifying relevant insights from different relevant graphs' to apply as 'initial connections to connect to generate a graph'
         	- checking for 'similarities connected on another graph (like the similarity index graph)' as a limit for identifying 'differences that are likely to generate new relevant similarities from an initial set of similarities' (like 'if the similarities are distant on the similarity index graph, that may be an absolute/stable difference that cant be changed with any amount/structure of differences applied')
-        	- 'applying differences to relevant graphs on maximally different interface axes to generate new relevant graphs'
+        	- 'applying differences to relevant graphs from a graph of maximally different interface axes to generate new relevant graphs'
         	- 'identifying unsolved relevant intents/problems on an intent graph and generating graphs implementing those intents or structures of those intents like combinations of those intents'
+        	- 'identifying relevant graph integrations like applying a similarity index graph to connect outer layers of other graphs like "layers of combinations of cross-interface structures"'
+        	- 'identifying the meaning of a new graph to other graphs as a graph description and generating new graphs to implement that meaning'
+        	- 'identifying different intent sequences to generate graphs like "identify general graph optimizations, then generate a graph with these graph optimizations"'
+        	- 'identifying new structures/spectrums of graphs of graphs which identify different variables/directions/positions of graphs'
+        	- 'identifying the maximum differences allowed in a similarity given the similarity index graph and apply extremes of those differences given the initial similarities of a graph'
+        	- 'identifying unoptimized graph interactions/connections and generating graphs to optimize those interactions/connections'
+        	- these graph-generation methods have variables like different 'starting points/bases/sources of differences/relevance to other graphs/similarity interactions/optimizations'
 
 
 II. Queries and Results
