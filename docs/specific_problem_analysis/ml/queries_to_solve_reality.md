@@ -346,6 +346,8 @@ I. To do list
         	- 'applying similarities in a causal sequence to generate graphs (generate graph description variables with the first causal similarity, then generate graph generation variables with the next similarity in the causal sequence, etc) that is reflected in a causal similarity graph'
         	- 'identifying relevant insights from different relevant graphs' to apply as 'initial connections to connect to generate a graph'
         	- checking for 'similarities connected on another graph (like the similarity index graph)' as a limit for identifying 'differences that are likely to generate new relevant similarities from an initial set of similarities' (like 'if the similarities are distant on the similarity index graph, that may be an absolute/stable difference that cant be changed with any amount/structure of differences applied')
+        	- 'applying differences to relevant graphs on maximally different interface axes to generate new relevant graphs'
+        	- 'identifying unsolved relevant intents/problems on an intent graph and generating graphs implementing those intents or structures of those intents like combinations of those intents'
 
 
 II. Queries and Results
