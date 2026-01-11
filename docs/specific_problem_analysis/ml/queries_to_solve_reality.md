@@ -355,6 +355,9 @@ I. To do list
         	- 'identifying unoptimized graph interactions/connections and generating graphs to optimize those interactions/connections'
         	- 'identifying structures/positions where variation should optimally be applied in a starting base graph'
 
+        - identify relevant graph intent sequences like 'generate a graph, identify an initial set of errors in a graph for some intent, then identify graphs to identify relevance of the error and optimizations of the error, then optimize the graph to avoid the errors, then apply general graph optimizations, then identify the next set of errors until there are no more graph optimizations to apply, then compress the optimized graph to a degree that allows the relevance of the errors to be structured (so the causes/structures of errors in the graph arent compressed away)'
+        	- connect optimized graphs (a description of an optimized graph) with the initial generated graph and relevant error graphs of the graph, to identify errors that are relevant to optimizations and errors that can be skipped, and identify relevant optimization sequences/networks to apply given relevant errors and relevant error sequences/networks to resolve, and identify relevant errors/optimizations to expand/maintain/compress, where relevant error graphs can be applied as limits/components/other structures of the optimized graph, where the optimized/error graphs are useful relevant differences/opposites to apply to identify the useful structure/position of the initial generated graph, and identify different sets/combinations/structures of opposing optimization/error graphs to connect (like graphs of 'different subsets of optimizations/errors', 'specific graph optimization graphs', 'general optimization graphs', 'optimization graphs of interface errors', etc)
+
 
 II. Queries and Results
 
