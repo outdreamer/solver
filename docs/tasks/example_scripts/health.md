@@ -321,12 +321,24 @@
 				- https://en.wikipedia.org/wiki/List_of_herbs_with_known_adverse_effects
 			- avoid bpc-157 to repair damage bc it can cause cancer
 			- avoid eating food high in AGEs which can harm heart/kidney health
+			- Hepatic adaptation to the chronic metabolic stress of a high-fat diet primes tumorigenesis
+				- https://www.cell.com/cell/fulltext/S0092-8674(25)01366-2
 			- ketones/keto diet:
 				- a keto diet can help repair organ daage if it is low in salt/other electrolytes/protein (only eat protein from vegetables and some fish, supplemented with repairing amino acids like glutamate, NAC, tyrosine, taurine, glycine, aspartic acid, histidine and carnitine) bc ketones are protective of the kidneys and are easily used by the heart, though ketones can also increase blood pressure so be careful with ketone supplements
 			- PARP inhibitors (berberine, turmeric, honokiol, resveratrol and EGCG) may help recovery after heart attack
 				- 'Excessive PARP-1 activity may exacerbate the pathogenesis of stroke, myocardial infarction, neurodegeneration, and a number of other disease conditions due to excessive inflammation. Thus, reduction of inflammation by PARP-1 inhibition can mitigate these conditions' - https://en.wikipedia.org/wiki/PARP_inhibitor
 			- use fasting, a keto diet, glutamine, tyrosine, GABA, arginine, lysine (not for kidney/liver damage), maca to increase the amount of human growth hormone to recover
-			- kidney damage: fasting, omega 3s, melatonin, betaine, b vitamins in smaller doses, corn silk, hibiscus, berries, digestive enzymes, prunella vulgaris, lubiprostone to prevent further damage
+			- kidney damage: fasting, omega 3s, melatonin, betaine, b vitamins in smaller doses, corn silk, hibiscus, berries, digestive enzymes, prunella vulgaris, lubiprostone to prevent further damage, astragalus
+				- Rheum palmatum, Whitmania pigra, Astragalus mongholicus, Salvia miltiorrhiza, Epimedium brevicornu, Leonurus japonicus
+					- Astragalus mongholicus improves creatinine clearance and reduce albuminuria, and alleviates mitochondrial dysfunction by activating the nuclear factor erythroid 2–related factor 2 (Nrf2)-antioxidant response element/mitochondrial transcription factor A signaling pathway, thereby counteracting oxidative stress-induced diabetic kidney injury and podocyte apoptosis 
+						- Astragaloside IV alleviates renal tubular epithelial-mesenchymal transition via CX3CL1-RAF/MEK/ERK signaling pathway in diabetic kidney disease
+					- Rheum palmatum reduces albuminuria and improves renal function with minimal adverse effects by regulating the Rac1/NOX1/beta-catenin axis to suppress ferroptosis and epithelial–mesenchymal transition, thus alleviating DKD
+					- Salvia miltiorrhiza improves early-stage DKD by regulating the PI3K/Akt/NF-κB signaling pathway 
+						- the combination of Salvia miltiorrhiza and Astragalus mongholicus ameliorates DKD through the brain–kidney axis by increasing the abundance of Akkermansia muciniphila and Lactobacillus murinus, and modulating pathways related to sphingolipid and glycerophospholipid metabolism, which are associated with glucose and lipid metabolism 
+					- Whitmania pigra exerts renoprotective effects by inhibiting oxidative stress and the production of inflammatory cytokines, as well as suppressing the activation of the JAK2/STAT1/STAT3 signaling pathway in renal tissue
+					- Leonurus japonicus ameliorates renal fibrosis by suppressing the TGF-β and NF-κB signaling pathways
+					- the treatment markedly downregulated CX3CL1 and MCP-1, both of which are closely associated with renal inflammation and fibrotic progression in diabetes (vitamin D also does this)
+					- https://academic.oup.com/pcm/article/8/4/pbaf031/8323138
 				- resistant starch (increases GLP-1, so it helps with kidney disease like ozempic does)
 					- 'RS reduced the serum IS, serum phosphorus, IL-6, and uric acid levels significantly in dialysis patients, while hs-CRP, serum creatinine, BUN, serum paracresol sulfate, and blood lipid showed no significant changes.'
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC9314005/
@@ -342,7 +354,7 @@
 					- https://www.nature.com/articles/s41467-022-35306-1
 				- avoiding dietary purines to reduce cancer growth
 					- https://medicalxpress.com/news/2024-07-tumor-growth-fueled-nucleotide-salvage.html
-				- supplements which increase VEGF to induce angiogenesis (should be avoided for cancer): copper, Salvia miltiorrhiza, Carthamus tinctorius, Pueraria lobata, Astragalus, Panax ginseng, Panax notoginseng, Cinnamomum cassia, Rehmannia glutinosa, Leonurus japonicus, Scutellaria baicalensis, and Geum macrophyllum
+				- supplements which increase VEGF to induce angiogenesis (though they should be avoided for cancer): copper, Salvia miltiorrhiza, Carthamus tinctorius, Pueraria lobata, Astragalus, Panax ginseng, Panax notoginseng, Cinnamomum cassia, Rehmannia glutinosa, Leonurus japonicus, Scutellaria baicalensis, and Geum macrophyllum
 					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4974125/
 				- small amounts of d-ribose to bind with phosphate for hyperphosphatemia, as well as greens powder (to bind with waste not filtered by the kidneys and to prevent acidosis)
 					- https://www.amazon.com/Garden-Life-Organic-Perfect-Superfood/dp/B002HI1LSI
@@ -614,6 +626,8 @@
 					- not enough β‐cells: turmeric, ginger, hibiscus should help
 					- inflammation: using ginger, turmeric, berberine, vitamin d, grape, chamomile, green tea, probiotics and avoiding acrylamide (chips/bread/chocolate/coffee)/saturated fat/refined carb intake/reishi/ginseng/cordyceps/cats claw/5-htp/melatonin should help
 					- inhibited GLP-1: turmeric, berberine, resistant starch, resveratrol should help
+					- improve glucose control: sunlight
+						- https://www.sciencedirect.com/science/article/pii/S1550413125004905
 				- use probiotics (preferably kefir) to manage blood sugar and insulin sensitivity
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC8166562/
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC6714347/
@@ -869,6 +883,8 @@
 			- depression
 				- GABA, SAMe, probiotics, zinc, ashwagandha, 5-htp (avoid for heart impact), st john's wort (avoid for drug interactions), melatonin (avoid for heart impact), turmeric, magnesium, theanine, green tea, berberine, mucuna pruriens (l-dopa), kanna, vitamin d/b9/b12/k, omega 3s, tyrosine, sarcosine (cancer patients should avoid sarcosine), passionflower (an MAOI), lavender, saffron, chamomile, ginseng, ginkgo biloba
 			- anxiety:
+				- Transcranial Direct Current Stimulation (TDCS) devices can treat anxiety/depression
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC6969693/
 				- Beta-blockers are commonly prescribed for both conditions due to their ability to block stress hormones that raise heart rate and blood pressure
 				- Alpha-2 agonists like clonidine and guanfacine also work by stimulating receptors in the brain to reduce sympathetic nervous system activity, leading to decreased heart rate and blood pressure
 				- Angiotensin receptor blockers (ARBs) and angiotensin-converting enzyme (ACE) inhibitors have been explored for their potential role in managing anxiety
