@@ -364,6 +364,8 @@ I. To do list
         	- identify stable connections across interfaces, like variables which are always connected regardless of the differences theyre applied to (like variables which can be connected across different points in a graph generation sequence of similarities and variables which can be connected in the generated graph and variables which can be connected in the optimized graph), to apply as constant structures like 'primary/core/base connections of a graph' or 'starting (inner or outer) assumption layers of a graph' or 'generative connections of a graph'
         	- identify 'optimal certainty structures (like optimal condition structures)' like how applying different conditions can be optimally implemented with 'maximally different directions from a node' and with an algorithm to 'always apply every possible condition until some conditions can be filtered out'
 
+        - identifying 'organizing queries of interaction rules', like 'organize a set of rules by similar intent or similar position on a graph, until the intents are connectible in a graph or until the similar positions indicate clusters/other similarities on a graph' to organize a rule set into a graph
+
 
 II. Queries and Results
 
