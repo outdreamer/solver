@@ -164,6 +164,9 @@
 			- gentle substances: garlic, cranberry, ginger, feverfew, omega 3s, ginkgo, turmeric, chamomile, fenugreek, evening primrose oil, cinnamon, grape seed, melatonin, NAC, bromelain, clopidogrel
 			- harsher substances: aloe, meadowsweet, willow, red clover, dong quai, vitamin E (as an antagonist of vitamin k which clots the blood), cayenne
 			- ginseng has variable effects on clotting and should be avoided for blood thinning and when using warfarin
+		- sleep apnea
+			- antimuscarinic (aroxybutynin, Atropa belladonna (deadly nightshade), Datura stramonium (jimsonweed), Hyoscyamus niger (henbane), and Mandragora officinarum (mandrake root)) and a selective norepinephrine reuptake inhibitor (atomoxetine, st. john's wort, rhodiola rosea, SAMe)
+				- https://www.sciencedirect.com/science/article/pii/S2451865425001127
 		- low blood pressure
 			- caffeine, hydrocortisone (in small amounts to avoid damaging the heart)
 		- high blood pressure
@@ -436,6 +439,7 @@
 			- liver damage:
 				- fasting, hibiscus, artichoke, milk thistle, feverfew, beets, chicory, dandelion, celery, turmeric, ginger, grape seed, berries, decaf coffee, digestive enzymes, treat hormone imbalances like estrogen toxicity which can damage organs like the liver
 				- metabolic dysfunction-associated steatotic liver disease (MASLD, fatty liver): keto diet or low calorie diet, avoid sorbitol
+				- inhibiting the PAF/PAF-R pathway ameliorates liver injury and restores homeostatic Treg/Th17 immune balance (ginkgo biloba, tea tree/Camellia sinensis)
 		- adrenal problems
 			- adrenal insufficiency and related condition symptoms
 				- cortisol deficiency: severe fatigue, weakness, weight loss, hyperpigmentation, nausea, loss of appetite
@@ -622,6 +626,8 @@
 					- insulin transport: arginine should help
 					- insulin resistance: keto diet should help
 					- lower blood sugar by blocking the activity of the enzyme alpha-glucosidase, which breaks down carbs in the small intestine: lion’s mane
+						- coffee to lower blood sugar
+							- https://www.sciencedaily.com/releases/2026/01/260110211224.htm
 					- not enough insulin: bitter melon should help
 					- not enough β‐cells: turmeric, ginger, hibiscus should help
 					- inflammation: using ginger, turmeric, berberine, vitamin d, grape, chamomile, green tea, probiotics and avoiding acrylamide (chips/bread/chocolate/coffee)/saturated fat/refined carb intake/reishi/ginseng/cordyceps/cats claw/5-htp/melatonin should help
