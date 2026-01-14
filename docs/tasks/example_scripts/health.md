@@ -626,14 +626,10 @@
 					- insulin transport: arginine should help
 					- insulin resistance: keto diet should help
 					- lower blood sugar by blocking the activity of the enzyme alpha-glucosidase, which breaks down carbs in the small intestine: lion’s mane
-						- coffee to lower blood sugar
-							- https://www.sciencedaily.com/releases/2026/01/260110211224.htm
 					- not enough insulin: bitter melon should help
 					- not enough β‐cells: turmeric, ginger, hibiscus should help
 					- inflammation: using ginger, turmeric, berberine, vitamin d, grape, chamomile, green tea, probiotics and avoiding acrylamide (chips/bread/chocolate/coffee)/saturated fat/refined carb intake/reishi/ginseng/cordyceps/cats claw/5-htp/melatonin should help
 					- inhibited GLP-1: turmeric, berberine, resistant starch, resveratrol should help
-					- improve glucose control: sunlight
-						- https://www.sciencedirect.com/science/article/pii/S1550413125004905
 				- use probiotics (preferably kefir) to manage blood sugar and insulin sensitivity
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC8166562/
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC6714347/
@@ -708,6 +704,12 @@
 							- serine, lion's mane, potassium, nattokinase, calcium, zinc, broccoli, allulose, fasting, keto diet, omega 3s, vitamin c/d, probiotics, berberine, alpha-lipoic acid, apple cider vinegar, fiber/psyllium husk, green tea (EGCG), bitter melon, resveratrol, magnesium, fenugreek, turmeric, ginger, garlic, basil, dill, fennel, parsley, cumin, nutmeg, oregano, rosemary, Panax ginseng, Siberian ginseng, guar gum, taurine, chromium, inositol, arginine
 							- https://pubmed.ncbi.nlm.nih.gov/38931176/
 							- https://pmc.ncbi.nlm.nih.gov/articles/PMC6851881/
+							- improve glucose control: sunlight
+								- https://www.sciencedirect.com/science/article/pii/S1550413125004905
+							- coffee to lower blood sugar
+								- https://www.sciencedaily.com/releases/2026/01/260110211224.htm
+							- sorghum, foxtail millet, finger millet, pearl millet, and barnyard millet can lower blood sugar
+								- https://pmc.ncbi.nlm.nih.gov/articles/PMC11091339/
 						- reduce hyperglycemia: 
 							- herbacetin (flaxseed), aringenin (citrus), hesperetin (citrus), nobiletin (citrus), tangeretin (citrus peel), fisetin (strawberries, apples, onions, cucumbers), baicalin (chinese skullcap)
 							- https://pmc.ncbi.nlm.nih.gov/articles/PMC7400964/
