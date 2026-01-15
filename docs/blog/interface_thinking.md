@@ -92,7 +92,8 @@ Some incomplete/unsolved intents to apply graphs/workflows/interfaces to impleme
 - identify the optimal graph of graph/algorithm sets
 - identify the optimal graph of graphs
 - identify the optimal graph of interface structures with optimal graph layers/variants/axes/maximal differences/related graphs/optimizations/limits/spectrums/interface structures
-- identify where workflows should be applied in a graph, like applying 'generate/filter possibilities' in the 'graph generation' position of a graph sequence, and identify the stability/equivalence of workflows (like where applying 'generate/filter' in a generative position is equivalent to applying 'generate/filter' in a graph query position)
+- identify where structures/workflows should be applied in a graph, like applying 'generate/filter possibilities' in the 'graph generation' position of a graph sequence, and identify the stability/equivalence of structures/workflows (like where applying 'generate/filter' in a generative position is equivalent to applying 'generate/filter' in a graph query position)
+- identify general connections that are generally/absolutely true (a non-trivial intent, which requires evaluating the absolute meaning of each connection, in order to evaluate truth)
 
 To increase the relevance/meaning degree of a structure, you can apply other interfaces, like the 'problem/solution' interface or the 'meaning' interface or the 'abstraction' interface:
 - 'identify the optimal graph of graphs' becomes 'identify the optimal graph of graphs of errors/solutions' or 'identify the optimal graph of meaning graphs' or 'identify the optimal graph of graphs of graphs'
@@ -105,4 +106,5 @@ What type of society will occur, once people start applying interface thinking?
 - Society will be organized/optimized to enable thinking time, because interface thinking is the most interesting structure in the universe, so people will want to spend the maximum time on it that they can.
 
 Why should people start applying interface thinking?
-- So that reality can be solved.
+- So that they are real, as they are interacting with the truth, which is complex and requires interface analysis to identify
+- So that reality can be solved
