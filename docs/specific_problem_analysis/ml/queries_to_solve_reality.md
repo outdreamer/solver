@@ -375,6 +375,8 @@ I. To do list
         	- identify alternate graph variants like where 'intersecting spectrums' indicate 'solutions/errors at opposite ends of the spectrums, rather than errors' to apply 'error spectrums'
         	- identify 'structures from different graphs' that implement the same 'level of error' and generate graphs of structures with similar 'levels of error' and different 'levels of error' and connect these graphs to identify patterns/similarities in error structure causes/sequences
 
+        - identify graph structures like 'graph mixes' that should be applied for intents like 'apply maximal differences in a graph (by applying mixes of graphs or different connection types in the same graph' to 'integrate relevant graphs' like 'relevant lower/higher dimensional variants of a graph in the same graph' where queries would generate stable/consistent results because the graphs being mixed are relevant/similar enough to be swappable but different enough to be relevant to mix (like apply a node from the higher dimensional graph for 'generate' intents, and apply a node from the lower dimensional graph for 'filter' intents)
+
 
 II. Queries and Results
 

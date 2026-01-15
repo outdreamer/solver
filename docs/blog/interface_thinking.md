@@ -91,7 +91,7 @@ Some incomplete/unsolved intents to apply graphs/workflows/interfaces to impleme
 - identify the optimal queries/optimizations/structures of graphs to generate/organize/implement interface analysis
 - identify the optimal graph of graph/algorithm sets
 - identify the optimal graph of graphs
-- identify the optimal graph of interface structures with optimal graph layers/variants/related graphs/optimizations/limits/spectrums/interface structures
+- identify the optimal graph of interface structures with optimal graph layers/variants/axes/maximal differences/related graphs/optimizations/limits/spectrums/interface structures
 
 To increase the relevance/meaning degree of a structure, you can apply other interfaces, like the 'problem/solution' interface or the 'meaning' interface or the 'abstraction' interface:
 - 'identify the optimal graph of graphs' becomes 'identify the optimal graph of graphs of errors/solutions' or 'identify the optimal graph of meaning graphs' or 'identify the optimal graph of graphs of graphs'
