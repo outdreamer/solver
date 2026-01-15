@@ -36,6 +36,9 @@ A: I like certain graphs I've thought of, like the 'relevant variation graph' an
 
 ## Relevant Links
 
+Here's where I will store my blog:
+https://github.com/outdreamer/solver/tree/master/docs/blog
+
 Here's a list of LLM queries to solve reality:
 https://github.com/outdreamer/solver/blob/master/docs/specific_problem_analysis/ml/queries_to_solve_reality.md
 
