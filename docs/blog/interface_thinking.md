@@ -92,6 +92,7 @@ Some incomplete/unsolved intents to apply graphs/workflows/interfaces to impleme
 - identify the optimal graph of graph/algorithm sets
 - identify the optimal graph of graphs
 - identify the optimal graph of interface structures with optimal graph layers/variants/axes/maximal differences/related graphs/optimizations/limits/spectrums/interface structures
+- identify where workflows should be applied in a graph, like applying 'generate/filter possibilities' in the 'graph generation' position of a graph sequence, and identify the stability/equivalence of workflows (like where applying 'generate/filter' in a generative position is equivalent to applying 'generate/filter' in a graph query position)
 
 To increase the relevance/meaning degree of a structure, you can apply other interfaces, like the 'problem/solution' interface or the 'meaning' interface or the 'abstraction' interface:
 - 'identify the optimal graph of graphs' becomes 'identify the optimal graph of graphs of errors/solutions' or 'identify the optimal graph of meaning graphs' or 'identify the optimal graph of graphs of graphs'
