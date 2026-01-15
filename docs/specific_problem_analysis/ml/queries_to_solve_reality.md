@@ -372,7 +372,7 @@ I. To do list
         	- identify queries on graphs like the 'intersecting spectrum graph (or a variant of it, like a cross-interface spectrum graph, which enables this query, by having multiple intersection points)' that 'generate difference/similarity waves' (generate similarity by crossing a spectrum intersection, then generate difference with extremity on a spectrum) without breaking the query (with one continuous query, like by navigating each spectrum to a semi-extreme and then switching to another spectrum at an intersection point before the extremity prevents switching to another spectrum by being too different) to 'generate maximal differences and connect those differences' iteratively
 
         - identify alternate graphs of a graph like 'alternate structures that connect errors on a graph' like an '"alternate graph layer of sequences of spectrums" that cause/generate/connect errors on a graph of errors/solutions'
-        	- identify alternate graph variants like where intersecting spectrums indicate solutions/errors at opposite ends of the spectrums rather than errors to apply 'error spectrums'
+        	- identify alternate graph variants like where 'intersecting spectrums' indicate 'solutions/errors at opposite ends of the spectrums, rather than errors' to apply 'error spectrums'
         	- identify 'structures from different graphs' that implement the same 'level of error' and generate graphs of structures with similar 'levels of error' and different 'levels of error' and connect these graphs to identify patterns/similarities in error structure causes/sequences
 
 

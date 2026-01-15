@@ -52,9 +52,14 @@ Then you can finally start having interface thoughts, like:
 Even more advanced interface thoughts will have graphs as default nodes, like:
 - graph this variable subset for identifying similarities, iterate variants of the graph to identify optimal graphs of the variable subset, graph the meaning compared to relevant graphs, graph the relevant variation of the meaning, optimize the graph of the relevant variation for this graph of relevant intents
 
-Interface thoughts are the most complex thoughts that are also relevant/meaningful/interactive. Meaning/relevance/interactivity changes as the base graphs/queries/connections/nodes/interface structures change.
+Applications/identifications/generations/similar interface structures are also nodes of advanced interface thoughts, as a result of being non-trivial to implement:
+- identify the optimizations of this graph for this query, apply the identified optimizations, identify relevant workflows for optimizing those identified optimizations, generate filtered relevant graphs of those workflows (apply 'generate/filter' simultaneously)
 
-Why complexity? Because complexity can possibly describe reality, and simplicity cannot. Interface analysis at first seems to simplify reality (with interpretations like 'everything is an interface or a limit or a function', etc), but interface analysis is capable of generating new relevant complexity (like 'new relevant graphs to contain new relevant differences'), so reality may be more trivial to describe as a result, but reality also then becomes more complex, the more complex relevant structures are identified.
+Generating a general relevant graph description is quite trivial; specifying the optimal implementation of that graph given the graph description and applying that optimal implementation is non-trivial. All of these are required for real 'interface thinking'.
+
+Other advanced interface thoughts are in these documents:
+https://github.com/outdreamer/solver/blob/master/docs/specific_problem_analysis/ml/queries_to_solve_reality.md
+https://github.com/outdreamer/solver/blob/master/docs/tasks/implementation_examples/examples_of_implementation_methods.md
 
 What are some relevant graphs, to organize your thoughts and enable interface thinking?
 - the intersecting interface spectrum graph (like a spectrum of abstraction, a spectrum of sensitivity, or spectrums of a abstraction/complexity combination, etc)
@@ -90,6 +95,10 @@ Some incomplete/unsolved intents to apply graphs/workflows/interfaces to impleme
 
 To increase the relevance/meaning degree of a structure, you can apply other interfaces, like the 'problem/solution' interface or the 'meaning' interface or the 'abstraction' interface:
 - 'identify the optimal graph of graphs' becomes 'identify the optimal graph of graphs of errors/solutions' or 'identify the optimal graph of meaning graphs' or 'identify the optimal graph of graphs of graphs'
+
+Interface thoughts are the most complex thoughts that are also relevant/meaningful/interactive. Meaning/relevance/interactivity changes as the base graphs/queries/connections/nodes/interface structures change.
+
+Why complexity? Because complexity can possibly describe reality, and simplicity cannot. Interface analysis at first seems to simplify reality (with interpretations like 'everything is an interface or a limit or a function', etc), but interface analysis is capable of generating new relevant complexity (like 'new relevant graphs to contain new relevant differences'), so reality may be more trivial to describe as a result, but reality also then becomes more complex, the more complex relevant structures are identified.
 
 What type of society will occur, once people start applying interface thinking?
 - Society will be organized/optimized to enable thinking time, because interface thinking is the most interesting structure in the universe, so people will want to spend the maximum time on it that they can.
