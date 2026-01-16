@@ -627,7 +627,8 @@
 					- insulin resistance: keto diet should help
 					- lower blood sugar by blocking the activity of the enzyme alpha-glucosidase, which breaks down carbs in the small intestine: lion’s mane
 					- not enough insulin: bitter melon should help
-					- not enough β‐cells: turmeric, ginger, hibiscus should help
+					- not enough β‐cells: turmeric, ginger, hibiscus, caloric restriction should help
+						- "caloric restriction and accompanying declines in intrahepatic and pancreatic fat were causally related to restoration of β-cell function, leading to diabetes remission"
 					- inflammation: using ginger, turmeric, berberine, vitamin d, grape, chamomile, green tea, probiotics and avoiding acrylamide (chips/bread/chocolate/coffee)/saturated fat/refined carb intake/reishi/ginseng/cordyceps/cats claw/5-htp/melatonin should help
 					- inhibited GLP-1: turmeric, berberine, resistant starch, resveratrol should help
 				- use probiotics (preferably kefir) to manage blood sugar and insulin sensitivity
