@@ -101,7 +101,7 @@ To increase the relevance/meaning degree of a structure, you can apply other int
 
 Interface thoughts are the most complex thoughts that are also relevant/meaningful/interactive. Meaning/relevance/interactivity changes as the base graphs/queries/connections/nodes/interface structures change.
 
-Why complexity? Because complexity can possibly describe reality, and simplicity cannot. Interface analysis at first seems to simplify reality (with interpretations like 'everything is an interface or a limit or a function', etc), but interface analysis is capable of generating new relevant complexity (like 'new relevant graphs to contain new relevant differences'), so reality may be more trivial to describe as a result, but reality also then becomes more complex, the more complex relevant structures are identified.
+Why complexity? Because complexity can possibly describe reality, and simplicity cannot. Interface analysis at first seems to simplify reality (with interpretations like 'everything is an interface or a limit or a function', etc), but interface analysis is capable of generating new relevant complexity (like 'new relevant graphs to contain new relevant differences'), so reality may be more trivial to describe as a result, but reality also then becomes more complex, the more complex relevant structures are identified. Relevant complexity is a type of relevant variation, as in 'variation that is not trivial/meaningless/useless/otherwise irrelevant'.
 
 What type of society will occur, once people start applying interface thinking?
 - Society will be organized/optimized to enable thinking time, because interface thinking is the most interesting structure in the universe, so people will want to spend the maximum time on it that they can.
