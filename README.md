@@ -36,7 +36,7 @@ A: I like certain graphs I've thought of, like the 'relevant variation graph' an
 
 ## Relevant Links
 
-Here's where I will store my blog:
+Here's my blog:
 https://github.com/outdreamer/solver/tree/master/docs/blog
 
 Here's a list of LLM queries to solve reality:
@@ -51,7 +51,7 @@ https://github.com/outdreamer/solver/tree/master/docs/objects
 Here's my recent work on my inventions:
 https://github.com/outdreamer/solver/blob/master/docs/tasks/implementation_examples/examples_of_implementation_methods.md
 
-Here's my patent applications from a few years ago:
+Here's my patent applications from several years ago, containing more problem-solving workflows:
 https://github.com/outdreamer/solver/tree/master/docs/patent
 
 Here's a list of substances to prevent various health conditions that I like to work on whenever I read science news.
