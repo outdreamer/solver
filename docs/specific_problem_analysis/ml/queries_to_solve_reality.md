@@ -381,7 +381,7 @@ I. To do list
 
         - identify solutions to problems like 'how to filter interface analysis implementation methods' like rules like 'select a constant and generate graphs to find errors with that constant, then when you find errors with that constant, select a different constant, in proportion to the difference of the error' (constants like 'number of degrees of interface analysis to apply')
 
-        - identify the relevance of cross-graph query structures (like 'combinations/mixes/sequences of causal graph queries and intent graph queries' and 'causal queries on an intent graph') like 'fractions/structures/causes of meaning' represented by the query structures like 'this query is the orthogonal interaction of components of this query' and 'optimize a graph of cross-graph query structures'
+        - identify the relevance of cross-graph query structures (like 'combinations/mixes/sequences of causal graph queries and intent graph queries' and 'causal queries on an intent graph') like 'fractions/structures/causes of meaning' represented by the query structures like 'this query is the orthogonal interaction of components of this query' and 'optimize a graph of cross-graph query structures', and identify cross-graph relevance connections/sequences/structures and identify 'relevance on different graphs' and 'relevance of that relevance' using cross-graph relevance connections/sequences/structures
 
 
 II. Queries and Results
