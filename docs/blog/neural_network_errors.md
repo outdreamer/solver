@@ -12,10 +12,9 @@ Optimal variants of neural algorithms/parameters/functions/networks
 
     	Relevant intent sequences can be applied as workflows to connect relevant variation like 'maximal differences' like 'cross-interface differences'.
 
-
 	Unsolved Intents
 
-		Unsolved intents (remaining problems) like 'uncovered/irrelevant/unoptimized graphs/structures/variation/uncertainty/complexity' can be applied as 'errors' or 'evals' of existing neural network algorithms. 
+		Unsolved intents (remaining problems) like 'uncovered/irrelevant/unoptimized/unconnected graphs/structures/variation/uncertainty/complexity/differences' can be applied as 'errors' or 'evals' of existing neural network algorithms. 
 
 
 Errors/optimizations of existing neural algorithms/parameters/functions/networks

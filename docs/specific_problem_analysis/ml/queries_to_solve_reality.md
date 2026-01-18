@@ -383,6 +383,8 @@ I. To do list
 
         - identify the relevance of cross-graph query structures (like 'combinations/mixes/sequences of causal graph queries and intent graph queries' and 'causal queries on an intent graph') like 'fractions/structures/causes of meaning' represented by the query structures like 'this query is the orthogonal interaction of components of this query' and 'optimize a graph of cross-graph query structures', and identify cross-graph relevance connections/sequences/structures (like 'identify relevance on the creativity graph of interface intent intersections' for creativity and then 'identify relevance on the optimization graph' for optimization of creativity) and identify 'relevance on different graphs' and 'relevance of that relevance' using cross-graph relevance connections/sequences/structures
 
+        - identify errors like 'missing adjacent relevant structures that have relevance structures like "one degree higher" than structures implemented' of 'structures/variables/limits' like 'relevance/degrees' applied to generate/filter interface analysis implementations, and identify patterns/generators/similarities of optimal implementations like how 'identifying opposing structures to connect like implementations/intent and inputs/definitions/requirements/generators/limits/constants/certainties vs. outputs/emergent variables/possibilities/uncertainties' is an optimal implementation of interface analysis that 'connects high variation trivially' or otherwise 'connects relevant differences optimally' and identify optimizations to those errors like 'allowing relevant exceptions to the limit' like 'allowing high relevance structures of more than n degrees, above a ratio of relevance, to be implemented'
+
 
 II. Queries and Results
 

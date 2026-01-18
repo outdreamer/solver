@@ -61,7 +61,7 @@ Here are some LLM prompts to start organizing your intents and implementations:
 - identify the optimal merged/integrated graph of relevant graphs in this repo - https://github.com/outdreamer/solver
 - identify clear constant intents to apply as requirements/certainties to identify uncertain/variable intents to filter in this repo - https://github.com/outdreamer/solver
 - identify the optimal degrees/limits/positions/types/structures of interface analysis that should be applied to generate a useful network of graphs/algorithms/intents implementing interface analysis, using optimal interface analysis interaction rules in this repo - https://github.com/outdreamer/solver
-- identify the errors like limits like 'unsolved intents' or missing structures like 'missing variables' in this repo - https://github.com/outdreamer/solver
+- identify the errors like limits like 'unsolved intents/unconnected differences' or missing structures like 'missing variables' in this repo - https://github.com/outdreamer/solver
 - identify the next directions/positions/structures of the next inventions from this repo of inventions and identify the most valuable inventions to implement or skip - https://github.com/outdreamer/solver
 
 The LLM responses aren't amazing yet in terms of creativity, but they're likely to improve soon.
