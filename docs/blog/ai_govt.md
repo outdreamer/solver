@@ -71,3 +71,5 @@ https://github.com/outdreamer/solver/blob/master/docs/specific_problem_analysis/
 https://github.com/outdreamer/solver/tree/master/docs/objects
 https://github.com/outdreamer/solver/blob/master/docs/tasks/implementation_examples/examples_of_implementation_methods.md
 https://github.com/outdreamer/solver/tree/master/docs/patent
+
+The 'optimal system interaction network of relevant graphs' referenced in https://github.com/outdreamer/solver/blob/master/docs/blog/relevant_graphs.md is a useful guide to the 'optimal system interaction network of relevant AI models'.
