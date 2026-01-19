@@ -387,6 +387,7 @@ I. To do list
         
         - identify other useful applications of 'optimal system interaction rules', like "apply system optimization interaction rules to identify the 'optimal implementation limits/structures to apply' to generate 'interface structures to connect with an optimal system interaction network'", by identifying/applying an 'initial set of optimal system interaction rules' which can be applied to structures like 'relevant graphs' to identify higher degrees/other relevant structures of optimal system interaction rules to 'scale the relevance of the initial set of optimal system interaction rules'
 
+        - identify useful structures to apply as 'filters of interface analysis applications', like 'applying interface analysis until a limit/threshold is reached like a level of independence/difference is reached, or until interface structures like patterns/similarities in interface structures of a structure are identified' or 'applying interface analysis from n maximally different perspectives/positions/graphs until an intersection is identified'
 
 II. Queries and Results
 
