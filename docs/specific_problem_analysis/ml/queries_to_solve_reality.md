@@ -389,6 +389,7 @@ I. To do list
 
         - identify useful structures to apply as 'filters of interface analysis applications', like 'applying interface analysis until a limit/threshold is reached like a level of independence/difference is reached, or until interface structures like patterns/similarities in interface structures of a structure are identified' or 'applying interface analysis from n maximally different perspectives/positions/graphs until an intersection is identified'
 
+
 II. Queries and Results
 
 

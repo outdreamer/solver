@@ -1,5 +1,14 @@
 # Relevant graphs and Optimal system interaction rules
 
+## What is relevance
+    - definition of relevance - identifying 'valuable/relevant' intents/structures like how the 'similarity index graph' is one of the more relevant structures of the 3-degree interface structures
+
+Relevance has components like 'independence' (independent variables are useful to identify), 'optimal' (optimal structures are useful), 'meaning/importance/usefulness' (as in 'relevant to multiple or important intents' or 'makes a complex intent trivial/optimal/otherwise useful'), 'newness', 'power/functionality' (functionality is useful), relevant variants of interface variables like relevant 'variation', 'complexity', and 'randomness', and relevance structures like 'similarities/connections in differences'.
+
+With this definition, it's possible to generate a set of definitely relevant structures, by applying components of this definition to generate relevant intents, and identify relevant structures that implement those intents.
+
+For example, it's possible to identify the 'similarity index graph' (which embeds emergent similarities on core important base similarities) as a relevant graph because it identifies 'similarities connecting different similarities', which overlaps with a component of relevance like 'similarities/connections in differences'.
+
 
 ## Relevant Graph Types 
 
@@ -45,7 +54,12 @@ Interface structures of these graphs are even more relevant, like:
 
 3. Other interface structures of relevant graph types
 
-In addition to 'core graphs' and 'generated graphs of core graphs', there are other interface structures of graphs like 'limiting graphs of generative graphs', 'opposing graph pairs', 'graph spectrums', etc.
+In addition to 'core graphs' and 'generated graphs of core graphs', there are other interface structures of graphs like 'limiting graphs of generative graphs', 'opposing graph pairs', 'graph spectrums', 'relevant implementations of relevant graphs', etc.
+
+Relevant implementations of relevant graphs include:
+- applying a 'graph of the connections between components of the definition of relevance' to implement a 'creativity/innovation graph' that applies the similarities/connections between relevance components (like 'independence', 'newness', 'variation', 'complexity', 'usefulness', 'interactivity', etc) as a base
+- identifying a 'graph of which graphs are best applied as generators/descriptors/filters/components/bases/structures of other graphs' as a way to generate a 'graph that implements interface analysis'
+- optimizing a graph like the 'intersecting spectrum graph' with relevant changes like 'applying combinations/sequences/structures of interface variables as "different points to connect with spectrums" rather than just applying "extremes of interface variables to connect with spectrums"'
 
 
 ## Generating relevant graphs
