@@ -1,9 +1,8 @@
 # Relevant graphs and Optimal system interaction rules
 
 ## What is relevance
-    - definition of relevance - identifying 'valuable/relevant' intents/structures like how the 'similarity index graph' is one of the more relevant structures of the 3-degree interface structures
 
-Relevance has components like 'independence' (independent variables are useful to identify), 'optimal' (optimal structures are useful), 'meaning/importance/usefulness' (as in 'relevant to multiple or important intents' or 'makes a complex intent trivial/optimal/otherwise useful'), 'newness', 'power/functionality' (functionality is useful), relevant variants of interface variables like relevant 'variation', 'complexity', and 'randomness', and relevance structures like 'similarities/connections in differences'.
+Relevance has components like 'independence' (independent variables are useful to identify), 'optimal' (optimal structures are useful), 'meaning/importance/usefulness' (as in 'relevant to multiple or important intents' or 'makes a complex intent trivial/optimal/otherwise useful'), 'uniqueness', 'newness', 'power/functionality' (functionality is useful), relevant variants of interface variables like relevant 'variation', 'complexity', and 'randomness', and relevance structures like 'similarities/connections in differences' or 'mixes of extremes of spectrum variables (like how a mix of abstraction and specificity is relevant/useful)'. Now that relevance is well-defined (less relevant), 'new/relevant relevance' has the structure of 'relevance to relevant graphs'.
 
 With this definition, it's possible to generate a set of definitely relevant structures, by applying components of this definition to generate relevant intents, and identify relevant structures that implement those intents.
 
