@@ -18,11 +18,13 @@ The most important structures in this repo involve core relevant graphs, like co
 - the 'graph of graph similarity structures' like 'generative graph similarities which connect to emergent similarities of a graph'
 - the 'spectrum implementation graph' like a graph of 'inner abstract layers and outer specific layers' where 'outer specific layers apply other spectrums like simplicity/complexity'
 - the 'graph of maximally different functions' which is useful to standardize functions to, in order to 'cluster similar functions' and 'identify maximally different functions of a function'
-- the 'graph of optimizations of graph variables' like 'optimizations to apply which involve "varying a graph connection function" or "varying a graph node" or "varying a graph query"'
+- the 'graph of optimizations of graph variables' like 'optimizations to apply which involve "varying a graph connection function" or "varying a graph node" or "varying a graph query"' and the 'graph of optimizations of relevant graphs' and the 'graph of optimal queries of relevant graphs'
 - the 'graph of optimal system interaction rules' like 'apply certainties as constants/structures (like graphs) and apply uncertainties as variables/functions'
 - the graph of 'graphs which implement an intent graph' like 'associated graphs that implement optimal intent sequences'
 - the graph of 'implementation/definition/interface differences' indicating whether there are relevant connections across implementations/generations/definitions of a structure (whether 'implementing a structure or applying a structure or defining a structure or generating a structure' changes the 'relevance of a structure')
 - the graph of 'abstract intents and specific implementations of those intents'
+- the graph of optimal interface structure interactions (up to some degree of interface structure combinations/other structures) like 'optimal cross-interface graph interactions'
+- the graph of optimal interface analysis-generating/filtering/organizing/implementing/optimizing graphs
 
 You can see that these graphs apply the core intent of "connecting 'interface' structures with 'relevance' structures". 
 

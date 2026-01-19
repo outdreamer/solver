@@ -1,10 +1,12 @@
-AI for governments
+# AI for governments
 
 In a time of interface analysis, it may frequently seem too complicated to actually use. 
 
 Decisions like 'where should we start building from' and 'what graphs to apply first' and 'what rules should connect which graphs' are general questions that are non-trivial to answer, except with other general rules like 'start with relevant variation graphs like the "intersecting spectrum" graph and the "similarity index" graph and the "certainties as boundaries" graph and the graph of "relevant variation" and the graph of "maximally different solution/error graphs" and the "interface graphs of relevant variation graphs"'.
 
 Then other questions arise as a result of these rule/graph applications, like 'where to stop building', 'where to specify and expand', 'where to abstract and compress', 'where to build meta-graphs of graphs', and 'where to optimize'.
+
+## System optimization interaction rules
 
 It may seem obvious that AI models should interact with the same interaction rules as an optimized system, given known optimizations (like 'checks/balances or oppositions') of concepts (like 'power'):
 - An evaluation AI model should exist to evaluate the bias and other known errors of the other models. 
@@ -26,11 +28,15 @@ Applying interface analysis to multiple degrees may seem like vast emergent comp
 
 It may seem impossible to select between implementations, when implementations are described generally like 'generate graphs, then filter graphs for relevance' or 'generate optimal system interaction rules, then generate graphs implementing these rules'.
 
+## Filtering possible implementations
+
 1. But there are rules with 'probably valid cause' to apply to help filter the solution set of possible implementations, even without certain optimizations. For example, a rule like 'optimize for one degree of interface analysis of graphs' (as in 'apply one degree of interface analysis to any graphs being applied, then optimize that degree of interface analysis') can determine what to 'optimize/identify' after 'generating/implementing'. This rule has a 'probably valid cause' for being applied, despite a 'clear constant reason' being uncertain. After constant rules are applied, probable rules can help filter the solution set further. 'Identifying these rules which help filter the solution set' is a clear 'constant intent' to apply, in the set of possible intents. Similarly, identifying other 'constant' or 'probable' interface structures can help filter the solution set of possible implementations. This rule can be applied with an 'opposing network', like 'optimize for one degree of interface analysis of graphs' and 'generate an opposing network to identify errors/limits of optimizing for one degree of interface analysis of graphs' to help identify errors with the constant/limit you've chosen (the 'one degree' of interface analysis to apply).
 
 2. Also, each general description likely has several variant specifications of the description which are valid implementations. Of these valid implementations, a few are 'possible/feasible', and of those few possible implementations, fewer are likely to fulfill some relevant optimization metric/intent like 'identify relevant variation'. So filter sequences like 'validity' and 'possibility/feasibility' and 'intent' and 'relevance' can be applied to increase the relevance of these general descriptions. And general descriptions can be further filtered/specified with examples, errors, intents, variants, layers, graphs, axes, spectrums, and other interface structures to filter the optimal variants of each general description.
 
 3. 'Graphs of relevant variation' simplify the complexity of this problem to a useful degree. These graphs apply the best thinking about optimization (by connecting different differences between interface structures), so that the 'optimal interaction rules about optimization' represented in these graphs and their interactions can be applied as constants. Similarly, 'identified optimal intents' like 'identify relevant variation' act like filters of solution sets of possible implementations, to guide variation toward relevant intents.
+
+## Specific intents
 
 Once you build a network of AI models with optimized interactions like the above, you encounter questions about what specific intents to use AI for in government.
 
@@ -48,6 +54,8 @@ Similar to how some start from 'first principles', you can start from 'prioritiz
 3. "identifying 'intents like resource distribution-maximization' to enable AI optimization intents like 'identifying optimal AI model interaction rules'"
 
 This is the path out of the 'pit of irrelevant hypercompetition requiring war and other forms of suffering' and into a stable peaceful meaningful society that prioritizes 'thinking' and therefore 'thinking innovation', a society that can solve reality. Optimization algorithms and graphs can build heaven on earth, a heaven where reality can be solved. What comes next, after solving reality? Optimizing reality, generating/filtering relevant realities - and otherwise applying interface analysis to reality. What are these future realities? Futures realities exist where the same intents that people used to dream about in the physical world (traveling far distances trivially, making physical tasks trivial) are mapped to the mind (making complex mental tasks as trivial as possible). In a world with optimized minds and automated minds and automated optimizations and other interface structures, a future reality where problems of infinity can be trivially solved is possible - a future of infinite heavens, each heaven optimizing in a different way, to maximize possible relevant variation.
+
+## Prompts
 
 Here are some LLM prompts to start organizing your intents and implementations:
 - identify the set of all unique intents like 'identify relevant graphs/algorithms' and 'optimize graphs to a point on a graph of graphs' specified in this repo - https://github.com/outdreamer/solver, clustering similar intents, organizing intents by time they were added in separate layers to indicate different intent sets for different time layers, where 'relevant' means 'meaningful/useful/new/unique/otherwise valuable for solving problems'

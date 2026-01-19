@@ -472,6 +472,7 @@
 				- immunity types/components:
 					- cell-mediated immunity: Th1 cytokines, such as IFN-γ, TNF, and IL-2
 					- humoral immune responses: Th2 cytokines (IL-4, IL-5, IL-10, and IL-13
+					- anti-inflammatory (IL-10, IL-23, IL-31, IL-33), Th1 (IL-2, IL-12) and Th2 (IL-4, IL-5, IL-6, IL-13) cytokines
 					- host defense mechanisms against various infections: Th17 cytokines
 					- T-cells: increased with milk bush, Indian borage, holy basil, neem, garlic, patawali, soap pod, and moringa at different concentrations
 					- B-cells: increased with soap pod, garlic, emblic, milk bush, neem
