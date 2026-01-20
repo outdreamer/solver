@@ -51,6 +51,15 @@ The optimal system of interactions of relevant graphs would implement the intent
 - 'optimize relevant graphs for graph intents', 'optimize relevant graphs for relevant graph integrations', etc
 - 'implement useful structures/degrees of interface analysis'
 
+Decisions in implementing the system of optimal interactions of relevant graphs:
+- whether to start by identifying optimal 'connections/interactions' and then 'fitting structures to the node positions of these connections' or vice versa
+- whether to start by identifying optimal 'interactions of n degrees of interface structures' to filter later interaction optimization
+- whether to start by connecting relevant graphs or generating new relevant graphs and connecting lower relevance graphs to higher relevance graphs to generate optimization directions
+- whether to start by identifying optimal interactions of optimizations like 'optimal optimization sequences' to filter later optimization of graph interactions
+- whether to start by identifying a 'structure of graphs to implement' like 'limiting/opposing graphs of graphs' or 'limiting/opposing error graphs' or 'generating structures through implementation'
+
+Once the system of optimal interactions of relevant graphs is identified, optimizations of the system can be identified, like 'inefficiencies/redundancies/irreducibilities' of the graph.
+
 ## Why generate the system of optimal interactions of relevant graphs
 
 The point of the system of optimal interactions of relevant graphs is to identify how relevant graphs would optimally interact, as in how relevant graphs would be applied/organized/integrated/optimized/connected/implemented. The core graph of optimal system interactions that applies to systems in general may need to be optimized for application to relevant graphs - the interactions that optimize a 'system of functions' may not apply equivalently to optimize a 'system of graphs', so the core graph of optimal system interactions is useful to apply as a starting graph but is unlikely to cover every optimal interaction of relevant graphs on its own, as in it may require specification for relevant graphs like by optimizing for graph intents.
