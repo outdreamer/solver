@@ -68,6 +68,8 @@ Then you can finally start having interface thoughts, like:
 - apply interface analysis to identify errors in interface analysis like optimizations with over-prioritization errors on the intersecting interface spectrum graph
 - identify workflows to generate interface analysis like 'apply similarities to differences or apply differences to similarities' or 'apply interface graphs of a set of base graphs until the base graphs overlap'
 
+The point of these examples is that they 'implement a degree of complexity that is relevant' and 'connect to relevance structures', thereby implementing sufficient relevance to implement interface thinking.
+
 Even more advanced interface thoughts will have graphs as default nodes, like:
 - graph this variable subset for identifying similarities, iterate variants of the graph to identify optimal graphs of the variable subset, graph the meaning compared to relevant graphs, graph the relevant variation of the meaning, optimize the graph of the relevant variation for this graph of relevant intents
 

@@ -389,6 +389,8 @@ I. To do list
 
         - identify useful structures to apply as 'filters of interface analysis applications', like 'applying interface analysis until a limit/threshold is reached like a level of independence/difference is reached, or until interface structures like patterns/similarities in interface structures of a structure are identified' or 'applying interface analysis from n maximally different perspectives/positions/graphs until an intersection is identified'
 
+        - identify relevant graphs by identifying 'graph structures' like the 'average graph of a set of graphs' and identifying 'what intent the average graph would be relevant for' to identify the 'optimal position/perspective/graph/structure to apply the average graph in, with what requirements/optimizations/changes/structures, for the optimal intent', and identify relevant graphs like 'equivalent graphs' (like 'trivial opposites of a graph' like how an 'error graph' approximates the 'limits of a graph' and identifies the 'solutions of a graph')
+
 
 II. Queries and Results
 
