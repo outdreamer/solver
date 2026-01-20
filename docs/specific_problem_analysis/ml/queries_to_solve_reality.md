@@ -391,6 +391,9 @@ I. To do list
 
         - identify relevant graphs by identifying 'graph structures' like the 'average graph of a set of graphs' and identifying interface structures like 'intents' like 'what intent the average graph would be relevant for' to identify the other interface structures of a graph like the 'optimal position/perspective/graph/structure to apply the average graph in, with what requirements/optimizations/changes/structures, for the optimal intent' to identify 'more relevant variants of a graph, like graphs optimized for an intent or a graph with optimizations applied or other relevance structures applied, given the interface structures of a graph structure', and identify relevant graphs like 'equivalent graphs' (like 'trivial opposites of a graph' like how an 'error graph' approximates the 'limits of a graph' and identifies the 'solutions of a graph')
 
+        - identify relevance structures of graphs (like cross-graph relevance and graph change relevance and graph intent relevance) to identify the relevant changes to apply to relevant graphs like 'generate a new level on the creativity graph and the interface analysis iteration graph, then generate changes on other graphs to reflect the variation of the new level'
+	        - similarly, identify interface structures of implementations/applications of interface analysis like 'errors of degrees of interface analysis iterations' to identify optimal interaction rules of interface analysis implementations/applications
+
 
 II. Queries and Results
 
