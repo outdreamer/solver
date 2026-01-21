@@ -521,6 +521,29 @@
 					- For example, after vitamin C has "quenched" a free radical by donating electrons to it, a phytochemical called hesperetin (found in oranges and other citrus fruits) restores the vitamin C to its active antioxidant form
 					- Carotenoids (such as lycopene in tomatoes and lutein in kale) and flavonoids (such as flavanols in cocoa, anthocyanins in blueberries, quercetin in apples and onions, and catechins in green tea) are also antioxidants
 		- autoimmune conditions: 
+		    - Autoimmune disease is not weak immunity
+	            - It is misdirected, overactive, or poorly regulated immunity, so anything that does the following can worsen disease activity:
+	                - boosts Th1 or Th17
+	                - increases interferons
+	                - activates antigen presentation
+	                - enhances cytotoxic T-cells
+	            - avoid:
+	                - avoid excess: vitamin A/D/E/iodine/iron/zinc/copper/b9/b12
+	                - avoid: echinacea, astragalus, cat's claw, spirulina/chlorella, elderberry, ashwagandha, arginine, glutamine, bcaa's
+	        - autoimmune-safe because they support immune regulation, tolerance, barrier integrity, or inflammation resolution rather than immune stimulation; “safe” here means unlikely to stimulate Th1/Th17/Th2 dominance or interferon loops and often supports Tregs, IL-10, mitochondrial health, or antioxidant balance
+	            - use:
+	                - normal dose: vitamin b1/b2/b3/b5/b6/c, magnesium, selenium, potassium, glycine, taurine, theanine, turmeric, ginger, boswellia, chamomile, lavender, passionflower, omega 3's, coq10, ALA, probiotics, prebiotics
+	                - low dose: zinc/iron, methionine, ashwagandha, green tea
+	            - Autoimmune-safe supplements support regulation, not activation. The most helpful ones:
+	                - Increase Tregs / IL-10
+	                - Reduce NF-κB / Th17
+	                - Support mitochondria + gut barrier
+	                - Lower stress-immune coupling
+	        - il-7: 
+	            - evidence has demonstrated that IL-7 is involved in the pathogenesis of various autoimmune diseases including rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), type 1 diabetes (T1D) and multiple sclerosis (MS)
+	        - estrogen: 
+	            - Dysregulation of estrogen signaling has been linked to the pathobiology of autoimmune diseases, such as rheumatoid arthritis (RA) and multiple sclerosis (MS)
+	            - Estrogen can inhibit pro-inflammatory cytokines, which is beneficial for Th1 dominant autoimmune diseases, while stimulating the production of Th2 cytokines, which is not beneficial for Th2 dominant conditions
 			- use diets (keto diet, low fodmap/purine/oxalate/glycemic/salt/protein/nightshade/carb/acid/stimulant, dairy-free, allergen-free, raw/dash/anti-inflammatory/pro-immunity diet), anti-inflammatory substances/foods like seeds/nuts/vegetables/fruit and immune suppressors/sedatives/anxiolytics/anti-inflammatories like cortisol, glucosamine, red yeast rice, curcumin, luteolin, piperine, resveratrol, salvia miltiorrhiza, feverfew, thunder god vine, CBD, ginger, spirulina, bromelain, green tea, vitamin d, melatonin, chamomile, theanine, GABA/kava until you know what triggers it and what counteracts the triggers
 			- keto diet as an intervention to prevent autoimmunity (alternatively, supplementation with lactobacillus strains and/or β-hydroxybutyrate [βHB] to create indole lactate)
 				- https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01242-7

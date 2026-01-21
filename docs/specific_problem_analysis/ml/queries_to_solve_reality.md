@@ -395,6 +395,8 @@ I. To do list
         	- identify the 'relevant structures/positions to apply a graph in', given the 'structures/errors of a graph' (like 'given that this graph has errors in all of its variants except one, dont apply a graph manifold/sequence/network of variants of this graph and dont apply it in a generation function of graphs or a set of graphs to apply changes to, and only apply the graph with these limits to avoid its error variants or apply the graph as a constant')
 	        - similarly, identify interface structures like 'errors' of interface structures (like 'organizations/optimizations/implementations/applications/iterations') of interface analysis like 'errors of degrees of interface analysis iterations' to identify optimal interaction rules of interface analysis implementations/applications/interface structures
 
+	    - identify overlapping/otherwise similar graphs like how the 'graph of the system of optimal interactions of interface structures like relevant graphs' overlaps with the 'graph of optimal interface analysis implementations' and the relevance of these similarities between graphs like how 'identifying the overlap between those graphs' can be used to 'identify which graph is a subset of the other or which can generate the other'
+
 
 II. Queries and Results
 
