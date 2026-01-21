@@ -13,7 +13,7 @@ A system graph implements 'interactions between system structures' like 'compone
 
 An 'optimal system of interaction rules' is useful to identify as a core/base graph to start from, to connect rules like 'applying these graph intents in this optimal sequence'.
 
-Once this system graph of optimal interaction rules is identified, it can be applied to connect relevant graphs.
+Once this system graph of optimal interaction rules is identified, it can be applied to connect relevant graphs/algorithms/interface structures.
 
 Examples of optimal interactions of relevant graphs (connections on the system of interaction rules of relevant graphs):
 - 'apply these graphs in this sequence to optimize for low-volatility, high-relevance, complex variation'
@@ -57,6 +57,10 @@ Decisions in implementing the system of optimal interactions of relevant graphs:
 - whether to start by connecting relevant graphs or generating new relevant graphs and connecting lower relevance graphs to higher relevance graphs to generate optimization directions
 - whether to start by identifying optimal interactions of optimizations like 'optimal optimization sequences' to filter later optimization of graph interactions
 - whether to start by identifying a 'structure of graphs to implement' like 'limiting/opposing graphs of graphs' or 'limiting/opposing error graphs' or 'generating structures through implementation'
+- what nodes should this 'system of optimal interaction rules' connect? Implementations of interface structures? Iterations of interface structures? Relevant graphs/algorithms? The most stable/general/useful interface structures to connect? Or more likely, a combination of subsets of these?
+- what optimization metrics should this 'system of optimal interaction rules' implement? Relevance definition components and optimal structures/points/extremes of interface variables?
+- when should this 'system of optimal interaction rules' be optimized? After each relevant application/change of the system?
+- what 'applications/connections/organizations/integrations/implementations/structures of relevance' should this 'system of optimal interaction rules' apply/connect/organize/integrate/implement?
 
 Once the system of optimal interactions of relevant graphs is identified, optimizations of the system can be identified, like 'inefficiencies/redundancies/irreducibilities' of the graph.
 
