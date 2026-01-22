@@ -2,7 +2,7 @@
 
 ## What is relevance
 
-Relevance has components like 'independence' (independent variables are useful to identify), 'optimal' (optimal structures are useful), 'meaning/importance/usefulness' (as in 'relevant to multiple or important intents' or 'makes a complex intent trivial/optimal/otherwise useful'), 'uniqueness', 'newness', 'power/functionality' (functionality is useful), relevant variants of interface variables like relevant 'variation', 'complexity', and 'randomness', and relevance structures like 'similarities/connections in differences' or 'mixes of extremes of spectrum variables (like how a mix of abstraction and specificity is relevant/useful)'. Now that relevance is well-defined (less relevant), 'new/relevant relevance' has the structure of 'relevance to relevant graphs'.
+Relevance has components like 'independence' (independent variables are useful to identify), 'required/important' (required structures are useful), 'optimal' (optimal structures are useful), 'meaning/importance/usefulness' (as in 'relevant to multiple or important intents' or 'makes a complex intent trivial/optimal/otherwise useful'), 'uniqueness', 'newness', 'power/functionality' (functionality is useful), relevant variants of interface variables like relevant 'variation', 'complexity', and 'randomness', and relevance structures like 'similarities/connections in differences' or 'mixes of extremes of spectrum variables (like how a mix of abstraction and specificity is relevant/useful)'. Now that relevance is well-defined (less relevant), 'new/relevant relevance' has the structure of 'relevance to relevant graphs'.
 
 With this definition, it's possible to generate a set of definitely relevant structures, by applying components of this definition to generate relevant intents, and identify relevant structures that implement those intents.
 
@@ -69,6 +69,44 @@ Graphs are relevant if they:
 - apply cross-interface connections/structures (for relevance/interactivity) rather than applying one interface or one interface structure
 
 This definition of relevance can be applied to generate relevant graphs, and relevant graphs can also be applied to generate relevant graphs.
+
+Specific relevant structures of graphs
+
+1. relevant graph nodes
+    - graphs, variables, combinations, connections, queries, optimizations, components of relevance
+
+2. relevant graph boundaries/limits
+    - graph intents, certainty structures like requirements/constants, graphs of graphs
+
+3. relevant graph axes
+    - intersecting interface spectrums, intersecting combinations/structures of interface spectrums
+
+4. relevant graph layers
+    - simplifications/complications or abstractions/specifications or optimizations/organizations or generations/descriptions or reductions/expansions as layers of a graph, an optimal/target query layer of a graph
+
+5. relevant graph variables
+    - generative variables, implementation variables, descriptive variables, interface variables
+
+6. relevant graph connections
+    - interface spectrum connections, intersecting interface spectrum connections, causal/defining (generative/filtering) connections, component connections, interaction connections, similarity connections, prioritized connections, standardized connections, maximally different connections, workflows/algorithms/functions, associated graph sequences of connections
+
+7. relevant graph graphs
+    - graph of relevant graphs, graph of relevant graphs to connect like 'opposing pairs of graphs'
+
+8. relevant graph spectrums
+    - complexity, abstraction, variation, composability
+
+9. relevant graph integrations
+    - integrating system layers/boundaries from different system layer graphs
+
+10. relevant graph interactions
+    - graphs of graphs, the interface structures of a graph, the interface structure graphs of a graph
+
+11. relevant graph applications
+    - describe certain/identified similarities, generate uncertain/emergent similarities
+
+12. relevant graph intents
+    - generate/filter/connect/reduce/optimize/organize/integrate graphs
 
 
 ## With relevant graphs

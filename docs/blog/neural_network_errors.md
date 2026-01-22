@@ -19,7 +19,7 @@ Unsolved intents (remaining problems) like 'uncovered/irrelevant/unoptimized/unc
 
 ## Errors/optimizations of existing neural algorithms/parameters/functions/networks
 
-### LLMs
+### Transformers/LLMs
 
 LLMs are biased to be capable of applying the 'variables/change types' gathered from the input training data set, rather than being capable of 'relevant change types' like identifying/generating 'cross-interface changes' or 'relevant new graphs' or applying system optimization interaction rules like 'identifying the level of change/variation required to solve most complex intents like creativity/innovation'. 
 
@@ -40,6 +40,18 @@ Other variable types which might be more useful to identify than 'simple composa
 An LLMs will be unlikely to generate an 'organized optimized graph of interface structures' like 'interface graphs of graph generation/identification/organization/optimization interaction rules' or the 'graph of relevant graphs', instead arriving at relevant structures by depending on input training data sets to contain change types that can generate relevant connections if iterated enough. 
 Will the LLM apply enough iterations to generate relevant variation? Right now, only if the user provides the correct prompt sequence to do so, giving plenty of examples to filter the solution set of possible meanings of the query, and directly telling the LLM about relevant graphs to apply as 'core components' of its 'change type composition sequences', and if the user directs the LLMs to generate relevance structures with specific related intents, and if the user queries it enough to give the LLM a memory of what relevance/independence is.
 Some functions require more than 'simple combinations/sequences of components' to generate useful outputs like 'relevant complexity'. Because LLMs apply only one connection type ('simple combinations of components'), they will fail to implement complex intents like 'analyze the algorithm/parameters/network/data sets/model to identify graphs that could have generated the same output with fewer queries/variables (or other graphs enabling optimizations)'. Reality is complicated, and 'low degrees of iterations of simple combinations' aren't enough to implement relevant complexity in cases like with 'data sets missing connections' or 'data sets without relevant concepts'. 'Iterated applications of inference/derivation methods using graphs/interfaces/relevance' is required to handle the probable errors like 'interface errors like info errors like missing info' of LLMs. LLMs therefore have over-prioritization errors of 'over-simplification' and 'over-dependence' and 'over-use of identified as opposed to new structures' and other variants of irrelevance.
+
+### World Models
+
+World Models apply an 'over-prioritization error' of 'over-specificity' which involves iterating specific structures that should be abstracted in a pattern/type/other similarity, incorrectly implementing similar structures as 'different' by generating unnecessary/irrelevant iterations of similar structures. An extreme variant is 'generating a copy of every molecule' to describe reality.
+
+### CNNs
+
+CNNs apply a simple similarity 'adjacency' as a 'relevance metric', which can identify a subset of relevance by iterating this metric, similar to how cause/components can be iterated to identify a subset of relevance, thereby 'incompletely' implementing relevance.
+
+### Neural networks modeled on the brain
+
+Neural networks modeled on the brain's required/default structures (applying neuroscience insights that apply to most/normal brains) are likely to generate the errors of the normal brain (its limited functionality/attention/poor grasp of relevance/meaning).
 
 ### Eigenvectors
 
