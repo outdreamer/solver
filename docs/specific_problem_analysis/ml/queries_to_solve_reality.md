@@ -403,6 +403,8 @@ I. To do list
 
 	    - identify useful 'interaction points/structures of graphs' like 'at what point does a causal interaction graph become an implementation graph, given that causal graphs generate other graphs like implementation graphs'
 
+	    - identify useful structures/spectrums to apply to implement a 'system of optimal interaction rules between relevant graphs' like the spectrum of 'complexity' by applying 'connections between the most complex/maximally different relevant graphs' as the default structure of the graph, or applying the spectrum of 'composability' by applying 'core components like interface structures' as default nodes, or applying 'spectrums (of graphs) connecting graphs' like 'connections between sets of opposing/otherwise relevant graphs (like the set of intersecting spectrums of interface variables, and the set of intersecting spectrums of relevant graphs, and the similarity index graph connecting interface variables)'
+
 
 II. Queries and Results
 
