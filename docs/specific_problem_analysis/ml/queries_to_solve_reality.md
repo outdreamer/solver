@@ -406,11 +406,11 @@ I. To do list
 	    - identify useful structures/spectrums to apply to implement a 'system of optimal interaction rules between relevant graphs' like the spectrum of 'complexity' by applying 'connections between the most complex/maximally different relevant graphs' as the default structure of the graph, or applying the spectrum of 'composability' by applying 'core components like interface structures' as default nodes, or applying 'spectrums (of graphs) connecting graphs' like 'connections between sets of opposing/otherwise relevant graphs (like the set of intersecting spectrums of interface variables, and the set of intersecting spectrums of relevant graphs, and the similarity index graph connecting interface variables)'
 
 	    - identify interface structures of optimizations, like the 'level of specificity required' (like the 'degree of structure required') and 'subsets of intents required' (like 'similar intents') for optimizability, to filter the set of relevant implementations of the 'system of optimal interactions of interface structures' (like optimize the 'interactions of interface structures' which are 'specific/similar enough to be optimizable')
-	    	- identify relevant 'variants of reductions' of a graph like 'generative/emergent graphs' of a graph and variants which are useful for optimizability like 'low-dimensional variants of a graph'
+	    	- identify relevant 'variants of reductions' of a graph like 'generative/filtering/emergent graphs' of a graph and variants which are useful for optimizability like 'low-dimensional variants of a graph'
 	    	- identify relevant optimization points, like applying optimizations to an 'implementation of generative variables' rather than a 'set of generative variables'
 	    	- identify subsets of intents that must be optimized separately and identify optimizations like 'cross-interface structures' that allow independent intents to be optimized for
 	    	- identify inputs/components/causes of optimizability like 'organizability'
-	    	- identify the certainty structures (default nodes/limits/intents/optimizability components) to apply as constants in the 'system of optimal interactions of interface structures'
+	    	- identify the certainty structures (default nodes/limits/intents/optimizability components) to apply as constants in the 'system of optimal interactions of interface structures' around which to apply relevant variation, and identify what structures of relevant variation to apply to these constants (like apply iterations/connections of 'relevant graphs' to constants until new constants are identified, or apply variation by "expanding a graph's dimensions within a set of constants/boundaries")
 
 
 II. Queries and Results
