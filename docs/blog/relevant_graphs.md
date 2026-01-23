@@ -108,6 +108,10 @@ Specific relevant structures of graphs
 12. relevant graph intents
     - generate/filter/connect/reduce/optimize/organize/integrate graphs
 
+13. relevant graph similarities
+    - similarities across generative graph sequences like description/implementation sequences
+    - similarities in structural implementations like implementing an 'important/prioritized connection' as a 'bigger/stronger/base/core/power' structure
+
 
 ## With relevant graphs
 
