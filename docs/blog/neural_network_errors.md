@@ -43,7 +43,7 @@ Some functions require more than 'simple combinations/sequences of components' t
 
 ### World Models
 
-World Models apply an 'over-prioritization error' of 'over-specificity' which involves iterating specific structures that should be abstracted in a pattern/type/other similarity, incorrectly implementing similar structures as 'different' by generating unnecessary/irrelevant iterations of similar structures. An extreme variant is 'generating a copy of every molecule' to describe reality.
+World Models apply an 'over-prioritization error' of 'over-specificity' which involves iterating specific structures that should be abstracted in a pattern/type/other similarity, incorrectly implementing similar structures as 'different' by generating unnecessary/irrelevant iterations of similar structures. An extreme variant is 'generating a copy of every molecule' to describe reality. However, these models would be useful for running experiments/tests as a 'laboratory model', if implemented correctly, although probably not better than a system interaction model would.
 
 ### CNNs
 

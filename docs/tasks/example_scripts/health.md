@@ -332,6 +332,8 @@
 				- 'Excessive PARP-1 activity may exacerbate the pathogenesis of stroke, myocardial infarction, neurodegeneration, and a number of other disease conditions due to excessive inflammation. Thus, reduction of inflammation by PARP-1 inhibition can mitigate these conditions' - https://en.wikipedia.org/wiki/PARP_inhibitor
 			- use fasting, a keto diet, glutamine, tyrosine, GABA, arginine, lysine (not for kidney/liver damage), maca to increase the amount of human growth hormone to recover
 			- kidney damage: fasting, omega 3s, melatonin, betaine, b vitamins in smaller doses, corn silk, hibiscus, berries, digestive enzymes, prunella vulgaris, lubiprostone to prevent further damage, astragalus
+				- dietary methionine increased kidneys' filtration capacity, improving blood flow and excretion of pro-inflammatory cytokines (should be avoided with liver/heart damage or atherosclerosis)
+					- https://medicalxpress.com/news/2026-01-dietary-supplement-inflammation-injury-death.html
 				- Rheum palmatum, Whitmania pigra, Astragalus mongholicus, Salvia miltiorrhiza, Epimedium brevicornu, Leonurus japonicus
 					- Astragalus mongholicus improves creatinine clearance and reduce albuminuria, and alleviates mitochondrial dysfunction by activating the nuclear factor erythroid 2–related factor 2 (Nrf2)-antioxidant response element/mitochondrial transcription factor A signaling pathway, thereby counteracting oxidative stress-induced diabetic kidney injury and podocyte apoptosis 
 						- Astragaloside IV alleviates renal tubular epithelial-mesenchymal transition via CX3CL1-RAF/MEK/ERK signaling pathway in diabetic kidney disease
