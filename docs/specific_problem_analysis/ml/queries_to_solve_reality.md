@@ -423,6 +423,8 @@ I. To do list
 	    - identify the 'relevant interactions of structures of an interface', like the interactions between the 'implementation sequence' (from generative/expansion graph to implementation graph to optimization graph to filtering/reduction graph) and the 'implementation spectrum' (from abstract intent to specific implementation) and the 'implementation graph' (of implementation structures) and 'structures like "partial/specificity of implementations" required for optimization of implementations'
 	    	- similarly, identify the 'optimizations of optimals' like 'stable optimals' and 'relevant changes to optimization networks' and 'certainties/similarities across optimization variants', and identify optimization structures like 'increase the relevance/dimension/multiple intents of a graph' like by 'identifying a causal direction in a graph of a spectrum' or 'applying a spectrum to generate a circle to indicate a one-to-many connection', and optimization structures like 'optimizations/intents' implemented by 'graphs/spectrums' like 'directions/ranges/sequences/patterns on a spectrum that implement an optimization/intent'
 
+	    - identify relevant graphs which can be applied as 'variants of a graph' like how the 'certainty spectrum graph of requirements/possibilities' can be applied to a graph to generate the 'specific/otherwise relevant requirements/possibilities graph of that graph', and which relevant graphs have general relevance so 'other graphs should be applied to the relevant graph to optimize the relevant graph' (instead of the other direction)
+
 
 II. Queries and Results
 
