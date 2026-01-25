@@ -417,6 +417,11 @@ I. To do list
 	    - identify structures/sequences of prioritized similarities to optimize to identify, like prioritize identifying 'high-relevance similarities like cross-interface structure similarities, then structural similarities, then other types of relevant similarities'
 	    	- identify whether to apply an abstract-specific spectrum to connect the graph of 'general optimization structures/functions/metrics' and the 'specific optimal structures each optimization structure/function/metric identifies/implements/connects/organizes/integrates/structures'
 
+	    - identify relevant (like 'adjacent') similar optima/minima like how its relevant to identify adjacent connections between simplicity/complexity like how it minimizes simplicity when complexity is minimized in an implementation of a complex system bc its 'not simple to correct the simple implementation of a complex system' which adjacently connects similar minima of simplicity/complexity
+		    - identify the 'relevant differences in relevant optima similarities' across interface structures like identifying the 'relevant differences in similar/overlapping optima of interface variables' for a set of graphs, like the concept network of a graph compared to the concept network of another graph like paradoxical concept graph connections
+
+	    - identify the 'relevant interactions of structures of an interface', like the interactions between the 'implementation sequence' (from generative/expansion graph to implementation graph to optimization graph to filtering/reduction graph) and the 'implementation spectrum' (from abstract intent to specific implementation) and the 'implementation graph' (of implementation structures)
+
 
 II. Queries and Results
 
