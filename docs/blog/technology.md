@@ -1,6 +1,6 @@
 # Technology
 
-Technology should be evaluated by its interface structures.
+Technology should be evaluated by its interface structures. At least one degree of interface analysis should be applied, and ideally 'relevance to relevant graphs' should be identified as well, at a minimum.
 
 ## Meaning
 
