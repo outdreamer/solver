@@ -10,7 +10,11 @@ The 'latest, highest variation/complexity' interface structures are a subset of 
 - specific relevant graphs like 'spectrum interaction graphs' (like a 'spectrum of implementation/specification/organization/optimization/integration') and the 'spectrum interaction graph of a graph'
 - 'certain required input and uncertain emergent output' similarities across 'graph generation/implementation/optimization sequences'
 - structures implementing multiple components of relevance like 'optimizing for multiple new/otherwise relevant optimization metrics, like cross-graph relevance'
-- useful graph integrations like 'integrating layers from different graphs' like applying a 'requirements' layer from the 'possibility/requirement graph' and applying a 'interface variable similarity layer' from the 'graph of intersecting interface spectrums' 
+- useful graph integrations like 'integrating layers from different graphs' like applying a 'requirements' layer from the 'possibility/requirement graph' and applying a 'interface variable similarity layer' from the 'graph of intersecting interface spectrums'
+- applying relevant graphs to generate 'graphs associated with points/structures on relevant graphs'
+- applying interface graphs of a graph like the 'limit graph of a graph' and the 'error graph of a graph' and the 'optimization graph of a graph' and the 'reduction graph of a graph' and the 'interacting spectrum graph of a graph'
+- optimizing the interface structures like the 'level of uncertainty' represented in a 'graph of relevant graphs or a system of optimal interactions between relevant graphs' given the latest interface structures like 'variation' applied/implemented by those graphs, compared to relevant variables like the 'level of possible certainty with those interface structures', to filter optimizations of graphs
+- connections between 'high variation structures' like connecting a 'function network to solution/error graphs and related cost functions' or connecting 'implementation/optimization graphs' or connecting 'graph sequences' like 'causal/generative/optimization/integration graph sequences'
 
 ## Relevant structures of interface structures
 
