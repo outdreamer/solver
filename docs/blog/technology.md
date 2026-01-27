@@ -6,7 +6,7 @@ Technology should be evaluated by its interface structures. At least one degree 
 
 - what worlds does the technology end? ('relevance/intent/usefulness/optimality/importance/meaning/innovation' technology ends the worlds of 'irrelevance, pointlessness, uselessness, suboptimality, triviality, meaninglessness, and constants' for example)
 - how does it interact with other technologies ('relevance/optimization/innovation' technology ends the requirement for many other technologies/intents like 'competition')
-- how does it interact with other interface variables (what governments, institutions, religions, systems, economies, futures, interactions does it optimize/invalidate/organize/integrate/filter/change?)
+- how does it interact with other interface variables (what governments, institutions, religions, systems, economies, futures, interactions does it optimize/invalidate/organize/integrate/filter/change?) what futures can it search/generate, and how do those futures connect with the optimal ends of reality?
 
 ## Potential
 

@@ -427,6 +427,10 @@ I. To do list
 
 	    - identify graphs/algorithms associated with spectrums like 'certainty' like how a low-certainty algorithm is 'trial and error' which requires minimal info/low certainty, and how there is a graph of low-info/certainty like a 'basic connection graph without high-info relevance applied to optimize these connections' associated with low-info/certainty algorithms like 'trial and error', and identify the 'interactions of these spectrums' of graphs/algorithms like how the 'specificity spectrum is related to certainty spectrum', and identify 'sequences/structures of these graphs' like how the 'optimal variant of a graph reflects relevance/optimization' indicating a sequence from a 'basic low-info graph to a high-relevance graph'
 
+	    - identify optimizations of graphs like 'applying every interface spectrum in some way' (like by applying an 'integration spectrum' in a 'graph-generation function') by identifying the position/structure to apply each spectrum in and identifying the connections between these positions/structures
+
+	    - identify 'error types' as 'error structures' like fractal errors ('always repeating the same error structure with trivial differences of scale'), error spirals ('always connected to some core/central error'), and error waves (an error of 'always approaching some limit in either direction on a spectrum')
+
 
 II. Queries and Results
 
