@@ -430,7 +430,8 @@ I. To do list
 	    - identify optimizations of graphs like 'applying every interface spectrum in some way' (like by applying an 'integration spectrum' in a 'graph-generation function') by identifying the position/structure to apply each spectrum in and identifying the connections between these positions/structures, and identifying the implementation degrees/other interface structures of each spectrum, and abstract 'spectrums' to 'interface variable graphs'
 	    	- for example, 'implementation' can be applied by 'connecting an intent to a specific set of identified functions/structures' or 'connecting an intent to optimal abstract concepts, then connecting concepts to specific implementations of those concepts which then connect back to the intent', which applies an 'abstraction spectrum' to identify variants of a workflow
 
-	    - identify 'error types' as 'error structures' like fractal errors ('always repeating the same error structure with trivial differences of scale'), error spirals ('always connected to some core/central error'), and error waves (an error of 'always approaching some limit in either direction on a spectrum')
+	    - identify 'error types' as 'error structures' like error fractals ('always repeating the same error structure with trivial differences of scale'), error spirals ('always connected to some core/central error'), and error waves (an error of 'always approaching some limit in either direction on a spectrum'), and 'error networks' which are 'resistant to optimization structures'
+	    	- relatedly, identify optimal structures like a 'graph that connects any relevant graph, without crossing an error structure/ratio (staying within a range of optimality, as in connecting graphs with optimal/solution structures as opposed to errors)'
 
 
 II. Queries and Results
