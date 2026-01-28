@@ -434,6 +434,7 @@ I. To do list
 	    	- relatedly, identify optimal structures like a 'graph that connects any relevant graph, without crossing an error structure/ratio (staying within a range of optimality, as in connecting graphs with optimal/solution structures as opposed to errors)'
 
 	    - identify alternate filters of interface analysis applications (like 'degrees of interface analysis to apply') like 'apply interface analysis until the generated interface structures of a set of structures are either maximally similar (to allow connections/integrations) or different (to allow new differences to be generated) or otherwise interactive (enable other core functions)'
+	    	- similarly, identify alternate filters of 'intents to implement' and 'starting points/core structures for interface analysis applications' and other unsolved variables (like 'implement multiple maximally different intent variants, once an intent is identified to be implemented, to minimize risk')
 
 
 II. Queries and Results
