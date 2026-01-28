@@ -433,6 +433,8 @@ I. To do list
 	    - identify 'error types' as 'error structures' like error fractals ('always repeating the same error structure with trivial differences of scale'), error spirals ('always connected to some core/central error'), and error waves (an error of 'always approaching some limit in either direction on a spectrum'), and 'error networks' which are 'resistant to optimization structures'
 	    	- relatedly, identify optimal structures like a 'graph that connects any relevant graph, without crossing an error structure/ratio (staying within a range of optimality, as in connecting graphs with optimal/solution structures as opposed to errors)'
 
+	    - identify alternate filters of interface analysis applications (like 'degrees of interface analysis to apply') like 'apply interface analysis until the generated interface structures of a set of structures are either maximally similar (to allow connections/integrations) or different (to allow new differences to be generated) or otherwise interactive (enable other core functions)'
+
 
 II. Queries and Results
 
