@@ -436,6 +436,9 @@ I. To do list
 	    - identify alternate filters of interface analysis applications (like 'degrees of interface analysis to apply') like 'apply interface analysis until the generated interface structures of a set of structures are either maximally similar (to allow connections/integrations) or different (to allow new differences to be generated) or otherwise interactive (enable other core functions)'
 	    	- similarly, identify alternate filters of 'intents to implement' and 'starting points/core structures for interface analysis applications' and other unsolved variables (like 'implement multiple maximally different intent variants, once an intent is identified to be implemented, to minimize risk')
 
+	    - identify optimization structures like 'optimizations of optimization algorithms like "optimal transport"' like 'applying optimal transport to graphs, to organize graphs by optimization metrics (like relevance)'
+		    - similarly, identify associated optimization graphs of optimization algorithms like a 'graph that organizes maximally different structures, to be trivially organizable, with any organization metric' and identify associated optimization networks of optimization graphs created by 'optimal graph sequences'
+
 
 II. Queries and Results
 
