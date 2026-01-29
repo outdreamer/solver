@@ -27,9 +27,11 @@ An example of generating similarities from other similarities is how '1-degree d
 
 What is the optimal set of similarities to generate from other similarities? Input similarities would optimally be certain/identified similarities (like similarities between interface variables), and optimal output similarities would be unidentified/new/otherwise relevant similarities (like similarities between new relevant graphs).
 
-## Optimizations of optimization algorithms (applying the algorithm to the right node type, with the right optimization metric like 'relevance')
+## Optimizations of optimization algorithms
 
-Optimizing an optimization algorithm can involve simple intents like 'identify a relevant graph for the algorithm'.
+Optimizing an optimization algorithm can involve implementing simple/general intents like 'identify a relevant graph for the algorithm'.
+
+It can also involve identifying optimal applications/metrics/structures of algorithms, like applying an algorithm to the right graph node 'type', with the right optimization metric like 'cross-graph relevance'.
 
 ## Optimization algorithms and associated optimization graphs
 
