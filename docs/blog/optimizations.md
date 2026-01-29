@@ -11,10 +11,9 @@ Optimal intents to implement include:
 - generating/filtering/connecting relevant graphs like 'maximally different graphs', 'high variation graphs like function networks', 'graphs of graphs, and function/algorithm/workflow/query graphs', 'cross-interface graphs like connecting function networks and error networks', 'optimization interaction/generation/optimization/integration graphs', 'optimization/interface graphs of a graph', and 'specific relevant graphs like the similarity index graph'.
 
 Optimization intents include:
-- optimize for some metric like 'relevance to a graph' like 'potential to change a graph'
-- optimize for some intent like 'generate/change/filter/integrate/optimize relevant graphs'
-- optimize an optimization structure like an optimization metric/intent/variable/graph
-- connect/generate/filter optimization structures
+- optimize for some metric like 'relevance to a graph' like 'potential to change a graph', or some intent like 'generate/change/filter/integrate/optimize relevant graphs' (as in identify 'optimization/optimal structures' like 'optimization/optimal limits/points')
+- optimize an optimization structure, like an 'optimization metric/intent/variable/graph'
+- connect/generate/filter optimization structures to optimize, like 'points/connections/optimizations to optimize'
 
 ## Optimization types
 
@@ -29,6 +28,8 @@ Requirements/definition/structure of optimal 'queries to solve reality':
 ## Graph optimizations
 
 Optimizations of graphs re-organize a graph for some intent/optimization metric, like 'adjacency of nodes that should be adjacently connectible' or 'increasing the relevance of adjacent connections or every connection on the graph'. Optimal graphs implement optimal intents, like 'identify relevant graphs', 'identify relevant graphs of graphs', 'identify relevant graph optimizations', and 'generate interface analysis', etc.
+
+Optimizations of graphs can also involve 'identifying points/structures to apply "variation/other structures of relevance" in', like identifying whether nodes/connections should be changed to optimize for some metric.
 
 ## Optimal workflows 
 
