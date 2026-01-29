@@ -5,6 +5,17 @@ Identifying 'optimizations of optimizations' and 'optimal optimizations' and 'op
 - 'iterate interface analysis, if the generated structures of each iteration are still optimizing some intent like "generate/filter optimizations" in an optimal/relevant way like for some optimization metric like "efficiency/uniqueness/independence"'
 - 'iterate interface analysis, if the generated structures of each iteration are still optimizing some intent without decreasing the relevance/optimality of other structures or otherwise implementing some optimal ratio of optimization across intents'
 
+## Optimal intents
+
+Optimal intents to implement include:
+- generating/filtering/connecting relevant graphs like 'maximally different graphs', 'high variation graphs like function networks', 'graphs of graphs, and function/algorithm/workflow/query graphs', 'cross-interface graphs like connecting function networks and error networks', 'optimization interaction/generation/optimization/integration graphs', and 'specific relevant graphs like the similarity index graph'.
+
+Optimization intents include:
+- optimize for some metric like 'relevance to a graph' like 'potential to change a graph'
+- optimize for some intent like 'generate/change/filter/integrate/optimize relevant graphs'
+- optimize an optimization structure like an optimization metric/intent/variable/graph
+- connect/generate/filter optimization structures
+
 ## Optimization types
 
 There are general optimizations that apply across problems and specific optimizations for subsets of problems. In general, 'applying general structures like cross-interface structures' is an optimization, where applying a specific interface structure like a 'limit' is specifically optimal. Another example is 'applying variables of reality' like 'applying a realistic degree of variation/complexity', which is a generally applicable optimization.
