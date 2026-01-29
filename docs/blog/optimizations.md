@@ -3,12 +3,12 @@
 Identifying 'optimizations of optimizations' and 'optimal optimizations' and 'optimal optimization metrics' and other iterated optimization structures identifies the problem of 'whether to continue iterating interface analysis', which has solutions like:
 - 'iterate interface analysis, if the generated structures of each iteration are still relevantly changing/generating/filtering other relevant structures, like relevant graphs'
 - 'iterate interface analysis, if the generated structures of each iteration are still optimizing some intent like "generate/filter optimizations" in an optimal/relevant way like for some optimization metric like "efficiency/uniqueness/independence"'
-- 'iterate interface analysis, if the generated structures of each iteration are still optimizing some intent without decreasing the relevance/optimality of other structures or otherwise implementing some optimal ratio of optimization across intents'
+- 'iterate interface analysis, if the generated structures of each iteration are still optimizing some intent "without decreasing the relevance/optimality of other structures", or otherwise implementing some optimal ratio/structure of optimization across intents'
 
 ## Optimal intents
 
 Optimal intents to implement include:
-- generating/filtering/connecting relevant graphs like 'maximally different graphs', 'high variation graphs like function networks', 'graphs of graphs, and function/algorithm/workflow/query graphs', 'cross-interface graphs like connecting function networks and error networks', 'optimization interaction/generation/optimization/integration graphs', and 'specific relevant graphs like the similarity index graph'.
+- generating/filtering/connecting relevant graphs like 'maximally different graphs', 'high variation graphs like function networks', 'graphs of graphs, and function/algorithm/workflow/query graphs', 'cross-interface graphs like connecting function networks and error networks', 'optimization interaction/generation/optimization/integration graphs', 'optimization/interface graphs of a graph', and 'specific relevant graphs like the similarity index graph'.
 
 Optimization intents include:
 - optimize for some metric like 'relevance to a graph' like 'potential to change a graph'
