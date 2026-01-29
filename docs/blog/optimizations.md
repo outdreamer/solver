@@ -1,7 +1,9 @@
 # Optimizations
 
 Identifying 'optimizations of optimizations' and 'optimal optimizations' and 'optimal optimization metrics' and other iterated optimization structures identifies the problem of 'whether to continue iterating interface analysis', which has solutions like:
-- 'iterate interface analysis, if the generated structures of each iteration are still relevantly changing other relevant structures, like relevant graphs'
+- 'iterate interface analysis, if the generated structures of each iteration are still relevantly changing/generating/filtering other relevant structures, like relevant graphs'
+- 'iterate interface analysis, if the generated structures of each iteration are still optimizing some intent like "generate/filter optimizations" in an optimal/relevant way like for some optimization metric like "efficiency/uniqueness/independence"'
+- 'iterate interface analysis, if the generated structures of each iteration are still optimizing some intent without decreasing the relevance/optimality of other structures or otherwise implementing some optimal ratio of optimization across intents'
 
 ## Optimization types
 
