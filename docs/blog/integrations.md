@@ -19,6 +19,8 @@ Relevant graph integrations connect relevant graphs, like integrating a 'relevan
 
 A reason for isolating graphs is to allow enough differences to identify new connections between/variables of different graphs. Similarly, a reason for integrating graphs is to identify relevant similarities across different graphs that can interact optimally within a graph's system of interaction between its variables.
 
+Integrating graphs can implement an intent like 'identify the optimal system of interaction rules between graph variables'. This system would include relevant interactions between interface structures, like applying 'causal variables to generative graphs of a graph'.
+
 
 ## Other Structure Integrations
 
