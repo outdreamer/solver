@@ -2027,6 +2027,9 @@
 			- treatments
 				- combination therapy using KRAS inhibitors and anti-CD47 antibodies (combining the KRAS(G12C) inhibitors AMG510/MRTX849 and PD1/PD-L1 inhibitors) are ongoing
 				- combining an investigational Aurora Kinase A (AURKA) inhibitor with a KRAS inhibitor or a WEE1 inhibitor showed efficacy against lung cancer cells with intrinsic or acquired resistance to KRAS inhibition
+				- KRAS inhibitors
+					- Quercetin, Prostratin (Homalanthus nutans), Avicin G (Acacia victoriae), Bryostatin-1 (Bugula neritina), Lupeol
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC7698260/
 			- https://medicalxpress.com/news/2021-10-inhibition-aurora-kinase-protein-lung.html
 
 
