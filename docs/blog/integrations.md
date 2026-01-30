@@ -26,6 +26,8 @@ Integrating graphs can implement an intent like 'identify the optimal system of 
 
 Integrating an algorithm like 'trial and error' ('try every possibility/possible solution') can be applied as a 'set of possible variants of a node radiating outward from a node, to try every possible variant' or 'a graph of every possible "connection type or query" to connect the nodes of a graph, to try every possible connection' or other applications of 'every possibility of a structure/solution like "every possible variant/connection of a structure set"'. Another possible application of the workflow could separate the function/structure of the workflow, so that the function like 'test/filter/connect' is a 'connection between nodes' and the structure like 'possible solutions' are the nodes. Another possible application of the workflow is a query to implement the function like 'test/filter/connect' of the workflow and a structure like 'nodes' to implement the structure like 'possible solutions' of the workflow. Another possible application applies the 'results of a workflow, like a tested possible solution or a filtered subset of possible solutions' as 'nodes', where the workflow is applied as the 'connection between nodes'.
 
+Identifying the useful 'graph positions/structures to implement algorithms in', within an 'optimal graph variable interaction network', is a useful related intent. For example, applying 'trial and error' to 'reduce the uncertainty' of the problem of 'identifying emergent similarities in a graph' is a useful application of the workflow in the system of graph variable interactions.
+
 
 ## Other Structure Integrations
 
