@@ -451,6 +451,8 @@ I. To do list
 
 		- identify the 'average value for an intent (like uncertainty reduction), given a probability distribution of the value, added by applying a graph structure or variable level/structure' to enable workflows like 'trial and error' ('identifying the average value of applying a structure' identifies a certainty in the uncertainty of 'what value is added by applying a structure', a certainty that enables uninformed/random selection of a structure/low-info workflows like 'trial and error', as in 'select this structure in any case and it will probably have this or nearly this average value (given a normal probability distribution)', when the actual value of applying a structure is uncertain/cant be identified in advance of applying it), and identify other 'certainty structures of uncertainties that are useful to apply'
 
+		- identify integrated problem-solving graphs like a graph that solves one problem like 'low info' on its primary spectrum and another problem like 'identify the shortest path' on an embedded spectrum
+
 
 II. Queries and Results
 
