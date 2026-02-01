@@ -1055,6 +1055,8 @@
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC8068256/
 					- https://neurolaunch.com/herbs-for-alzheimers/
 					- https://www.alzheimersproof.com/top-25-herbs-for-treating-avoiding-alzheimers-dementia/
+				- phosphatidylserine, omega 3's, magnesium, and zinc to promote glymphatic clearance
+					- https://www.nature.com/articles/s41467-026-68374-8
 				- avoid air pollution, avoid anticholinergic medicines, inhibit overstimulation by glutamate with NMDA receptor antagonists like memantine/magnesium/huperzine a/phenylalanine/kynurenic acid from tryptophan, treat inflammation (use an anti-inflammatory diet) and other conditions including autoimmune conditions, reduce homocysteine levels, avoid supplements that use animal products like gelatin that can contain disease-causing prions
 				- treat high blood pressure which is a risk factor for alzheimer's
 				- increase reelin levels bc of the association between reelin and resistance to alzheimer's

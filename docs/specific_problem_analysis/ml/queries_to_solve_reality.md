@@ -453,6 +453,10 @@ I. To do list
 
 		- identify integrated problem-solving graphs like a graph that solves one problem like 'low info' on its primary spectrum and another problem like 'identify the shortest path' on an embedded spectrum
 
+		- identify relevant spectrum types to apply in graphs, like 'degree of causality' or 'abstraction of causality' or 'interactivity of causality', and identify the relevant optimal interactions of these spectrum types
+			- identify the problem/similarities/differences associated with interface networks, like how 'extremes of similarity/difference can generate causality in a causal network' and how a 'causal network reduces a problem of identifying cause, to the problem of identifying the position of input/output causal/caused nodes in the network and connecting causal sequences in the network'
+			- identify useful variants of causal networks, like generating a 'possible causal network' by applying a 'set of all variables' in multiple different layers given that 'all variables are possibly causally connectible' including how 'variables are connectible to themselves'
+
 
 II. Queries and Results
 
