@@ -16,9 +16,9 @@ What is after the optimal graph of graphs?
 5. Applying iterations of the optimal graph of graphs as a 'component' structure and as other structures to identify the errors of the optimal graph of graphs
 
 
-## Graph intent sequences
+## Graph intent sequences/graphs
 
-Given a graph intent sequence like 'generate/organize/optimize/integrate a graph', what comes after identifying or generating a graph is optimizing it and fitting it into a graph of relevant graphs. 
+Given a graph intent sequence like 'generate/organize/optimize/integrate a graph', what comes after identifying/generating a graph is optimizing it and fitting it into a graph of relevant graphs. 
 
 1. generate alternate optimal graphs of graphs, like by applying interface analysis to the optimal graph of graphs until enough differences are identified to identify an alternate optimal graph of graphs
 
@@ -29,3 +29,12 @@ Given a graph intent sequence like 'generate/organize/optimize/integrate a graph
 4. identifying optimal ways to generate/integrate/organize/optimize/apply the optimal graph of graphs, to create a network of all possible optimal ways to generate/integrate/organize/optimize/apply the optimal graph of graphs
 
 5. identifying interface graphs like 'limit/error/optimization/query graphs' of the optimal graph of graphs to identify the relevance of the optimal graph of graphs
+
+6. generate graphs of variants of intent graphs to guide the generation of other graphs implementing these intent graphs
+
+
+## Optimal graph intents
+
+1. generate optimal graph intent sequences and optimal graph sequences/connections to generate optimal graph of graphs
+
+2. generate optimal spectrum queries, like a query that has the structure of a wave on the spectrum of 'integration/expansion (integrating graphs into one graph and expanding an optimal graph with variants/iterations of it)'

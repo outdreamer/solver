@@ -44,6 +44,9 @@ Generally relevant graph structures (relevant to multiple graphs like 'graph con
 
 These structures are relevant across graphs, prioritizing multi-graph intents like 'identify optimal graph sequences/networks'.
 
+
+## Specific vs. general graph structures
+
 Optimizing one graph can identify/derive relevant structures like 'optimizations' across graphs, but optimizing graphs of graphs is likelier to generate insights applicable across graphs.
 
 The difference between these is starting with one graph with the intent of optimizing it so it can be integrated with graph connections/sequences/graphs, and starting with a graph of graphs that is already relevant and identifying the limits of that relevance through specification/organization/optimization/implementation.
