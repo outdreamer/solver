@@ -26,6 +26,16 @@ The optimal graph of graphs applies/implements/organizes/optimizes/integrates en
 
 5. a graph of 'multi-dimensional tensors/spectrum graphs' representing different structures of interface variables at every point on the optimal graph of graphs to 'maximize adjacent differences' to increase the likelihood of trivial queries on the graph solving a problem
 
+6. a graph of an 'intent similarity index graph' applied to organize associated implementing graphs of those intents
+
+7. a graph of relevant problem/solution graphs
+
+8. a graph of problem/solution structures, like alternating outer problem/solution layers
+
+9. a graph of an implementation of the optimal graph intent sequence like 'generate/organize/optimize/reduce/integrate a graph', with optimal relevant graphs implementing each point in the sequence
+
+10. a graph of alternate graphs (for different intents) of relevant spectrum graphs like the 'implementation vs. description spectrum' and the 'composability spectrum' 
+
 
 ## Optimal interaction rules to apply
 
