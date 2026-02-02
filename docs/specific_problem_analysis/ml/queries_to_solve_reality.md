@@ -457,6 +457,8 @@ I. To do list
 			- identify the problem/similarities/differences associated with interface networks, like how 'extremes of similarity/difference can generate causality in a causal network' and how a 'causal network reduces a problem of identifying cause, to the problem of identifying the position of input/output causal/caused nodes in the network and connecting causal sequences in the network'
 			- identify useful variants of causal networks, like generating a 'possible causal network' by applying a 'set of all variables' in multiple different layers given that 'all variables are possibly causally connectible' including how 'variables are connectible to themselves'
 
+		- identify structures required for/limiting/other interface structures of relevance, like how 'connecting multiple complex graphs with trivial connections (like connecting a relevant graph with an abstraction of it, to generate variables of it, to generate other variants of the relevant graph)' is a relevant structure, and applying cross-interface structures increases the relevance of a connection between relevant graphs, and implementing optimization intents like 'identify trivial connections' is a useful relevance structure implemented by the 'cross-graph connection', so high relevance structures implement at least a 'relevant intent and a set of relevance structures like multiple graphs and trivial connections and cross-interface structures'
+
 
 II. Queries and Results
 
