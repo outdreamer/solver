@@ -459,6 +459,18 @@ I. To do list
 
 		- identify structures required for/limiting/other interface structures of relevance, like how 'connecting multiple complex graphs with trivial connections (like connecting a relevant graph with an abstraction of it, to generate variables of it, to generate other variants of the relevant graph)' is a relevant structure, and applying cross-interface structures increases the relevance of a connection between relevant graphs, and implementing optimization intents like 'identify trivial connections' is a useful relevance structure implemented by the 'cross-graph connection', so high relevance structures implement at least a 'relevant intent and a set of relevance structures like multiple graphs and trivial connections and cross-interface structures'
 
+	- identify a 'spectrum/graph of relevant queries/intents' about connecting relevant structures, like connecting a graph and a neural network:
+	    - can a set of vectors implement/represent a relevant graph like a similarity index graph, if the vectors have other properties like 'causal sequences' and 'positions' and 'directions' which allow complete representation of the graph? do these structures allow a complete representation of any relevant graph or a subset of graphs?
+	    - is a neural network capable of learning a subset of function shapes like 'waves' 
+	    - do vectors describe a latent graph by describing its 'limits/impact/other interface structures'
+	    - can a 'language graph of true connections (like defined connections) between variables' be completely discovered by any neural network type
+	    - identify the connection between 'sequences of vectors with position/direction on a graph to generate an optimal sequence connecting node pairs (vectors to connect nodes in a graph to generate a query of the graph)' and a 'neural network sequence of multiplied vectors to generate a polynomial (vectors to change a polynomial, generating a polynomial from a line or some similar change)' - as in 'identify the connection between a graph query, and a vector set to generate a polynomial', a connection like a 'graph node query function shape' and a 'vector set generating a polynomial function shape' which have a 'function shape' as a common variable and differ in 'curvature' and 'operator' (multiplication vs. sequential connection)
+	        - identify other ways to similarize these: 
+	            - apply a function to the other structure: 'apply a straight line between input/output nodes of the graph to connect and apply/multiply vectors to change the straight line until it overlaps with nodes of the graph that are connectible with queries'
+	            - apply the other function to the other structure: 'identify graphs of functions, where the target polynomial is the output node, and an adjacent/default polynomial is the input node, and a graph node sequence connects the input/output node'
+	    - identify variants of 'algorithms integrating vectors from different graphs' as 'alternate ways for vectors to interact'
+	    - identify 'coincidental/random vs intentional/defined' learning like a 'vector coincidentally followed by lower vectors' which might be defined/applied as a 'reduce to components' function but is actually a 'decrease variants' function
+
 
 II. Queries and Results
 
