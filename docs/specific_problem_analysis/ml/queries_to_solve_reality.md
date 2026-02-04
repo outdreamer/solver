@@ -459,7 +459,7 @@ I. To do list
 
 		- identify structures required for/limiting/other interface structures of relevance, like how 'connecting multiple complex graphs with trivial connections (like connecting a relevant graph with an abstraction of it, to generate variables of it, to generate other variants of the relevant graph)' is a relevant structure, and applying cross-interface structures increases the relevance of a connection between relevant graphs, and implementing optimization intents like 'identify trivial connections' is a useful relevance structure implemented by the 'cross-graph connection', so high relevance structures implement at least a 'relevant intent and a set of relevance structures like multiple graphs and trivial connections and cross-interface structures'
 
-	- identify a 'spectrum/graph of relevant queries/intents' about connecting relevant structures, like connecting a graph and a neural network:
+	- identify a 'spectrum/graph of relevant queries/intents' about connecting relevant structures, like connecting a graph and a neural network (and otherwise apply graphs of queries like the 'intersecting spectrum graph' of queries like 'how does it relate to volatility or complexity-volatility')
 	    - can a set of vectors implement/represent a relevant graph like a similarity index graph, if the vectors have other properties like 'causal sequences' and 'positions' and 'directions' which allow complete representation of the graph? do these structures allow a complete representation of any relevant graph or a subset of graphs?
 	    - is a neural network capable of learning a subset of function shapes like 'waves' 
 	    - do vectors describe a latent graph by describing its 'limits/impact/other interface structures'
@@ -470,6 +470,9 @@ I. To do list
 	            - apply the other function to the other structure: 'identify graphs of functions, where the target polynomial is the output node, and an adjacent/default polynomial is the input node, and a graph node sequence connects the input/output node'
 	    - identify variants of 'algorithms integrating vectors from different graphs' as 'alternate ways for vectors to interact'
 	    - identify 'coincidental/random vs intentional/defined' learning like a 'vector coincidentally followed by lower vectors' which might be defined/applied as a 'reduce to components' function but is actually a 'decrease variants' function
+
+	- identify a useful graph like a graph that 'generates relevant neural network types/algorithms/structures' by identifying its 'limiting graphs in either direction' or identifying 'graphs of problems/errors that when solved generate optimal neural network structures'
+		- relatedly, identify a maximally different relevant query for each relevant intent, like how a general intent like 'generate optimal neural network structures' has a maximally different query like 'identify relevant similarity types' that is very different but still identifies the same solutions as the general query, while being more useful for being 'more specific' than the general query
 
 
 II. Queries and Results
