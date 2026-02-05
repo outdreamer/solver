@@ -24,11 +24,12 @@ Example optimal query structures:
 
 Example query optimizations include:
 - identify relevance structures in the graph like 'general connections in the graph'
-- identify structures/spectrums like relevance/error/variable structures/spectrums to 'identify error directions to avoid'
-- identify local functions that can identify local errors/relevance structures without general information
-- optimize a query for a general relevant intent like 'identify similar structures'
-- optimize a query for general interface variable optimization metrics like 'degree of volatility'
-- identify the maximally different similarities that could possibly emerge from a set of input/generative/descriptive graph similarities (like similarities in variables that arent included in the graph definition) and identify local functions to check for those similarities
+	- identify structures/spectrums like relevance/error/variable structures/spectrums to 'identify error directions to avoid'
+	- identify local functions that can identify local errors/relevance structures without general information
+- apply general relevance structures
+	- optimize a query for a general relevant intent like 'identify similar structures'
+	- optimize a query for general interface variable optimization metrics like 'degree of volatility'
+- identify the maximally different similarities that could possibly emerge from a set of 'input/generative/descriptive graph similarities' (like similarities in variables that arent included in the graph definition) by applying 'limits on change types possible with input similarities', and identify local functions to 'identify/generate those similarities' and identify graphs of those emergent similarities to connect to the original graph to optimize the original graph (like by generating a graph to more trivially/otherwise usefully generate the emergent similarities)
 
 Optimal query structures like 'queries with core shapes (like spirals)' can be used to generate query optimizations like 'identify queries that will likely have core shapes when connecting any node set, by the fact that the query generates components of core structures locally'.
 
