@@ -9,7 +9,7 @@ Identifying 'optimizations of optimizations' and 'optimal optimizations' and 'op
 ## Optimization structures
 
 Optimization structures include:
-- optimizes for a specific similarity like simplicity: 'trivial/simple/similar connections' between 'maximally complex/different structures'
+- optimizes for a specific similarity like triviality/simplicity: 'trivial/simple/similar connections' between 'maximally complex/different structures'
 - optimizes for a general similarity: 'unique connections between common structures' or 'abstract connections between specific structures' or other 'connections between extremes/differences of an interface', or other 'connections between relevant graphs and other cross-interface structures'
 
 

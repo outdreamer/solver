@@ -33,6 +33,7 @@ Examples of relevant graph sequences:
 - optimization graph sequences, like where changes in some 'direction/position/layer/structure applied to a graph' generate optimal graphs
 - general relevant graph sequences, like 'connections between relevant graphs that only cross other relevant graphs in the connection sequence'
 - graphs connecting graphs of relevance structures, like 'optimization structures' like 'trivial connections between maximal differences' and 'cross-interface structures'
+- optimization graph sequences, where graphs iteratively become more optimal in some direction of some optimization metric, where the graph sequence indicates a spectrum of that metric
 
 For example, the graph intent sequence like 'describe/generate/implement/reduce/optimize/integrate a graph' identifies a graph sequence, which connects a graph across interface variants of the graph, like the implementation of the graph, the optimization of the graph, and the reduction of the graph.
 
