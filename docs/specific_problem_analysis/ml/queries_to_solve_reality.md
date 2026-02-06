@@ -488,6 +488,8 @@ I. To do list
 
 	- identify graphs that are relevant, like how the 'system interaction graph' of the 'definition of relevance' generates the 'graph of solution structures like solution types'
 
+	- identify graph structures like 'optimization graph structures' associated with graph intents like 'optimize' like applying an 'outer layer of optimization metrics' to a graph when its time to 'optimize the graph'
+
 
 II. Queries and Results
 
