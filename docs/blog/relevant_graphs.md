@@ -5,6 +5,7 @@
 Relevance has components like:
 - 'independence' (independent variables are useful to identify)
 - 'required/important' (required structures are useful)
+- 'interactive' (it interacts with other structures so it's relevant to other structures)
 - 'optimal' (optimal structures are useful)
 - 'meaning/importance/usefulness' (as in 'relevant to multiple or important intents' or 'makes a complex intent trivial/optimal/otherwise useful')
 - 'uniqueness' (useful for generating new differences)
@@ -13,6 +14,8 @@ Relevance has components like:
 - relevant variants of interface variables like relevant 'variation', 'complexity', and 'randomness'
 - relevance structures like 'similarities/connections in differences' or 'mixes of extremes of spectrum variables (like how a mix of abstraction and specificity is relevant/useful)'
 - relevant intents like 'identify relevant variation (like relevant graphs)'
+- 'multi/cross-interface or otherwise relevant similarity/relevance', like how a 'problem to generate problems' has a 'solution structure of a "problem"' but that is not a relevant difference as the fact that the 'solution is technically a problem' doesnt 'change anything relevantly' as in it doesnt 'change the solution into a problem', or how a problem has a similarity to 'cause' of a solution by being 'related to solutions in a sequence', similar to how a 'cause of solutions' is 'related to solutions in a sequence', but that is irrelevant and problems do not actually cause solutions
+- other interface structures like 'limits/similarities' are related to relevance by being 'relevant/powerful variables' (they 'implement' relevance variables like 'power', as in they 'structure' relevance variables)
 
 Now that relevance is well-defined (less relevant), 'new/relevant relevance' has the structure of 'relevance to relevant graphs'.
 
