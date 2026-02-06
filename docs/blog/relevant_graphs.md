@@ -2,7 +2,19 @@
 
 ## What is relevance
 
-Relevance has components like 'independence' (independent variables are useful to identify), 'required/important' (required structures are useful), 'optimal' (optimal structures are useful), 'meaning/importance/usefulness' (as in 'relevant to multiple or important intents' or 'makes a complex intent trivial/optimal/otherwise useful'), 'uniqueness', 'newness', 'power/functionality' (functionality is useful), relevant variants of interface variables like relevant 'variation', 'complexity', and 'randomness', and relevance structures like 'similarities/connections in differences' or 'mixes of extremes of spectrum variables (like how a mix of abstraction and specificity is relevant/useful)'. Now that relevance is well-defined (less relevant), 'new/relevant relevance' has the structure of 'relevance to relevant graphs'.
+Relevance has components like:
+- 'independence' (independent variables are useful to identify)
+- 'required/important' (required structures are useful)
+- 'optimal' (optimal structures are useful)
+- 'meaning/importance/usefulness' (as in 'relevant to multiple or important intents' or 'makes a complex intent trivial/optimal/otherwise useful')
+- 'uniqueness' (useful for generating new differences)
+- 'newness' (useful for generating new differences)
+- 'power/functionality' (power/functionality is useful, like 'power/potential to change other variables')
+- relevant variants of interface variables like relevant 'variation', 'complexity', and 'randomness'
+- relevance structures like 'similarities/connections in differences' or 'mixes of extremes of spectrum variables (like how a mix of abstraction and specificity is relevant/useful)'
+- relevant intents like 'identify relevant variation (like relevant graphs)'
+
+Now that relevance is well-defined (less relevant), 'new/relevant relevance' has the structure of 'relevance to relevant graphs'.
 
 With this definition, it's possible to generate a set of definitely relevant structures, by applying components of this definition to generate relevant intents, and identify relevant structures that implement those intents.
 
