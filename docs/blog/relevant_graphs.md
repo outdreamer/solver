@@ -21,7 +21,9 @@ Now that relevance is well-defined (less relevant), 'new/relevant relevance' has
 
 With this definition, it's possible to generate a set of definitely relevant structures, by applying components of this definition to generate relevant intents, and identify relevant structures that implement those intents.
 
-For example, it's possible to identify the 'similarity index graph' (which embeds emergent similarities on core important base similarities) as a relevant graph because it identifies 'similarities connecting different similarities', which overlaps with a component of relevance like 'similarities/connections in differences'.
+For example, it's possible to identify the 'similarity index graph' (which embeds emergent similarities on core important base similarities) as a relevant graph, because it identifies 'similarities connecting different similarities', which overlaps with a component of relevance like 'similarities/connections in differences'.
+
+Similarly, it's possible to generate relevant graphs like a 'graph of independent maximally different optimization metrics in different directions' where integrating another graph makes it a more relevant graph, like integrating an 'intent graph' as an 'intent layer on this graph', a layer which includes 'intents like "connect" as "connections between independent maximally different optimization metrics with different directions"'.
 
 
 ## Relevant Graph Types 
