@@ -28,6 +28,12 @@ Examples of graphs connecting maximally different structures:
 
 'Graph sequences' are also cross-interface structures, as are 'graphs of graphs', and 'integrations of graphs' and 'interface graphs of a graph/structure'.
 
+Examples of relevant graph sequences:
+- generative graph sequences, like where one relevant graph generates another relevant graph, like how a 'system interaction graph' of the 'definition of relevance' generates the 'graph of solution structures like solution types'
+- optimization graph sequences, like where changes in some 'direction/position/layer/structure applied to a graph' generate optimal graphs
+- general relevant graph sequences, like 'connections between relevant graphs that only cross other relevant graphs in the connection sequence'
+- graphs connecting graphs of relevance structures, like 'optimization structures' like 'trivial connections between maximal differences' and 'cross-interface structures'
+
 For example, the graph intent sequence like 'describe/generate/implement/reduce/optimize/integrate a graph' identifies a graph sequence, which connects a graph across interface variants of the graph, like the implementation of the graph, the optimization of the graph, and the reduction of the graph.
 
 
