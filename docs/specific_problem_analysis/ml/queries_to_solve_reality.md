@@ -490,7 +490,7 @@ I. To do list
 
 	- identify graph structures like 'optimization graph structures' associated with graph intents like 'optimize' like applying an 'outer layer of optimization metrics' to a graph when its time to 'optimize the graph'
 
-	- identify optimal graph structure sequences like 'graph layers that can be applied in a useful sequence of layers, because there is no error structure like a "complexity spike" when adding these layers (the layers dont apply a sequence of combinations/variants that would increase in complexity exponentially)'
+	- identify optimal graph structure sequences like 'graph layers that can be applied in a useful sequence of layers, because there is no error structure in a relevant comparative graph like a "complexity spike in a complexity graph of the layer sequence" when adding these layers (the layers dont apply a sequence of combinations/variants that would increase in complexity exponentially)'
 
 
 II. Queries and Results
