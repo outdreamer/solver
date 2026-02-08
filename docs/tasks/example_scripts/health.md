@@ -96,8 +96,10 @@
 				- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8448615/ (Medicinal plants and natural products showing in vitro anti-TB activity)
 			- leprosy: zinc, vitamin A/D, omega 3s, CBD, Bacillus Calmette-Guérin (BCG) vaccination
 			- mrsa: alysicarpus monilifer (necklace-pod alyce clover), colloidal silver, tea tree, green tea, cocoa, asian ginseng, garlic, cranberry with aloe vera
-			- lyme disease: especially cryptolepis sanguinolenta (Ghanaian quinine)
-				- also juglans nigra (black walnut), polygonum cuspidatum (japanese knotweed), artemisia annua (sweet wormwood), uncaria tomentosa (cat’s claw), istus incanus, scutellaria baicalensis (chinese skullcap), cinnamon bark, clove bud, citronella, wintergreen, oregano, garlic, stevia, thyme
+			- lyme disease (Borrelia burgdorferi): especially cryptolepis sanguinolenta (Ghanaian quinine)
+				- also juglans nigra (black walnut), polygonum cuspidatum (japanese knotweed), artemisia annua (sweet wormwood), uncaria tomentosa (cat’s claw), cistus incanus, scutellaria baicalensis (chinese skullcap), cinnamon bark, clove bud, citronella, wintergreen, oregano, garlic, stevia, thyme
+			- Babesia duncani: Cryptolepis sanguinolenta, Artemisia annua, Scutellaria baicalensis, Alchornea cordifolia, and Polygonum cuspidatum
+			- Bartonella henselae: Cryptolepis sanguinolenta, Juglans nigra, and Polygonum cuspidatum
 			- Helicobacter pylori
 				- the following are commonly found in Helicobacter pylori supplements, but the activity of these is unclear
 					- uncaria tomentosa (cat's claw), lactobacillus reuteri, green tea, licorice, berberine, bismuth citrate, mastic gum, broccoli sprouts, zinc
