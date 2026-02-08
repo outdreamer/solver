@@ -28,6 +28,8 @@ Examples of graphs associated with optimization errors:
 - a graph with 'interface variable extremes in different directions' like the 'intersecting spectrum graph' has an optimization error of 'missing a general optimization metric like "sufficient specificity for relevance"' by excluding specific structures associated with different points on the spectrums, which is solved by including associated specific structures with each relevant point on the spectrums
 - similarly, a graph with 'one intersection' like the default 'intersecting spectrum graph' is missing 'variants of intersections', which is solved by converting the graph into a 'grid of intersecting spectrums' or by 'graphing connections between points on one spectrum which implement/optimize/standardize/similarize/otherwise intersect with points on another spectrum' (points of 'high complexity' which are also points of 'high variation')
 
+Graphs of optimization structures like 'sequences of optimization layers applied to a graph (like layers from different relevant graphs or layers of combinations/variants like specifications/different states)' can be filtered to avoid optimization errors like 'exponential complexity increases'.
+
 
 ## Relevant graphs implementing optimization metrics
 
