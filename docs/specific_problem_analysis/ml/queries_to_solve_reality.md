@@ -494,7 +494,9 @@ I. To do list
 		- identify the 'graph of graphs to implement' to allow useful sequences of graphs to be applied for comparison intents, like 'checking a graph of error type sequences after checking for a specific error type'
 		- identify the graph indicating when to apply structural/intent/other interface graphs as a filter of new graph structures
 
-	- identify relevant graphs to connect, like sequences of 'relevant graphs with different relevance types', and identify relevant graph connection functions, like connecting graphs by 'common variables or core functions with input/output variables in common'
+	- identify relevant graphs to connect, like sequences of 'relevant graphs with different relevance types', and identify relevant graph connection functions, like connecting graphs by 'common variables or core functions with input/output variables in common', and identify relevant graph component integration functions, like 'identify what similarities to apply to connect concentric graph layers' like 'apply a similarity/adjacency of direction when rotating a graph layer that repeats the previous graph layer'
+
+	- identify structures like 'waves' that can connect 'high degrees/structures of variation' and identify connections between different connections made by waves/similar structures, like connecting common structures of solutions/errors like with a 'circular wave of errors around a solution' and connecting graph sequences that 'vacillate between optimization metrics' where 'wave maxima/minima/inflection points/critical points overlap with graph structures', and apply waves as 'default/core/standard functions' to initialize 'weights of initial layers of neural networks' and identify common patterns of weight updates to create 'standardized maximally different polynomial types', and connecting these connections in a graph
 
 
 II. Queries and Results
