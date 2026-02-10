@@ -498,6 +498,8 @@ I. To do list
 
 	- identify structures like 'waves' that can connect 'high degrees/structures of variation' and identify connections between different connections made by waves/similar structures, like connecting common structures of solutions/errors like with a 'circular wave of errors around a solution' and connecting graph sequences that 'vacillate between optimization metrics' where 'wave maxima/minima/inflection points/critical points overlap with graph structures', and apply waves as 'default/core/standard functions' to initialize 'weights of initial layers of neural networks' and identify common patterns of weight updates to create 'standardized maximally different polynomial types', and connecting these connections in a graph
 
+	- identify relevant variants of a graph like how 'intersecting spectrum graphs' have useful variants like an 'error spectrum implemented with interface spectrums' and an 'error similarity index graph of intersecting spectrums', and identify relevant graphs like 'intent graphs' of relevant variants of a graph
+
 
 II. Queries and Results
 
