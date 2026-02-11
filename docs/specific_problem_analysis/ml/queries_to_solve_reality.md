@@ -501,6 +501,8 @@ I. To do list
 	- identify relevant 'variants/types/structures of a graph' like how 'intersecting spectrum graphs' have useful variants like an 'error spectrum implemented with interface spectrums' and an 'error similarity index graph of intersecting spectrums' as a way of generating relevant graphs, and identify relevant graphs like 'intent graphs' of relevant variants of a graph
 		- identify the limits/structures of the application of 'relevant graphs' as 'solution/error graphs' by applying relevant graph structures as 'solution/error structures', like applying 'connections between maximal differences' as solution structures and applying 'maximally different sections' of a graph as 'either solution or error structures'
 
+	- identify useful 'structures/combinations of relevant variables' to apply, like how solving 'implementation' solves 'trivially implementable intents', and like how solving 'identify trivial implementations of non-trivial intents' solves 'non-trivial intents', and other combinations of 'trivial/implementable/feasible/adjacent/possible/otherwise relevant structures', and identify the graph connecting the 'optimal sequences of these relevant variable combinations'
+
 
 II. Queries and Results
 
