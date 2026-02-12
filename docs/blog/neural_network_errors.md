@@ -44,6 +44,11 @@ Some functions require more than 'simple combinations/sequences of components' t
 Deep learning in general is like trying to 'build real virtue' with 'iteration of simple addition of integers', something that can never build real virtue, since only real virtues can build other real virtues. Similarly, 'components/causes/inputs/similarities/structures of relevance' like 'independence' are required to generate 'relevance', and only 'sufficiently "relevant/complicated/high variation" functions/structures' can build 'components/other structures of relevance'.
 
 
+### Diffusion model invention
+
+Diffusion models basically perform a type of 'standardization' by 'removing noise' and it's more optimal to generate new neural networks conceptually like from general functions like 'standardize/organize/integrate/implement' than to combine simple structures to generate neural networks.
+
+
 ### World Models
 
 World Models apply an 'over-prioritization error' of 'over-specificity' which involves iterating specific structures that should be abstracted in a pattern/type/other similarity, incorrectly implementing similar structures as 'different' by generating unnecessary/irrelevant iterations of similar structures. An extreme variant is 'generating a copy of every molecule' to describe reality. However, these models would be useful for running experiments/tests as a 'laboratory model', if implemented correctly, although probably not better than a system interaction model would.
