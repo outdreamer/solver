@@ -508,6 +508,8 @@ I. To do list
 
 	- identify relevant filters of generated structures like not only 'identify what changes other variables the most' but also 'identify what relevant structures like "problem/solution connection structures" like "requirement/similarity connection structures" are the most common/otherwise relevant', so that during generating of new graphs/functions/other structures, relevance components can be identified trivially (by identifying requirement/similarity connections) and integrated into a relevance graph to keep track of variation being generated, and identify the 'graph/sequences of prioritized relevance components/structures' for intents like 'identify the relevance of generated structures'
 
+	- identify variants of integrations of relevance structures in networks like 'cross-relevance structures like intents/functions as component vectors of relevance multiplied to generate relevance' and 'relevant like maximally different vector sequences, as relevance implementation structures'
+
 
 II. Queries and Results
 
