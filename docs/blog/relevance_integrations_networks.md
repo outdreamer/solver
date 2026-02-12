@@ -15,6 +15,21 @@ Relevant interface interaction:
 - applying interface variables as different 'parameters of polynomial functions' with varying coefficients indicating the different interactions of interface variables
 
 
+### Causal components of a change in error
+
+Relevance definition implementation:
+- applying definitions of relevance like 'larger/direct/required/maximally different components as higher causal components' to identify 'causal components of a change in error'
+
+Identified error application:
+- applying 'vectors of identified error causes in relevant graphs' as 'intentional causes of error types like "large changes in errors"'
+
+
+### Cost functions
+
+Relevance error implementation:
+- applying 'composite cross-interface relevance' as an 'error metric' to identify 'errors of irrelevance/semantic errors' in a cost function (a function is a solution if its high in relevance, as in relevantly/optimally connects variables, not just connecting the variables)
+
+
 ### Vector sequences
 
 Relevance implementation:
