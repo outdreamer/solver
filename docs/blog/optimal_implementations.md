@@ -25,7 +25,7 @@ Sub-optimal implementations
 - sub-optimal implementations of interface analysis would 'simply identify interface structures like filters/connections/differences' and 'connect them in simple graphs of the same type'
 
 Optimal implementations
-- an optimal implementation of interface analysis would apply iterations of interface analysis until 'relevant graphs are identified and integrated'
+- an optimal implementation of interface analysis would apply iterations of interface analysis until 'relevant graphs are identified and integrated', then apply 'degrees of interface analysis' to relevant graphs to identify any possible new relevant graphs required to solve a problem, as indicated by the 'degree of complexity', and would check existing optimization structures like 'implementations of optimization metric combinations' for optimization strategies/structures specific to those optimization metric combinations/structures
 
 
 ## Why identify optimal implemenations
