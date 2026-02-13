@@ -14,6 +14,12 @@
             - identify changes to apply to graphs and regular tests of relevance of each change to core/general intents
         - identify optimal intent graphs, then identify relevant implementing/causal/optimizing graphs for the optimal intent graph
             - identify graphs of connectible intent sequences like 'changing connections of a graph' and 'changing connection weights of a graph' and identify optimal intent sequences and optimizations of intent sequences
+        - once you identify interface structures like 'causal connections' with 'causal definition component keywords',
+            - identify specifically and directly relevant structures to 'causal connections' (like 'root causes' where a 'causal sequence ends' and 'causal sequences'), with 'structures of causal definitions'
+            - identify adjacently related general interface structures in the 'causal connections' (identify 'requirements' in the causal connections), with similar variants of definition components of each interface structure
+            - identify specifically relevant like 'similar/adjacent' interface structures (identify causes/definitions/intents from requirements, identify intents/structures from functions), with 'structures/similarities' of each interface structure
+            - identify generally relevant interface structures (identify problems/solutions caused by that cause), with 'structures/similarities and definitions of problem/solution/relevant interface structures'
+            - apply optimal interactions between interface structures (causes should be unique/required/identifiable), with 'definitions of interface structures'
 
     - apply an algorithm based on 'reasons for word adjacency and other similarities' ('relevant adjacency' like 'specification' and 'identify a list of adjacency reasons' and 'identify the list of all possible similarity causes'), then write an algorithm to identify each cause of similarity, and identify relevant similarity causes and relevant similarities to identify general search intent/relevance similarity (like 'specificity-adjacency can cause context similarity and context similarity can cause relevance/meaning similarity') and score these similarity causes and similarities by relevance to relevance similarities
         - similarities:
