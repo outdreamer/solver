@@ -510,6 +510,8 @@ I. To do list
 
 	- identify variants of integrations of relevance structures in networks like 'cross-relevance structures like intents/functions as component vectors of relevance multiplied to generate relevance' and 'relevant like maximally different vector sequences, as relevance implementation structures' and 'different subsets of the network to connect polynomial functions of relevant variable sets' and 'different relevance structures of polynomials like different ways to generate polynomials (like different component types like subsets of polynomials and parameters of polynomials and polynomial types like waves) as different sequences in the network'
 
+	- identify differences in 'solution structures/types identified by a filter' (a filter like 'causal definition' like 'requirements', or 'causal implementation structures' like 'required sequences') and apply these differences as 'problems to solve' in a graph connecting these differences with similarities/overlaps in 'solution structures/types identified by a filter' to identify 'sequences/subsets/structures of filters' to apply to maximize variance of 'solution structures/types identified'
+
 
 II. Queries and Results
 
