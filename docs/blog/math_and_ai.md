@@ -1,8 +1,15 @@
 # Math Structures and AI 
 
+
 Math structures have explicit and implicit (defined/direct and implemented/indirect) relevance to neural networks and other forms of AI, as they involve information structures. Math structures overlap with information structures enough to connect information structures to other interfaces. 
 
 For example, a 'manifold' of a graph can connect a graph to the 'optimization' interface by identifying 'optimal points' on the graph manifold, because the manifold implements a definition that is useful for 'generating connected/similar variants/limits of a structure', and 'optimal variants' can then be identified.
+
+What do math structures have to do with AI/learning?
+
+Representing info with math structures allows breaking the function of 'learning' into 'interactions between math structures'.
+
+Since 'learning' involves 'updates to improve a function', applying math structures as 'structures to be updated or to generate updates' is possible.
 
 
 ## Average
