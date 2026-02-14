@@ -514,6 +514,8 @@ I. To do list
 
 	- identify questions relevant to a problem, like how relevance components like 'uniqueness' identify 'uniqueness-identifying questions' like by 'varying assumed constants/variables' like 'identify whether the problem occurred in a specific/constant or general timeframe' and 'identify whether the problem occurred for one/constant or multiple use/user of a system' and 'identify whether the problem is unique/rare or common', and connect 'relevance components' like 'uniqueness' with functions like 'vary assumed constants/variables' to 'vary uniqueness variables' (for example changing 'one to multiple' and 'specific to general' and 'rare to common')
 
+	- identify the optimal starting point for generating networks, like whether its more optimal to generate networks of structures (like networks of graphs/manifolds/sets/functions) and then to identify their optimal interactions, and then to integrate interface structures (like manifolds of graphs, graphs of concepts) as specifying structures, and whether structural interactions are sufficiently specifying to identify optimal structure interactions, or whether its more optimal to start by integrating interface structures with structures as a base component of a network, when generating 'networks of structures to connect useful structures' and generating 'sets of structures to apply as possible solutions'
+
 
 II. Queries and Results
 

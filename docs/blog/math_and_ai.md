@@ -2,7 +2,12 @@
 
 Math structures have explicit and implicit (defined/direct and implemented/indirect) relevance to neural networks and other forms of AI, as they involve information structures. Math structures overlap with information structures enough to connect information structures to other interfaces. 
 
-For example, a 'manifold' of a graph can connect a graph to the 'optimization' interface by identifying 'optimal points' on the graph manifold, because the manifold implements a definition that is useful for 'generating connected/similar variants of a structure', and 'optimal variants' can then be identified.
+For example, a 'manifold' of a graph can connect a graph to the 'optimization' interface by identifying 'optimal points' on the graph manifold, because the manifold implements a definition that is useful for 'generating connected/similar variants/limits of a structure', and 'optimal variants' can then be identified.
+
+
+## Average
+
+Average types are a useful way to lower dimension while retaining some information.
 
 
 ## Ratios
