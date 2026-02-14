@@ -5,6 +5,16 @@ Math structures have explicit and implicit (defined/direct and implemented/indir
 For example, a 'manifold' of a graph can connect a graph to the 'optimization' interface by identifying 'optimal points' on the graph manifold, because the manifold implements a definition that is useful for 'generating connected/similar variants of a structure', and 'optimal variants' can then be identified.
 
 
+## Ratios
+
+Ratios are useful to encode 'comparisons' which are a generally useful problem-solving structure, similar to how 'questions' and 'graphs' are a useful problem-solving structure, where questions are directly relevant to comparisons and graphs enable comparisons.
+
+
+## Regression
+
+Regression solves the basic structural problem of 'connecting variables'.
+
+
 ## Manifold
 
 A manifold is useful to indicate the state space of a graph/function/structure.
