@@ -24,6 +24,19 @@ Identified error application:
 - applying 'vectors of identified error causes in relevant graphs' as 'intentional causes of error types like "large changes in errors"'
 
 
+### Attention
+
+Relevant (as in 'general/important/otherwise relevant') relevance:
+- standard attention doesn't account for absolute/general meaning/relevance, only relative/local relevance in a sentence
+- standard attention doesn't apply similarity/difference patterns (like 'adjacency patterns' like 'modifier patterns' like 'different similarities are not similar differences') or understanding of sentences (as basically 'connections/similarities/differences') to identify relevance
+
+
+### Trivial gradients
+
+Required relevance threshold:
+- the problem of 'vanishing gradients' can be applied as a problem of 'meaningless gradients', so a 'required relevance threshold' can be applied to 'require that gradients retain some degree of relevance/meaning'
+
+
 ### Cost functions
 
 Relevance error implementation:

@@ -512,6 +512,8 @@ I. To do list
 
 	- identify differences in 'solution structures/types identified by a filter' (a filter like 'causal definition' like 'requirements', or 'causal implementation structures' like 'required sequences') and apply these differences as 'problems to solve' in a graph connecting these differences with similarities/overlaps in 'solution structures/types identified by a filter' to identify 'sequences/subsets/structures of filters' to apply to maximize variance of 'solution structures/types identified'
 
+	- identify questions relevant to a problem, like how relevance components like 'uniqueness' identify 'uniqueness-identifying questions' like by 'varying assumed constants/variables' like 'identify whether the problem occurred in a specific/constant or general timeframe' and 'identify whether the problem occurred for one/constant or multiple use/user of a system' and 'identify whether the problem is unique/rare or common', and connect 'relevance components' like 'uniqueness' with functions like 'vary assumed constants/variables' to 'vary uniqueness variables' (for example changing 'one to multiple' and 'specific to general' and 'rare to common')
+
 
 II. Queries and Results
 
