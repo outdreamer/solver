@@ -11,11 +11,29 @@ Examples:
 - a function network (this is so general it can describe anything and wont help filter implementations)
 - matrix multiplication sequences (this is irrelevant, matrix multiplication doesn't determine the network's meaning)
 - a multi-layer perceptron with backpropagation (this is overly specific to one neural network implementation)
+- identify possible solution function, identify/aggregate error function, identify causes of aggregate error function, identify updates to causes of error given the gradient of the cost function (this is more optimal, but still overly specific to a subset of neural network implementations)
 
 
 ## More optimal descriptions of neural networks
 
 Examples:
 - a solution function-update function, an error identification function, and an error-integration function with the update function (this is a good abstraction that allows identifying useful variants)
-- a network of different change types, with different priorities
-- a network of relevant functions connected by relevance scores (this is directly related to relevance, like all neural networks should be)
+- a network of different change types, with different priorities (this identifies 'possible changes of a network' as a possible metric to identify, which is useful for identifying limits of what change types a network can apply, to identify what problems a network can solve)
+- a network of relevant functions connected by relevance scores (this is directly related to relevance, like all neural networks would optimally be)
+- a network of differences to identify similarities/connections (this applies the 'similarity' interface to simplify the network)
+
+
+## Alternate function to implement a neural network
+
+Identify/apply metrics of 'identified optimal solution functions for data sets' to generalize solution metrics to other solution functions, then apply an integration function of these metrics.
+
+Identify the metrics of an optimal solution function for a data set, such as:
+- percent of points adjacent to the solution function or intersecting with the solution function or averaged by the solution function, or otherwise similar to the solution function, or combinations/structures of these similarities to the solution function
+- similarity of the solution function to the general data set structures (like similarity/adjacency/alignment with the data set limits/ranges/densities/other structures)
+
+Then apply the metrics of an optimal solution function to derive the solution function:
+- given a percent of points required to be similar to the solution function, apply a point-connecting function that implements that similarity until the optimal percent of points is reached
+- given a similarity of data set limits and solution function limits, apply the data set limits (like minima/maxima) as 'points to connect' with a function, and apply changes to that connection function
+
+Integration function of metrics:
+- The over-specificity of a solution metric like 'percent of points similar to the solution function' can be offset by applying general solution metrics like 'similarity of general function structure and data set structure'.
