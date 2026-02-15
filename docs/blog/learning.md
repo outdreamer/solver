@@ -3,7 +3,7 @@
 
 ## Learning Definition
 
-Learning is 'updating a function, to improve/optimize the function'.
+Learning is 'updating a function, to improve/optimize the function'. It involves a function to update a function, and a function to identify errors.
 
 There are many structures that can implement the concept of 'learning'.
 
@@ -31,3 +31,8 @@ Relevance may seem like just a 'constant definition' that is difficult to integr
 
 The following blog lists ways that relevance can be applied to neural networks:
 https://github.com/outdreamer/solver/blob/master/docs/blog/relevance_integrations_networks.md
+
+Examples of applying relevance to create a 'function-updating function' and an 'error-identification function'
+- identifying opposing error types like 'general function shape accuracy' and 'local/specific accuracy' to apply 'alternating changes to implement a change for correcting one of the error types'
+- applying optimization changes to correct error types like 'generality-optimizing changes' and 'generality/complexity-optimizing changes'
+- applying 'sequences of prioritized error types' to 'identify/correct first'
