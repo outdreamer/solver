@@ -518,7 +518,9 @@ I. To do list
 	- identify the optimal starting point for generating networks, like whether its more optimal to generate networks of structures (like networks of graphs/manifolds/sets/functions) and then to identify their optimal interactions, and then to integrate interface structures (like manifolds of graphs, graphs of concepts) as specifying structures, and whether structural interactions are sufficiently specifying to identify optimal structure interactions, or whether its more optimal to start by integrating interface structures with structures as a base component of a network, when generating 'networks of structures to connect useful structures' and generating 'sets of structures to apply as possible solutions'
 
 	- identify the 'relevance spectrum' of neural network implementations and identify the connections between different relevance levels of neural network implementations to identify when its optimal to apply low/high relevance implementations
-	
+
+	- identify the limits of interface variables like 'complexity' to identify the 'degree of complexity' like 'the degree of complexity, up to the system level of complexity' to solve for, so that 'complexity' is solved (as in 'once complexity is solved up to the system level, so that complex system interactions are solved, complexity is solved, because any possible new complex structure will also be part of a system, and will follow system interaction rules')
+
 
 II. Queries and Results
 
