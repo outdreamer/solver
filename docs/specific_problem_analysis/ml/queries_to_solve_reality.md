@@ -523,6 +523,8 @@ I. To do list
 
 	- identify the structures like 'convolutions' of 'sets of concept definitions' to identify in a graph that are relevant to solving 'graphs' in general, like the 'convolutions of the definitions of complexity/variation' that can occur in a graph, like 'complexity of generative variables of a graph' and 'variation of optimizations of a graph'
 
+	- identify the structures like 'degrees of variation' (like 'layers of nodes of learnable/prioritizable variables') to apply around relevant structures/graphs to generate a learning network that applies relevant graphs, to make the relevant graphs useful for learning
+
 
 II. Queries and Results
 
