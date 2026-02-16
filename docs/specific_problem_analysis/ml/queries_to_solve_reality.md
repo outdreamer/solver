@@ -521,6 +521,8 @@ I. To do list
 
 	- identify the limits of interface variables like 'complexity' to identify the 'degree of complexity' like 'the degree of complexity, up to the system level of complexity' to solve for, so that 'complexity' is solved (as in 'once complexity is solved up to the system level, so that complex system interactions are solved, complexity is solved, because any possible new complex structure will also be part of a system, and will follow system interaction rules')
 
+	- identify the structures like 'convolutions' of sets of concepts to identify in a graph that are relevant to solving 'graphs' in general, like the 'convolutions of the definitions of complexity/variation' that can occur in a graph, like 'complexity of generative variables of a graph' and 'variation of optimizations of a graph'
+
 
 II. Queries and Results
 
