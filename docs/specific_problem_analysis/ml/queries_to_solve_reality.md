@@ -527,6 +527,8 @@ I. To do list
 
 	- identify structures like 'spectrums of functions' like 'complexity spectrums of functions' that allow for 'applying numerical variables to graphs', like 'changing the position on a complexity spectrum to change a connection function to a more/less complex function'
 
+	- identify structures of relevant graph like 'applying relevant graphs as components/layers of a graph, like applying integrated relevant graph sets as components of a graph' and optimal ways to integrate these structures like to 'avoid the limit of applications of relevant graphs as components'
+
 
 II. Queries and Results
 
