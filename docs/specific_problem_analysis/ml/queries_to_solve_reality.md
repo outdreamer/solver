@@ -525,6 +525,8 @@ I. To do list
 
 	- identify the structures like 'degrees of variation' (like 'layers of nodes of learnable/prioritizable variables') to apply around relevant structures/graphs to generate a learning network that applies relevant graphs, to make the relevant graphs useful for learning
 
+	- identify structures like 'spectrums of functions' like 'complexity spectrums of functions' that allow for 'applying numerical variables to graphs', like 'changing the position on a complexity spectrum to change a connection function to a more/less complex function'
+
 
 II. Queries and Results
 
