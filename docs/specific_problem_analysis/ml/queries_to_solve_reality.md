@@ -529,6 +529,8 @@ I. To do list
 
 	- identify structures of relevant graph like 'applying relevant graphs as components/layers of a graph, like applying integrated relevant graph sets as components of a graph' and optimal ways to integrate these structures like to 'avoid the limit of applications of relevant graphs as components'
 
+	- identify optimizations like applying additional relevant interface information like 'type' to 'nodes/connections/graph structures' so that 'shortest path to nodes of a type' or 'shortest connection of a type' can be identified while solving other problems like 'identifying the shortest path between nodes'
+
 
 II. Queries and Results
 
