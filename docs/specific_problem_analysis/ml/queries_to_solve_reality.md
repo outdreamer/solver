@@ -539,6 +539,8 @@ I. To do list
 
 	- identify connections/variables generating relevant graphs like how a relevant graph has multiple maximal differences like cross-interface differences with enough similarity to interact, like how structures of graphs are very different but have enough similarity to be interactive through their type of 'structures of graphs' which they have in common, so a graph of their similarities/interactions is a relevant graph to identify
 
+	- identify 'error structures with solutions/optimizations on relevant graphs' like 'while increasing optimality for an optimization metric combination, the optimization process generates errors, so the definition of optimality changes and the optimization metric combination is no longer optimal, and requires a direction change on a graph of optimization metric combination spectrums', and identify all 'optimal changes like "optimal direction changes" on graphs of optimization structures'
+
 
 II. Queries and Results
 
