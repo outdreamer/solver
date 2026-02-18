@@ -538,6 +538,7 @@ I. To do list
 	- identify when its useful to apply/stop applying/otherwise interact with structures of graphs like 'waves of graphs (like alternations of graphs like an error graph of an optimization graph of an error graph)' and 'linearities of graphs (like an error graph of an error graph)', and identify their optimal interactions like 'apply a graph alternation (of opposite graphs) with an alternation of a graph iteration (of the same graph), like integrate/alternate a graph wave and a graph iteration'
 
 	- identify connections/variables generating relevant graphs like how a relevant graph has multiple maximal differences like cross-interface differences with enough similarity to interact, like how structures of graphs are very different but have enough similarity to be interactive through their type of 'structures of graphs' which they have in common, so a graph of their similarities/interactions is a relevant graph to identify
+		- identify relevant graphs to connect like 'graphs with maximally different error types'
 
 	- identify 'error structures with solutions/optimizations on relevant graphs' like 'while increasing optimality for an optimization metric combination, the optimization process generates errors, so the definition of optimality changes and the optimization metric combination is no longer optimal, and requires a direction change on a graph of optimization metric combination spectrums', and identify all 'optimal changes like "optimal direction changes" on graphs of optimization structures'
 
