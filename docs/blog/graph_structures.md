@@ -3,12 +3,17 @@
 
 ## Math structures of a graph
 
-Examples:
+Examples of math structures on a graph:
 - convolutions of interface variables in a graph's structures (like its generative variables, optimizations, relevant points, graph intents, graph sequences), like all the ways complexity/variation can interact in a graph's structures
 - sheaves of a graph which implement constant/certainty structures of a graph as specifications and variables/uncertainty structures as abstractions, the specifications/abstractions of a sheave
 - kernel functions of a graph which reduce it to equivalent lower-dimensional graphs
 - the fourier transform of a graph which isolates the component graphs of a graph
-- spectrums/axes of a graph are often useful to apply/identify, to apply a range of values like a 'range of complexity/abstraction' to a graph
+- spectrums/axes on a graph are often useful to apply/identify, to apply a range of values like a 'range of complexity/abstraction' to a graph
+
+Examples of math structures of graphs:
+- graphs of graphs
+- queries of graphs of graphs, like 'waves of graphs' (as in a 'query alternating between extremes on a spectrum graph of graphs')
+- spectrums/sequences/combinations/integrations of graphs
 
 
 ## Interface graphs of a graph
