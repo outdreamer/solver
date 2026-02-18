@@ -531,7 +531,7 @@ I. To do list
 
 	- identify optimizations like applying 'additional embedded relevant interface information' as 'embedded/overlapping/otherwise similar similarities' like 'type' to 'nodes/connections/graph structures' so that 'shortest path to nodes of a type' or 'shortest connection of a type' can be identified while solving other problems like 'identifying the shortest path between nodes'
 
-	- identify connections between graphs like 'abstraction' and 'optimization' graphs, like how 'increasing abstraction can make any connection falsely appear optimal' and cross-interface similarities like a 'query with a similar structure/cause/position in relevant graphs, across relevant graphs'
+	- identify connections between graphs like 'abstraction' and 'optimization' graphs, like how 'increasing abstraction can make any connection falsely appear optimal' and cross-interface similarities like a 'query with a similar structure/cause/position in relevant graphs, across relevant graphs' and 'connections between graphs' that overlap with 'connections on relevant graphs'
 
 
 II. Queries and Results
