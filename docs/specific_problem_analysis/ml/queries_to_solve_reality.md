@@ -531,6 +531,8 @@ I. To do list
 
 	- identify optimizations like applying additional relevant interface information like 'type' to 'nodes/connections/graph structures' so that 'shortest path to nodes of a type' or 'shortest connection of a type' can be identified while solving other problems like 'identifying the shortest path between nodes'
 
+	- identify connections between graphs like 'abstraction' and 'optimization' graphs, like how 'increasing abstraction can make any connection falsely appear optimal'
+
 
 II. Queries and Results
 
