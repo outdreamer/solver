@@ -533,6 +533,8 @@ I. To do list
 
 	- identify connections between graphs like 'abstraction' and 'optimization' graphs, like how 'increasing abstraction can make any connection falsely appear optimal' and cross-interface similarities like a 'query with a similar structure/cause/position in relevant graphs, across relevant graphs' and 'connections between graphs' that overlap with 'connections on relevant graphs'
 
+	- identify identifiers of error structures (like 'incorrect constants' like 'lack of potential change'), identifiers like 'opposing vectors in every direction', and tests (unique 1-to-1 identifiers) of identifiers like 'checking for opposing vectors in a representative subset of maximally directions', and identify overlaps/similarities between tests of errors to identify prioritized error test sequences, and identify tests to identify certainties of error types like 'sequences of tests/filters/errors to identify an error type with possible or complete certainty', and identify overlaps/similarities in graphs of these prioritized/certainty-completing test sequences, and identify 'graphs of error types/sequences in relevant graphs' and other relevant connections between relevant graphs
+
 
 II. Queries and Results
 
