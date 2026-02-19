@@ -43,6 +43,8 @@ Some functions require more than 'simple combinations/sequences of components' t
 
 Deep learning in general is like trying to 'build real virtue' with 'iteration of simple addition of integers', something that can never build real virtue, since only real virtues can build other real virtues. Similarly, 'components/causes/inputs/similarities/structures of relevance' like 'independence' are required to generate 'relevance', and only 'sufficiently "relevant/complicated/high variation" functions/structures' can build 'components/other structures of relevance'.
 
+A core problem with neural networks is that they can accidentally/illegitimately find solutions, rather than relevantly/legitimately finding optimal solutions - a neural network that 'is lucky' in that it 'finds a solution trivially, for the wrong reason, because the data set happens to have a clear correlation or because the network happens to have useful weights/initializations/variables for the solution polynomial by default' won't be aware of this luck or have a solution for less lucky cases like where an 'optimal minimum of the error function is between learning rate steps given the initializations', whereas a solution found with interface analysis like relevant graphs will have some awareness of luck built-in, as a result of identifying the 'rareness of clear correlations in real complex systems' and therefore applying 'functions to prioritize finding more complicated solution types (and also capable of handling simpler solution types)' by default. Similarly, neural networks are lacking in other system analysis insights, the complete definition of relevance, and other relevant graphs, often applying only a few insights per neural network.
+
 
 ### Diffusion model invention
 
