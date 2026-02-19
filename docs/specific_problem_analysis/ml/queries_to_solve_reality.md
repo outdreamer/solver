@@ -542,6 +542,8 @@ I. To do list
 
 	- identify 'error structures with solutions/optimizations on relevant graphs' like 'while increasing optimality for an optimization metric combination, the optimization process generates errors, so the definition of optimality changes and the optimization metric combination is no longer optimal, and requires a direction change on a graph of optimization metric combination spectrums', and identify all 'optimal changes like "optimal direction changes" on graphs of optimization structures'
 
+	- identify relevant 'connections/comparisons between networks/graphs' like 'networks identify probable sequences based on an aggregate/average/representative function of definite sequences' and 'graphs identify definite sequences' which applies a 'spectrum of definitiveness/certainty/information' and an 'approximation of certainty' function through some 'aggregate/average/representative function' to solve the problem of 'connecting information without definite sequences', similar to how different workflows have different 'degrees of complete information', which identifies a variable of networks as 'indirect approximations of certainty like aggregates/averages/representations' to generate network variants
+
 
 II. Queries and Results
 

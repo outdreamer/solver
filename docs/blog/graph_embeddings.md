@@ -8,6 +8,8 @@ Graph embeddings apply an identified similarity to position items in a graph.
 
 Standard graph embedding functions include:
 - identifying similarity by trivially changing an item to identify adjacent items
+- positional adjacency in a graph
+- number of connections between a pair of nodes in a graph
 
 
 ## Other graph embedding functions
