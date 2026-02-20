@@ -547,6 +547,8 @@ I. To do list
 		- identify different types of error to minimize, like minimizing general error as in 'error across connections between different variable sets'
 		- identify different types of query relevance, like 'relative ratio of a graph coverable by a query, compared to other queries' and 'change types connectible with a query on general or specific graphs'
 
+	- identify query error types, and identify query metadata to store like 'unique node id' and 'unique graph direction' and 'added sequences of graph directions' to avoid query error types like 'visiting the same node more than once' for queries, given query requirements like 'uniqueness of visited nodes' for query types like 'shortest path queries'
+
 
 II. Queries and Results
 
