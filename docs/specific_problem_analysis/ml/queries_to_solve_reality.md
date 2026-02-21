@@ -549,6 +549,8 @@ I. To do list
 
 	- identify query error types, and identify query metadata to store like 'unique node id' and 'unique graph direction' and 'added sequences of graph directions' to avoid query error types like 'visiting the same node more than once' for queries, given query requirements like 'uniqueness of visited nodes' for query types like 'shortest path queries'
 
+	- identify connections between problem/solution graphs to integrate different problem graphs with solution graphs, like integrating an embedding of problem types with a similarity index graph of solution types to connect the problem types
+
 
 II. Queries and Results
 
