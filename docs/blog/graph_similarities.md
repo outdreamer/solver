@@ -29,3 +29,4 @@ The initial valuable intent of a graph is to 'identify the similarities that wil
 Intents like the following are useful to implement next, to identify the emergent 'optimization/integration' similarities enabled by the emergent 'composable/sequenceable similarities, enabled by the generative similarities':
 - 'identify similarities that will optimize the graph'
 - 'integrate the graph with other relevant graphs'
+- 'integrate the graph with graphs of relevant graphs'
