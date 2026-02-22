@@ -549,7 +549,9 @@ I. To do list
 
 	- identify query error types, and identify query metadata to store like 'unique node id' and 'unique graph direction' and 'added sequences of graph directions' to avoid query error types like 'visiting the same node more than once' for queries, given query requirements like 'uniqueness of visited nodes' for query types like 'shortest path queries'
 
-	- identify connections between problem/solution graphs to integrate different problem graphs with solution graphs, like integrating an embedding of problem types with a similarity index graph of solution types to connect the problem types
+	- identify connections between problem/solution graphs to integrate different problem graphs with solution graphs, like integrating an embedding of problem types with a similarity index graph of solution types to connect the problem types, like by applying problem types with 'maximal differences indicated by differences in position' and integrating a 'similarity index graph connecting maximally different solution types indicated by position' to connect problem types
+
+	- identify useful combinations/integrations/structures of intents like how 'identify' usually precedes 'optimize' but 'optimizing first or in combination' can be applied by 'optimizing for an optimization metric/intent, in order to identify a structure' (as in 'identifying a structure by whether its optimizable for an optimization intent/metric')
 
 
 II. Queries and Results

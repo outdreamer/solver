@@ -6,7 +6,7 @@ What is valuable work, given the state of AI?
 ## Examples of valuable work implementing general core intents
 
 1. Identifying new/otherwise relevant differences (new relevant structures):
-- identify new relevant interfaces/graphs/intents/optimization metrics/problems/integrations, like 'new differences that are relevant to connect' or the 'next structures of relevance like the next layer of relevance in the optimal graph of relevant graphs'
+- identify new relevant interfaces/graphs/intents/optimization metrics/problems/integrations, like 'new differences that are relevant to connect' or 'new intents specific enough to filter implementations optimally' or the 'next structures of relevance like the next layer of relevance in the optimal graph of relevant graphs'
 - identify new systems/graphs/functions/concepts/structures that 'simplify/optimize/otherwise relevantly change' relevant structures
 - identify relevant applications/iterations/other interface structures of interface structures (as in 'identify relevant differences, given a relevant similarity' like 'identify the relevant limit of optimization of this optimization metric, given general system interaction rules and relevant graphs and the definition of relevance')
 
@@ -14,7 +14,7 @@ Relevant differences enable general core intents like 'invent'.
 
 
 2. Identifying new/otherwise relevant similarities (new connections between relevant structures):
-- identify new connections between graph types/complex graphs/relevant graphs/otherwise relevant structures (new similarities/sequences/connections between graph intents, or error/solution graphs, or graphs of graphs, or error function graphs and neural network graphs, or regularization graphs and error function graphs)
+- identify new connections between graph types/complex graphs/maximally different graphs/relevant graphs/otherwise relevant structures (new similarities/sequences/connections between graph intents, or error/solution graphs of neural networks, or graphs of relevant graphs, or error function graphs and neural network graphs, or regularization graphs and error function graphs and optimization graphs)
 - identify the 'system of optimal interaction rules' that applies across systems, so that systematization can be regularly applied to similarize/standardize/optimize new structures
 - identify the 'optimal graph of relevant graphs' that optimally implements 'multiple/regularly applied graph intents' like 'optimize relevant graphs' and 'identify/integrate new relevant graphs'
 
@@ -27,7 +27,7 @@ Relevant similarities enable general core intents like 'evaluate'.
 Relevant interface analysis intents enable general core intents like 'understand'.
 
 
-## Specific intents enabled by general core intents
+## Examples of specific intents enabled by general core intents
 
 These intents like 'invent', 'evaluate', and 'understand' enable specific valuable intents like 'applying the required thinking to be able to solve negative side effects of a technology' and 'applying the required thinking to apply technologies in integration/combination'.
 
