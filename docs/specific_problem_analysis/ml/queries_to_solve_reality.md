@@ -555,6 +555,7 @@ I. To do list
 
 	- identify useful structures like 'opposing similarity/difference structures' applied to neural network structures, like applying 'connections/similarities/polynomials to connect differences/points in graph embeddings'
 		- similarly, identify networks that handle cross-interface problem types like 'structure/concept problem types' (like problem types with neural network structures like 'neural network architectures that generate/filter only one change type with deep layers/regularization' and related problems with neural network concepts as an 'incorrectly assumed constant' like an 'incorrectly assumed error' like 'over-fitting', like how 'volatility/specificity can be justified' like where a 'function begins to intersect with an independent variable at one point at first'), to generate a network with structures to identify and oppose each cross-interface problem type
+		- identify relevant 'coordinating and opposing change type sets' like how 'large change-generating change types to generate base functions' are useful to apply with 'small-change generating change types to generate specifications/refinements of functions'
 
 
 II. Queries and Results
