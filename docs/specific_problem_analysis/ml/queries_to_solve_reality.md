@@ -553,6 +553,9 @@ I. To do list
 
 	- identify useful combinations/integrations/structures of intents like how 'identify' usually precedes 'optimize' but 'optimizing first or in combination' can be applied by 'optimizing for an optimization metric/intent, in order to identify a structure' (as in 'identifying a structure by whether its optimizable for an optimization intent/metric')
 
+	- identify useful structures like 'opposing similarity/difference structures' applied to neural network structures, like applying 'connections/similarities/polynomials to connect differences/points in graph embeddings'
+		- similarly, identify networks that handle cross-interface problem types like 'structure/concept problem types' (like problem types with neural network structures like 'neural network architectures that generate/filter only one change type with deep layers/regularization' and related problems with neural network concepts as an 'incorrectly assumed constant' like an 'incorrectly assumed error' like 'over-fitting', like how 'volatility/specificity can be justified' like where a 'function begins to intersect with an independent variable at one point at first'), to generate a network with structures to identify and oppose each cross-interface problem type
+
 
 II. Queries and Results
 
