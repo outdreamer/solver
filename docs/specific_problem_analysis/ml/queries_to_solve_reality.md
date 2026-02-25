@@ -561,6 +561,9 @@ I. To do list
 
 	- identify useful structures like relevant graphs like a graph of error structures like 'missing/extreme/opposing' applied to structures like 'combinations/sequences' of interface variables like 'complexity/volatility/variability/sensitivity/specificity' (like a combination like 'missing sensitivity and extreme complexity'), and use this as a basic problem type graph to cluster specific problems around each problem type, and identify opposing solution types for each problem type (based on metrics like whether the solution type negates the problem type, whether the solution type has a similar connection count, has the highest number of connections to the problem type, occupies an opposite/maximally different position on the graph of error structures applied to structures of interface variables (like being more central than the problem type), etc)
 		- similarly, apply a pair of different waves to generate a set of maximally different problem type structures (in a circle), where the waves represent maximally independent cross-interface pairs like complexity/specificity or complexity/relevance
+		- identify relevant changes to this graph, like applying 'concentric layers of related solutions/errors/variables of each error structure of combinations/structures of interface variables', to allow queries to find error structures of error structures
+
+	- identify relevant graphs like 'solution types/structures' with concentric layers of iterated differences related to interface variables like 'complexity' applied around each solution structure, to identify positions of difference layers where problems occur, or similarly 'layers of differences applied to problem structures to generate solution structures' or applying both options in the same graph
 
 
 II. Queries and Results

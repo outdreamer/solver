@@ -33,3 +33,7 @@ Transformers were intended to predict the end of a sentence from the beginning o
 General intents like 'add a relevant interface variable (like an "opposing variable like generality of specificity", or "non-linearity") to a system to find functions' and 'find an interface structure (like a problem/abstraction) from a similarity (like adjacency)' are the general variants of these algorithms.
 
 Variants like 'integrations' of these intents are possible, like 'add a relevant interface variable to a system to find solution-causing functions'.
+
+It's unlikely that encoding one similarity per neural network type is useful (to identify one type of difference at a time), and rather it's likelier that neural network algorithms/architectures encoding multiple similarity types are more useful, to identify optimizations for a subset of similarities without reducing them to one similarity at a time. 
+
+Composing one-similarity neural networks (and composing their optimization metrics/optimality) is unlikely to be the best abstraction level for neural networks, because real systems are more complex than one similarity.
