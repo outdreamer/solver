@@ -559,6 +559,9 @@ I. To do list
 
 	- identify useful ways to embed multiple similarities in graphs like 'nested/aligned spectrums, given multiple 1-to-many connection types in data or overlapping connection types' as a way of 'making multiple tasks trivial/otherwise relevant' and identify relevant structures like 'differences required, by structures/combinations of similarities in a graph' and 'ways of making required differences trivial, by restricting differences'
 
+	- identify useful structures like relevant graphs like a graph of error structures like 'missing/extreme/opposing' applied to structures like 'combinations/sequences' of interface variables like 'complexity/volatility/variability/sensitivity/specificity' (like a combination like 'missing sensitivity and extreme complexity'), and use this as a basic problem type graph to cluster specific problems around each problem type, and identify opposing solution types for each problem type (based on metrics like whether the solution type negates the problem type, whether the solution type has a similar connection count, has the highest number of connections to the problem type, occupies an opposite/maximally different position on the graph of error structures applied to structures of interface variables (like being more central than the problem type), etc)
+		- similarly, apply a pair of different waves to generate a set of maximally different problem type structures (in a circle), where the waves represent maximally independent cross-interface pairs like complexity/specificity or complexity/relevance
+
 
 II. Queries and Results
 
