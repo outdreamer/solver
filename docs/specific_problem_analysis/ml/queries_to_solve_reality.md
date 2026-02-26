@@ -565,7 +565,7 @@ I. To do list
 
 	- identify relevant graphs like 'solution types/structures' with concentric layers of iterated differences related to interface variables like 'complexity' applied around each solution structure, to identify positions of difference layers where problems occur, or similarly 'layers of differences applied to problem structures to generate solution structures' or applying both options in the same graph
 
-	- identify relevant structures like 'filtering/specifying type sequences', like how types like relevant 'solution metrics' can filter types like relevant 'cases'
+	- identify relevant structures like 'filtering/specifying type sequences', like how types like relevant 'solution metrics' can filter types like relevant 'cases', and relevant graphs like how graph solutions as connectible by 'cause' to problems is useful, like how 'overly simple implementations of solutions' can cause problems if solutions have error structures like being 'sufficiently imbalanced in some direction of optimization'
 
 
 II. Queries and Results
