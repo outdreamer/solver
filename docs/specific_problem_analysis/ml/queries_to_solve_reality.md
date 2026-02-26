@@ -565,6 +565,8 @@ I. To do list
 
 	- identify relevant graphs like 'solution types/structures' with concentric layers of iterated differences related to interface variables like 'complexity' applied around each solution structure, to identify positions of difference layers where problems occur, or similarly 'layers of differences applied to problem structures to generate solution structures' or applying both options in the same graph
 
+	- identify relevant structures like 'filtering/specifying type sequences', like how types like relevant 'solution metrics' can filter types like relevant 'cases'
+
 
 II. Queries and Results
 
