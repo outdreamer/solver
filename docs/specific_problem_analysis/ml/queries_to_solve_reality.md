@@ -567,6 +567,8 @@ I. To do list
 
 	- identify relevant structures like 'filtering/specifying type sequences', like how types like relevant 'solution metrics' can filter types like relevant 'cases', and relevant graphs like how graph solutions as connectible by 'cause' to problems is useful, like how 'overly simple implementations of solutions' can cause problems if solutions have error structures like being 'sufficiently imbalanced in some direction of optimization'
 
+	- identify relevant queries like 'are requirements/solution metrics/other interface structures necessary to specify to a specific algorithm in order to identify optimal implementations with that algorithm, or are optimal implementations generally sufficiently variable that any algorithm would need requirements/solution metrics/other interface structures specified in order to identify optimal implementations, or is there a specific set of optimal implementations that can be derived by a subset of algorithms, as the intended implementation by the user, without these specifications submitted by the user, and does this apply to a subset of problems/optimization metrics, and what are variables of the subset of algorithms/problems/optimization metrics (variables like degree/structures of change possible for an algorithm to apply to inputs)'
+
 
 II. Queries and Results
 
