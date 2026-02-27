@@ -7,6 +7,7 @@ Metrics of good stories include:
 - identifying new possibilities, to identify new variables/types of freedom/mental spaces to explores
 - inspiring readers to think/learn/understand other stories/create their own stories
 - solving some problem optimally with an insight
+- innovates how stories are told, or how stories interact, or otherwise changes story structures
 
 
 ## Generating stories
@@ -20,6 +21,8 @@ How to generate a good new story:
 - make the story independent by not relying on other stories for inspiration and instead apply interface analysis to identify new structures/interactions
 - make the story inspirational like by 'identifying new variables' or 'making an insightful point specifically about creativity' so that other new stories can be trivially generated from the story
 - make the story brief/simple/otherwise processable so it can be understood/integrated/applied/evaluated/otherwise interacted with
+- make the story relevant to different interfaces, like by applying cross-interface structures like 'info structures', like by making sure that any 'exponential increase in maximal differences' in your story has a 'straight line through it' to start from when building 'understanding of the exponential'
+
 
 2. apply maximal differences
 - this is a component of relevance that is worth mentioning because of its connection to independence/uniqueness/other components of relevance
@@ -28,6 +31,8 @@ How to generate a good new story:
 - if you were to graph the interface structures of each story, a good story would have a very different structure of interface variable interactions compared to other stories
 - this means for example, if an existing story has a 'simple directed network between all story structures like story problems/requirements/limits', a good new story will have a 'multi-directional multi-connection type network between story structures'
 - so for example, identify a new universe type, a new variant of physics, a new type of machine, a new problem, and a new theory of how they optimally interact in order to make a good story
+- the variables of the story (starting point, end point, direction, insights, problems, referenced stories, relevance, components, structures, limits, requirements, world, other interface structures) should differ from other stories, ideally in multiple ways or by multiple variables
+
 
 3. make an interesting point/connection in the story
 - this is a component of relevance, but is important enough to mention on its own, that a good new story should make an interesting point about some problem, or otherwise include new insights like 'identifying new problem variables'
