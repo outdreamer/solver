@@ -569,6 +569,10 @@ I. To do list
 
 	- identify relevant queries like 'are requirements/solution metrics/other interface structures necessary to specify to a specific algorithm in order to identify optimal implementations with that algorithm, or are optimal implementations generally sufficiently variable that any algorithm would need requirements/solution metrics/other interface structures specified in order to identify optimal implementations, or is there a specific set of optimal implementations that can be derived by a subset of algorithms, as the intended implementation by the user, without these specifications submitted by the user, and does this apply to a subset of problems/optimization metrics, and what are variables of the subset of algorithms/problems/optimization metrics (variables like degree/structures of change possible for an algorithm to apply to inputs)'
 
+	- identify error variables indicating how a 'brain can lack a function' like how 'applying an incorrect "starting point/function/direction change", so a grid of solutions is never/rarely crossed' or how the 'solution structures on the grid points exceed the number of parameters in working memory' can create a 'lack of functionality like identifying/understanding solutions on the grid', like how a 'brain that is good at conceptual thinking can lack functions involving iterations of simple specific structures' bc concepts involve 'bigger steps and different starting points/functions/components/graphs and require less memory', in addition to simple error structures like 'a set of structures being indirectly/distantly connected rather than trivially connected', and identify all the 'combinations of structures of variables' that can create the 'range between minimum/maximum of required functions'
+
+	- identify optimal similarities/differences to apply in problem/solution graphs like how applying a 'requirement similarity' is less optimal than an 'abstract similarity' to 'identify relevant problems', bc 'requirements' are less specific to identity than other variables like 'type' (meaning 'similar inputs can generate different outputs')
+
 
 II. Queries and Results
 
