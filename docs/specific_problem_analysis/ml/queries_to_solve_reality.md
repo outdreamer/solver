@@ -573,6 +573,8 @@ I. To do list
 
 	- identify optimal similarities/differences to apply in problem/solution graphs like how applying a 'requirement similarity' is less optimal than an 'abstract similarity' to 'identify relevant problems', bc 'requirements' are less specific to identity than other variables like 'type' (meaning 'similar inputs can generate different outputs')
 
+	- identify graph structures like 'embeddings of combinations/structures of structural similarities between nodes/queries' that enable queries like 'identify probably relevant problem/solution structures in the graph' as a way of optimizing for 'probabilistic queries' given 'defined similarities', 'similarities between nodes/queries' like 'similar types/requirements/causes/inputs/outputs/interface structures of nodes/queries, similarities that emerge in the graph or which are partially/otherwise defined by the defined graph similarities' (and identify 'similarities that enable/compose/identify/implement other similarities' like how an 'input/output similarity enables a requirement/cause similarity'), as well as 'different graph organizations/generations' that enable 'including new/undefined nodes/functions in the graph' to otherwise convert new/undefined structures to defined structures in the graph, like 'identifying new generative variables that can generate all new/undefined nodes/functions trivially/completely/otherwise relevantly, as well as existing defined nodes/functions', and identify optimizations for other types of similarities than 'probably similar' like 'completely similar (across interfaces)' and 'stably similar' and other relevant types of similarity to 'identify relevant problem/solution structures in the graph'
+
 
 II. Queries and Results
 
