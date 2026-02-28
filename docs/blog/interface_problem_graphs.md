@@ -55,6 +55,6 @@ For example, identifying the identified solution for a problem in the specific p
 
 The abstraction of this is 'apply high-certainty problem-solving graphs', then 'apply low-certainty problem-solving graphs' as a backup if high-certainty solutions arent available, then 'apply high-certainty problem-causing graphs to identify solutions to prevent next problems', then 'apply high-certainty filters like "validity" filters of solutions'.
 
-Other variants of this graph sequence involve applying other workflows/variables.
+Other variants of this graph sequence involve applying other workflows/variables than 'identify variable-certainty solutions to a problem and related/caused problems, and integrate variable-certainty and related-problem solutions'.
 
 Once useful sequences/combinations/structures of graphs are identified, its useful to identify the graph of these structures of graphs that optimizes for these 'useful sequences/combinations/structures of graphs'.

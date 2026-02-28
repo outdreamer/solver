@@ -577,6 +577,8 @@ I. To do list
 
 	- identify relevant graph integrations like how the 'creativity spiral graph' can apply 'different subsets/angles/queries of the concept definition network of relevance' at each different step between new relevant structures, or the 'optimal points on an intersecting spectrum graph' or the 'concept definition network of relevance' or 'maximally different combinations/structures of cross-interface structures like concept-structure-function' or 'combinations/integrations/structures of these graphs' can determine the intersections on the 'creativity spiral graph'
 
+	- identify relevant workflows like 'increasing certainty workflows' like workflows that 'apply probability/requirement/cause/definitions/constants' in a way that successively increases the certainty of the solution like by 'generating certainty, with combinations of certainty components or certainty-increasing sequences', vs lower certainty workflows that indirectly/probably identify solutions like by applying 'derive solutions indirectly like with definitions' or high variability workflows like 'change other solutions of the same solution type to generate solutions' instead of high certainty workflows like 'identify solutions', and identify the workflow variables like 'high variability' or 'increasing certainty' that can be applied as alternates to 'high certainty' workflows
+
 
 II. Queries and Results
 
