@@ -45,8 +45,14 @@ This calls for a graph connecting problem types or problems by causality and opp
 This calls for a graph connecting solutions into a merged/integrated solution, given the possible interactions of the solutions, which is useful for queries like 'identify the valid integration of input solutions (valid as in with no identified contradictions/other errors in the integrated solution, given the solution metrics of each integrated solution)'.
 
 
-## Combinations/sequences of graphs
+## Combinations/sequences/structures of graphs
 
 It's useful to apply some graphs in a combination/sequence/other structure.
 
 For example, identifying the identified solution for a problem in the specific problem/solution graph, then identifying possible new solution paths in the 'probably similar problem/solution graph' in case the identified solution doesnt work, then identifying caused problems and solutions to prevent caused problems by the problem dependency graph, then integrating identified solution, possible new solutions, and solutions to caused problems in the solution integration graph to identify a solution that solves the problem and caused problems and doesnt have any contradictions/other invalidities - is a useful graph sequence to apply.
+
+The abstraction of this is 'apply high-certainty problem-solving graphs', then 'apply low-certainty problem-solving graphs' as a backup if high-certainty solutions arent available, then 'apply high-certainty problem-causing graphs to identify solutions to prevent next problems', then 'apply high-certainty filters like "validity" filters of solutions'.
+
+Other variants of this graph sequence involve applying other workflows/variables.
+
+Once useful sequences/combinations/structures of graphs are identified, its useful to identify the graph of these structures of graphs that optimizes for these 'useful sequences/combinations/structures of graphs'.
