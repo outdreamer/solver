@@ -4,7 +4,7 @@ Interface graphs of a graph, like the 'limit graph' of a graph, are useful to id
 
 Interface problem/solution graphs are useful graph variants of a problem/solution connection graph which are useful to apply in a 'combination/sequence/other structure'.
 
-Different problem/solution graphs are useful, based on interface variables like 'certainty' and related variables like 'specificity', 'probability', 'dependency', 'integration/interactivity', and 'validity'.
+Different problem/solution graphs are useful, based on interface variables like 'certainty' and related variables like 'specificity', 'probability', 'dependency', 'integration/interactivity', 'causality', and 'validity'.
 
 
 ## Low certainty problem/solution graphs for unsolved problems with unidentified/new solutions
@@ -36,6 +36,13 @@ This calls for a graph connecting 'opposing/following sections in documents' as 
 ### Identify the next problems caused by a known problem and solutions to prevent the next problems
 
 This calls for a graph connecting problem types or problems by causality and opposing solutions of caused problems, which is useful for queries like 'identify problems caused by this problem' and 'identify solutions to prevent problems caused by this problem'.
+
+
+## Identifying optimal solutions
+
+### Identify the solutions that don't cause other problems.
+
+This calls for a directed graph connecting problem/solution nodes by causality, which is useful for queries like 'identify solution nodes with no problem nodes connected by a "cause" edge'.
 
 
 ## Integrating problems/solutions
