@@ -21,8 +21,8 @@ How to generate a good new story:
 - make the story independent by not relying on other stories for inspiration and instead apply interface analysis to identify new structures/interactions
 - make the story inspirational like by 'identifying new variables' or 'making an insightful point specifically about creativity' so that other new stories can be trivially generated from the story
 - make the story brief/simple/otherwise processable so it can be understood/integrated/applied/evaluated/otherwise interacted with
-- make the story relevant to different interfaces, like by applying cross-interface structures like 'info structures', like by making sure that any 'exponential increase in maximal differences' in your story has a 'straight line through it' to start from when building 'understanding of the exponential'
-
+- make the story relevant to different interfaces, like by applying cross-interface structures like 'info structures', like by making sure that any 'exponential increase in maximal differences' in your story applies a 'simple/connecting straight line through it' to start from when building 'understanding of the exponential' and the next story applies/identifies 'components of exponential increases in differences' and 'different structures related to exponential increases, like spirals of differences'.
+- applying a question like 'whats the worst thing that could happen and whats the best way to solve it' applies one interface structure (a 'problem/solution connection') for example, so applying other interface structures is useful to create a good story, like for example also applying questions like 'how does this solution change reality/other problems/problem-solving methods/other interface structures' and 'what is the best graph of the problem/solution'
 
 2. apply maximal differences
 - this is a component of relevance that is worth mentioning because of its connection to independence/uniqueness/other components of relevance
