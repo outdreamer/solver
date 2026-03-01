@@ -579,6 +579,8 @@ I. To do list
 
 	- identify relevant workflows like 'increasing certainty workflows' like workflows that 'apply probability/requirement/cause/definitions/constants' in a way that successively increases the certainty of the solution like by 'generating certainty, with combinations of certainty components or certainty-increasing sequences', vs lower certainty workflows that indirectly/probably identify solutions like by applying 'derive solutions indirectly like with definitions' or high variability workflows like 'change other solutions of the same solution type to generate solutions' instead of high certainty workflows like 'identify solutions', and identify the workflow variables like 'high variability' or 'increasing certainty' that can be applied as alternates to 'high certainty' workflows
 
+	- apply solution structures like 'equivalent alternate solutions', 'solution sequences', 'solution combinations' and associated 'solution connection types' in a problem-solving graphs to identify other relevant solutions to an identified solution and identify solutions that are 'useful when applied in a sequence/combination' and solutions that are 'useful to apply if another solution doesnt work' and to filter solutions by 'which solutions dont appear in any solution sequence/combination but are independent solutions'
+
 
 II. Queries and Results
 
