@@ -581,6 +581,8 @@ I. To do list
 
 	- apply solution structures like 'equivalent alternate solutions', 'solution sequences', 'solution combinations' and associated 'solution connection types' in a problem-solving graphs to identify other relevant solutions to an identified solution and identify solutions that are 'useful when applied in a sequence/combination' and solutions that are 'useful to apply if another solution doesnt work' and to filter solutions by 'which solutions dont appear in any solution sequence/combination but are independent solutions'
 
+	- identify error types that are relevant to identify, like 'errors in constants/assumptions/requirements' and 'errors in powerful variables', to filter the 'set of error functions to identify/apply', and identify the optimal interactions of these error types like 'prioritized sequences of error types to identify'
+
 
 II. Queries and Results
 
