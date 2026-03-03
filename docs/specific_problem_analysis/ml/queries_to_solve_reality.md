@@ -581,7 +581,9 @@ I. To do list
 
 	- apply solution structures like 'equivalent alternate solutions', 'solution sequences', 'solution combinations' and associated 'solution connection types' in a problem-solving graphs to identify other relevant solutions to an identified solution and identify solutions that are 'useful when applied in a sequence/combination' and solutions that are 'useful to apply if another solution doesnt work' and to filter solutions by 'which solutions dont appear in any solution sequence/combination but are independent solutions'
 
-	- identify error types that are relevant to identify, like 'errors in constants/assumptions/requirements' and 'errors in powerful variables', to filter the 'set of error functions to identify/apply', and identify the optimal interactions of these error types like 'prioritized sequences of error types to identify'
+	- identify error types that are relevant to identify, like 'errors in constants/assumptions/requirements' and 'errors in powerful variables', to filter the 'set of error functions to identify/apply' by whether the error functions identify constant/powerful/relevant errors, and identify the optimal interactions of these error types like 'prioritized sequences of error types to identify'
+
+	- identify relevant graphs like 'generating error sequences/combinations/structures' and grouping 'error sequences/combinations/structures' by common solutions and identify causes of 'common solutions across problems' like 'similar problem type/cause/structure' and 'being on the same causal sequence as other problems with the same solution', and identify relevant graphs like graphs to 'identify problems by whether they are succeeded by multiple attempted solutions followed by the solution that worked, and identify problems by whether they are different from solutions in multiple ways like being distantly/indirectly connected to solutions, indicating why its a problem, as problems are usually not trivial to solve which is why theyre problems'
 
 
 II. Queries and Results
