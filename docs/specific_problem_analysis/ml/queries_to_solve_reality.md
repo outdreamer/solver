@@ -585,6 +585,8 @@ I. To do list
 
 	- identify relevant graphs like 'graphs generating error sequences/combinations/structures, and grouping error sequences/combinations/structures by common solutions' and "graphs to identify causes of 'common solutions across problems' like 'similar problem type/cause/structure' and 'being on the same causal sequence as other problems with the same solution'", and 'graphs of all optimal points/connections/structures' which can be applied as 'components/structures of optimal graphs', and graphs to 'identify problems by whether theyre structurally/otherwise similar to structures of general error variables like volatility/complexity', and 'identify problems by whether they are succeeded by multiple attempted solutions followed by the solution that worked', and 'identify problems by whether they are different from solutions in multiple ways like being distantly/indirectly connected to solutions, indicating why its a problem, as problems are usually not trivial to solve which is why theyre problems'
 
+	- identify errors of neural networks by identifying rules like 'identify the graph of a similarity applied in a neural network, and identify what is not connected trivially/optimally in that graph as a possible error of that similarity applied in a neural network' and identifying opposing rules of each rule like 'identify when similarities dont connect a set of structures trivially, but when the similarity can still identify/generate connections between those structures'
+
 
 II. Queries and Results
 

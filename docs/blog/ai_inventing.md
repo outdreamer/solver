@@ -9,7 +9,7 @@ In general, the intent is to 'apply interface structures to generate a network t
 
 ## Applying structures to invent AI
 
-Math structures can be applied to connect to neural network structures, as indicated in https://github.com/outdreamer/solver/blob/master/docs/blog/math_and_ai.md .
+Math structures can be applied to connect to neural network structures, as indicated in https://github.com/outdreamer/solver/blob/master/docs/blog/math_and_ai.md.
 
 
 ## Applying interfaces to invent AI
@@ -19,22 +19,34 @@ Interface structures like 'interfaces' can be classified as 'specific/info/math 
 Identifying the 'interfaces' in a problem space 'identifies the most important variables', so a network that 'identifies interfaces and identifies their interactions' is a network that implements 'interfaces' to solve problems.
 
 
+## Applying variables to invent AI
+
+Variables can be applied to invent AI, like by applying 'optimal interactions between variables' as a 'optimal structure to change data set variables into' in a neural network.
+
+
 ## Applying functions to invent AI
 
 Functions are useful to invent AI, as a core structure of neural networks, which can be generally described as 'networks of functions'.
 
 Core functions like 'filter/reduce/generate/connect/change/apply/implement/organize/optimize/integrate/specify/identify/sensitize/stabilize' (which are connected to core interface variables) can be used to generate relevant neural networks, like a 'network of functions to filter/reduce errors' or a 'network of functions to connect solution types'.
 
+Functions can be applied to generate 'different error/cost functions', which is another application of functions to invent AI.
+
 
 ## Applying relevant graphs to invent AI
 
-Relevant graphs can be applied to invent AI, like by 'identifying new relevant graphs which can be represented in a neural network'.
+Relevant graphs can be applied to invent AI, like by 'identifying new relevant graphs which can be represented in a neural network' or by 'applying the definition network of relevance to connect variables'.
 
 
 ## Applying workflows to invent AI
 
 Applying the 'abstract/specific spectrum' by starting from concepts and navigating to structure, or starting from structure and navigating to concepts, is one workflow to invent AI.
 
-Other workflows also apply rules from the 'system of optimal interactions between interface variables', like 'oppose an error of extremity', like by 'opposing an error of over-abstraction or over-specification' by applying a function to identify/oppose these errors in a neural network that applies a concept/structure. 
+Other workflows also apply rules from the 'system of optimal interactions between interface variables', like 'oppose an error of extremity', like by 'opposing an error of over-abstraction or over-specification' by applying a function to identify/oppose these errors in a neural network that applies a concept/structure. This is similar to a workflow like 'applying known optimals as constants, and applying a degree of variation to oppose those constants, to identify when the constants are incorrect'.
 
 In general, 'workflows that solve problems' are ways to 'generate networks that solve problems'.
+
+
+## Applying structures of interface structures to invent AI
+
+Applying structures like 'combinations/sequences/integrations' of interface structures like 'relevant graphs' like the 'definition network of relevance' and the 'graph of system optimization rules' is another way to invent AI. Interactions between relevant graphs are especially useful at identifying new neural network structures.
