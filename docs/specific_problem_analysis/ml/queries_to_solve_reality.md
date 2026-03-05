@@ -587,6 +587,8 @@ I. To do list
 
 	- identify errors of neural networks by identifying rules like 'identify the graph of a similarity applied in a neural network, and identify what is not connected trivially/optimally in that graph as a possible error of that similarity applied in a neural network' and identifying opposing rules of each rule like 'identify when similarities dont connect a set of structures trivially, but when the similarity can still identify/generate connections between those structures'
 
+	- identify the optimal interactions/implementations/structures of concept types like 'prioritized concepts' or 'conceptual optimization metrics' and identify 'optimizations of concept type structures' like 'optimal priority sequences/combinations across multiple intents/problems' and identify the 'structures of concept type structures' like 'sequences of combinations of priorities' that are useful for reflecting realistic system metrics like 'realistic complexity'
+
 
 II. Queries and Results
 
