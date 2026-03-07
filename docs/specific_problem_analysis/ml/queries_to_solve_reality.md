@@ -589,6 +589,8 @@ I. To do list
 
 	- identify the optimal interactions/implementations/structures of concept types like 'prioritized concepts' or 'conceptual optimization metrics' and identify 'optimizations of concept type structures' like 'optimal priority sequences/combinations across multiple intents/problems' and identify the 'structures of concept type structures' like 'sequences of combinations of priorities' that are useful for reflecting realistic system metrics like 'realistic complexity'
 
+	- identify the graphs of relevant types of errors like 'specific errors' of a structure like how the 'define' function has an 'over-simple implementation graph' and an 'over-complex implementation graph' which are standard general error type graphs, but also has specific error type graphs related to the errors specific to 'definition' like 'identifying the right conceptual level to define', and identify the graph of these error types that is different for each function/structure like 'define/implement/organize/optimize'
+
 
 II. Queries and Results
 
