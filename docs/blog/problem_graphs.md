@@ -28,3 +28,13 @@ Problem-solving graphs that make some solution structure 'trivial/otherwise rele
 Graphs of problem interactions like 'causal sequences of opposing problems, where the solution to one pair of opposing problems causes the next pair of opposing problems' or 'problems where similarities between problems are identifiable, like how problems of extremity can be graphed around a center and the solution is the central point', are examples of explicit problem graphs that make 'problems or solutions trivial/otherwise relevant to identify'.
 
 Graphing a problem as an embedded graph structure like a 'difference to be connected' like a 'different/distant set of nodes to be connected' is a way to embed problems/solutions implicitly in a graph without applying explicit/defined problem/solution structures, in a way that makes solutions 'trivial/otherwise relevant to identify'.
+
+
+## Problems of problem graphs
+
+Problems with generating problem graphs include:
+- identifying the 'level of abstraction/other interface structures' where a 'problem can be/should optimally be defined/identified, in order to make identifying solutions trivial/otherwise relevant'
+- identifying the problems that cant be solved with the same graph without impacting relevance to the original problem solved by the graph
+- identifying the optimization potential and other iterated interface structures of a graph
+- identifying the optimal problem graphs and optimal structures of problem graphs to generate, like 'maximally different problem graphs' or 'causal problem graphs' and 'sequences of causal problem graphs' and 'alternating problem/solution graphs to solve problems caused by previous solution graphs'
+- identifying the related solution graph of a problem graph, like identifying the 'set of optimal queries on a problem graph' as a 'solution graph'
