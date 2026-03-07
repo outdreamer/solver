@@ -18,6 +18,7 @@ Relevant graphs have types like:
 
 A relevant graph is limited by:
 - 'available computation/identification/evaluation potential' like by 'what other relevant graphs can identify/evaluate/generate regarding the relevant graph'
+- a relevant graph is limited in the sense of being static/constant when queries are being run on it, but otherwise it can be optimized by updating it to implement system optimization rules like 'update a system with new information'
 
 
 ## Integrations of relevant graphs

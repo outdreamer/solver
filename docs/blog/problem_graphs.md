@@ -1,6 +1,6 @@
 # Problem Graphs
 
-Problems can be graphed in many ways.
+Problems can be graphed in many ways, like explicitly/implicitly, as referenced in https://github.com/outdreamer/solver/blob/master/docs/blog/solution_error_graphs.md, or specifically/generally, or by applying other interface spectrums.
 
 
 ## Graphs of problems/solutions as explicit structures
@@ -19,6 +19,8 @@ Graphs of adjacent/otherwise relevant structures to problems like 'intents/requi
 Graphs of relevant structures (important/useful/required/otherwise relevant structures) are related to problems by default.
 
 Graphs where problems are applied in an implementation spectrum and not embedded directly in a graph, like where problems are 'generative variables of a graph' rather than 'components of a graph', are another type of implicit problem graph.
+
+Graphs of problem structures like 'missing/inequal info' can be explicit or implicit problem graphs depending on how the 'missing info' is represented in the graph, like as a node or as a graph implementation structure, as referenced in https://github.com/outdreamer/solver/blob/master/docs/blog/error_graph_structures.md.
 
 
 ## Graphs that solve problems
