@@ -1,6 +1,6 @@
 # Problem Graphs
 
-Problems can be graphed in many ways, like explicitly/implicitly, as referenced in https://github.com/outdreamer/solver/blob/master/docs/blog/solution_error_graphs.md, or specifically/generally, or by applying other interface spectrums.
+Problems can be graphed in many ways, like explicitly/implicitly, as referenced in https://github.com/outdreamer/solver/blob/master/docs/blog/solution_error_graphs.md, or specifically/generally or certainly/uncertainly or simply/complexly, or by applying other interface spectrums.
 
 
 ## Graphs of problems/solutions as explicit structures
@@ -20,7 +20,10 @@ Graphs of relevant structures (important/useful/required/otherwise relevant stru
 
 Graphs where problems are applied in an implementation spectrum and not embedded directly in a graph, like where problems are 'generative variables of a graph' rather than 'components of a graph', are another type of implicit problem graph.
 
-Graphs of problem structures like 'missing/inequal info' can be explicit or implicit problem graphs depending on how the 'missing info' is represented in the graph, like as a node or as a graph implementation structure, as referenced in https://github.com/outdreamer/solver/blob/master/docs/blog/error_graph_structures.md.
+Graphs of problem structures like 'missing/inequal info' can be explicit or implicit problem graphs depending on how the 'missing info' is represented in the graph, like as a node or as a graph implementation structure, as referenced in https://github.com/outdreamer/solver/blob/master/docs/blog/error_graph_structures.md, like the 'missing info' can be an implementation structure like 'missing generative variables of a graph' or it can be a 'problem type node' in a graph.
+
+Problems with a graph can include any suboptimally implemented graph intent, like:
+- a graph that generates opposing/contradictory conclusions from different positions/queries/data/structures, which violates the graph intent of 'identifying stable/consistent info', where the 'opposing conclusions' arent valid points as in 'different ways that a conclusion can be correct' but rather implements a case where one conclusion is correct and the other is incorrect, which is an embedded 'inequality' problem type.
 
 
 ## Graphs that solve problems
@@ -34,7 +37,7 @@ Graphing a problem as an embedded graph structure like a 'difference to be conne
 
 ## Problems of problem graphs
 
-Problems with generating problem graphs include:
+Problems with identifying/generating problem graphs include:
 - identifying the 'level of abstraction/other interface structures' where a 'problem can be/should optimally be defined/identified, in order to make identifying solutions trivial/otherwise relevant'
 - identifying the problems that cant be solved with the same graph without impacting relevance to the original problem solved by the graph
 - identifying the optimization potential and other iterated interface structures of a graph
