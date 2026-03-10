@@ -597,7 +597,7 @@ I. To do list
 
 	- identify relevant structures of a system like 'relevant/recent/prioritized/common problem types' and 'most organized/surprising/relevant connections/alignments (like when a generative variable graph is a priority graph of a problem type graph)' and 'problems of problems (like limits of problems, and dependencies of problems like causal problems of problems)' and 'maximally different abstract connections (like connection types of problem/solution types)' and 'component similarities of connections between relevant problems, in different problem formats (like code/docs/logs/usage data)', which, applied as a combination, 'approximate/cover the angles of variation' of the system, and identify alternate combinations which are trivial/relevant to identify
 
-	- identify useful structures like 'structures that make a relevant graph possible' like 'specifications of an abstraction' which are components of relevant graphs like 'spectrums (abstractions surrounded by specifications)'
+	- identify useful structures like 'structures that make a relevant graph directly possible' like 'specifications of an abstraction' which are components of relevant graphs like 'spectrums (abstractions surrounded by specifications)', and 'structures that make a relevant graph indirectly possible' like 'graphing nodes by a similarity like commonness'
 
 
 II. Queries and Results
