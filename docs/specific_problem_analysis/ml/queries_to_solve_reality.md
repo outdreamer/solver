@@ -595,6 +595,8 @@ I. To do list
 
 	- identify problems with graphs like 'the opposite conclusion being reached from different positions in a graph' like 'there are no problems in a graph' being concluded from a 'position surrounded by no problem nodes, with an adjacency query' and problems that can be identified/generated from structures like 'conclusions/positions/queries/interface structures of a graph' and solutions to avoid problems like these, such as 'ensuring distribution of node types'
 
+	- identify relevant structures of a system like 'relevant/recent/prioritized/common problem types' and 'most organized/surprising/relevant connections/alignments (like when a generative variable graph is a priority graph of a problem type graph)' and 'problems of problems (like limits of problems, and dependencies of problems like causal problems of problems)' and 'maximally different abstract connections (like connection types of problem/solution types)' and 'component similarities of connections between relevant problems, in different problem formats (like code/docs/logs/usage data)', which, applied as a combination, 'approximate/cover the variation' of the system, and identify alternate combinations which are trivial/relevant to identify
+
 
 II. Queries and Results
 
