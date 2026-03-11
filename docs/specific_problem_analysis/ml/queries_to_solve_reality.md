@@ -599,6 +599,8 @@ I. To do list
 
 	- identify useful structures like 'structures that make a relevant graph directly possible' like 'specifications of an abstraction' which are components of relevant graphs like 'spectrums (abstractions surrounded by specifications)', and 'structures that make a relevant graph indirectly possible' like 'graphing nodes by a similarity like commonness'
 
+	- identify relevant structures like 'ratios like n % that represent a known ratio of problems/solutions (like half) of a distribution' as relevant to solving the problem of 'identifying the threshold ratio to apply to differentiate problems/solutions' (as in 'identify the ratio that differentiates an upper/lower half of the distribution, given that there are two categories which should be equally distributed')
+
 
 II. Queries and Results
 
