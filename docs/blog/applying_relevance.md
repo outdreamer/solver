@@ -11,5 +11,7 @@ Then it's useful to identify structures that could 'invalidate the requirement' 
 - identify whether the requirement is really required, or just falsely seems to be and there are actually alternatives
 - identify whether the requirement should be required
 - identify whether the requirement is required on every relevant graph or just a subset of relevant graphs, which would make it a 'more required' requirement if it was 'required on more relevant graphs'
+- identify whether the 'intent fulfilled by the requirement' or the 'case causing the intent to be relevant' or 'other inputs of the requirement' are required
+- identify variables of the requirement, like whether its 'generally or specifically' or 'explicitly or implicitly' required
 
 These structures could 'change the relevance of' the requirement, so they are relevant to the requirement.
