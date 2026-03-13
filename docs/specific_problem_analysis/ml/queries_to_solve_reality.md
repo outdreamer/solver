@@ -609,6 +609,8 @@ I. To do list
 
 	- identify relevant spectrums like 'missing' and 'iteration' and 'solution' spectrums to identify 'missing problems (which can be solutions)' and 'missing problems of problems (which can be solutions)' as relevant on the 'missing/iteration/solution spectrum', where 'missing solutions' would be a 'problem structure' as opposed to a 'solution structure' so it wouldnt be on the 'missing/iteration/solution spectrum'
 
+	- identify relevant system optimization intents like 'minimizing constants/requirements/limits' that apply in most cases or apply generally or otherwise apply relevantly
+
 
 II. Queries and Results
 
