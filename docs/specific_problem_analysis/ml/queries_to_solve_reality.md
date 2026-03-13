@@ -607,6 +607,8 @@ I. To do list
 		- similarly its useful to "identify 'similarity stacks' of variables that are useful to combine/stack/integrate, and which dont change the 'interactivity/relevance/meaning of a graph (like its embedding)'" like 'generalize/organize' (and useful to identify difference stacks which change the meaning of a graph, like 'integrate/optimize') and 'apply these similarity stacks to graphs and intents and concepts to vary these structures maximally relevantly, etc for other prioritized interfaces'
 		- relatedly, 'optimizing a graph' is equivalent to 'integrating a graph of optimization structures like "optimization metrics" or "optimization metric implementation structures" in another graph'
 
+	- identify relevant spectrums like 'missing' and 'iteration' and 'solution' spectrums to identify 'missing problems (which can be solutions)' and 'missing problems of problems (which can be solutions)' as relevant on the 'missing/iteration/solution spectrum', where 'missing solutions' would be a 'problem structure' as opposed to a 'solution structure' so it wouldnt be on the 'missing/iteration/solution spectrum'
+
 
 II. Queries and Results
 
