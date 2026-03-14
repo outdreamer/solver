@@ -611,6 +611,13 @@ I. To do list
 
 	- identify relevant system optimization intents like 'minimizing constants/requirements/limits' that apply in most cases or apply generally or otherwise apply relevantly
 
+	- identify relevant system structures like 'common vectors across systems' to learn as a 'core vector set in a neural network' and identify algorithms to integrate/apply/combine these core vectors into other change types in complex systems to identify a neural network that can learn any system of variable interactions, like by abstracting different systems into system types and identifying common vectors in system types, or similarly apply the core structure of interfaces as a template to identify possible variable interactions (like an interaction like a 'base interface variable' and an 'embedded variable on the base interface variable') or apply the system of optimal variable interactions by optimizing a variable interaction until it fits in the system of optimal variable interactions
+
+	- identify related functions of learning like 'optimize', such as if a 'metric can be optimized for', it can be considered 'learned', and similarly, if a variable can be 'structured/organized', it can be 'learned', which enables generating learning algorithms based on these related/proxy functions of 'learn' like 'organize/structure/optimize'
+		- relatedly, if it can be optimized, its a problem, which means the function 'optimize' is a way to identify problems, as opposed to solutions, which are already optimized structures
+
+	- identify difference types that oppose each other like how differences of 'iteration/abstraction' are 'connections between similar variables' which are opposed by 'integrations between different variables' like 'cross-interface structures' and identify different connections between these difference types like 'opposing differences' and identify their optimal connections
+
 
 II. Queries and Results
 
