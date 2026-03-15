@@ -618,6 +618,8 @@ I. To do list
 
 	- identify difference types that oppose each other like how differences of 'iteration/abstraction' are 'connections between similar variables' which are opposed by 'integrations between different variables' like 'cross-interface structures' and identify different connections between these difference types like 'opposing differences' and identify their optimal connections
 
+	- identify specific values associated with problem-solving structures like the 'number/ratio/range/priority of types required to solve any/every problem' and generate a 'graph to identify constants trivially', then a 'graph to vary the remaining variables which dont have specific value associations'
+
 
 II. Queries and Results
 
