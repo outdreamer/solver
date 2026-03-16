@@ -620,6 +620,8 @@ I. To do list
 
 	- identify specific values associated with problem-solving structures like the 'number/ratio/range/priority of types required to solve any/every problem' and generate a 'graph to identify constants trivially', then a 'graph to vary the remaining variables which dont have specific value associations'
 
+	- identify 'component/limit/structure similarities' in a graph that are 'composable/combinable/otherwise connectible' into 'multiple/otherwise relevant similarities' like 'solution and problem similarities'
+
 
 II. Queries and Results
 
