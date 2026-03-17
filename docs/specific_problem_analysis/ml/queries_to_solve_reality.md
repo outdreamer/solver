@@ -622,6 +622,8 @@ I. To do list
 
 	- identify 'component/limit/structure similarities' in a graph that are 'composable/combinable/otherwise connectible' into 'multiple/otherwise relevant similarities' like 'solution and problem similarities'
 
+	- identify graphs that implement optimization metrics like 'stability' like the 'priority graph that other priority graphs tend to stabilize to' (like how 'over-prioritization leads to opposing priorities')
+
 
 II. Queries and Results
 
