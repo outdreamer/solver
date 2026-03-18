@@ -624,6 +624,8 @@ I. To do list
 
 	- identify graphs that implement optimization metrics like 'stability' like the 'priority graph that other priority graphs tend to stabilize to' (like how 'over-prioritization leads to opposing priorities')
 
+	- identify optimization metrics like 'composability' to identify/generate complex network interactions like 'similarity/composability of function types' as 'overlapping/composable grids of function types (like core functions like "apply multiple" and graph functions like "apply the priority graph")'
+	
 
 II. Queries and Results
 
