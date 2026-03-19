@@ -626,9 +626,11 @@ I. To do list
 
 	- identify optimization metrics like 'composability' to identify/generate complex network interactions like 'similarity/composability of function types' as 'overlapping/composable grids of function types (like core functions like "apply multiple" and graph functions like "apply the priority graph")'
 
-	- identify alternates to 'unique priority combinations/structures' like 'common priority sequences, given prioritization problems' that are useful to apply as a structure for graphs to relate to, to organize graphs
+	- identify alternates to 'unique priority (optimization metric) combinations/structures' like 'common priority sequences, given prioritization problems' that are useful to apply as a structure for graphs to relate to, to organize graphs
 
 	- identify relevant graph variables like 'whether its useful to vary a graph, bc the graph is non-trivial to stabilize' 
+
+	- identify prioritized sets/sequences of interfaces to apply when generating relevant queries, like how applying interfaces like 'time/variants of the original query/components related to the original query' and core similarity/difference structures like 'differences in a similarity' and 'similarities in a similarity' are useful to apply first to 'identify simple/obvious/trivially identified errors' to generate relevant queries like 'identify if there is a similarity in components/time/variants of the error' by identifying if 'different errors occurred at a similar time' and 'different applications had similar errors' and 'a similar component had similar errors' and 'the same host system had errors at the same time as the application', and identify a 'maximum of complexity' to identify the 'range of complexity to identify', to check for maximally different errors to 'simple' errors, and otherwise vary the errors checked for with other interface variables than 'complexity' on different axes like 'axes of probability' like 'commonness/simplicity of interfaces which are more probable to be relevant' and 'axes of iteration' like 'limits of similarities in differences'
 
 
 II. Queries and Results
