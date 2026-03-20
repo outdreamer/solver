@@ -34,6 +34,14 @@ Graphs of problem interactions like 'causal sequences of opposing problems, wher
 
 Graphing a problem as an embedded graph structure like a 'difference to be connected' like a 'different/distant set of nodes to be connected' is a way to embed problems/solutions implicitly in a graph without applying explicit/defined problem/solution structures, in a way that makes solutions 'trivial/otherwise relevant to identify'.
 
+Other graphs include graphing a problem as:
+- a limit to apply to a system/variable/solution structure
+- a barrier to work around
+- an abstract requirement to fulfill with solution/implementation/specification functions
+- a difference from solution variables like relevance/generality/reusability/accuracy (or a similarity to problem variables like instability)
+- a problem interface structures to oppose, such as incorrect generalities/problem types to specify, incorrect specifications to generalize, incorrect complexities to simplify, etc
+- a generated structure from problem components/causes/inputs/variables/descriptions/types
+
 
 ## Problems of problem graphs
 
