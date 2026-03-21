@@ -642,6 +642,8 @@ I. To do list
 
 	- identify matches of workflows (like 'trial and error') with optimizations (like 'parallel processing' and 'identifying overlapping components/requirements between intents to avoid parallel processing') to identify 'workflows given optimizations' like 'apply trial and error/parallel processing when there are no "overlapping components/other similarities or maximal differences between possibilities that make possibilities trivial to filter", as in when possibilities are between "maximally different" and "maximally similar" so its non-trivial to predict which possibility will be correct'
 
+	- identify relevant variables like 'intents where "any implementation" of the intent is useful in some way' like where 'very abstract/simple intents' benefit from specifications/implementations in general
+
 
 II. Queries and Results
 
