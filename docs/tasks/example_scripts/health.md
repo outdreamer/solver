@@ -256,7 +256,7 @@
 				- ginkgo and trazadone
 				- ginseng and MAOIs
 				- levothyroxine and calcium/magnesium/iron
-				- diabetes mecicines and berberine/st. john's wort/coq10/cinnamon/aloe
+				- diabetes medicines and berberine/st. john's wort/coq10/cinnamon/aloe
 				- blood pressure medicines and synergistic substances like coq10/grapefruit/ginseng/licorice root/st. john's wort
 				- antidepressants and st. john's wort or 5-htp or SAM-e or ashwagandha or ginseng or maca
 				- antibiotics and iron/calcium/magnesium/manganese/zinc
@@ -652,7 +652,7 @@
 					- excess supplements: avoiding excess hydrocortisone/light at night/niacin/melatonin/other medicines that can cause hyperglycemia should help
 					- excess liver glucose production: apple cider vinegar should help, losing weight should help with fatty liver which can increase glucose production
 					- insulin transport: arginine should help
-					- insulin resistance: keto diet should help
+					- insulin resistance: keto diet should help, ginseng helps increase insulin sensitivity
 					- lower blood sugar by blocking the activity of the enzyme alpha-glucosidase, which breaks down carbs in the small intestine: lion’s mane
 					- not enough insulin: bitter melon should help
 					- not enough β‐cells: turmeric, ginger, hibiscus, caloric restriction should help

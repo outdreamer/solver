@@ -646,6 +646,8 @@ I. To do list
 
 	- identify useful structures like 'sequences of interfaces to solve' like how solving the 'cause' interface (by 'identifying all the causes of variation') enables 'identifying the most optimal possible structures that can be caused and how to cause them' and solving the 'concept' interface (by 'identifying all the required definitions to explain all variation') enables 'identifying the most optimal possible structures that are allowed by definitions' and solving the 'logic' interface (by 'identifying all definitions/equivalences/requirements/dependencies') enables 'identifying the most optimal possible structures allowed by logic', and identifying the most optimal interfaces to solve first or in a sequence/combination involves optimization structures like 'whether there is an interface that is more complete than the others, like the concept interface, which its useful to complete first'
 
+	- identify relevant graph variables like 'integrating relevant interfaces, like usable/interactive interfaces (like interfaces involving actionable/feasible/practical solutions), in graphs, as a graph requirement/optimization'
+
 
 II. Queries and Results
 
