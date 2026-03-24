@@ -658,6 +658,8 @@ I. To do list
 		- identify limits/maximums of sequences that can be applied in a graph, like the 'maximum number of surrounding iterations' that can be applied in a graph to connect interface structures 'without decreasing the relevance of the graph' like by 'iterating to a degree that makes all iterations arrive at the same structure rather than maximally different structures, or which makes the graph increase in complexity to a point that queries on it arent useful'
 		- identify other useful filter sequences like 'alternating many-to-one and one-to-one filters' which are useful for 'handling high degrees of variation, without increasing in complexity' and other sequences that apply similar optimization structures
 
+	- identify queries like 'what does every structure converge to, at some point or regularly enough to be relevant' (a 'variant of relevance' compared to uniqueness, commonness, stability, standardization, and optimization) that are useful to 'identify whether a relevant structure "exists, or can be interacted with, or is identifiable, or is otherwise relevant"'
+
 
 II. Queries and Results
 
