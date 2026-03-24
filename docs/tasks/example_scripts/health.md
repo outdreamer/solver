@@ -3,7 +3,7 @@
 		- some of these substances kill pathogens, some inhibit/suppress pathogen activity indirectly/directly, some boost the immune system, and some help only with specific symptoms rather than the causal pathogen
 
 		- fungal infections:
-			- keto diet, holy basil, sitosterol, kombucha/kefir/probiotics/lactic acid bacteria, beets, coconut (dont take sitosterol if you have cancer, it suppresses a tumor suppressor IL-25), capsaicin
+			- carrots, keto diet, holy basil, sitosterol, kombucha/kefir/probiotics/lactic acid bacteria, beets, coconut (dont take sitosterol if you have cancer, it suppresses a tumor suppressor IL-25), capsaicin, ginger, garlic, onions, pumpkin seeds, rutabaga
 		- viral infections: 
 			- prevent cytokine storm
 				- Modified citrus pectin: May bind galectin-3, a protein involved in hyperinflammatory responses
