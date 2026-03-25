@@ -660,6 +660,10 @@ I. To do list
 
 	- identify queries like 'what does every structure converge to, at some point or regularly enough to be relevant' (a 'variant of relevance' compared to uniqueness, commonness, stability, standardization, and optimization) that are useful to 'identify whether a relevant structure "exists, or can be interacted with, or is identifiable, or is otherwise relevant"'
 
+	- create a 'general problem-solving graph' by applying 'common differences to solve problems' as connections in the graph, 'connected sequentially to commonly caused problems' or 'connecting common difference sequences to solve problems', or by 'composing combinable problems into generated problems, and composing combinable solutions into generated solutions, with similar inputs as the problems they solve', or by 'connecting specific problem differences in isolated subsets of the graph', or by applying 'problem variables/requirements/causes/averages/combinations' as 'hub nodes to vary/specify/split' rather than just applying 'problem types' as 'hub nodes'
+		- rather than applying the 'opposite of a problem structure' as its solution, apply system optimization intents like 'balance an extreme' to take the 'average of the problem and its opposite', since the 'opposite of a problem' could be its 'opposite problem' (like the other extreme on a spectrum) rather than a solution, since 'some spectrums are too general to have a problem/solution variable at either extreme of the spectrum'
+		- this involves identifying the 'position of the problem in a structure/problem description (like applying a "function/state" of a problem description as the problem)' and oppose the problem, rather than applying the entire 'problem description' as the problem
+
 
 II. Queries and Results
 
