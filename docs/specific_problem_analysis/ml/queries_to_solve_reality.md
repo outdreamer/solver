@@ -677,6 +677,8 @@ I. To do list
 
 	- identify a graph of 'interface variable combinations/structures' that applies 'problem structures like different/missing/imbalance/limited' to specify the 'ways that each interface variable structure can be a problem structure'
 
+	- identify ways to optimize queries like 'optimizing queries to involve the minimum of steps' by 'combining multiple/commonly sequential steps or otherwise embedding additional differences into one node/connection' or 'identifying bigger/higher variation steps to connect all node sets' or 'simplifying/linearizing steps to solve problems' or 'optimizing each node/connection so that each node/connection is already closer to solution structures on its own'
+
 
 II. Queries and Results
 
