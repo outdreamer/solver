@@ -686,6 +686,8 @@ I. To do list
 
 	- identify graphs like 'causal function networks' as 'problem-solving graphs' which solve problems with 'possible causal sequences of functions' which are a default core problem-solving structure and identify optimal queries on the graph like 'queries that identify the sequence to a point, where every connection after the point is a unique connection, so the solution is identified at that point', and identify graphs of 'causal function networks' that apply 'required similarities' like 'similarity of structure of sequences that represent alternate solutions'
 
+	- identify graphs that apply 'direct/other connection types between problems/solutions' like problem types surrounded by 'common or general solution types' with probability of each solution type indicated by weight of that connection, where 'solution type sequences' indicate useful solution types to test in that sequence, so each problem has a system of solution types that can be connected to that problem type, or so each solution type has a system of problem types connectible to that solution type, since every solution structure can have every problem type and every problem can be connected to every solution type, with varying adjacency/probability/other interface variables
+
 
 II. Queries and Results
 
