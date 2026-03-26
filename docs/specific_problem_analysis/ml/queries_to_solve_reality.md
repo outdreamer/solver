@@ -677,7 +677,11 @@ I. To do list
 
 	- identify a graph of 'interface variable combinations/structures' that applies 'problem structures like different/missing/imbalance/limited' to specify the 'ways that each interface variable structure can be a problem structure'
 
-	- identify ways to optimize queries like 'optimizing queries to involve the minimum of steps' by 'combining multiple/commonly sequential steps or otherwise embedding additional differences into one node/connection' or 'identifying bigger/higher variation steps to connect all node sets' or 'simplifying/linearizing steps to solve problems' or 'optimizing each node/connection so that each node/connection is already closer to solution structures on its own'
+	- identify ways to optimize queries like 'optimizing queries to involve the minimum of steps' by 'combining multiple/commonly sequential steps or otherwise embedding additional differences into one node/connection' or 'identifying bigger/higher variation steps to connect all node sets' or 'simplifying/linearizing steps to solve problems' or 'optimizing each node/connection so that each node/connection is already closer to solution structures on its own before applying any steps'
+
+	- identify problems with neural networks like the improbability that one 'similarity embedding graph of individual words' is enough to encode 'all the relevant similarities/differences required to solve any problem trivially', given maximally different intents like 'creativity/specification/organization/optimization' which imply the requirement of 'different graphs optimized for different intents'
+		- identify similarities across graphs such as 'similar problems solvable in that graph' to identify 'ranges of graphs that can solve a problem' by which graphs apply 'component/otherwise relevant similarities' of the 'required similarities to solve a problem', given that 'there are multiple graphs which can solve a given problem' so its useful to identify a continuous range of these graphs to 'identify their relevant similarities/variables to generate these graphs'
+			- relatedly, its useful to solve the problem of 'identifying the similarities/variables of graphs that can solve a problem optimally' like whether a graph applies 'component similarities of required similarities to solve a problem' as an alternate to solving the problem of 'identifying optimal queries of a graph to solve a problem optimally', since 'optimizing a graph' and 'optimizing a query' are alternate solution structures
 
 
 II. Queries and Results
