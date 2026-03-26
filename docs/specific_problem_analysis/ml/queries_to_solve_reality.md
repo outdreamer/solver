@@ -673,6 +673,8 @@ I. To do list
 	- identify a graph of problem types that identifies problem types by 'sequences of components of the problem type definition, starting with the components that are the highest variation/maximally differentiating first' and generate queries to identify problem types as 'queries that identify relevant structures/combinations of components of definitions of the problem type, starting with highest variation/maximally differentiating components first'
 		- identify useful 'variants of graphs' like applying nodes as 'combinations of frequently co-occurring problem types' which is more realistic than identifying one problem type for each problem
 
+	- identify a graph that applies 'error queries/sequences of the graph' as 'incomplete/imbalanced/volatile/otherwise suboptimal variants' of 'complete/otherwise optimal queries/sequences of the graph'
+
 
 II. Queries and Results
 
