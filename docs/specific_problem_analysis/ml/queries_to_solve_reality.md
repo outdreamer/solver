@@ -675,6 +675,8 @@ I. To do list
 
 	- identify a graph that applies 'error queries/sequences of the graph' as 'incomplete/imbalanced/volatile/otherwise suboptimal variants' of 'complete/otherwise optimal queries/sequences of the graph'
 
+	- identify a graph of 'interface variable combinations/structures' that applies 'problem structures like different/missing/imbalance/limited' to specify the 'ways that each interface variable structure can be a problem structure'
+
 
 II. Queries and Results
 
