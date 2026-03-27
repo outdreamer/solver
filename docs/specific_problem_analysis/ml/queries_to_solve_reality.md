@@ -688,6 +688,9 @@ I. To do list
 
 	- identify graphs that apply 'direct/other connection types between problems/solutions' like problem types surrounded by 'common or general solution types' with probability of each solution type indicated by weight of that connection, where 'solution type sequences' indicate useful solution types to test in that sequence, so each problem has a system of solution types that can be connected to that problem type, or so each solution type has a system of problem types connectible to that solution type, since every solution structure can have every problem type and every problem can be connected to every solution type, with varying adjacency/probability/other interface variables
 
+	- identify graphs that apply 'default problem-solving graphs' like the 'intersecting spectrum graph' as a default problem-solving structure, so that each structure node has 'surrounding interface variable extremes representing problems/solutions' where the structure node 'occurs on some position on each spectrum' and where the default problem-solving workflow is to 'change position on the interface variable spectrum to some degree'
+		- relatedly, identify relevant graphs like 'combinations/states/structures of differences that become problems/solutions' and identify 'problem/solution structures' like 'problem/solution areas/positions/ranges on the graph'
+
 
 II. Queries and Results
 
