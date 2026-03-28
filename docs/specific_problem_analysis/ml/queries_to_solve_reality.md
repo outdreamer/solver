@@ -691,6 +691,8 @@ I. To do list
 	- identify graphs that apply 'default problem-solving graphs' like the 'intersecting spectrum graph' as a default problem-solving structure, so that each structure node has 'surrounding interface variable extremes representing problems/solutions' where the structure node 'occurs on some position on each spectrum' and where the default problem-solving workflow is to 'change position on the interface variable spectrum to some degree'
 		- relatedly, identify relevant graphs like 'combinations/states/structures of differences that become problems/solutions' and identify 'problem/solution structures' like 'problem/solution areas/positions/ranges on the graph'
 
+	- identify ways to 'derive graphs from prediction functions by identifying possible graphs associated with function shapes', like how a 'problem type-prediction function' might look like a 'wave' bc the 'graph associated with the problem type-prediction function vacillates in distance from the central definition of a problem, as there are adjacent problem types to the definition of a problem, like abstract problem types, and distant problem types like specific problem types'
+
 
 II. Queries and Results
 
