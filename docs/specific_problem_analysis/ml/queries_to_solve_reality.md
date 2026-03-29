@@ -694,6 +694,8 @@ I. To do list
 	- identify ways to 'derive graphs from prediction functions by identifying possible graphs associated with function shapes', like how a 'problem type-prediction function' might look like a 'wave' bc the 'graph associated with the problem type-prediction function vacillates in distance from the central definition of a problem, as there are adjacent problem types to the definition of a problem, like abstract problem types, and distant problem types like specific problem types'
 		- relatedly, identify functions that can be 'multiplied to create probably relevant functions', like how multiplying 'functions with aligning peaks' or 'functions with specific areas of high ranges' or 'functions with high or low values' are probably relevant bc they 'create the same type of function shape when multiplied by each other' (as in the 'similarity/difference in the original function is preserved across multiplications with similar functions'), and once relevant functions are identified, identify the relevant graphs that can generate these functions
 
+	- identify structures of similarities like 'angles/intersections/shapes created by similarities' that are relevant like 'an intersection of requirements/intents at this angle forming this relevant shape like "maximal differences in intersection angle"' that are useful to graph in a 'graph of useful structures of similarities'
+
 
 II. Queries and Results
 
