@@ -713,6 +713,31 @@ I. To do list
 
     - identify relevant graphs like graphs where function vectors can solve problems by opposing problem state positions to convert problem state positions into solution state positions, since problem state positions are in opposite positions to solution positions, so a function vector can solve a problem state position by applying an opposing difference to convert the problem state position into a solution state position
 
+    - identify graphs that identify what vectors should create what differences (rotate, oppose/cancel, rotate to opposite, scale, rotate to interim)
+        - an 'add vector' should create an 'opposing difference' between 'missing/complete'
+        - an 'add data vector' should create an 'opposing difference' between 'missing/complete data'
+        - an 'add some vector' should create a 'slight scale difference' between 'an almost complete set/complete set'
+        - an 'add some completeness vector' should create a 'slight scale difference' between 'an almost complete set/complete set'
+        - an 'add opposite vector' should create an 'average difference' between 'opposing extremes' since they oppose each other
+        - an 'add variation vector' should create a 'rotation difference' toward 'a variation axes from a structure'
+        - an 'add, then reduce, then subtract, then expand vector sequence' should generate the 'original position' since the functions oppose each other
+        - how many graphs should be applied to implement this?
+            - each graph should reflect some 'difference combination'
+                - one graph indicates a simple difference combination like a 'reversing/opposing difference of a function' like 'add/remove', which is simple enough to identify two variables of difference (two different problem clusters, two different solution clusters) indicating a '2d circle of opposites' where function vectors can rotate along the circle, which solves the problem type of 'extremes'
+                - one graph indicates a specific difference combination like 'add data/remove data'
+                - one graph indicates a scale difference combination like 'add variation/completeness'
+                - one graph indicates a combination of specific structure states like 'missing required data' which are specific enough to clearly indicate that it is a problem/solution
+                    - some states like 'missing data' can be both a problem and a solution, so they need to be specified until they're clearly separable
+            - a graph of opposing extremes of spectrum variables like 'quantity' can make each vector unique by making each vector have a unique direction that aligns with the extremes of spectrum variables, so to apply an 'add function vector', you apply a 'vector in the direction of high quantity, on the quantity spectrum variable', and this indicates a difference to the problem state position that is useful for solving a problem like 'missing' by 'increasing quantity', and to check if this 'increase quantity' vector solves the problem like 'missing', check if the position is 'sufficiently different enough from the original problem state position to constitute a possible solution' after applying the 'increase quantity' vector and check if the new position 'opposes the problem' in some way like it 'achieves the opposite of missing'
+                - for each problem state node, apply an intersecting spectrum graph to indicate 'directions/variables that could solve the problem'
+                - for each 'variable on the intersecting spectrum graph', identify possible solution directions/variables by 'whether the change in that direction opposes the problem structure in some way' (check if 'increase quantity' opposes a 'missing data' problem)
+                - specify the intersecting spectrum graph to indicate 'differences relevant to the problem' like a spectrum extreme such as 'increase data quantity' instead of 'increase quantity' or 'add', to generate 'variants of the problem' as 'possible solution structures'
+                - identify adjacent interface variables by similarity in the intersecting spectrum graph
+                - so the graph should be a set of problem nodes, and a set of intersecting spectrum graphs relevant to that problem around each problem node, to indicate different directions of possible solutions, and there should be problems created by each change at different positions on the intersecting spectrum graph as well as optimal solution states on different positions on the intersecting spectrum graph
+                - alternately, there could be a graph indicating a problem surrounded by related problems, where vectors should avoid the directions that other problems are in
+            - or a graph where vector angles/lengths have meaning like where an 'opposing extreme vector' has the same length but can vary in direction for each problem its applied to
+
+
 II. Queries and Results
 
 
