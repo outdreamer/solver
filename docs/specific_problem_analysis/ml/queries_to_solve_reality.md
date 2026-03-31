@@ -735,7 +735,7 @@ I. To do list
                 - identify adjacent interface variables by similarity in the intersecting spectrum graph
                 - so the graph should be a set of problem nodes, and a set of intersecting spectrum graphs relevant to that problem around each problem node, to indicate different directions of possible solutions, and there should be problems created by each change at different positions on the intersecting spectrum graph as well as optimal solution states on different positions on the intersecting spectrum graph
                 - alternately, there could be a graph indicating a problem surrounded by related problems, where vectors should avoid the directions that other problems are in
-                - alternately, a problem/solution identification script can identify problems based on whether the 'requirements identified in definitions related to the problem' indicate that the 'current state either fulfills requirements (is a solution) or doesnt fulfill requirements (is a problem)'
+                - alternately, a problem/solution identification script can identify problems based on whether the 'requirements identified in definitions related to the problem' indicate that the 'current state either fulfills requirements (is a solution) or doesnt fulfill requirements (is a problem)', and identify problems based on 'problem/solution function patterns' like how 'adding a problem structure' is a problem structure and 'removing a problem structure' is a solution structure
             - alternately, identify a graph where vector angles/lengths have meaning like where an 'opposing extreme vector' has the same length but can vary in direction for each problem its applied to
 
 
