@@ -711,6 +711,7 @@ I. To do list
 
     - identify relevant graphs like where "problem types are surrounded by sequences of differences most likely to be relevant to solving that problem type which when applied in a sequence of differences, create either a 'clearly suboptimal sequence or a clearly optimal sequence that solves the problem' like 'differences which create maximal differences which make it clear whether the problem is solved'", like how 'adding data' and 'generating data' are likely to be relevant differences to solving a 'missing data' problem bc 'adding has a similarity to generating', so identifying 'synonyms of opposing/solution structures' can identify 'variants of probably relevant differences' to apply as solution structures
 
+    - identify relevant graphs like graphs where function vectors can solve problems by opposing problem state positions to convert problem state positions into solution state positions, since problem state positions are in opposite positions to solution positions, so a function vector can solve a problem state position by applying an opposing difference to convert the problem state position into a solution state position
 
 II. Queries and Results
 
