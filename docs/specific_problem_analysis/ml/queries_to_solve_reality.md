@@ -709,6 +709,8 @@ I. To do list
 
     - identify problems by 'structures of difference/similarity' like applying problem/solution states like 'data is different between these systems' as central nodes and 'similarity/difference conditions/requirements like "data should not be different between these systems"' applied as surrounding nodes which indicate that its a problem for 'data to be different between those systems', and identify solutions specific to those 'similarities/differences' and 'conditions/requirements' applied as nodes connected to the surrounding nodes, like 'applying differences to the problem difference/similarity, which is identified as a problem by the requirement' like 'apply a data synchronization, given that the problem is "different data", where the data is "required to be equivalent"'
 
+    - identify relevant graphs like where "problem types are surrounded by sequences of differences most likely to be relevant to solving that problem type which when applied in a sequence of differences, create either a 'clearly suboptimal sequence or a clearly optimal sequence that solves the problem' like 'differences which create maximal differences which make it clear whether the problem is solved'", like how 'adding data' and 'generating data' are likely to be relevant differences to solving a 'missing data' problem bc 'adding has a similarity to generating', so identifying 'synonyms of opposing/solution structures' can identify 'variants of probably relevant differences' to apply as solution structures
+
 
 II. Queries and Results
 
