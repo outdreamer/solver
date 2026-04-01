@@ -713,7 +713,7 @@ I. To do list
 
     - identify relevant graphs like graphs where function vectors can solve problems by opposing problem state positions to convert problem state positions into solution state positions, since problem state positions are in opposite positions to solution positions, so a function vector can solve a problem state position by applying an opposing difference to convert the problem state position into a solution state position
 
-    - identify graphs that identify what vectors should create what differences (rotate, oppose/cancel, rotate to opposite, scale, rotate to interim)
+    - identify graphs that identify what vectors should create what differences (rotate, oppose/cancel, rotate to opposite, scale, rotate to interim) to 'maintain types of relevance' like 'structural relevance' and 'positional relevance' and 'additive relevance'
         - an 'add vector' should create an 'opposing difference' between 'missing/complete'
         - an 'add data vector' should create an 'opposing difference' between 'missing/complete data'
         - an 'add some vector' should create a 'slight scale difference' between 'an almost complete set/complete set'
