@@ -738,6 +738,9 @@ I. To do list
                 - alternately, a problem/solution identification script can identify problems based on whether the 'requirements identified in definitions related to the problem' indicate that the 'current state either fulfills requirements (is a solution) or doesnt fulfill requirements (is a problem)', and identify problems based on 'problem/solution function patterns' like how 'adding a problem structure' is a problem structure and 'removing a problem structure' is a solution structure
             - alternately, identify a graph where vector angles/lengths have meaning like where an 'opposing extreme vector' has the same length but can vary in direction for each problem its applied to
 
+    - identify what 'types of relevance' like 'structural relevance' are 'additive/coordinating/interactive' in 'what graphs' to identify 'possible graphs of multiple different relevance types which dont contradict each other (but are instead additive or otherwise interactive in a way that doesnt create contradictions)' based on the graph similarities (as in 'identify additive/coordinating/interactive relevance types' based on 'explicit/defined/input graph similarities of a graph')
+	    - relatedly, identify what problems arent 'optimized/simplified/connected, given the change types possible in a neural network' to identify the problems/intents that justify 'generating another network/graph, with similarities that make the problem trivial to solve, triviality which contradicts other graph similarities'
+
 
 II. Queries and Results
 
