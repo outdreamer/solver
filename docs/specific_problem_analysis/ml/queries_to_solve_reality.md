@@ -747,6 +747,8 @@ I. To do list
 		- identify relevant graph variants like graphs that regularly identify the meaning (as in the 'relevant problem/solution structures') of a 'causal sequence/function sequence/variable combination/other structure', like whether a sequence 'solves a problem' or 'causes a problem' or 'is/solves/causes a problem', and graphs that apply different cross-interface structures like 'causal sequences/variable combinations' that are similar as 'different axes of similarity'
 		- identify approximately equivalent graphs like how the graph of 'problem types connected to surrounding solution types and specific solutions' almost approximates the 'intersecting spectrum graph of interface variables' because 'changes on a spectrum' can solve a problem like 'changes in specificity or changes as opposing values on a spectrum' and thats what a 'problem type-specific solution connection' applies
 
+	- identify 'structures/spectrums of similarities' like the 'abstraction/specification similarity spectrum' like 'generalization (like types) and specifications (like examples)' that are useful for functions like 'identify/define' as the 'most structural similarity on a structural similarity spectrum' which is useful for intents like 'identify' in general
+
 
 II. Queries and Results
 
