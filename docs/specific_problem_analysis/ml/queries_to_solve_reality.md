@@ -749,6 +749,8 @@ I. To do list
 
 	- identify 'structures/spectrums of similarities' like the 'abstraction/specification similarity spectrum' like 'generalization (like types) and specifications (like examples)' that are useful for functions like 'identify/define' as the 'most structural similarity on a structural similarity spectrum' which is useful for intents like 'identify' in general
 
+	- identify 'patterns of changes on graphs that alternate between generating problems/solutions' like 'changes to adjacent/opposing interface variables on the intersecting spectrum graph' and other 'consistent patterns of generating problems/solutions' as a way to reliably generate problems/solutions, and identify patterns with inconsistent generation of problems/solutions and identify graphs that separate the consistent/inconsistent patterns and other interface variable variant pairs
+
 
 II. Queries and Results
 
