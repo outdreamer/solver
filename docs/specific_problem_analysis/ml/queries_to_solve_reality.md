@@ -751,7 +751,9 @@ I. To do list
 
 	- identify 'patterns of changes on graphs that alternate between generating problems/solutions' like 'changes to adjacent/opposing interface variables on the intersecting spectrum graph' and other 'consistent patterns of generating problems/solutions' as a way to reliably generate problems/solutions, and identify patterns with inconsistent generation of problems/solutions and identify graphs that separate the consistent/inconsistent patterns and other interface variable variant pairs
 
-	- identify structures that make a solution clear, like once a 'problem type/position/variables/cause/requirements' is identified, the solution is more clear (the solution is different from the problem type/position/variables/cause/requirements), like the solution is a structure that 'changes/opposes problem variables/type/position/cause/requirements', and identify how a problem position identifies a general solution and problem cause identifies a specific solution
+	- identify structures that make a solution clear, like once a 'problem type/position/variables/cause/requirements' is identified, the solution is more clear (the solution is different from the problem type/position/variables/cause/requirements), like the solution is a structure that 'changes/opposes problem variables/type/position/cause/requirements', and identify how a 'problem position identifies a general solution' and 'problem cause identifies a specific solution'
+
+	- identify useful interface structures to include in the same graph, like 'fulfilled requirements', 'changes to fulfilled requirements', 'problem states created by changes to requirements', 'causal changes of problem states', 'solution states caused by changes to problem states, or solution states which are changes back to fulfilled requirements', and 'variables like "volatility/complexity" of each problem/solution state which oppose each other across associated problems/solutions'
 
 
 II. Queries and Results
