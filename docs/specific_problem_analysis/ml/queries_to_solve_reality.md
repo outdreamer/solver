@@ -755,7 +755,7 @@ I. To do list
 
 	- identify useful interface structures to include in the same graph, like 'fulfilled requirements', 'changes to fulfilled requirements', 'problem states created by changes to requirements', 'causal changes of problem states', 'solution states caused by changes to problem states, or solution states which are changes back to fulfilled requirements', and 'variables like "volatility/complexity" of each problem/solution state which oppose each other across associated problems/solutions'
 
-	- identify relevant structures like the 'reason a graph/network/algorithm works' or the 'errors that a graph/network/algorithm can make' like the 'abstraction level where these structures are first identifiable', like 'scaled core structures iterated, with maximally variable inputs'
+	- identify relevant structures like the 'reason a graph/network/algorithm works' or the 'errors that a graph/network/algorithm can make' like the 'abstraction level where these structures are first identifiable', like 'scaled core structures iterated, with maximally variable inputs' and identify why theyre identifiable with those structures like bc 'scaled iterations create indirect/distant connections' or 'scaled iterations create unique/identifiable outputs by creating sufficient differences from other iterated structures'
 
 
 II. Queries and Results

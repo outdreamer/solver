@@ -389,6 +389,8 @@
 				- avoid high purine foods, high oxalate foods without calcium, protein/refined carbs and high acid foods like coffee, and avoid caffeine which can make kidney/heart/adrenal damage worse
 				- use these in small amounts to increase klotho to recover from kidney damage:
 					- omega 3s, corn silk, vitamin d, cordyceps, activated charcoal, probiotics, broccoli, green tea, curcumin, ginseng, resveratrol, zinc, vitamin e, melatonin, senolytics, exercise, arginine, glutamine, lysine, glycine, sulforaphane, chokeberries, dong quai and chuan xiong (ligustilide), gentian root, holy basil, rhubarb, solomon's seal
+			- myocarditis: astragalus
+			- pericarditis: 
 			- heart failure:
 				- avoid supplements that can increase TMAO/homocysteine like high doses of choline/NAC, avoid melatonin
 				- flu vaccination, melatonin, vitamin d/b1/b9, iron, coffee, green tea, omega 3's, saccharomyces boulardii, alpha-lipoic acid, calcium, glucosamine, cocoa, ribose, flax seeds
@@ -635,7 +637,7 @@
 			- blessed thistle (cnicin) 
 				- https://scitechdaily.com/completely-new-use-discovered-this-traditional-herb-has-remarkable-nerve-regenerative-properties/
 		- hair loss: 
-			- treat dermatological problems (seborrheic dermatitis, fungal/bacterial infections), organ (adrenal/thyroid/kidney/liver) damage problems, diabetes/high blood sugar, PCOS, vitamin deficiencies (vitamin d, potassium, iron, zinc, iodine and b-vitamins) and hormone imbalances first, then use choline, iodine, inositol, b-vitamins, multi-vitamins, collagen, biotin, ferritin, msm, pumpkin seed oil, cinnamic acid, caffeine, deoxy-d-ribose, vitamin d
+			- treat dermatological problems (seborrheic dermatitis, fungal/bacterial infections), organ (adrenal/thyroid/kidney/liver) damage problems, diabetes/high blood sugar, PCOS, vitamin deficiencies (vitamin d, potassium, iron, zinc, iodine and b-vitamins) and hormone imbalances first, then use ginger, rosemary, peptides, choline, iodine, inositol, b-vitamins, multi-vitamins, collagen, biotin, ferritin, msm, pumpkin seed oil, cinnamic acid, caffeine, deoxy-d-ribose
 		- metabolic problems
 			- avoid air pollution containing lipopolysaccharide (LPS) and treat bacterial infections which can cause diabetes, heart disease, and liver problems through increasing lipopolysaccharide levels
 			- obesity:
@@ -926,7 +928,7 @@
 				- rosemary for cocaine addiction
 					- https://www.futurity.org/rosemary-extract-compound-cocaine-sensitivity-3245642/
 			- depression
-				- GABA, SAMe, probiotics, zinc, ashwagandha, 5-htp (avoid for heart impact), st john's wort (avoid for drug interactions), melatonin (avoid for heart impact), turmeric, magnesium, theanine, green tea, berberine, mucuna pruriens (l-dopa), kanna, vitamin d/b9/b12/k, omega 3s, tyrosine, sarcosine (cancer patients should avoid sarcosine), passionflower (an MAOI), lavender, saffron, chamomile, ginseng, ginkgo biloba
+				- astragalus, ginger, jujube, GABA, SAMe, probiotics, zinc, ashwagandha, 5-htp (avoid for heart impact), st john's wort (avoid for drug interactions), melatonin (avoid for heart impact), turmeric, magnesium, theanine, green tea, berberine, mucuna pruriens (l-dopa), kanna, vitamin d/b9/b12/k, omega 3s, tyrosine, sarcosine (cancer patients should avoid sarcosine), passionflower (an MAOI), lavender, saffron, chamomile, ginseng, ginkgo biloba
 			- anxiety:
 				- Transcranial Direct Current Stimulation (TDCS) devices can treat anxiety/depression
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC6969693/
@@ -1097,7 +1099,7 @@
 				- use cysteine to repair the gut
 					- https://www.sciencedaily.com/releases/2025/10/251023031625.htm
 			- colitis: 
-				- wheat grass juice, boswellia, turmeric, ginseng, butyrate, aloe vera, bromelain, psyllium, green tea, germinated barley, andrographis paniculata, tormentil, bilberry, chamomile, evening primrose oil, wormwood, cbd, thunder god vine, mastic gum, Matricaria chamomilla (chamomile), and omega-3 fatty acids
+				- indigo naturalis, coptis, astragalus, ginger, codonopsis, wheat grass juice, boswellia, turmeric, ginseng, butyrate, aloe vera, bromelain, psyllium, green tea, germinated barley, andrographis paniculata, tormentil, bilberry, chamomile, evening primrose oil, wormwood, cbd, thunder god vine, mastic gum, and omega-3 fatty acids
 			- Crohn's disease: Boswellia serrata (frankincense or shallaki), Artemesia species (wormwood), Tripterygium wilfordii (léi gōng téng), and omega-3 fatty acids
 				- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5588418/
 		- gallstones:
