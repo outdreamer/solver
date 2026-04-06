@@ -389,9 +389,11 @@
 				- avoid high purine foods, high oxalate foods without calcium, protein/refined carbs and high acid foods like coffee, and avoid caffeine which can make kidney/heart/adrenal damage worse
 				- use these in small amounts to increase klotho to recover from kidney damage:
 					- omega 3s, corn silk, vitamin d, cordyceps, activated charcoal, probiotics, broccoli, green tea, curcumin, ginseng, resveratrol, zinc, vitamin e, melatonin, senolytics, exercise, arginine, glutamine, lysine, glycine, sulforaphane, chokeberries, dong quai and chuan xiong (ligustilide), gentian root, holy basil, rhubarb, solomon's seal
-			- myocarditis: astragalus
-			- pericarditis: 
+			- myocarditis:
+				- Ophiopogon japonicus Ker-Gawl (Asparagaceae), Glycyrrhiza glabra (Fabaceae), Astragalus mongholicus (Fabaceae), Schisandra chinensis, Codonopsis pilosula, Salvia miltiorrhiza, Rehmannia glutinosa, Sophora flavescens, Ziziphus jujuba, and Ligusticum striatum
 			- heart failure:
+				- Radix aconiti carmichaeli (Fuzi), Atractylodes (Baizhu), Cassia twig (Guizhi), Dried ginger (Ganjiang), Radix pseudostellariae (Taizishen), Radix astragali (Huangqi), Codonopsis pilosula (Dangshen), Ginseng (Renshen), Panax notoginseng (Sanqi), Chinese angelica (Danggui), Safflower (Honghua), Ligusticum wallichii (Chuanxiong), Salvia miltiorrhiza (Danshen), Red paeony root (Chishao), Peach kernel (Taoren), Hawthorn (Shanzha), Semen lepidii(Tinglizi), Alisma (Xieze), Poria cocos (Fuling); Radix Ophiopogonis (Maidong), Fructus schisandrae (Wuweizi), Radix rehmanniae (Shengdi), Pinellia (Banxia), Trichosanthes Kirilowii (Gualou), Dried tangerine or orange peel (Chenpi), Scallions white (Xiebai)
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC6340156/
 				- avoid supplements that can increase TMAO/homocysteine like high doses of choline/NAC, avoid melatonin
 				- flu vaccination, melatonin, vitamin d/b1/b9, iron, coffee, green tea, omega 3's, saccharomyces boulardii, alpha-lipoic acid, calcium, glucosamine, cocoa, ribose, flax seeds
 					- other herbs: motherwort, pheasant's eye, lily-of-the-valley, aconite, dandelion, kudzu, oleander, terminalia arjuna, yerba mate
