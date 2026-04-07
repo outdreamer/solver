@@ -757,6 +757,10 @@ I. To do list
 
 	- identify relevant structures like the 'reason a graph/network/algorithm works' or the 'errors that a graph/network/algorithm can make' like the 'abstraction level where these structures are first identifiable', like 'scaled core structures iterated, with maximally variable inputs' and identify why theyre identifiable with those structures like bc 'scaled iterations create indirect/distant connections' or 'scaled iterations create unique/identifiable outputs by creating sufficient differences from other iterated structures', and identify whether structures of multiple cross-interface differences like 'scaled core variable iterations' can create 'unique identifiers of structures that are useful to identify, like structures/combinations of structures like specified subsets of interface variable combinations (like error structures like high complexity/low intent/low relevance)'
 
+	- identify relevant graph structures like 'graph ratios' to resolve ambiguity structures like 'ratios of graphs with similarities, where ratios resolve an ambiguity'
+
+	- identify relevant graphs like 'graph variants' like variants of a 'graph of causal changes of problems/solutions' like a 'graph that identifies causal changes of interface variants of problems/solutions, like abstract problems/solutions and specific problems/solutions (like causing a complexity increase and a specific problem type)'
+
 
 II. Queries and Results
 
