@@ -763,6 +763,8 @@ I. To do list
 
 	- identify specific structural similarity connections like how 'cluster position similarities' and 'local cluster similarities' are generatable with core similarities like 'position similarities', and identify the meaning/relevance of the similarity connections, like how 'cross/inter-type relevance can be identified from intra-type relevance', and identify relevant rules that can change the relevance of a similarity connection like 'similar structures can be different types (because of powerful opposing/negation structures)' and 'similar structures are often the same type' and 'similar structures are often relevant', like how a 'graph of clusters of problems and solutions' can have a 'positional similarity, where similar problem positions relative to the problem cluster indicate relevant solution positions relevant to the solution cluster' or a 'local cluster similarity, where adjacent items are relevant', and identify graphs that apply 'relevant combinations of similarity connections and relevant rules'
 
+	- identify useful structures like 'connections between optimals/solutions' to identify 'connections that dont require crossing an error to reach a solution' and identify 'variables of these connections' like 'limits that the connection doesnt cross' to generate these connections
+
 
 II. Queries and Results
 
