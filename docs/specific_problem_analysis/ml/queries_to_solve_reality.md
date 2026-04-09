@@ -765,6 +765,8 @@ I. To do list
 
 	- identify useful structures like 'connections between optimals/solutions' to identify 'connections that dont require crossing an error to reach a solution' and identify 'variables of these connections' like 'limits that the connection doesnt cross' to generate these connections
 
+	- identify variables of problem-solving graphs, like including a problem structure like 'unfulfilled requirements' or 'suboptimal states' or 'suboptimal interface variable combinations, based on problem concept definitions', and a solution structure like 'inputs of fulfilled requirements' or 'change/function sequences that dont cause errors (like contradictions or unfulfilled requirements)', and a similarity between problems and a similarity between solutions and a similarity between problems/solutions, and identify the degree of 'implicit implementation of structures to apply', like checking for error structures in 'emergent combinations/sequences of solution structures that dont directly cause errors'
+
 
 II. Queries and Results
 
