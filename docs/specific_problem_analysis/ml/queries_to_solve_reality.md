@@ -774,6 +774,7 @@ I. To do list
 	- identify relevant graphs like the 'combination/sequence/structure' of 'specifications/structures of interface variable structures/combinations/sequences' and 'similar/aligned function vector sequences/combinations with the same relevance, as in the same net effect of increasing some interface variable combination/structure', that allows relevance of 'interface variable sequences/combinations' and 'function vector sequences/combinations' to be graphed accurately
 		- similarly, a relevant graph is a graph of nodes as 'combinations/sequences/structures of un/fulfilled requirements' with included info for each node like 'problem/solution/neutral state' and 'interface variable combination/structure', with 'aligning sequences/combinations/structures of function vectors' connecting 'requirement nodes' indicating 'multiple alternate similar solutions' from each 'problem state node to adjacent solution state nodes'
 		- similarly, a relevant graph is a graph of requirements of problem/solution states which matches problem/solution states and allows identifying solutions as 'initial and complete inputs/requirements of a solution state matching a problem state'
+		- similarly, a relevant embedding graph indicates 'function vectors with similar relevance' as having a structural similarity like 'similar direction of the net relevance of the function vectors', in a direction of some interface variable structure that the 'function vector sequence identifies/generates the most'
 
 
 II. Queries and Results
