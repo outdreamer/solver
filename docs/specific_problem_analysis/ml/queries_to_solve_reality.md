@@ -771,6 +771,10 @@ I. To do list
 
 	- identify 'reasons for/limits of identifying problem-solving structures', like how 'sufficient examples are required to specify a maximally general intent like problem-solving' and 'problem-solving insights are an input to other problem-solving insights (a model to generate problem-solving insights requires problem-solving insights as an input)' and 'each set of core problem-solving insights can generate the other problem-solving insights, with varying triviality, and the set that generates the others most trivially likely hasnt been completely identified yet' and other 'reasons to continue identifying new problem-solving structures', which identify limits by whether the 'reasons still apply or are complete/otherwise irrelevant'
 
+	- identify relevant graphs like the 'combination/sequence/structure' of 'specifications/structures of interface variable structures/combinations/sequences' and 'similar/aligned function vector sequences/combinations with the same relevance, as in the same net effect of increasing some interface variable combination/structure', that allows relevance of 'interface variable sequences/combinations' and 'function vector sequences/combinations' to be graphed accurately
+		- similarly, a relevant graph is a graph of nodes as 'combinations/sequences/structures of un/fulfilled requirements' with included info for each node like 'problem/solution/neutral state' and 'interface variable combination/structure', with 'aligning sequences/combinations/structures of function vectors' connecting 'requirement nodes' indicating 'multiple alternate similar solutions' from each 'problem state node to adjacent solution state nodes'
+		- similarly, a relevant graph is a graph of requirements of problem/solution states which matches problem/solution states and allows identifying solutions as 'initial and complete inputs/requirements of a solution state matching a problem state'
+
 
 II. Queries and Results
 
