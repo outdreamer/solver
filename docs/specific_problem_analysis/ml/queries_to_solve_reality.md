@@ -767,6 +767,8 @@ I. To do list
 
 	- identify variables of problem-solving graphs, like including a problem structure like 'unfulfilled requirements' or 'suboptimal states' or 'suboptimal interface variable combinations, based on problem concept definitions', and a solution structure like 'inputs of fulfilled requirements' or 'change/function sequences that dont cause errors (like contradictions or unfulfilled requirements)', and a similarity between problems and a similarity between solutions and a similarity between problems/solutions, and identify the degree of 'implicit implementation of structures to apply', like checking for error structures in 'emergent combinations/sequences of solution structures that dont directly cause errors', and the graph implements at least one 'cross-interface structure, connecting the clusters of certainty/uncertainty' or 'cross-extreme structure in an interface variable' to contain sufficient variation to solve problems
 
+	- identify optimizations of problem-solving graphs, like how 'similar problems often have similar solutions, so its suboptimal to represent problems in isolation of each other as if work cant be consolidated across similar problems' and 'applying maximally different problem-solving workflows as possible solutions to each problem type in varying directions, as an alternative to other maximally different structures like function sequences that create changes toward optimal points of interface variable combinations' and 'applying sufficient interfaces to specify the solution, given the complexity of reality which requires a degree of specification to reflect, rather than just applying definitions/requirements for example'
+
 
 II. Queries and Results
 
