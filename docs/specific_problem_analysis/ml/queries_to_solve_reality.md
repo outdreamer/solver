@@ -769,6 +769,8 @@ I. To do list
 
 	- identify optimizations of problem-solving graphs, like how 'similar problems often have similar solutions, so its suboptimal to represent problems in isolation of each other as if work cant be consolidated across similar problems' and 'applying maximally different problem-solving workflows as possible solutions to each problem type in varying directions, as an alternative to other maximally different structures like function sequences that create changes toward optimal points of interface variable combinations' and 'applying sufficient interfaces to specify the solution, given the complexity of reality which requires a degree of specification to reflect, rather than just applying definitions/requirements for example'
 
+	- identify 'reasons for/limits of identifying problem-solving structures', like how 'sufficient examples are required to specify a maximally general intent like problem-solving' and 'problem-solving insights are an input to other problem-solving insights (a model to generate problem-solving insights requires problem-solving insights as an input)' and 'each set of core problem-solving insights can generate the other problem-solving insights, with varying triviality, and the set that generates the others most trivially likely hasnt been completely identified yet' and other 'reasons to continue identifying new problem-solving structures', which identify limits by whether the 'reasons still apply or are complete/otherwise irrelevant'
+
 
 II. Queries and Results
 
