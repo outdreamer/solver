@@ -778,6 +778,8 @@ I. To do list
 
 	- identify relevant graphs like an 'intersecting spectrum graph for each problem/solution state indicating its correct position on the intersecting axes', where each axes represents 'correlated interface variable combinations', so that solution vectors direct the problem position away from the 'problem state node intersecting with spectrums' and 'possibility/complexity/stability/usability/other variable values' of each solution vector are indicated, and the 'problem/solution/neutral state' created by each 'solution vector applied to a problem state' is indicated
 
+	- identify useful graph variables interactions, like how applying 'position to "structures to be connected"' can identify similarities between the 'original embedding positional similarity/encoding function' and the other 'connection functions of structures' applied to connect the structures
+
 
 II. Queries and Results
 
