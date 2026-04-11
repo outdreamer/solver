@@ -780,6 +780,8 @@ I. To do list
 
 	- identify useful graph variables interactions, like how applying 'position to "structures to be connected"' can identify similarities between the 'original embedding positional similarity/encoding function' and the other 'connection functions of structures' applied to connect the structures
 
+	- identify optimal structures to implement 'interactions of relevance components/types/structures', like applying 'optimized relevance component priorities/weights' or 'combinations of optimal relevance structures that are also emergently relevant (as in they remain relevant across interactions)' or 'number of degrees of interactivity to apply to generate relevance' to implement an intent like 'generate conditional relevance from positional relevance', and identify specific relevance patterns like 'cross-interface connections between maximally different interfaces' which are usually emergently relevant (without being explicitly defined as relevant)
+
 
 II. Queries and Results
 
