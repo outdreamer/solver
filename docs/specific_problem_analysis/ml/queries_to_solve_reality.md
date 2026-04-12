@@ -782,6 +782,8 @@ I. To do list
 
 	- identify optimal structures to implement 'interactions of relevance components/types/structures', like applying 'optimized relevance component priorities/weights' or 'combinations of optimal relevance structures that are also emergently relevant (as in they remain relevant across interactions)' or 'number of degrees of interactivity to apply to generate relevance' to implement an intent like 'generate conditional relevance from positional relevance', and identify specific relevance patterns like 'cross-interface connections between maximally different interfaces' which are usually emergently relevant (without being explicitly defined as relevant)
 
+	- identify problem-solving graph optimizations like applying 'maximally different/unique structures' like 'different structures of cross-interface connections' in different positions, rather than default differences like different problem type, since 'different problem types often have similar solution types' and 'there is usually more than one problem type that applies to each problem' so 'problem type' isnt the most unique variable to apply in maximally different structures/positions
+
 
 II. Queries and Results
 
