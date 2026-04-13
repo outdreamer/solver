@@ -784,6 +784,8 @@ I. To do list
 
 	- identify problem-solving graph optimizations like applying 'maximally different/unique structures' like 'different structures of cross-interface connections' in different positions, rather than default differences like different problem type, since 'different problem types often have similar solution types' and 'there is usually more than one problem type that applies to each problem' so 'problem type' isnt the most unique variable to apply in maximally different structures/positions
 
+	- identify relevant structures of graphs like the 'range of differences coverable by the input/output similarities of a graph', and identify relevant 'interface structure applications' like how 'applying types as node structures allows type intents to be applied as connection structures' and identify the useful structures like 'limits' of 'interface structure applications' of a graph
+
 
 II. Queries and Results
 
