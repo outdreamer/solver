@@ -788,6 +788,8 @@ I. To do list
 
 	- identify relevant graph optimizations like 'reducing steps to relevant info, by including relevant info in a node' like 'including relevant changes of a change, like relevant requirement fulfillments changed by a specific requirement fulfillment change', which is useful to optimize bc 'relevant info is often distant/independently/indirectly connectible info is relevant by definition', and identify other relevance definition optimizations of graphs/workflows
 
+ - identify relevant graph optimizations like when a combination of interface variable changes is identified as the solution to some other suboptimal interface variable combination, identify a unique variable change that can implement the interface variable combination changes with one change, and identify graphs to enable this intent like graphs of similar vector combinations, and identify other optimizations and associated enabling graphs
+
 
 II. Queries and Results
 
