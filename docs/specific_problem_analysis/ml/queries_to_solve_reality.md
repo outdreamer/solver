@@ -790,6 +790,8 @@ I. To do list
 
  - identify relevant graph optimizations like when a combination of interface variable changes is identified as the solution to some other suboptimal interface variable combination, identify a unique variable change that can implement the interface variable combination changes with one change, and identify graphs to enable this intent like graphs of similar vector combinations, and identify other optimizations and associated enabling graphs
 
+ - identify relevant graph optimizations like identifying the relevance of interface variable combinations like requirements/variables/problems changed by an interface variable combination/info set, to reduce problem-solving to identifying available or specific info sets/interface variable combinations and updating the relevant problems solved by each info set when new info is added to the graph
+
 
 II. Queries and Results
 
