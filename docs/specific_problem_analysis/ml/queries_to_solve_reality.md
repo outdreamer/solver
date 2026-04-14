@@ -788,9 +788,11 @@ I. To do list
 
 	- identify relevant graph optimizations like 'reducing steps to relevant info, by including relevant info in a node' like 'including relevant changes of a change, like relevant requirement fulfillments changed by a specific requirement fulfillment change', which is useful to optimize bc 'relevant info is often distant/independently/indirectly connectible info is relevant by definition', and identify other relevance definition optimizations of graphs/workflows
 
- - identify relevant graph optimizations like when a combination of interface variable changes is identified as the solution to some other suboptimal interface variable combination, identify a unique variable change that can implement the interface variable combination changes with one change, and identify graphs to enable this intent like graphs of similar vector combinations, and identify other optimizations and associated enabling graphs
+	- identify relevant graph optimizations like when a combination of interface variable changes is identified as the solution to some other suboptimal interface variable combination, identify a unique variable change that can implement the interface variable combination changes with one change, and identify graphs to enable this intent like graphs of similar vector combinations, and identify other optimizations and associated enabling graphs
 
- - identify relevant graph optimizations like identifying the relevance of interface variable combinations like requirements/variables/problems changed by an interface variable combination/info set, to reduce problem-solving to identifying available or specific info sets/interface variable combinations and updating the relevant problems solved by each info set when new info is added to the graph
+	- identify relevant graph optimizations like identifying the relevance of interface variable combinations like requirements/variables/problems changed by an interface variable combination/info set, to reduce problem-solving to identifying available or specific info sets/interface variable combinations and updating the relevant problems solved by each info set when new info is added to the graph
+
+	- identify a relevant graph like the 'sub-graph of the required info to solve a problem' for each problem, and identify info that is 'adjacent/similar to the required info' like 'inputs/similarities/independent alternative axes of required info to solve the problem' to generate a graph that identifies 'different alternative info sets that can solve a problem' by identifying 'which alternate info sets are highly/approximately/generally/relevantly covering of the sub-graph of required info'
 
 
 II. Queries and Results
