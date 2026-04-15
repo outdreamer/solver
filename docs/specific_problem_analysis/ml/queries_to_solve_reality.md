@@ -794,6 +794,8 @@ I. To do list
 
 	- identify a relevant graph like the 'sub-graph of the required info to solve a problem' for each problem, and identify info that is 'adjacent/similar to the required info' like 'inputs/similarities/independent alternative axes of required info to solve the problem' to generate a graph that identifies 'different alternative info sets that can solve a problem' by identifying 'which alternate info sets are highly/approximately/generally/relevantly covering of the sub-graph of required info'
 
+	- identify relevant structures like 'structures/counts of structures/iterations compared to/required for intents' like how a 'ratio of alternate definitions is required to identify the defined structure' and a 'relevance structure of structures/integrations of graphs is required to generate new relevant graphs' which identifies a 'structure of "multiple iterations of structures" as required for general intents'
+
 
 II. Queries and Results
 
