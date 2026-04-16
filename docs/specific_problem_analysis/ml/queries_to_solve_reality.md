@@ -794,7 +794,9 @@ I. To do list
 
 	- identify a relevant graph like the 'sub-graph of the required info to solve a problem' for each problem, and identify info that is 'adjacent/similar to the required info' like 'inputs/similarities/independent alternative axes of required info to solve the problem' to generate a graph that identifies 'different alternative info sets that can solve a problem' by identifying 'which alternate info sets are highly/approximately/generally/relevantly covering of the sub-graph of required info'
 
-	- identify relevant structures like 'structures/counts of structures/iterations compared to/required for intents' like how a 'ratio of alternate definitions is required to identify the defined structure' and a 'relevance structure of structures/integrations of graphs is required to generate new relevant graphs' which identifies a 'structure of "multiple iterations of structures" as required for general intents'
+	- identify relevant structures like 'structures/counts of structures/iterations compared to/required for intents' like how a 'ratio of alternate definitions is required to identify the defined structure' and a 'structure of structures/integrations of "relevant graphs" or "relevance components" is required to generate new relevant graphs' which identifies a 'structure of "multiple iterations of structures" as required for general intents', and identify the 'completing sets of identifying/generating structures' like all of the 'structures like "ratios of definitions" or "ratios of opposites" or "ratios of limits" required to completely identify a structure with every possible different info set that could identify it'
+
+	- identify relevant structures like 'relevant graph sequences to compress into an integrated graph' like compressing a graph of 'definition/requirements' and a graph of 'requirements/problems' into the same graph as the 'core similarities' of the graph to create a 'definition/problem similarity', to implement optimization metrics/intents like 'applying multiple relevant connections'
 
 
 II. Queries and Results
