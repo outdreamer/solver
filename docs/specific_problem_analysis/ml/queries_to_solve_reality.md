@@ -802,6 +802,8 @@ I. To do list
 
 	- identify relevant structures like 'limits of relevance of similarities' to apply in graphs, like how a graph of a sequence like 'definitions, then requirements, then problems' has a 'sequence' similarity with a 'causal sequence' and a 'graph sequence', and the 'limit of relevance of the "sequence" similarity' is relatively high for that similarity set so the similarity set may be worth applying in the same graph, as in 'overlaying the definition/requirement/problem sequence, a causal sequence, and a graph sequence' may be a relevant structure to apply in the graph
 
+- identify relevant usages of graphs like the intersecting spectrum graph like to specify the current/optimal positions on spectrums of a problem type or variable set or other high variation structure, and identify the limits of relevance of structural similarities like applying the intersecting spectrum graph around nodes with no other specifications/surrounding structures, like to 'connect disconnected nodes'
+
 
 II. Queries and Results
 
