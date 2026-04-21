@@ -804,7 +804,9 @@ I. To do list
 
 	- identify relevant usages of graphs like the intersecting spectrum graph like to specify the current/optimal positions on spectrums of a problem type or variable set or other high variation structure, and identify the limits of relevance of structural similarities like applying the intersecting spectrum graph around nodes with no other specifications/surrounding structures, like to 'connect disconnected nodes'
 
-	- identify relevant structures like 'relevance components' which always create other 'relevant structures' when combined, like 'unique/required structures which always create unique/required structures when combined, or otherwise create relevance structures from components of relevance', as a way to generate relevant graphs from these 'combinations of relevance components'
+	- identify relevant structures like 'relevance components' which always create other/additional 'relevant structures' when combined, like 'unique/required structures which always create unique/required structures when combined, or otherwise create relevance structures from components of relevance', as a way to generate relevant graphs from these 'combinations of relevance components'
+
+	- identify graph sets that 'resolve ambiguities' like graph sets/sequences/ranges/structures that resolve the ambiguity of 'when to prioritize a variable set, and when to implement a variable set in the graph, which are overlapping intents', and identify applications of 'graphs that implement/prioritize a variable set', like as an alternate to 'variable combinations' in the 'intersecting spectrum graph of variable combinations', so instead of 'variable combinations' or 'structures of variable combinations', 'graphs prioritizing/implementing variable combinations' are applied as nodes
 
 
 II. Queries and Results
