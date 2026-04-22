@@ -810,7 +810,7 @@ I. To do list
 
 	- identify relevant graphs, like graphs of 'possible solution nodes, as possible function sets/sequences/combinations' which are structured relevantly like 'by filter so that leaf nodes indicate unique solutions', and which are positioned by similarity like 'similar relevance' so that a solution is similarly relevant for any problem or for relevant problems as its adjacent solutions, and identify useful structures like 'transferable relevance' where 'relevance for one problem indicates relevance for another problem or for any other problem', by identifying problems/structures that generate 'transferable relevance' or otherwise functional relevance
 
-- identify relevant graphs like a graph where a similarity/difference between a variable set is a problem/solution, so there are four nodes for each solution structure like a function set/structure, where the similarity/difference between the variables connected by the function is a problem or a solution
+	- identify relevant graphs like a graph where a similarity/difference between a variable set is a problem/solution, so there are four nodes for each solution structure like a function set/structure, where the similarity/difference between the variables connected by the function is a problem or a solution, to avoid over-specific graphs where a similarity is always formatted as a problem or solution rather than covering both scenarios, and identify other optimizations to avoid 'errors of extremes, and other error structures'
 
 
 II. Queries and Results
