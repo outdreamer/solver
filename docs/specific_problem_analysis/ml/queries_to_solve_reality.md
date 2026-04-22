@@ -808,6 +808,8 @@ I. To do list
 
 	- identify graph sets that 'resolve ambiguities' like graph sets/sequences/ranges/structures that resolve the ambiguity of 'when to prioritize a variable set, and when to implement a variable set in the graph, which are overlapping intents', and identify applications of 'graphs that implement/prioritize a variable set', like as an alternate to 'variable combinations' in the 'intersecting spectrum graph of variable combinations', so instead of 'variable combinations' or 'structures of variable combinations', 'graphs prioritizing/implementing variable combinations' are applied as nodes
 
+	- identify relevant graphs, like graphs of 'possible solution nodes, as possible function sets/sequences/combinations' which are structured relevantly like 'by filter so that leaf nodes indicate unique solutions', and which are positioned by similarity like 'similar relevance' so that a solution is similarly relevant for any problem or for relevant problems as its adjacent solutions, and identify useful structures like 'transferable relevance' where 'relevance for one problem indicates relevance for another problem or for any other problem', by identifying problems/structures that generate 'transferable relevance' or otherwise functional relevance
+
 
 II. Queries and Results
 
