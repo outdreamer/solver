@@ -812,6 +812,10 @@ I. To do list
 
 	- identify relevant graphs like a graph where a similarity/difference between a variable set is a problem/solution, so there are four nodes for each solution structure like a function set/structure, where the similarity/difference between the variables connected by the function is a problem or a solution, to avoid over-specific graphs where a similarity is always formatted as a problem or solution rather than covering both scenarios, and identify other optimizations to avoid 'errors of extremes, and other error structures'
 
+	- identify relevant graphs like 'graphs of interface structures of problems, as a problem-solving graph', where interface structures have relevance, like how 'limits of a problem can be solutions to the problem'
+
+	- identify relevance structures like how similarities (like the 'most similar node/connection on a graph') can have 'stable relevance across graphs', similarities can have a 'range of relevance on a relevance variable spectrum', and similarities can have 'optimal relevance, like similarities which are interfaces'
+
 
 II. Queries and Results
 
