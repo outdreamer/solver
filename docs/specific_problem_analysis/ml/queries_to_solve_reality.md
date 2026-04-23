@@ -816,6 +816,8 @@ I. To do list
 
 	- identify relevance structures like how similarities (like the 'most similar node/connection on a graph') can have 'stable relevance across graphs', similarities can have a 'range of relevance on a relevance variable spectrum', and similarities can have 'optimal relevance, like similarities which are interfaces'
 
+	- identify relevant structures like how 'a problem that is frequently misunderstood' will have an 'initial suboptimal solution' that may be later corrected, which is a 'chronological sequence', so 'chronological sequences' are 'too simple a structure for identifying optimal solutions', and identify other structures like 'sequences' of problem/solution structures like a 'problem, suboptimal solution, optimal solution' that invalidate the use of the structure to identify problems/solutions
+
 
 II. Queries and Results
 
