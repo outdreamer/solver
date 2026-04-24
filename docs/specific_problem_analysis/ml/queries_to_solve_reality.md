@@ -818,6 +818,8 @@ I. To do list
 
 	- identify relevant structures like how 'a problem that is frequently misunderstood' will have an 'initial suboptimal solution' that may be later corrected, which is a 'chronological sequence', so 'chronological sequences' are 'too simple a structure for identifying optimal solutions', and identify other structures like 'sequences' of problem/solution structures like a 'problem, suboptimal solution, optimal solution' that invalidate the use of the structure to identify problems/solutions
 
+	- identify relevant structures to generate insights, like how the insight 'after a new powerful variable is identified, its trivial to generate other insights, because its trivial to generate connections of that powerful variable to existing powerful variables' can be generated from a structural insight like 'after a new graph is identified, there are required/optimal intents to implement using that graph'
+
 
 II. Queries and Results
 
