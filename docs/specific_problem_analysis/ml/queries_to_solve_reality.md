@@ -820,6 +820,8 @@ I. To do list
 
 	- identify relevant structures to generate insights, like how the insight 'after a new powerful variable is identified, its trivial to generate other insights, because its trivial to generate connections of that powerful variable to existing powerful variables' can be generated from a structural insight like 'after a new graph is identified, there are required/optimal intents to implement using that graph'
 
+- identify relevant variants of a structure, like relevant variants of vector graphs, like graphs of different formats of a vector and different interface variable changes created by a vector in another relevant graph, as a component graph to identify useful graphs generatable with these vector graphs
+
 
 II. Queries and Results
 
