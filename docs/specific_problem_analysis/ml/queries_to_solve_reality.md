@@ -824,7 +824,7 @@ I. To do list
 
 	- identify relevant graphs like a graph of 'sequences of interface variables' like a sequence such as 'definitions, then requirements, then requirement violations, then solutions' which can support additional problem-solving structures like 'direct connections of distant points on the sequence' (like where a 'definition is a solution')
 
-	- identify relevant graphs like a graph of 'solution/error structures' of solution variables like 'stability' and surrounding 'combinations of requirements of variable values for intents' which represent 'sufficient differences to generate opposites of the solution variable' like 'requirements for randomness' which make the 'solution variable' a 'problem variable', as a way to connect 'solution/error variants of a variable' to 'identify when a solution changes into an error'
+	- identify relevant graphs like a graph of 'solution/error structures' of solution variables like 'stability' and surrounding 'combinations of requirements of variable values for intents' which represent 'sufficient differences to generate opposites of the solution variable' like 'requirements for randomness' which make the 'solution variable' a 'problem variable', as a way to connect 'solution/error variants of a variable' to 'identify when a solution changes into an error', and identify 'ratios of solution/error variants of a variable' that indicate a 'general vs. specific solution variable (a general solution variable, which is generally/usually a solution structure bc it changes most error structures in the direction of optimal points on relevant graphs)'
 
 
 II. Queries and Results
