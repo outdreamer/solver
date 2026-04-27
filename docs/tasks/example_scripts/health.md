@@ -638,8 +638,10 @@
 				- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8303934/
 			- blessed thistle (cnicin) 
 				- https://scitechdaily.com/completely-new-use-discovered-this-traditional-herb-has-remarkable-nerve-regenerative-properties/
+		- PMS pain:
+			- ginger, chamomile
 		- hair loss: 
-			- treat dermatological problems (seborrheic dermatitis, fungal/bacterial infections), organ (adrenal/thyroid/kidney/liver) damage problems, diabetes/high blood sugar, PCOS, vitamin deficiencies (vitamin d, potassium, iron, zinc, iodine and b-vitamins) and hormone imbalances first, then use ginger, rosemary, peptides, choline, iodine, inositol, b-vitamins, multi-vitamins, collagen, biotin, ferritin, msm, pumpkin seed oil, cinnamic acid, caffeine, deoxy-d-ribose
+			- treat dermatological problems (seborrheic dermatitis, fungal/bacterial infections), organ (adrenal/thyroid/kidney/liver) damage problems, diabetes/high blood sugar, PCOS, vitamin deficiencies (vitamin d, potassium, iron, zinc, iodine and b-vitamins) and hormone imbalances first, then use jujube, ginger, rosemary, peptides, choline, iodine, inositol, b-vitamins, multi-vitamins, collagen, biotin, ferritin, msm, pumpkin seed oil, cinnamic acid, caffeine, deoxy-d-ribose
 		- metabolic problems
 			- avoid air pollution containing lipopolysaccharide (LPS) and treat bacterial infections which can cause diabetes, heart disease, and liver problems through increasing lipopolysaccharide levels
 			- obesity:
