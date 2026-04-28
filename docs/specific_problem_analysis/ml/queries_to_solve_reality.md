@@ -840,6 +840,8 @@ I. To do list
 
 	- identify relevance structures like the 'ratio of similarity to a definition and its variants' and the 'ratio of difference from other definitions and their variants' and the 'lack of independent variables from both sets of definition variants, variables which could identify an alternative if the variables existed' which 'combine to generate relevance (of the similar definition, for intents like identifying a structure)' bc it 'covers a definition of relevance' (the three structures combined cover the possible relevant alternatives), and identify other combinations/sequences/structures that generate relevance, like by 'covering all requirements of relevance' or 'covering all inputs of relevance'
 
+	- identify the optimal ways the 'similarities/differences' of the relevance definition components like 'stability' can interact, like how 'stability' indicates 'similarity across state changes' and this similarity can contradict other relevance definition component similarities/differenes, like 'uniqueness/variation', so the definition of stability can be usefully specified to 'optimal stability' like 'stability of optimalities'
+
 
 II. Queries and Results
 
