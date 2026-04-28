@@ -835,6 +835,9 @@ I. To do list
 		- relatedly, identify the 'most probable errors of solution structures' and 'optimizations that can avoid multiple errors across solution structures'
 		- identify 'combinations/interactions/structures of relevance structures' to apply like 'identify optimizations to an algorithm for optimality' and 'identify useful stopping points of optimization for usability' which applies an 'interaction between optimality and usability' and identify other useful interactions to apply like 'interactions with a high covering ratio of primary interface variables' and what priority/sequence/combination/network/structure to apply them in
 
+	- identify relevant graphs like graphs of 'interface structures of relevant/problem/solution structures' like 'cycles/waves/sequences of problems/solutions' and filter by 'areas of possibility/probability/requirement' to identify 'possible/probable/required cycles/waves/sequences of problems/solutions' and identify the 'degree of interface analysis iterations to apply' (to create structures like 'complexity cycles of causal loops of problems/solutions') to identify a 'graph of all relevant structures of problem/solution structures' that implements optimization metrics like 'representing a ratio of the definition of a problem/solution'
+		- relatedly, identify the 'problem/solution definitions' that optimize a 'definition/requirement/requirement violation/change of requirement violation/solution' sequential graph
+
 
 II. Queries and Results
 
