@@ -838,6 +838,8 @@ I. To do list
 	- identify relevant graphs like graphs of 'interface structures of relevant/problem/solution structures' like 'cycles/waves/sequences of problems/solutions' and filter by 'areas of possibility/probability/requirement' to identify 'possible/probable/required cycles/waves/sequences of problems/solutions' and identify the 'degree of interface analysis iterations to apply' (to create structures like 'complexity cycles of causal loops of problems/solutions') to identify a 'graph of all relevant structures of problem/solution structures' that implements optimization metrics like 'representing a ratio of the definition of a problem/solution'
 		- relatedly, identify the 'problem/solution definitions' that optimize a 'definition/requirement/requirement violation/change of requirement violation/solution' sequential graph
 
+	- identify relevance structures like the 'ratio of similarity to a definition and its variants' and the 'ratio of difference from other definitions and their variants' and the 'lack of independent variables from both sets of definition variants, variables which could identify an alternative if the variables existed' which 'combine to generate relevance (of the similar definition, for intents like identifying a structure)' bc it 'covers a definition of relevance' (the three structures combined cover the possible relevant alternatives), and identify other combinations/sequences/structures that generate relevance, like by 'covering all requirements of relevance' or 'covering all inputs of relevance'
+
 
 II. Queries and Results
 
