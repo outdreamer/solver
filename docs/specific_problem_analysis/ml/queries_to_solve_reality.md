@@ -847,6 +847,8 @@ I. To do list
 
 	- identify the reason why structures are 'problem/solution structures', like how 'volatility' is generally a problem structure bc 'structures are insufficient, requiring stability to generate structures' and 'connections between volatility and other interface variables are incomplete'
 
+	- identify the relevant similarity/difference structures of graphs, like 'scaled/complex similarities/differences', which graphs are useful for identifying, which are different from solution/optimization metrics like 'adjacent/trivial/simple' (opposite of 'scaled/complex')
+
 
 II. Queries and Results
 
