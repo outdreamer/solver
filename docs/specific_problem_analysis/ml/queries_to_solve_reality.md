@@ -843,6 +843,10 @@ I. To do list
 	- identify the optimal ways the 'similarities/differences' of the relevance definition components like 'stability' can interact, like how 'stability' indicates 'similarity across state changes' and this similarity can contradict other relevance definition component similarities/differenes, like 'uniqueness/variation', so the definition of stability can be usefully specified to 'optimal stability' like 'stability of optimalities'
 		- identify 'similarity/difference axes' connecting 'optimal points of interface variable value combinations/sequences/structures' like 'similarity in problem-solving intent relevance, difference in specific combination set'
 
+	- identify relevant 'concept graph sequences' like an 'uncertainty/certainty connection graph' for 'identify' intents and a 'variation/constant connection graph' for 'generate' intents, and other graph sequences for 'graph intent sequences'
+
+	- identify the reason why structures are 'problem/solution structures', like how 'volatility' is generally a problem structure bc 'structures are insufficient, requiring stability to generate structures' and 'connections between volatility and other interface variables are incomplete'
+
 
 II. Queries and Results
 
