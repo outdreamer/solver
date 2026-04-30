@@ -849,7 +849,7 @@ I. To do list
 
 	- identify the relevant similarity/difference structures of graphs, like 'scaled/complex similarities/differences', which graphs are useful for identifying, which are different from solution/optimization metrics like 'adjacent/trivial/simple' (opposite of 'scaled/complex')
 
-	- identify relevant structures like how its useful to 'identify trivial/simple/core relevance first, to build more complex relevance' which identifies 'triviality' as a useful initial optimization to apply when 'identifying relevance', and identify other useful sequences/networks of optimizations for intents
+	- identify relevant structures like how its useful to 'identify trivial/simple/core relevance first, to build more complex relevance' which identifies 'triviality' as a useful initial optimization to apply when 'identifying relevance', and identify other useful sequences/networks of optimizations for intents like 'identify simple structures, then identify similarities/differences of those simple structures, then identify impact of similarities/differences when iterated/otherwise interactive with known relevant structures like known relevant variables/problems'
 
 
 II. Queries and Results
