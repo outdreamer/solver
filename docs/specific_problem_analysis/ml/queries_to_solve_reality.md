@@ -856,6 +856,8 @@ I. To do list
 
 	- identify relevant graph variants, like how a problem-solving graph can apply problem nodes of 'cross-interface relevance connections between conceptual priorities and specific structures' (like how position can be highly relevant when accuracy is a relevant priority), with intent to identify 'solutions associated with the problem node' regardless of whether available info is 'conceptual/structural/other interface info' and identify optimizations of relevance like 'cases where position is generally/otherwise optimally relevant' to organize the graph by relevance
 
+	- identify relevant structures like 'interface variables that make a solution obvious' like organization/understanding/optimization, as well as 'filters that identify unique solutions'
+
 
 II. Queries and Results
 
