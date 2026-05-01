@@ -854,6 +854,8 @@ I. To do list
 
 	- identify relevant similarity structures, like how the relevant sequences of 'problem definitions/requirements/requirements violations/changes of requirements violations' and 'solution variable combinations, and solution variable combination specifications, and causes of solution variable combination specifications, and similarities of causes of solution variable combination specifications' are similar in that they both 'apply similarities after some differences have been generated' and 'apply compounding specifications' and 'both should be connected with similarities (connecting the problem sequence and the solution sequence), given that theyre extremes on the same problem/solution spectrum'
 
+	- identify relevant graph variants, like how a problem-solving graph can apply nodes of 'cross-interface relevance connections between conceptual priorities and specific structures' (like how position can be highly relevant when accuracy is a relevant priority), and identify optimizations of relevance like 'cases where position is generally relevant' to organize the graph by relevance
+
 
 II. Queries and Results
 
