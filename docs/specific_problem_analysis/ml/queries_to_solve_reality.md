@@ -858,7 +858,9 @@ I. To do list
 
 	- identify relevant structures like 'interface variables that make a solution obvious' like organization/understanding/optimization, as well as 'filters that identify unique solutions'
 
+	- identify relevant graphs like "connection type graphs where optimizations like 'trivial connections to trivial connections' are implemented"
 
+	
 II. Queries and Results
 
 
