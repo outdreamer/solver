@@ -32,7 +32,7 @@ Regarding point 1, a graph of graphs isnt useful without other structures, like 
 
 4. "Just apply the definition of relevance iteratively"
 
-The definition of relevance is not simple, and its not just a concept network, but like other interfaces, it includes interface structures of relevance, like 'specific structures implementing relevance definition components'.
+The definition of relevance is not simple, and it's not just a concept network, but like other interfaces, it includes interface structures of relevance, like 'specific structures implementing relevance definition components'.
 
 'Applying the definition network of relevance' is not equivalent to 'applying the graph of relevant graphs', so iteratively applying the definition network of relevance is not all you need. 
 
