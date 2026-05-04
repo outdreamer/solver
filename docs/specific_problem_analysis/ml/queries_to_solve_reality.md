@@ -866,7 +866,9 @@ I. To do list
 
 	- identify relevant graphs like the graph of 'combinations of interface variables', where optimizations like 'combinations of units of optimal interface variable combinations/structures create other optimal interface variable structures/combinations' are applied to organize the graph, so that each intersection point is an optimal point, to implement 'additive optimality/relevance' and 'connectible optimality/relevance' and other 'functions of optimality/relevance' in the same graph
 
+- identify relevant graph intent combinations/structures like 'filter list of concept combinations for optimality, then specify optimal concept combinations to connect to functionality' which is an intent sequence involving the structure of 'identify relevant points, then identify relevant specifications mapped to those points' which is a useful sequence bc 'filtering a list' is useful and 'specifying concepts' is useful and the set of intents generate a sequence which can be implemented with standard graph structures like 'points/maps'
 	
+
 II. Queries and Results
 
 
