@@ -868,7 +868,7 @@ I. To do list
 
 	- identify relevant graph intent combinations/structures like 'filter list of concept combinations for optimality, then specify optimal concept combinations to connect to functionality' which is an intent sequence involving the structure of 'identify relevant points, then identify relevant specifications mapped to those points' which is a useful sequence bc 'filtering a list' is useful and 'specifying concepts' is useful and the set of intents generate a sequence which can be implemented with standard graph structures like 'points/maps'
 	
-	- identify graph optimizations like 'removing data unused by a ratio of relevance queries' and 'storing relevant info about "solutions/errors crossing a causal sequence" with each node crossed' and 'storing relevant queries crossing a node, with each node crossed' and 'positioning relevant info in adjacent positions to nodes' and 'compressing relevant info up to n degrees of iteration to a commonly queried node'
+	- identify graph optimizations like 'removing data unused by a ratio of relevance queries' and 'storing relevant info about "solutions/errors crossing a causal sequence" with each node crossed' and 'storing relevant queries crossing a node, with each node crossed' and 'positioning relevant info in adjacent positions to nodes' and 'compressing relevant info up to n degrees of iteration to a commonly queried node', and identify the 'maximum coordinating graph optimizations' and the 'maximum covering graph optimizations' and 'overlapping sets of these optimization sets' and other optimization structures of these optimization structures
 
 
 II. Queries and Results
