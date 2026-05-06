@@ -875,6 +875,8 @@ I. To do list
 
 	- identify relevant graph variables, like how its useful to graph connections in a 'possibility space' to enable intents like 'identifying optimal connections (with more direct/trivial connections than connections that are already identified/certain)', because 'every connection is valid/possible in a possibility space', and identify other variables than 'possibility' and the 'optimizations they enable, when the variable is implemented in a graph structure'
 
+	- identify relevant graphs like 'system graphs, with possible error structures at each node structure/combination' as an 'error layer of the graph' and a 'solution layer connected to the error layer connected to structures of nodes' to optimally represent 'error/solution states of the system, as well as the base functioning state of the system as the core graph'
+
 
 II. Queries and Results
 
