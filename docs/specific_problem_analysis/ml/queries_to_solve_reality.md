@@ -873,6 +873,8 @@ I. To do list
 
 	- identify relevant graphs like graphs of optimality functions (indicating changes in optimality for different optimization metrics) for optimization sequences/networks like 'optimization iterations' or other relevant sequences like 'optimization/usage alternations' or 'problem/solution alternations'
 
+	- identify relevant graph variables, like how its useful to graph connections in a 'possibility space' to enable intents like 'identifying optimal connections (with more direct/trivial connections than connections that are already identified/certain)', because 'every connection is valid/possible in a possibility space', and identify other variables than 'possibility' and the 'optimizations they enable, when the variable is implemented in a graph structure'
+
 
 II. Queries and Results
 
