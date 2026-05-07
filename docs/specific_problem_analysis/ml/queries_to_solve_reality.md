@@ -877,6 +877,8 @@ I. To do list
 
 	- identify relevant graphs like 'system graphs, with possible error structures at each node structure/combination' as an 'error layer of the graph' and a 'solution layer connected to the error layer connected to structures of nodes' to optimally represent 'error/solution states of the system, as well as the base functioning state of the system as the core graph'
 
+	- identify optimal graph formats as 'optimal graph starting points', like how a graph can be considered more optimized than a standard graph of 'type/state/condition/requirement/variable' nodes/connections, once it 'organizes solution sets' in an 'organized structure like an "index" of "solution step sequences"' so that 'solution structures (like step sequences)' are differentiated/identifiable/filterable/findable with 'info likely to be available' as in 'different combinations of variables that can be mapped to solution structures', so it may be useful to start constructing a graph with these definitions of optimal graph formats, to start with 'differentiable solution sets' and mapping these to 'different combinations of variables' to generate the graph
+
 
 II. Queries and Results
 
