@@ -879,6 +879,10 @@ I. To do list
 
 	- identify optimal graph formats as 'optimal graph starting points', like how a graph can be considered more optimized than a standard graph of 'type/state/condition/requirement/variable' nodes/connections, once it 'organizes solution sets' in an 'organized structure like an "index" of "solution step sequences"' so that 'solution structures (like step sequences)' are differentiated/identifiable/filterable/findable with 'info likely to be available' as in 'different combinations of variables that can be mapped to solution structures', so it may be useful to start constructing a graph with these definitions of optimal graph formats, to start with 'differentiable solution sets' and mapping these to 'different combinations of variables' to generate the graph
 
+	- identify relevant structures like 'relevant structures of relevant graphs' like 'useful expansions between relevant graphs, to enable identifying new relevant connecting/optimized graphs' or 'identifying grids of relevant graphs, to resolve grids into networks of relevant graphs' or 'identifying constants connecting relevant graphs, to identify degrees of variation and other variables connecting relevant graphs'
+
+	- identify relevant graph optimization intents like 'identify what sets/structures of similarities can be trivial/obvious/inevitable/required in the same graph' and 'identify maximally different graph variants to apply as opposing graphs, until they can be identified as integratable/filterable'
+
 
 II. Queries and Results
 
