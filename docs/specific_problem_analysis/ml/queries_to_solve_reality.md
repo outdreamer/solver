@@ -883,6 +883,8 @@ I. To do list
 
 	- identify relevant graph optimization intents like 'identify what sets/structures of similarities can be trivial/obvious/inevitable/required in the same graph' and 'identify maximally different graph variants to apply as opposing graphs, until they can be identified as integratable/filterable'
 
+	- identify relevant structures like "variations that make structures like 'perspectives' equivalent", like applying 'variants of causal sequences' to avoid requiring multiple different structures (like 'causal sequences' and a 'variation perspective' and a 'higher dimensional perspective to see lower-dimensional variables clearly') for 'complete identification of variable interactions', since the 'variants of causal sequences' are sufficient for a complete perspective
+
 
 II. Queries and Results
 
