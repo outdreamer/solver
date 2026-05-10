@@ -885,6 +885,8 @@ I. To do list
 
 	- identify relevant structures like "variations that make structures like 'perspectives' equivalent", like applying 'variants of causal sequences' to avoid requiring multiple different structures (like 'causal sequences' and a 'variation perspective' and a 'higher dimensional perspective to see lower-dimensional variables clearly') for 'complete identification of variable interactions', since the 'variants of causal sequences' are sufficient for a complete perspective
 
+	- identify relevant graph variables like 'overlapping comparison connections' (like 'where a solution is different from comparable standards on either side, so the solution is in between the comparable standards' like 'comparison to requirements and comparison to volatility' or 'comparison to extremes') as an 'abstract connection type of spectrums' that can be used to 'identify/generate relevant graphs', and identify 'comparisons of comparisons' that can 'generate relevant graph connections', and identify 'relevant comparison structures/positions/sequences' like how a 'spectrum is relevant, when its obvious that a solution should be compared as different/similar to extremes/averages of a variable'
+
 
 II. Queries and Results
 
