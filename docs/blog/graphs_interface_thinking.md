@@ -1,4 +1,4 @@
-# Graphs implementing Interface Thinking
+# Graphs implementing interface thinking
 
 Interface thinking is not just 'deep (as in scaled) thinking', because interface thinking is 'thinking in multiple optimal ways, implementing multiple optimization structures', not with one optimization structure like 'scale'.
 
