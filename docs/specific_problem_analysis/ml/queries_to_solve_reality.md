@@ -891,6 +891,8 @@ I. To do list
 
 	- identify relevant graphs like where 'identifying/defining variables of a structure' are the first surrounding layer and the next surrounding layer is 'ways to identify/define variables of the structure' like 'specifications/similarities of the identifying structure variables'
 
+	- identify relevant graph variables like 'graph potential' like how applying a 'set of intersecting interface variables as axes' allows a useful 'degree of possible variation' in the form of 'aligning/similarizing combinations/structures of interface variable sub-spectrums' or other relevant structures embedded in the graph and also 'restricts the degree of possible variation' by requiring 'alignment/similarity with the axes', and identify graphs with optimal potential for intents like 'identifying relevant variants of a graph'
+
 
 II. Queries and Results
 
