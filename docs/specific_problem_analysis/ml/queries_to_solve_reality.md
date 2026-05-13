@@ -893,7 +893,7 @@ I. To do list
 
 	- identify relevant graph variables like 'graph potential' like how applying a 'set of intersecting interface variables as axes' allows a useful 'degree of possible variation' in the form of 'aligning/similarizing combinations/structures of interface variable sub-spectrums' or other relevant structures embedded in the graph and also 'restricts the degree of possible variation' by requiring 'alignment/similarity with the axes', and identify graphs with optimal potential for intents like 'identifying relevant variants of a graph'
 
-	- identify 'similarities/overlaps' in structures like sequences like 'causal sequences' and 'prioritized sequences' to implement 'sequences of similarities in graphs' and identify optimal structures to implement these sequences like 'surrounding structures (concentric layers)' or 'sequential maps'
+	- identify 'similarities/overlaps' in structures like sequences (like 'causal sequences', 'prioritized sequences', 'intent/implementation sequences', 'optimization sequences', and 'requirement sequences') to implement 'sequences of similarities in graphs' and identify optimal structures to implement these sequences like 'surrounding structures (concentric layers)' or 'sequential maps', and identify relevant similarity structures like how graphs of 'abstract similarity sequences' are likely to contain 'overlapping similarities' (similarities useful for multiple intents)
 
 
 II. Queries and Results
