@@ -895,7 +895,7 @@ I. To do list
 
 	- identify 'similarities/overlaps' in structures like sequences (like 'causal sequences', 'prioritized sequences', 'intent/implementation sequences', 'optimization sequences', and 'requirement sequences') to implement 'sequences of similarities in graphs' and identify optimal structures to implement these sequences like 'surrounding structures (concentric layers)' or 'sequential maps', and identify relevant similarity structures like how graphs of 'abstract similarity sequences' are likely to contain 'overlapping similarities' (similarities useful for multiple intents)
 
-	- identify relevant graph similarity structures, like how if an error has a specified structure in a graph (like if each 'cluster' represents an 'error type'), then the components/input structures of the error structure (like 'individual nodes in a cluster') map to components/input structures of errors in general (like 'definitions/components/requirements/inputs of error types')
+	- identify relevant graph similarity structures, like how if an error has a 'specified/required' structure in a graph (like if each 'cluster' represents an 'error type'), then the 'components/input structures' of the error structure of the graph (like 'individual nodes in a cluster') map to 'components/input structures' of errors in general (like 'definitions/components/requirements/causes/inputs of error types'), which applies an implementation of a 'sequence' similarity (applying the sequence of 'error definition/inputs/requirements/causes to error type' by aligning it with the sequence of 'individual nodes to a cluster of nodes')
 
 
 II. Queries and Results
