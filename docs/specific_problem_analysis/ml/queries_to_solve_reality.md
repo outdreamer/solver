@@ -899,6 +899,8 @@ I. To do list
 
 	- identify relevant structures like how a graph of 'causal sequences of abstraction definitions' is an approximate graph of 'requirements' (since causal sequences represent dependencies which are a variant of requirements, and definitions represent another variant of requirements) and in a similar way, identify the 'trivial/otherwise optimal' implementations like 'approximations' of a graph, and identify causal sequences/other useful structures of 'optimal implementations of a graph'
 
+	- identify relevant graphs like 'mixed-query/info graphs' where some nodes are 'info nodes' and some nodes are 'query nodes of info nodes, to identify other/new/missing/changing info' as a useful way to represent 'changing info' or 'missing info' as 'query nodes of relevant info nodes'
+
 
 II. Queries and Results
 
