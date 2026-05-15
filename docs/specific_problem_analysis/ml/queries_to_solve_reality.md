@@ -897,6 +897,8 @@ I. To do list
 
 	- identify relevant graph similarity structures, like how if an error has a 'specified/required' structure in a graph (like if each 'cluster' represents an 'error type'), then the 'components/input structures' of the error structure of the graph (like 'individual nodes in a cluster') map to 'components/input structures' of errors in general (like 'definitions/components/requirements/causes/inputs of error types'), which applies an implementation of a 'sequence' similarity (applying the sequence of 'error definition/inputs/requirements/causes to error type' by aligning it with the sequence of 'individual nodes to a cluster of nodes'), and identify graph structures like 'barriers/opposing structures of inputs to error structures' to 'trivially/otherwise relevantly identify solution structures'
 
+	- identify relevant structures like how a graph of 'causal sequences of abstraction definitions' is an approximate graph of 'requirements' (since causal sequences represent dependencies which are a variant of requirements, and definitions represent another variant of requirements) and in a similar way, identify the 'trivial/otherwise optimal' implementations like 'approximations' of a graph, and identify causal sequences/other useful structures of 'optimal implementations of a graph'
+
 
 II. Queries and Results
 
