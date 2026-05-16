@@ -901,6 +901,8 @@ I. To do list
 
 	- identify relevant graphs like 'mixed-query/info graphs' where some nodes are 'info nodes' and some nodes are 'query nodes of info nodes, to identify other/new/missing/changing info' as a useful way to represent 'changing info' or 'missing info' as 'query nodes of relevant info nodes'
 
+	- identify relevant structures like perspectives like useful 'cross-interface structure sequences' like how 'function/structure' are a useful cross-interface structure to apply for intents like 'identify queries to run on a graph' and 'function/change' is useful to apply for intents like 'identifying useful variation in variables' and 'change/structure' is useful to apply for intents like 'optimize a graph' and 'optimize a graph, up to a point where the ratio of functions/queries required to be run on the graph is nearly zero, bc the structure has all the relevant info, so functions are almost completely unrequired' (applying a 'change/structure' intent relevant to a 'function/structure' ratio)
+
 
 II. Queries and Results
 
