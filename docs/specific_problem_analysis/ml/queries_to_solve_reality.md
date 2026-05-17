@@ -905,6 +905,12 @@ I. To do list
 
 	- identify relevant graphs like 'graphs of abstract intents' to solve the problem of 'identifying intent networks' which has sub-problems like 'connecting unconnected intents in a causal intent sequence with unidentified intents' and 'identifying optimal positions of intents in a sequence' which can be partially solved by 'comparing intents to abstract intents'
 
+	- identify useful sequences to align (like graph sequences, priority sequences, implementation sequences, relevance sequences, constant/variation sequences, problem/solution sequences, interface variable combination sequences, spectrums, optimization sequences, etc) and identify what is useful about alignment (it can avoid 'identifying the complete graph associated with each sequence', bc the other aligned sequences filter the relevant subsets of graphs)
+
+	- identify useful optimizations like how its suboptimal to solve one problem like 'fulfill/change requirement violations' bc the assumption that 'requirements are correct/complete' can be false, so 'identifying a query of assumption combination graphs' is required to 'identify useful intents across assumption combinations' and solving the problem of 'identifying useful assumptions/requirements' is useful to solve as well as 'identifying fulfillments/changes of violated requirements' bc once a structure is optimized for like 'requirements', other structures like 'assumptions' become relevant unless the original optimization optimizes for multiple structures, so 'solving the problem relevantly' by 'solving for combinations of optimizations like requirement/assumption optimizations' is useful, and similarly its useful to identify certainty/variation combination structures like 'useful variation to apply to certainties'
+
+	- identify cross-interface algorithms like 'optimize a structure for a metric, while checking for changes in assumptions generating the structure, and identifying variants of the structure, and optimizing for variants of the structure, and identifying variants of the metric, and optimizing for variants of the metric' and identify structures to implement these algorithms like 'degree of variation applied across interface structures' to enable optimization (as in 'some degree of variation can be applied like "identifying/generating/optimizing for variants" which makes ongoing optimization processes still relevant')
+
 
 II. Queries and Results
 
