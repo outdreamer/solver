@@ -911,6 +911,8 @@ I. To do list
 
 	- identify cross-interface algorithms like 'optimize a structure for a metric, while checking for changes in assumptions generating the structure, and identifying variants of the structure, and optimizing for variants of the structure, and identifying variants of the metric, and optimizing for variants of the metric' and identify structures to implement these algorithms like 'degree of variation applied across interface structures' to enable optimization (as in 'some degree of variation can be applied like "identifying/generating/optimizing for variants" which makes ongoing optimization processes still relevant')
 
+	- identify graph optimizations like 'identifying when a graph structure (like a causal sequence) is irrelevant' to identify the optimal graph sequences (like how 'causal sequences are irrelevant' when 'sequences are trivial in degree' and when 'every sequence has the same result like in a graph of all solutions or where all nodes are trivially connected')
+
 
 II. Queries and Results
 
