@@ -913,6 +913,8 @@ I. To do list
 
 	- identify graph optimizations like 'identifying when a graph structure (like a causal sequence) is irrelevant' to identify the optimal graph sequences (like how 'causal sequences are irrelevant' when 'sequences are trivial in degree' and when 'every sequence has the same result like in a graph of all solutions or where all nodes are trivially connected')
 
+	- identify relevant structures like 'alternations of formats' to identify useful 'standardization patterns of graphs', like how its useful to apply 'causal sequences' first to identify structures 'organizing/similarizing the causal sequences' like 'cycles/multi-directional cause/hub causes'
+
 
 II. Queries and Results
 
