@@ -915,6 +915,8 @@ I. To do list
 
 	- identify relevant structures like 'alternations of formats' to identify useful 'standardization patterns of graphs', like how its useful to apply 'causal sequences' first to identify structures 'organizing/similarizing the causal sequences' like 'cycles/multi-directional cause/hub causes'
 
+	- identify relevant structures like 'graphs of wave functions' to apply as 'constant base structures to apply changes to' like how 'every variable has a function where it can generate a wave' so 'identifying the wave functions a variable creates' can help standardize the problem of 'identifying relevant functions of a variable' to fulfill general intents like 'identify a specific variable interaction function of a variable'
+
 
 II. Queries and Results
 
