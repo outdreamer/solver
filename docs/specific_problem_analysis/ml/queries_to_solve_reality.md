@@ -917,6 +917,8 @@ I. To do list
 
 	- identify relevant structures like 'graphs of wave functions' to apply as 'constant base structures to apply changes to' like how 'every variable has a function where it can generate a wave' so 'identifying the wave functions a variable creates' can help standardize the problem of 'identifying relevant functions of a variable' to fulfill general intents like 'identify a specific variable interaction function of a variable'
 
+	- identify relevant query sub-queries or query sequences like 'identify relevant info, then identify relevant info like "entities" in the info identified by the first query' like 'identify a relevant sub-network of a graph related to a keyword, then identify the "limits/endpoints" of that sub-network to identify the most relevant info in the sub-network'
+
 
 II. Queries and Results
 
