@@ -919,6 +919,8 @@ I. To do list
 
 	- identify relevant query sub-queries or query sequences like 'identify relevant info, then identify relevant info like "entities" in the info identified by the first query' like 'identify a relevant sub-network of a graph related to a keyword, then identify the "limits/endpoints" of that sub-network to identify the most relevant info in the sub-network', and identify 'what info is identifiable' once a 'subset of info is identified' and 'what info is relevant to identify in the identifiable info' which is an 'info/relevance sequence'
 
+	- identify relevant structures like 'relevant graph variants' like how 'requirements of problems (to identify inputs of problems, and identify points where problems are generated)' is a relevant graph variant of a 'requirement graph (to identify problems as changes to requirement implementations)'
+
 
 II. Queries and Results
 
