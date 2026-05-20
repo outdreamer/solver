@@ -925,7 +925,9 @@ I. To do list
 
 	- identify relevant similarity/difference structures to generate relevant graphs, like where 'differences like "different starting points/directions of relevant variables" cause similarities like "intersections between relevant variables"'
 
-	- identify relevant graphs like where 'solutions are in a position that connects every error type, like where solutions are between every set of error types' so every possible connection crosses a solution, or where a 'solution is the inevitable endpoint of every possible path/causal sequence'
+	- identify relevant graphs like where 'solutions are in a position that connects every error type, like where solutions are between every set of error types' so every possible connection crosses a solution, or where a 'solution is the inevitable endpoint of every possible path/causal sequence' or where 'every node/connection is a solution'
+
+	- identify optimal interactions of optimization/solution structures, like optimal ways that 'problem-solving workflows' identify/generate relevant solution structures like 'relevant solution graphs (like graphs of workflows)'
 
 
 II. Queries and Results
