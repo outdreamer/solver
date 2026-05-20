@@ -923,6 +923,8 @@ I. To do list
 
 	- identify 'different sets of coordinating requirements/intents, given the same set of certainties/definitions' as a useful set of structures to connect in a graph (a graph connecting different coordinating requirement sets) as a way to solve problems by identifying a relevant (as in available/adjacent/optimal/otherwise useful) 'coordinating requirement set' and identifying 'changes to apply' to implement that 'coordinating requirement set'
 
+	- identify relevant similarity/difference structures to generate relevant graphs, like where 'differences like "different starting points/directions of relevant variables" cause similarities like "intersections between relevant variables"'
+
 
 II. Queries and Results
 
