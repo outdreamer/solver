@@ -921,9 +921,11 @@ I. To do list
 
 	- identify relevant structures like 'relevant graph variants' like how 'requirements of problems (to identify inputs of problems, and identify points where problems are generated)' is a relevant graph variant of a 'requirement graph (to identify problems as changes to requirement implementations)'
 
-	- identify 'different sets of coordinating requirements/intents, given the same set of certainties/definitions' as a useful set of structures to connect in a graph (a graph connecting different coordinating requirement sets) as a way to solve problems by identifying a relevant (as in available/adjacent/optimal/otherwise useful) 'coordinating requirement set' and identifying 'changes to apply' to implement that 'coordinating requirement set'
+	- identify 'different sets of coordinating requirements/intents, given the same set of certainties/definitions' as a useful set of structures to connect in a graph (a graph connecting different coordinating requirement sets) as a way to solve problems by identifying a relevant (as in available/adjacent/optimal/otherwise useful) 'coordinating requirement set' and identifying 'changes to apply' to implement that 'coordinating requirement set' and identify 'intersecting axes that cause relevant/optimal requirement sets (like multiple sets of coordinating requirement sets)'
 
 	- identify relevant similarity/difference structures to generate relevant graphs, like where 'differences like "different starting points/directions of relevant variables" cause similarities like "intersections between relevant variables"'
+
+	- identify relevant graphs like where 'solutions are in a position that connects every error type, like where solutions are between every set of error types' so every possible connection crosses a solution, or where a 'solution is the inevitable endpoint of every possible path/causal sequence'
 
 
 II. Queries and Results
