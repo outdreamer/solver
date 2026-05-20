@@ -921,6 +921,8 @@ I. To do list
 
 	- identify relevant structures like 'relevant graph variants' like how 'requirements of problems (to identify inputs of problems, and identify points where problems are generated)' is a relevant graph variant of a 'requirement graph (to identify problems as changes to requirement implementations)'
 
+	- identify 'different sets of coordinating requirements/intents, given the same set of certainties/definitions' as a useful set of structures to connect in a graph (a graph connecting different coordinating requirement sets) as a way to solve problems by identifying a relevant (as in available/adjacent/optimal/otherwise useful) 'coordinating requirement set' and identifying 'changes to apply' to implement that 'coordinating requirement set'
+
 
 II. Queries and Results
 
