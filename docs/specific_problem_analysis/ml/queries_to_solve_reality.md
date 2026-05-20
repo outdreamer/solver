@@ -927,6 +927,8 @@ I. To do list
 
 	- identify relevant graphs like where 'solutions are in a position that connects every error type, like where solutions are between every set of error types' so every possible connection crosses a solution, or where a 'solution is the inevitable endpoint of every possible path/causal sequence' or where 'every node/connection is a solution'
 
+	- identify ways to 'identify/generate a complete graph from a subset of a graph', like how identifying a 'function that generates a partial solution graph' is trivial, and is useful to follow by 'applying trivial/relevant variants of the function to generate more complete solution graphs'
+
 	- identify optimal interactions of optimization/solution structures, like optimal ways that 'problem-solving workflows' identify/generate relevant solution structures like 'relevant solution graphs (like graphs of workflows)'
 
 
