@@ -935,6 +935,8 @@ I. To do list
 
 	- identify the most optimal graph variants like the 'causal sequence graph of a graph' and identify the interface structures required to apply to generate these optimal graph variants, like how 'applying specifying structures (like definitions or examples or implementations) to the concept combination graph' enables the 'causal sequence graph' of the 'concept combination graph' to be identified, and 'optimizations of causal sequences' are required to identify the 'optimal causal sequence graph of the concept combination graph'
 
+	- identify problem-solving intent variants like how 'optimizing requirements' like by 'making requirements trivial/otherwise relevant' or 'making it trivial/otherwise relevant to implement any requirement' is an alternative to 'implementing requirements'
+
 
 II. Queries and Results
 
