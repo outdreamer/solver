@@ -933,6 +933,8 @@ I. To do list
 
 	- identify relevant graph variants like variants of the 'optimal concept combination graph', like a graph to 'identify/generate concept combinations', 'identify requirements from interactions of definitions', and an 'identification network that varies for each concept'
 
+	- identify the most optimal graph variants like the 'causal sequence graph of a graph' and identify the interface structures required to apply to generate these optimal graph variants, like how 'applying specifying structures (like definitions or examples or implementations) to the concept combination graph' enables the 'causal sequence graph' of the 'concept combination graph' to be identified, and 'optimizations of causal sequences' are required to identify the 'optimal causal sequence graph of the concept combination graph'
+
 
 II. Queries and Results
 
