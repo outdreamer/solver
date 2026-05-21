@@ -925,11 +925,13 @@ I. To do list
 
 	- identify relevant similarity/difference structures to generate relevant graphs, like where 'differences like "different starting points/directions of relevant variables" cause similarities like "intersections between relevant variables"'
 
-	- identify relevant graphs like where 'solutions are in a position that connects every error type, like where solutions are between every set of error types' so every possible connection crosses a solution, or where a 'solution is the inevitable endpoint of every possible path/causal sequence' or where 'every node/connection is a solution'
+	- identify relevant graphs like where 'solutions are in a position that connects every error type, like where solutions are between every set of error types' so every possible connection crosses a solution, or where a 'solution is the inevitable endpoint of every possible path/causal sequence' or where 'every node/connection is a solution', and identify 'similarities that create similarities/differences' to identify 'inputs of problems/solutions'
 
 	- identify ways to 'identify/generate a complete graph from a subset of a graph', like how identifying a 'function that generates a partial solution graph' is trivial, and is useful to follow by 'applying trivial/relevant variants of the function to generate more complete solution graphs'
 
 	- identify optimal interactions of optimization/solution structures, like optimal ways that 'problem-solving workflows' identify/generate relevant solution structures like 'relevant solution graphs (like graphs of workflows)'
+
+	- identify relevant graph variants like variants of the 'optimal concept combination graph', like a graph to 'identify/generate concept combinations', 'identify requirements from interactions of definitions', and an 'identification network that varies for each concept'
 
 
 II. Queries and Results
