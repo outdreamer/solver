@@ -939,6 +939,8 @@ I. To do list
 
 	- identify relevant structures of solutions like 'structures of solution sets to match' like how 'identifying a ratio/number of solutions to identify in a set of possible solutions' can be matched to a structure like 'average lowest subset count of subsets with the fewest possible similar solutions (the size of the smallest groups of solutions identifiable)'
 
+	- identify solution structures like 'where a solution set doesnt need to be filtered, bc the solution set has a general type of solutions above some ratio of optimality or having some other optimality type (indicating that every possible solution in the set is an acceptable solution)' so the 'general case (of the solution set) doesnt need to be specified (as a specific subset of the solution set)' and identify other cases where variables like 'generality' can be applied to 'filter required workflows'
+
 
 II. Queries and Results
 
