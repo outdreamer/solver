@@ -937,6 +937,8 @@ I. To do list
 
 	- identify problem-solving intent variants like how 'optimizing requirements' like by 'making requirements trivial/otherwise relevant' or 'making it trivial/otherwise relevant to implement any requirement' is an alternative to 'implementing requirements'
 
+	- identify relevant structures of solutions like 'structures of solution sets to match' like how 'identifying a ratio/number of solutions to identify in a set of possible solutions' can be matched to a structure like 'average lowest subset count of subsets with the fewest possible similar solutions (the size of the smallest groups of solutions identifiable)'
+
 
 II. Queries and Results
 
