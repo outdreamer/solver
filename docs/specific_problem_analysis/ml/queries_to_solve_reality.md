@@ -943,6 +943,8 @@ I. To do list
 
 	- identify relevant structures like 'sequence structures' like 'specifications of requirements that generate the most alignable/trivializable/otherwise optimal causal/requirement/interface sequences', identify optimal query sequences/networks to generate graphs that optimize for these query sequences/networks, and identify useful sequences of interface structures like 'optimizations/trivializations that generate maximally different optimizations/trivializations', and identify the 'sequence of sequence integrations' that generate the most relevant graphs
 
+	- identify the problems like 'limits' of solution structures like 'causal sequences' like how a 'causal sequence/network of definition components' can be applied when implementing other function sequences, like 'optimize for a variable (which is a causal input of another variable in a definition network), then optimize for the caused variable' but the 'causal sequences of the definition network' might not directly map to the same 'causal sequence in an optimization network', given the differences in the define/optimize functions
+
 
 II. Queries and Results
 
