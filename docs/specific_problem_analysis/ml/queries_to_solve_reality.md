@@ -946,7 +946,9 @@ I. To do list
 	- identify the problems like 'limits' of solution structures like 'causal sequences' like how a 'causal sequence/network of definition components' can be applied when implementing other function sequences, like 'optimize for a variable (which is a causal input of another variable in a definition network), then optimize for the caused variable' but the 'causal sequences of the definition network' might not directly map to the same 'causal sequence in an optimization network', given the differences in the define/optimize functions
 
 	- identify relevant variants like how a 'network of causal sequences of variables' can be useful if 'causal variable interactions' completely cover causality, but a more useful variant to completely cover causality is a 'network of causal sequences of variable combinations/structures' and a more useful variant for 'identify' intents is a 'network of causal sequences of identifiers of variable combinations/structures'
-	
+
+	- identify relevant structures like graph variables like 'graph size' like 'whether a graph intent graph should be applied as a graph to superimpose/represent/graph/connect other graphs to' and 'missing specificity in graphs' like how to specifically 'apply variation to a relevant graph to identify its interactions with other relevant graphs and identify its relevant variants, and how to filter variation to apply like by avoiding contradictions'
+
 
 II. Queries and Results
 
