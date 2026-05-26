@@ -29,6 +29,7 @@ You can see there are patterns in what constitutes legitimate implementation ste
 - there is a stopping point where the script is considered sufficiently optimal to be applied
 - there are valid intent sequences like 'identify graphs, then optimize the graphs, then apply the graphs'
 - there are multiple interfaces applied, specifically connecting regularly to the problem/solution interface
+- each step results in outputs that can be applied as an input to the next step (the steps have an optimal sequence)
 - each step involves a cross-interface structure, to connect the interfaces
 
 These patterns can be applied as variables of implementation steps.

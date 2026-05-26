@@ -949,6 +949,9 @@ I. To do list
 
 	- identify relevant structures like graph variables like 'graph size' like 'whether a graph intent graph should be applied as a graph to superimpose/represent/graph/connect other graphs to' and 'missing specificity in graphs' like how to specifically 'apply variation to a relevant graph to identify its interactions with other relevant graphs and identify its relevant variants, and how to filter variation to apply like by avoiding contradictions'
 
+	- identify relevant graphs like 'graphs where sequences indicate alternate functions like "addition" of structures like "ratios" to create structures like "combinations (of ratios like averages)"' and otherwise connect useful 'simple/problem' structures with 'complex/solution' structures
+		- connect sequence structures like 'graph sequences' and 'queries' like by identifying relevant queries of a graph which identify multiple/otherwise optimal sequences, based on a representative subset of relevant sequences identifiable in the graph, and common inputs of queries identifying those sequences
+
 
 II. Queries and Results
 
