@@ -952,6 +952,8 @@ I. To do list
 	- identify relevant graphs like 'graphs where sequences indicate alternate functions like "addition" of structures like "ratios" to create structures like "combinations (of ratios like averages)"' and otherwise connect useful 'simple/problem' structures with 'complex/solution' structures
 		- connect sequence structures like 'graph sequences' and 'queries' like by identifying relevant queries of a graph which identify multiple/otherwise optimal sequences, based on a representative subset of relevant sequences identifiable in the graph, and common inputs of queries identifying those sequences
 
+	- identify relevant graph variants like variants of the 'optimal concept combination graph', like 'optimal priority structures of optimal concept combinations' and other embedded/iterated interface variable applications of the graph
+
 
 II. Queries and Results
 
