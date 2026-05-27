@@ -956,6 +956,8 @@ I. To do list
 
 	- identify relevant solution variables, like 'lack of contradictions at relevant ranges/amounts' and 'specificity of interactivity', which 'generally apply across solutions' (since 'if solutions are highly interactive, they frequently cause problems' so 'specificity of interactivity' is frequently useful, and 'contradictions frequently occur at different values of a variable' so there are 'optimal ranges where contradictions dont occur') and identify spectrums of these variables and associated structures with points on the spectrum to identify 'cases where "lack of contradictions" or "specificity of interactivity" is suboptimal', and identify useful graphs of these spectrums where 'optimal points of usefulness' of 'different associated structures/cases with those structures' are similar (like having a similar range/pattern), where a 'concept spectrum and associated structure/condition' graph is similarly useful as a 'concept node/multiple specification' graph and where a 'concept value node with associated multiple specific structure/condition pairs' graph is a useful 'integration of the similar graphs'
 
+- identify relevant workflow variants like 'apply variation to certainty structures' which has variants like 'identify problems as requirement changes' and 'identify new certainty structures', and identify useful applications of graphs for workflows like 'applying changes to graphs like changes toward other graphs, until new graphs are identifiable as new certainty structures like common points/intersections of changes applied to graphs'
+
 
 II. Queries and Results
 
