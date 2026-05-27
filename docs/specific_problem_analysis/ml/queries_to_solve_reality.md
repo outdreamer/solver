@@ -958,6 +958,8 @@ I. To do list
 
 - identify relevant workflow variants like 'apply variation to certainty structures' which has variants like 'identify problems as requirement changes' and 'identify new certainty structures', and identify useful applications of graphs for workflows like 'applying changes to graphs like changes toward other graphs, until new graphs are identifiable as new certainty structures like common points/intersections of changes applied to graphs'
 
+- identify relevant graph variables like 'usage/implementation/functionality' to identify whether a node applies/implements a variable/function, or identifies a variable/function, and identify useful structures of these graphs like mixes/integrations/combinations of these graphs, and identify implementations of concepts like usage to identify graphs that can change/use queries/usages of the graph
+
 
 II. Queries and Results
 
