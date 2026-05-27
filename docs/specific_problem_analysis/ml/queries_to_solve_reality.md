@@ -960,6 +960,8 @@ I. To do list
 
 - identify relevant graph variables like 'usage/implementation/functionality' to identify whether a node applies/implements a variable/function, or identifies a variable/function, and identify useful structures of these graphs like mixes/integrations/combinations of these graphs, and identify implementations of concepts like usage to identify graphs that can change/use queries/usages of the graph
 
+- identify generalized variants of graphs like the 'concept combination graph' and 'neural networks, as activation networks of variable combinations of the same variables to identify the most useful variable combination' such as 'integration networks of graph variable combinations to identify the most relevant independent graph variable combinations'
+
 
 II. Queries and Results
 
