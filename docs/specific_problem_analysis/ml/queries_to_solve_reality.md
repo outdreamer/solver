@@ -949,10 +949,12 @@ I. To do list
 
 	- identify relevant structures like graph variables like 'graph size' like 'whether a graph intent graph should be applied as a graph to superimpose/represent/graph/connect other graphs to' and 'missing specificity in graphs' like how to specifically 'apply variation to a relevant graph to identify its interactions with other relevant graphs and identify its relevant variants, and how to filter variation to apply like by avoiding contradictions'
 
-	- identify relevant graphs like 'graphs where sequences indicate alternate functions like "addition" of structures like "ratios" to create structures like "combinations (of ratios like averages)"' and otherwise connect useful 'simple/problem' structures with 'complex/solution' structures
+	- identify relevant graphs like 'graphs where sequences indicate alternate functions like "addition" of structures like "ratios" to create structures like "combinations (of ratios, like averages, which are some ratio of different from multiple extremes)"' and otherwise connect useful 'simple/problem' structures with 'complex/solution' structures
 		- connect sequence structures like 'graph sequences' and 'queries' like by identifying relevant queries of a graph which identify multiple/otherwise optimal sequences, based on a representative subset of relevant sequences identifiable in the graph, and common inputs of queries identifying those sequences
 
 	- identify relevant graph variants like variants of the 'optimal concept combination graph', like 'optimal priority structures of optimal concept combinations' and other embedded/iterated interface variable applications of the graph
+
+	- identify relevant solution variables, like 'lack of contradictions at relevant ranges/amounts' and 'specificity of interactivity', which 'generally apply across solutions' and identify spectrums of these variables and associated structures with points on the spectrum to identify 'cases where "lack of contradictions" or "specificity of interactivity" is suboptimal', and identify useful graphs of these spectrums where 'optimal points of usefulness' of 'different associated structures/cases with those structures' are similar (like having a similar range/pattern)
 
 
 II. Queries and Results
