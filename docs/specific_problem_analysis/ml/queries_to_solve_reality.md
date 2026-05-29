@@ -966,6 +966,8 @@ I. To do list
 
 	- identify relevant problem structures like 'problem sequences' like how 'if there is an unsolved relevant implementation/optimization problem, then implementation/optimization intents will identify/generate/apply/replicate these problems' like 'implementing/optimizing a graph will have problem sequences related to the unsolved implementation/optimization problems', which can be integrated into interface queries like 'integrate unsolved problem sequences into the output (like this output is identified as optimal, but these unsolved problems are relevant, so the optimality is reduced by some ratio based on the ratio/type/structure of unsolved problems)', which applies 'variation matching' analysis (matching the 'variation of unsolved problems' with the 'variation of identified solution output'), and identify a graph where the ratios of variation can be identified, like 'if a relevant unsolved problem is adjacent to the solution set, that has a higher ratio of variation applied to the solution set'
 
+	- identify relevant structures like 'points where adding a new algorithm to a set of algorithms will make other algorithms suboptimal' like 'when generating a new graph/interface/standard, which creates required intents like standardizing/integrating/connecting every other graph/query/intent to that new structure, at which point other algorithms will be suboptimal temporarily, bc of the additional required intents to implement'
+
 
 II. Queries and Results
 
