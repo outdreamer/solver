@@ -964,6 +964,8 @@ I. To do list
 
 	- identify relevant graph variants like how the 'graph of maximally different structures' is a 'disorganized variant' of the 'concept combination graph', and identify the relevance of these connections like when to use a 'maximal difference graph' and when to use the 'concept combination graph' like when 'identifying similarities between differences is more useful, so the disorganized variant is more useful than the concept combination graph'
 
+	- identify relevant problem structures like 'problem sequences' like how 'if there is an unsolved relevant implementation/optimization problem, then implementation/optimization intents will identify/generate/apply/replicate these problems' like 'implementing/optimizing a graph will have problem sequences related to the unsolved implementation/optimization problems', which can be integrated into interface queries like 'integrate unsolved problem sequences into the output (like this output is identified as optimal, but these unsolved problems are relevant, so the optimality is reduced by some ratio based on the ratio/type/structure of unsolved problems)', which applies 'variation matching' analysis (matching the 'variation of unsolved problems' with the 'variation of identified solution output'), and identify a graph where the ratios of variation can be identified, like 'if a relevant unsolved problem is adjacent to the solution set, that has a higher ratio of variation applied to the solution set'
+
 
 II. Queries and Results
 
