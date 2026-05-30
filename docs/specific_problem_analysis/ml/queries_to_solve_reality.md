@@ -968,6 +968,8 @@ I. To do list
 
 	- identify relevant structures like 'points where adding a new algorithm to a set of algorithms will make other algorithms suboptimal' like 'when generating a new graph/interface/standard, which creates required intents like standardizing/integrating/connecting every other graph/query/intent to that new structure, at which point other algorithms will be suboptimal temporarily, bc of the additional required intents to implement'
 
+	- identify relevant structures like 'rules to implement graph intents (like solving graph problems like missing/excess/simple/complex/imbalanced graphs)' like 'complete structures like causal loops should be represented in graphs rather than just causal sequences, like how requirements can determine possibilities, so requirements should be applied as the "certainty structure" like the "defined similarity" of the graph, and possibilities can also determine requirements' and 'not every graph variable combination has to be applied, like not every variable needs to be a certainty structure/defined similarity variable of a graph in order to identify all relevant graphs to solve intents like "identify missing graphs"'
+
 
 II. Queries and Results
 
