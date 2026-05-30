@@ -970,6 +970,10 @@ I. To do list
 
 	- identify relevant structures like 'rules to implement graph intents (like solving graph problems like missing/excess/simple/complex/imbalanced graphs)' like 'complete structures like causal loops should be represented in graphs rather than just causal sequences, like how requirements can determine possibilities, so requirements should be applied as the "certainty structure" like the "defined similarity" of the graph, and possibilities can also determine requirements' and 'not every graph variable combination has to be applied, like not every variable needs to be a certainty structure/defined similarity variable of a graph in order to identify all relevant graphs to solve intents like "identify missing graphs"'
 
+	- identify relevant structures like 'queries' to apply when generating a graph to optimize the graph, like when 'applying changes to independent variables to generate a graph', run a query like 'identify solution structures in the most recent n generated changes' regularly to identify 'directions/types/sequences/structures of change that are more useful at generating solution structures' to optimize the graph by 'applying more of the useful change structures after each query'
+
+	- identify relevant structures like 'ratios' of intents of solving a problem, like solving a problem is 'n% identifying a graph and m% querying the graph'
+
 
 II. Queries and Results
 
