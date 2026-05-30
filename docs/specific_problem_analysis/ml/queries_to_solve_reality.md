@@ -972,7 +972,7 @@ I. To do list
 
 	- identify relevant structures like 'queries' to apply when generating a graph to optimize the graph, like when 'applying changes to independent variables to generate a graph', run a query like 'identify solution structures in the most recent n generated changes' regularly to identify 'directions/types/sequences/structures of change that are more useful at generating solution structures' to optimize the graph by 'applying more of the useful change structures after each query'
 
-	- identify relevant structures like 'ratios of structures/intents' of solving a problem, like how solving a problem is 'n% identifying a graph and m% querying the graph'
+	- identify relevant structures like 'ratios of graph structures/intents' of solving a problem, like how solving a problem is 'n% identifying a graph and m% querying the graph' and similarly identify 'ratios of graph variables/concepts' of solving problems, and identify 'useful ratios of graphs (like adjacent ratios of a starting node or a common node)' and other relevant interactions between structures/graphs
 
 	- identify optimal variants of graphs like the 'causal variable sequence graph' like how a more optimal graph can be a 'graph with more causative variables are represented differently like as hub nodes' or a 'graph that represents multiple overlapping similarities like causal/generative similarities'
 
