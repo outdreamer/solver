@@ -978,7 +978,7 @@ I. To do list
 
 	- identify optimization structures that optimize for multiple/otherwise relevant intents like how 'concept combination nodes' can optimize for a 'difference-generating graph (requiring maximal differences represented in concept combinations)' and a 'connecting graph (using pre-identified connections between relevant concepts in a concept combination)'
 
-	- identify relevant structures like graph generation methods like 'applying the inputs of various problem-solving workflows as a graph node type and connecting them to implement a multi-functional graph, or a graph that implements some ratio of the workflows', and relevant graph structures like 'problems/other interface structures emerging from input required graph similarities, similar to how similarities/differences emerge from a graph'
+	- identify relevant structures like graph generation methods like 'applying the inputs of various problem-solving workflows as a graph node type and connecting them to implement a multi-functional graph, or a graph that implements some ratio of the workflows', and relevant graph structures like 'problems/other interface structures emerging from input required graph similarities, similar to how similarities/differences emerge from a graph', and identify 'similarities to apply after problems emerging from similarities, to reach solution structures'
 
 
 II. Queries and Results
