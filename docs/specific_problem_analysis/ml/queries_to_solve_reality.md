@@ -980,6 +980,8 @@ I. To do list
 
 	- identify relevant structures like graph generation methods like 'applying the inputs of various problem-solving workflows as a graph node type and connecting them to implement a multi-functional graph, or a graph that implements some ratio of the workflows', and relevant graph structures like 'problems/other interface structures emerging from input required graph similarities, similar to how similarities/differences emerge from a graph', and identify 'similarities to apply after problems emerging from similarities, to reach solution structures'
 
+	- identify useful graphs to apply as a 'filter/generator/optimizer graph' of graphs, like a 'graph that, when applied to each node of a graph, applies one degree of interface analysis, to filter the next optimal step or the next variable to apply to generate changes to a connection'
+
 
 II. Queries and Results
 
