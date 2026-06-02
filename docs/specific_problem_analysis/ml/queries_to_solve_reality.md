@@ -982,6 +982,10 @@ I. To do list
 
 	- identify useful graphs to apply as a 'filter/generator/optimizer graph' of graphs, like a 'graph that, when applied to each node of a graph, applies one degree of interface analysis, to filter the next optimal step or the next variable to apply to generate changes to a connection'
 
+	- identify useful structures like 'extreme/relevant differences' which are useful to 'identify/differentiate problems/solutions' by making it obvious through 'extremity of difference' which is the problem/solution, and identify interface structures of these 'extreme/relevant differences' like 'causes/identifiers of these extreme/relevant differences' and graph these interface structures and their optimal interactions, and similarly, identify remaining 'extreme/relevant differences' like 'new variable types/ratios/structures/otherwise relevant variable structures' and 'new relevant graphs' and other 'extreme/relevant differences' which are useful to identify
+
+	- identify useful structures like 'usages of the graph of the definition of relevance (where similarities between combinations/structures of relevant components are identified)' like 'identifying useful start/end points on the graph of the definition of relevance, to position a possible problem/solution on, and identifying algorithms to change its position to make it obvious/trivial to identify whether its a problem/solution by applying extreme/relevant differences' (like identifying whether a structure is a problem/solution based on whether 'relevant changes push it toward a hub node on the graph of the definition of relevance')
+
 
 II. Queries and Results
 
