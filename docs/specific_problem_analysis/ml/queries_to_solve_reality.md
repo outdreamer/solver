@@ -986,6 +986,8 @@ I. To do list
 
 	- identify useful structures like 'usages of the graph of the definition of relevance (where similarities between combinations/structures of relevant components are identified)' like 'identifying useful start/end points on the graph of the definition of relevance, to position a possible problem/solution on, and identifying algorithms to change its position to make it obvious/trivial to identify whether its a problem/solution by applying extreme/relevant differences' (like identifying whether a structure is a problem/solution based on whether 'relevant changes push it toward a hub node on the graph of the definition of relevance')
 
+	- identify useful structures like 'interactions of specification/structures applied to graph sequences/networks' like how 'in a graph sequence of a causal variable graph and a generative variable graph, filtering the causal sequence graph can "cause a filter" of the generative variable graph, like how specifying causal variables to be interface variables, filters the generative variable graph to generate more real/relevant variation', so the filters are 'compounding/causal filters' in that case, which is a useful 'cross-graph interaction to identify from applying a specification earlier in the sequence of graphs'
+
 
 II. Queries and Results
 
