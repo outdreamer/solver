@@ -988,6 +988,9 @@ I. To do list
 
 	- identify useful structures like 'interactions of specification/structures applied to graph sequences/networks' like how 'in a graph sequence of a causal variable graph and a generative variable graph, filtering the causal sequence graph can "cause a filter" of the generative variable graph, like how specifying causal variables to be interface variables, filters the generative variable graph to generate more real/relevant variation', so the filters are 'compounding/causal filters' in that case, which is a useful 'cross-graph interaction to identify from applying a specification earlier in the sequence of graphs'
 
+	- identify useful structures like 'optimal iterations/structures of interface analysis' like 'iterate interface analysis, up to the point that the graph is graphable as a point/node on a graph of optimal graph interactions'
+		- identify useful structures like 'interface analysis applications of a graph of problem types/structures' to graph 'optimal interactions of problem types/structures' like by 'specifying one problem type, limiting another problem type, optimizing another problem type' so that the optimal interactions of problem types are identifiable
+
 
 II. Queries and Results
 
