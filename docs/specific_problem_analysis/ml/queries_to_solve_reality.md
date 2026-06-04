@@ -991,6 +991,8 @@ I. To do list
 	- identify useful structures like 'optimal iterations/structures of interface analysis' like 'iterate interface analysis, up to the point that the graph is graphable as a point/node on a graph of optimal graph interactions'
 		- identify useful structures like 'interface analysis applications of a graph of problem types/structures' to graph 'optimal interactions of problem types/structures' like by 'specifying one problem type, limiting another problem type, optimizing another problem type' so that the optimal interactions of problem types are identifiable
 
+	- identify useful structures like 'overlaps/similarities' between 'specifications/combinations of concepts' to identify structures useful for 'implementing a concept', like 'implementing the definition of relevance' by 'applying combinations/specifications of concepts' to 'extend the graph to a useful degree of specificity, like by connecting the definition of relevance to the math/info interfaces', and identify optimizations of graphs like 'extensions of graphs' that are 'relevant to other graphs/queries/interfaces'
+
 
 II. Queries and Results
 
