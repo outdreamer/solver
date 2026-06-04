@@ -993,6 +993,8 @@ I. To do list
 
 	- identify useful structures like 'overlaps/similarities' between 'specifications/combinations of concepts' to identify structures useful for 'implementing a concept', like 'implementing the definition of relevance' by 'applying combinations/specifications of concepts' to 'extend the graph to a useful degree of specificity, like by connecting the definition of relevance to the math/info interfaces', and identify optimizations of graphs like 'extensions of graphs' that are 'relevant to other graphs/queries/interfaces'
 
+	- identify useful graph variants like a 'variant of the requirement/changes graph as a graph to indicate problem structures as "changes to requirements"' such as a 'graph of requirements, changes, changes which overlap with problem/solution structures like missing/imbalanced/inequal info or complete/balanced/equal info, and interactions between problem/solution change structures'
+
 
 II. Queries and Results
 
