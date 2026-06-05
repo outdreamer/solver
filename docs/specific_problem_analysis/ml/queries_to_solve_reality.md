@@ -994,6 +994,9 @@ I. To do list
 	- identify useful structures like 'overlaps/similarities' between 'specifications/combinations of concepts' to identify structures useful for 'implementing a concept', like 'implementing the definition of relevance' by 'applying combinations/specifications of concepts' to 'extend the graph to a useful degree of specificity, like by connecting the definition of relevance to the math/info interfaces', and identify optimizations of graphs like 'extensions of graphs' that are 'relevant to other graphs/queries/interfaces'
 
 	- identify useful graph variants like a 'variant of the requirement/changes graph as a graph to indicate problem structures as "changes to requirements"' such as a 'graph of requirements, changes, changes which overlap with problem/solution structures like missing/imbalanced/inequal info or complete/balanced/equal info, and interactions between problem/solution change structures'
+		- relatedly, identify useful 'variation/constant patterns of interface structures' like how a sequence of 'definition, then requirement/intent, then changes to requirements, then problem/solution labels of changes, then optimal interactions of problem/solution changes' applies a 'constant/variation/variation/constant/constant pattern'
+
+	- identify useful structures like 'queries to identify the useful graph of the definition of relevance' like 'what specifications/organizations/interface structures of triviality/usefulness/uniqueness/etc are required to identify their optimal interactions in the definition of relevance' as in 'what should be made trivial/unique/required/etc in order to completely identify the optimal interactions of the components of relevance, to optimally define/implement relevance'
 
 
 II. Queries and Results
