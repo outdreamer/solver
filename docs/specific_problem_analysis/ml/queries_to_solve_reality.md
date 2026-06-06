@@ -1000,6 +1000,8 @@ I. To do list
 
 	- identify useful structures like 'relevance ratios' like how 'interface structures of some structures are all relevant (like interactions/variants of the structure are all relevant)', compared to some structures with other ratios of relevance
 
+	- identify useful structures like useful specifications of the definition of relevance, like useful 'iterated optimality variables' (like 'reliably consistent optimizations') as an alternative structure of simple 'combinations of optimal interface variables' and apply 'other relevant interaction structures than combinations/iterations', and apply more relevant filters than 'possibility' (like 'possible useful combinations of components of relevance/optimality variables/optimal interface variables') to define relevance (since 'most structures are possible'), like how 'specified possibilities' (like 'defined possibilities' and 'adjacent possibilities') are more useful to apply
+
 
 II. Queries and Results
 
