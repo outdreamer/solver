@@ -998,6 +998,8 @@ I. To do list
 
 	- identify useful structures like 'queries to identify the useful graph of the definition of relevance' like 'what specifications/organizations/interface structures of triviality/usefulness/uniqueness/etc are required to identify their optimal interactions in the definition of relevance' as in 'what should be made trivial/unique/required/etc in order to completely identify the optimal interactions of the components of relevance, to optimally define/implement relevance'
 
+	- identify useful structures like 'relevance ratios' like how 'interface structures of some structures are all relevant (like interactions/variants of the structure are all relevant)', compared to some structures with other ratios of relevance
+
 
 II. Queries and Results
 
