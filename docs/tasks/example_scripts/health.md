@@ -98,6 +98,8 @@
 			- fungal infections:
 				- carrots, keto diet, holy basil, sitosterol, kombucha/kefir/probiotics/lactic acid bacteria, beets, coconut (dont take sitosterol if you have cancer, it suppresses a tumor suppressor IL-25), capsaicin, ginger, garlic, onions, pumpkin seeds, rutabaga
 			- viral infections: 
+				- 1,2,3,4-Tetrahydroisoquinoline derivatives, 7-Methoxycryptopleurine, 10-Hydroxyusambarensine, Ajmaline, Aloperine, Amarbellisine, Berbamine, Berberine, Canthin-6-one derivatives, Capsaicin, Cepharanthine, Cephaeline, Cherylline, Cinchonine, Colchicine, Conessine, Cyclopamine, Dehydroevodiamine, Deoxynojirimycin derivatives, Emetine, Ephedrine, Fangchinoline, Harmaline, Harmine, Harringtonine, Hernandezine, Homoharringtonine, Indirubin, Lycorine, Matrine, Michellamine B, Neferine, Oxysophoridine, Panicutine, Piperine, Pseudoephedrine, Quinidine, Quinine, Rutaecarpine, Scopolamine, Sophocarpine, Sophoridine, Strychnine, Tetrahydropalmatine, Tetrandrine, Tylophorine & analogues, Tryptanthrine, Vilmorrianone, Vinblastine
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC12899901/
 				- prevent cytokine storm
 					- Modified citrus pectin: May bind galectin-3, a protein involved in hyperinflammatory responses
 					- Vitamin D3, Quercetin, Zinc, Curcumin, Nigella Sativa, Melatonin, Vitamin C, NAC and Glutathione, Vitamin A, Omega 3s, Selenium, B Vitamins, Molecular Hydrogen, Lactoferrin, Probiotics, Green Tea, Astaxanthin, Resveratrol
@@ -132,7 +134,8 @@
 				- niv (nipah): griffithsin (red algae Griffithsia), 6-gingerol (ginger), 4-hydroxypanduratin A (fingerroot), and luteolin (celery, broccoli, artichoke, parsley, thyme, dandelion, perilla, chamomile, carrots, olive oil, peppermint, rosemary, oregano), Serpentinine
 					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8483238/
 					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9993391/
-				- ebola: griffithsin (red algae Griffithsia)
+				- ebola: griffithsin (red algae Griffithsia), Ajmaline (Rauwolfia serpentina, Indian snakeroot), Cepharanthine (Stephania), Cephaeline/Emetine (Cephaelis ipecacuanha), Piperine
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC12899901/
 				- rhinovirus: garlic, ginger
 				- infectious bursal disease virus (ibdv): ashwagandha
 				- newcastle disease virus (ndv): neem, iresine herbstii (blood leaf), lemon balm, glycyrrhiza glabra
