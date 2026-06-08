@@ -1007,6 +1007,10 @@ I. To do list
 		- relatedly, identify how 'additivity of relevance' relates to other variables of relevance like 'stability of relevance'
 		- relatedly, identify useful structures of relevance like 'structures that make optimal relevance interactions trivial/otherwise relevant to identify' like how 'aligning spectrums of relevance' can identify other relevant structures like 'averages/inputs of relevance' (so by 'adding spectrums of relevance', a 'more relevant/complex definition of relevance' can be identified)
 
+	- identify useful structures like graphs with optimal relevance like 'regular relevance nodes' so that queries can be 'defined to be relevant' rather than being 'implicitly/indirectly relevant' like by 'approximating meaning'
+
+	- identify useful structures like graphs with associated problems like 'missing info' that filter relevant queries for the graphs like 'finding info', where queries 'require a high ratio of interface analysis' in graphs that have 'missing info' problems in order to 'derive that info'
+
 
 II. Queries and Results
 
