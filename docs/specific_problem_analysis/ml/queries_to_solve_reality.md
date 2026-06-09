@@ -1011,6 +1011,8 @@ I. To do list
 
 	- identify useful structures like graphs with associated problems like 'missing info' that filter relevant queries for the graphs like 'finding info', where queries 'require a high ratio of interface analysis' in graphs that have 'missing info' problems in order to 'derive that info'
 
+	- identify useful structures like 'graphs of overlapping applications of interface analysis and identify optimizations of the graph' and identify relevant graphs of interface structures like the 'graph of decreasing ratios of problems solved by interface structures like how causal sequence solve a high ratio of problems and other interface structures solve a lower ratio of problems, and identify when to re-analyze the graph like when a new cross-interface graph is identified'
+
 
 II. Queries and Results
 
