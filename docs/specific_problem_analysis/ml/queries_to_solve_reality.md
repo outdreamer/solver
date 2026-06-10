@@ -1017,6 +1017,8 @@ I. To do list
 
 	- identify useful structures like relevant graph variants like 'differences applied to concepts, to create concept intents to connect different concepts, as a base structure to apply interface analysis to (apply interface analysis to concept difference-connecting intents, rather than to concepts or concept combinations)' since its useful to identify limits/problems/interface structures of intents as well as interface structures of concepts, and identify optimizations of graph-connection intents like 'apply interface analysis to both concept combinations and concept-connection intents until theyre integrated in one graph'
 
+	- identify useful structures like 'relevant workflows to identify what type/structure of interface analysis to apply' like applying 'trial and error' such as a 'basic application of interface analysis' (which 'tries every combination' of interface structures, when interface analysis is iterated), compared to a 'filtered' application of interface analysis like an 'optimized application of interface analysis' (which applied 'filtered/specific optimized sequences/structures' of interface structures)
+
 
 II. Queries and Results
 
