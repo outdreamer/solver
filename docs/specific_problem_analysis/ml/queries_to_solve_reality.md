@@ -1015,6 +1015,8 @@ I. To do list
 
 	- identify useful structures like 'relevant graphs and associated functions to identify/generate/apply the graphs' (like a 'grid and a function that can rotate and analyze multiple intersecting variables, which can identify a grid') and identify optimizations like 'overlaps/similarities in the associated functions' to apply as a filter/generator/applicator of relevant graphs
 
+	- identify useful structures like relevant graph variants like 'differences applied to concepts, to create concept intents to connect different concepts, as a base structure to apply interface analysis to (apply interface analysis to concept difference-connecting intents, rather than to concepts or concept combinations)'
+
 
 II. Queries and Results
 
