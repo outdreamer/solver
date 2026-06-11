@@ -1019,6 +1019,9 @@ I. To do list
 
 	- identify useful structures like 'relevant workflows to identify what type/structure of interface analysis to apply' like applying 'trial and error' such as a 'basic application of interface analysis' (which 'tries every combination' of interface structures, when interface analysis is iterated), compared to a 'filtered' application of interface analysis like an 'optimized application of interface analysis' (which applied 'filtered/specific optimized sequences/structures' of interface structures)
 
+	- identify useful structures like 'relevant differences' like how some 'differences are relevant similarities rather than relevant differences' (like how 'maximally different items in a set' actually describes a non-trivial ratio of sets which means a 'difference within a set amounts to a similarity between sets') which is useful for 'filtering solutions where a solution is required to be unique' and identify other difference/similarity structures that are relevant to other intents and a graph of these difference/similarity structures
+		- relatedly, identify the structures which when graphed, identify the 'maximum required relevant variation' so they can be applied as a 'base to apply changes to' because any new structure will be a 'trivial change of the base relevant variation', and identify relevant variants of this graph like the 'opposites of the graph (like the maximum possible irrelevant variation)' and identify optimal interactions of these graph variants in a graph
+
 
 II. Queries and Results
 
