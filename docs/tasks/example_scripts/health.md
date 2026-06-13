@@ -439,6 +439,9 @@
 				- 'Excessive PARP-1 activity may exacerbate the pathogenesis of stroke, myocardial infarction, neurodegeneration, and a number of other disease conditions due to excessive inflammation. Thus, reduction of inflammation by PARP-1 inhibition can mitigate these conditions' - https://en.wikipedia.org/wiki/PARP_inhibitor
 			- use fasting, a keto diet, glutamine, tyrosine, GABA, arginine, lysine (not for kidney/liver damage), maca to increase the amount of human growth hormone to recover
 			- kidney damage: fasting, omega 3s, melatonin, betaine, b vitamins in smaller doses, corn silk, hibiscus, berries, digestive enzymes, prunella vulgaris, lubiprostone to prevent further damage, astragalus/cordyceps/rehmannia (avoid with autoimmune disease)
+				- rifaximin: 
+					- the systemic accumulation of by-products of gut microbes contributes to cardiovascular morbidity in patients with CKD. Limiting the generation of toxic bacterial by-products by manipulating the intestinal microbiota may be a novel strategy for reducing cardiovascular disease in CKD
+            		- https://pmc.ncbi.nlm.nih.gov/articles/PMC8315698/
 				- dietary methionine increased kidneys' filtration capacity, improving blood flow and excretion of pro-inflammatory cytokines (should be avoided with liver/heart damage or atherosclerosis)
 					- https://medicalxpress.com/news/2026-01-dietary-supplement-inflammation-injury-death.html
 				- Rheum palmatum, Whitmania pigra, Astragalus mongholicus, Salvia miltiorrhiza, Epimedium brevicornu, Leonurus japonicus
@@ -755,7 +758,7 @@
 		- metabolic problems
 			- avoid air pollution containing lipopolysaccharide (LPS) and treat bacterial infections which can cause diabetes, heart disease, and liver problems through increasing lipopolysaccharide levels
 			- obesity:
-				- appetite reducers like ginseng/fenugreek/chicory/sage/fennel, cold therapy for metabolic health, avoid appetite stimulants like omega 3s/sugar/corticosteroids/steroids, use sedatives like melatonin/theanine/CBD for appetite control (in small doses to avoid cardiac complications of CBD), treat hormonal imbalances, inflammation, correct vitamin deficiencies like zinc, imbalances like acidosis, organ damage like adrenal/thyroid damage, and microbial/parasitic infections which can increase appetite, avoid excess carbs/meat which can cause negative metabolic changes
+				- appetite reducers like akkermansia muciniphila/ginseng/fenugreek/chicory/sage/fennel, cold therapy for metabolic health, avoid appetite stimulants like omega 3s/sugar/corticosteroids/steroids, sedatives like melatonin/theanine/CBD for appetite control (in small doses to avoid cardiac complications of CBD), treat hormonal imbalances, inflammation, vitamin deficiencies like zinc, imbalances like acidosis, organ damage like adrenal/thyroid damage, and microbial/parasitic infections which can increase appetite, avoid excess carbs/meat which can cause negative metabolic changes
 				- use carnitine/taurine to increase muscle growth, plants with high nitrite content like beets/spinach for improving exercise performance, supplements like d-ribose and b-vitamins for energy to exercise, etc
 				- activate NK2R to decrease body weight, blood glucose, triglycerides and cholesterol, and increase insulin resistance
 					- https://www.nature.com/articles/s41586-024-08207-0?error=cookies_not_supported&code=f00cbe60-f805-41fa-9273-f3bce0d8ee4d
