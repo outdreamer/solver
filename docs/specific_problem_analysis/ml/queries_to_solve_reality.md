@@ -1031,7 +1031,7 @@ I. To do list
 
 	- identify useful structures like 'coordinating filter sequences' like a 'type filter followed by a test filter that differentiates solutions within the similar type enough (like until solutions are opposites in some variable) to make the solution obvious/otherwise relevant after applying the type filter and the test filter'
 
-	- identify useful structures like 'relevant workflows (like maximally different workflows) applied to relevant graphs (like graphs implementing the definition of relevance)' and identify their optimal interactions of 'workflows applied to graphs' to implement intents like 'integrate/optimize/organize relevant graphs'
+	- identify useful structures like 'relevant workflows (like maximally different workflows) applied to relevant graphs (like graphs implementing the definition of relevance)' and identify the optimal interactions of 'workflows applied to graphs' to implement intents like 'integrate/optimize/organize relevant graphs' and identify useful general structures to fit integrations into, like identify a 'general limit/boundary/structure' of an 'application of a workflow to a graph' to be able to better predict 'limits/boundaries/structures of a workflow applied to a graph' (which pre-filters the solutions by applying interface structures to solution metrics, so that problems are more trivial to match to solutions, creating a 'template' of a solution by describing its interface structures like 'limits' to more trivially filter possible solutions to a problem, which involves 'applying specifications to both sides of a connection to make the matching of both sides to be more trivial')
 
 
 II. Queries and Results
