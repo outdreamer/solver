@@ -1035,6 +1035,8 @@ I. To do list
 
 	- identify useful structures like how the 'definition of relevance' can be approximated by structures like 'some iteration of interface structures' so 'connecting any problem/solution by applying some iteration of interface analysis until there is overlap between the iterations of interface analysis (applied to the problem and the solution)' is possible (there is some 'iteration of interface structures' that when applied to a problem/solution, creates enough overlaps/similarities/connections to connect most problems/solutions)
 
+	- identify useful structures like graph optimization intents like how 'graphs can be optimized to be integrated into a graph of graphs or until theyre integrated into an adjacent relevant graph' and identify networks of optimal interactions of these intents to 'identify relevant intents sequences/structures to solve for a graph', and identify optimization structures aligning with optimization intents and optimization structures of those structures like 'structures in an optimization sequence which can be consolidated'
+
 
 II. Queries and Results
 
