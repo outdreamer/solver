@@ -1037,6 +1037,8 @@ I. To do list
 
 	- identify useful structures like graph optimization intents like how 'graphs can be optimized to be integrated into a graph of graphs or until theyre integrated into an adjacent relevant graph' and identify networks of optimal interactions of these intents to 'identify relevant intents sequences/structures to solve for a graph', and identify optimization structures aligning with optimization intents and optimization structures of those structures like 'structures in an optimization sequence which can be consolidated'
 
+	- identify useful structures like 'relevant applications of optimization rules like "apply relevant variation" to graphs' like by 'applying changes in maximally different positions of a graph to keep changes from interacting to create irrelevant variation until solutions exist in the graph which can solve that level/type/structure of irrelevant interactive change (like cascading change)' or by 'applying differences to variable structures like "uncertainties" as a first priority and constant structures like "definitions/requirements" as a last priority'
+
 
 II. Queries and Results
 
