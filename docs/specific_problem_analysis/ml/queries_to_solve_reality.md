@@ -1039,6 +1039,8 @@ I. To do list
 
 	- identify useful structures like 'relevant applications of optimization rules like "apply relevant variation" to graphs' like by 'applying changes in maximally different positions of a graph to keep changes from interacting to create irrelevant variation until solutions exist in the graph which can solve that level/type/structure of irrelevant interactive change (like cascading change)' or by 'applying differences to variable structures like "uncertainties" as a first priority and constant structures like "definitions/requirements" as a last priority'
 
+	- identify useful structures like 'graphs where each problem type is connected to every optimization type/structure/intent and problem types are interactive/combined/otherwise relevant to try to create relevant variation like by requiring a change to definitions of optimality'
+
 
 II. Queries and Results
 
