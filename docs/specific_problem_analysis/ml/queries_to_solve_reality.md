@@ -1041,6 +1041,10 @@ I. To do list
 
 	- identify useful structures like 'graphs where each problem type is connected to every optimization type/structure/intent and problem types are interactive/combined/otherwise relevant to try to create relevant variation like by requiring a change to definitions of optimality'
 
+	- identify useful structures like 'structural graph intent sequences' like 'identify spectrums/axes/similarities between graphs' in order to 'identify limits of a similarity, directions of similarity, directions of increasing/decreasing/variable similarity, reductions of a similarity to a point, variants of a similarity, intersections of similarities, and other structures of similarities' to implement intents like 'connect graphs to identify more relevant graphs (like standardizing graphs)' and identify intents like 'organize/implement/apply/iterate graphs' that are useful for 'identifying similarities between graphs'
+
+	- identify useful structures like 'useful filter sequences' like how its useful to 'identify important variables' and implement the intent by 'identifying a specific set of important variables to apply as a constant (like the specific set of the primary interfaces)' and 'apply that set as a constant/filter to other filters'
+
 
 II. Queries and Results
 
