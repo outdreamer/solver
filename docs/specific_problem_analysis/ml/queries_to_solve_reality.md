@@ -1045,6 +1045,10 @@ I. To do list
 
 	- identify useful structures like 'useful filter sequences' like how its useful to 'identify important variables' and implement the intent by 'identifying a specific set of important variables to apply as a constant (like the specific set of the primary interfaces)' and 'apply that set as a constant/filter to other filters'
 
+	- identify useful structures like 'iterations of problems/requirements/structures that relevantly overlap with solution structures' so that 'applying problems/requirements to problems' often generates solutions emergently
+
+	- identify useful structures like how a 'graph of an iterated solution (like triviality) applied to every problem' can generate 'problems like "plateaus/minima traps" in every direction' which identifies the 'graph of iteratively applying the solution' as a 'problem graph' and similarly, identify other 'iterations/extensions/specifications/structures of a graph' that identify 'whether its a graph of a problem or whether a problem emerges from the graph'
+
 
 II. Queries and Results
 
