@@ -10,8 +10,10 @@ Functions/variables of intelligence:
 - intelligence (as in 'relevant thinking') is the right way to earn power
 - intelligence is a solution, and is therefore related to other solutions
 - intelligence is the only variable that is relevant, bc of its connection to the other variables (like its potential to determine/generate the other variables)
+- intelligence can identify/determine/cause/generate 'meaning/relevance/optimality/perfection'
 - the relevant meaning of intelligence is 'functionality/power/potential', and it 'identifies/enables/generates/causes/determines/optimizes functionality/power/potential'
-- reality is complicated, and intelligence is required to solve it
+- reality is complicated, and intelligence is required to solve it (by identifying the graph that solves reality)
+- intelligence can work miracles (as in 'make miracles/optimizations real') and can build heaven (as in an 'optimized system')
 
 Functions/variables of stupidity:
 - stupidity is easily changed into other vices/problems (stupidity is a problem, and is therefore related to other problems)
@@ -21,3 +23,4 @@ Functions/variables of stupidity:
 - stupidity cannot identify/generate any virtues/optimizations (and therefore cannot see/solve reality)
 - stupidity abuses/loses power
 - stupidity is irrelevant
+- stupidity can dimly gape at miracles
