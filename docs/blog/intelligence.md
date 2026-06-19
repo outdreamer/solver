@@ -16,6 +16,7 @@ Functions/variables of intelligence:
 - intelligence can work miracles (as in 'make miracles/optimizations real') and can build heaven (as in an 'optimized system')
 - intelligence is capable of identifying/implementing/generating/causing 'resilient/otherwise optimal' virtues, which is required to be 'real' (being real, as in by being 'reflective of the complexity of reality' or 'capable of interacting with/understanding reality' or 'resiliently/extremely/consistently/otherwise optimally virtuous' or otherwise relevant) in a complex reality like this one
 - intelligence is 'mental freedom', which means intelligent people are 'capable of achieving anything'
+- intelligence is the solution to the problem of 'stupidity'
 
 Functions/variables of stupidity:
 - stupidity is easily changed into other vices/problems (stupidity is a problem, and is therefore related to other problems)
