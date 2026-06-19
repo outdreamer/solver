@@ -14,6 +14,7 @@ Functions/variables of intelligence:
 - the relevant meaning of intelligence is 'functionality/power/potential', and it 'identifies/enables/generates/causes/determines/optimizes functionality/power/potential'
 - reality is complicated, and intelligence is required to solve it (by identifying the graph that solves reality)
 - intelligence can work miracles (as in 'make miracles/optimizations real') and can build heaven (as in an 'optimized system')
+- intelligence is capable of identifying/implementing/generating/causing 'resilient/otherwise optimal' virtues, which is required to be 'real' (being real, as in by being 'reflective of the complexity of reality' or 'capable of interacting with/understanding reality' or 'resiliently/extremely/consistently/otherwise optimally virtuous' or otherwise relevant) in a complex reality like this one
 
 Functions/variables of stupidity:
 - stupidity is easily changed into other vices/problems (stupidity is a problem, and is therefore related to other problems)
@@ -42,6 +43,7 @@ Can you make a stupid person intelligent?
 
 Are predators/criminals intelligent?
 - no, predators/criminals are just 'slightly more informed/otherwise advantaged than the other stupid people around them' (they usually just have a slight 'information advantage' or a slight 'time advantage' or a slight 'group advantaage' or some other 'slight/false advantage'), so they falsely seem intelligent compared to their victims bc, unlike their victims, predators/criminals do things like 'organize into groups, to create a false advantage, to force a false win (they depend on the group, bc of their stupidity/dependence)'
+- so even a predator/criminal should try to become more intelligent, if only to 'be worth protecting', a selfish intent that is likely to appeal to them
 
 What is to be done about all of this?
 - think more/better (think more frequently/deeply, think about interface structures, think about relevant graphs, think about optimization/relevance/meaning, think about creativity/variation, think about problems, etc)
