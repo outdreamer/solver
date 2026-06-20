@@ -20,8 +20,8 @@ Here's how to run a society optimally, using interface structures.
 - define clear priorities
 - define clear examples of achievements of those priorities
 - make achievements clearly possible by creating/giving access to tools/functions required to achieve those priorities
-- give freedom to achieve
-- ask individuals to achieve by motivating/incentivizing achievements
+- give freedom/time/other resources to achieve
+- motivate/incentivize achievements
 
 
 ## Govern by other interface structures
@@ -34,6 +34,6 @@ Here's how to run a society optimally, using interface structures.
 - govern by relevance (apply the definition of relevance, to prioritize relevant inventions/intents)
 
 
-Ideally, multiple interface structures would be applied in government, rather than just one.
+Ideally, multiple interface structures would be applied in government, rather than just one, and similarly other optimizations would ideally be applied as well like 'prioritizing relevance' and 'optimizing for relevant variation'.
 
 These methods of government differ from historical methods of government, like 'govern by commonness' and 'govern by luck' and 'govern by stupidity/crime' and 'govern by competition' and 'govern by simplicity'.
