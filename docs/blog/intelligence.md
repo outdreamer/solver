@@ -4,6 +4,7 @@ Why is it important to be intelligent?
 
 Functions/variables of intelligence:
 - intelligence enables problem-solving (it can solve any problem, like stupidity/vices/addiction)
+- intelligence is the solution to the problem of 'stupidity' (which is important to identify, since stupidity causes every other problem)
 - intelligence can identify/generate/change/determine/cause all the other virtues/solutions/optimizations (virtues like 'independence', or optimizations like 'functions to avoid suboptimalities' like 'functions to avoid crimes')
 - intelligence can identify/generate/change/determine/cause any variable (like time or luck or optimality)
 - intelligence can identify/protect/sustain/increase/distribute/cause/generate intelligence
@@ -16,7 +17,6 @@ Functions/variables of intelligence:
 - intelligence can work miracles (as in 'make miracles/optimizations real') and can build heaven (as in an 'optimized system')
 - intelligence is capable of identifying/implementing/generating/causing 'resilient/otherwise optimal' virtues, which is required to be 'real' (being real, as in by being 'reflective of the complexity of reality' or 'capable of interacting with/understanding reality' or 'resiliently/extremely/consistently/otherwise optimally virtuous' or otherwise relevant) in a complex reality like this one
 - intelligence is 'mental freedom', which means intelligent people are 'capable of achieving anything'
-- intelligence is the solution to the problem of 'stupidity'
 
 Functions/variables of stupidity:
 - stupidity is easily changed into other vices/problems (stupidity is a problem, and is therefore related to other problems)
