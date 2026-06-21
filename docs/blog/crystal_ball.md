@@ -23,6 +23,7 @@ Here are some obvious abstract answers to questions that could benefit from inte
 ## How will the universe end?
 
 - some process could become entropy-generating above some sustainable limit (where 'variation exceeds sustainability determined by constants' or where 'constants increasingly limit variation'), like 'quantum connections could cascade exponentially and create too much certainty to sustain life/variation'
+- generally, there will be a 'set of sequences of conflicts' between 'tech that can make a conflict ambiguous' (as in 'tech that can fight other tech') which is an optimization problem of 'identifying tech that implements priorities that can fight each other' and 'identifying the winner of these conflicts and the sequence of the conflicts and parallel conflicts and other structures of the conflicts'
 - generating tech concepts like 'entropy bombs' and so on is a useful way to identify 'specific tech that could end the universe'
 - the interaction with computation is non-trivial, but 'computing the universe' is unlikely to 'end the universe', if relevant graphs are applied and if the results of computations aren't distributed/otherwise relevant
 
