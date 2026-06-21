@@ -6,6 +6,7 @@ Here's how to run a society optimally, using interface structures.
 ## Govern by insight
 
 - identify insights (like 'new/simple/abstract connections between variables') to optimize/organize society/other groups (insights are like inputs to 'implemented laws', as opposed to 'defined laws')
+	- example insights include: 'all problems are similar' and 'connect problems/solutions to solve problems' and 'apply changes to problems to solve problems' and 'useful problem-solving sequences include: "definitions > requirements > changes > problems > changes > solutions"' and 'useful variable sets include: "constant/variation and filter/generate and other opposing interface structures" which are useful to vary like by "alternating the variable sets" to solve problems'
 - identify clear optimal points to aim for
 - identify clear paths to optimal points (actionable paths that are achievable for some non-trivial ratio of individuals)
 
