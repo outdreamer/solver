@@ -1056,6 +1056,8 @@ I. To do list
 	- identify useful structures like 'graph problems' like 'missing graphs in between component graphs' like how 'definitions can be components of requirements/intents, but not of every interface structure' and identify solutions to graph problems like 'identifying different structures to apply than the irrelevant structure (like applying definitions as a graph layer/spectrum rather than a graph component)' and 'identifying connection structures to identify missing graphs between graphs' like how a 'graph applying definition/function or requirement/intent connections can connect a definition/requirement and a definition/intent graph'
 		- relatedly, identify the relevance of graphs that 'violates definitions in a relevant/possible way' like how a 'structure is not a component of a structure but is nevertheless applied as a component connection in a graph bc that is allowed by different sets of definitions'
 
+	- identify useful structures like intents to 'completely describe a graph' like how a 'graph of problems' is completely described if it 'connects every problem with every other problem by causality since problems can cause other problems' or if it 'connects every problem adjacently and causally to every other problem since every problem can cause every other problem adjacently' and otherwise 'optimally connects problems'
+
 
 II. Queries and Results
 
