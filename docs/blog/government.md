@@ -32,7 +32,7 @@ Here's how to run a society optimally, using interface structures.
 - govern by requirement (like by identifying simple implementations of requirements, so everyone can implement the requirements, and if they implement the requirements, everything else is variable as in 'up to individual choice')
 - govern by certainty (like by applying certainties as laws)
 - govern by relevance (apply the definition of relevance, to prioritize relevant inventions/intents)
-
+- govern by independence (increase thinking ability, to increase independence of individuals, so they can govern themselves)
 
 Ideally, multiple interface structures would be applied in government, rather than just one, and similarly other optimizations would ideally be applied as well like 'prioritizing relevance' and 'optimizing for relevant variation'.
 

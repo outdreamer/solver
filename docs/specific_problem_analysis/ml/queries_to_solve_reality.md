@@ -1058,6 +1058,8 @@ I. To do list
 
 	- identify useful structures like intents to 'completely describe a graph' like how a 'graph of problems' is completely described if it 'connects every problem with every other problem by causality since problems can cause other problems' or if it 'connects every problem adjacently and causally to every other problem since every problem can cause every other problem adjacently' and otherwise 'optimally connects problems'
 
+	- identify useful structures like 'algorithms/graphs to optimize the relevance of interface variables like "simplicity" (make "simplicity" useful as a solution structure)' like an algorithm such as 'analyze one variable at a time and connect variable pairs one pair at a time until a graph of variable connections is identified, then optimize the graph connections one connection at a time' applied to a graph of 'simple variable connections like "causal/adjacent" connections' with a simple problem-solving intent like 'trial and error (applied to connect every adjacent variable pair on a graph)' (and identify related structures to make "simplicity" useful like 'pre-computing what variable connections are useful to identify, in what sequence/structure')
+
 
 II. Queries and Results
 
