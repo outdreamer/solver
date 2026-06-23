@@ -1060,7 +1060,9 @@ I. To do list
 
 	- identify useful structures like 'algorithms/graphs to optimize the relevance of interface variables like "simplicity" (make "simplicity" useful as a solution structure)' like an algorithm such as 'analyze one variable at a time and connect variable pairs one pair at a time until a graph of variable connections is identified, then optimize the graph connections one connection at a time' applied to a graph of 'simple variable connections like "causal/adjacent" connections' with a simple problem-solving intent like 'trial and error (applied to connect every adjacent variable pair on a graph)' (and identify related structures to make "simplicity" useful like 'pre-computing what variable connections are useful to identify, in what sequence/structure')
 
-- identify useful structures like similarities like interchangeability in graph connections that enables irrelevance of difference to enable intents like organization (organizing a graph of interchangeable graph connections is possible without changing the relevance of the connections)
+	- identify useful structures like similarities like 'interchangeability' in graph connections that enables 'irrelevance of difference' to enable intents like 'organization' (as in 'organizing a graph of interchangeable graph connections' is possible 'without changing the relevance of the connections')
+
+	- identify useful structures like 'graph connecting functions' like 'functions/similarities that increase the interactivity of graphs' so that graphs can be trivially/relevantly connected as 'graph components/structures', like how 'aligning spectrums and interactive surfaces can connect graphs as graph components'
 
 
 II. Queries and Results
