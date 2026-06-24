@@ -1064,6 +1064,8 @@ I. To do list
 
 	- identify useful structures like 'graph connecting functions' like 'functions/similarities that increase the interactivity of graphs' so that graphs can be trivially/relevantly connected as 'graph components/structures', like how 'aligning spectrums and interactive surfaces can connect graphs as graph components'
 
+	- identify useful structures like 'ways to increase graph relevance' like by 'changing a graph from being organized by some irrelevant difference (like coincidental/historical relative difference, such as reflecting the "sequence of discovery" of difference by coincidental positional adjacency) to a relevant difference (like absolute relevance)' like by 'identifying "similarly different" sets in a graph as relevant, then mapping similarities like "similar types" to a subset of each set'
+
 
 II. Queries and Results
 
