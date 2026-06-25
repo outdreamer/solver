@@ -1066,6 +1066,8 @@ I. To do list
 
 	- identify useful structures like 'ways to increase graph relevance' like by 'changing a graph from being organized by some irrelevant difference (like coincidental/historical relative difference, such as reflecting the "sequence of discovery" of difference by coincidental positional adjacency) to a relevant difference (like absolute relevance)' like by 'identifying "similarly different" sets in a graph as relevant, then mapping similarities like "similar types" to a subset of each set'
 
+- identify useful structures like graphs that structure ambiguities sufficiently clearly that a problem variable like 'causal adjacency' can be identified which has associated solutions like 'regression' and sufficiently so that ambiguities can be resolved by re-organizing the graph using connection rules without contradictions/errors like by clearly similarizing/differentiating ambiguities
+
 
 II. Queries and Results
 
