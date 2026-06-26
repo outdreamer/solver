@@ -97,6 +97,7 @@
 
 			- fungal infections:
 				- carrots, keto diet, holy basil, sitosterol, kombucha/kefir/probiotics/lactic acid bacteria, beets, coconut (dont take sitosterol if you have cancer, it suppresses a tumor suppressor IL-25), capsaicin, ginger, garlic, onions, pumpkin seeds, rutabaga
+				- sporotrichosis: vismia guianensis, holy basil, propolis
 			- viral infections: 
 				- 1,2,3,4-Tetrahydroisoquinoline derivatives, 7-Methoxycryptopleurine, 10-Hydroxyusambarensine, Ajmaline, Aloperine, Amarbellisine, Berbamine, Berberine, Canthin-6-one derivatives, Capsaicin, Cepharanthine, Cephaeline, Cherylline, Cinchonine, Colchicine, Conessine, Cyclopamine, Dehydroevodiamine, Deoxynojirimycin derivatives, Emetine, Ephedrine, Fangchinoline, Harmaline, Harmine, Harringtonine, Hernandezine, Homoharringtonine, Indirubin, Lycorine, Matrine, Michellamine B, Neferine, Oxysophoridine, Panicutine, Piperine, Pseudoephedrine, Quinidine, Quinine, Rutaecarpine, Scopolamine, Sophocarpine, Sophoridine, Strychnine, Tetrahydropalmatine, Tetrandrine, Tylophorine & analogues, Tryptanthrine, Vilmorrianone, Vinblastine
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC12899901/
