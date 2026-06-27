@@ -1070,7 +1070,7 @@ I. To do list
 
 	- identify useful structures like 'sets of graphs to apply for comparisons' and 'sequences of changes to graphs to increase the relevance of sequential comparisons or increase the relevance of comparisons using those graphs', and identify 'structures of graphs to optimize comparisons' like 'sequences of graph pairs or variants of graph pairs to apply to organize comparisons' like 'comparison to a general graph pair, then comparison to a maximally different extreme variant of the graph pair'
 
-	- identify useful structures like 'ways to generate errors' other than 'changes to requirements' like 'applying relevant definitions of error (like causal error components)', or 'applying the definition of relevance to each error type like "missing/imbalanced" like "missing optimizations, missing relevance, missing definitions, etc"'
+	- identify useful structures like 'ways to generate errors' other than 'changes to requirements' like 'applying relevant definitions of error (like causal error components)', or 'applying the definition of relevance to each error type like "missing/imbalanced" like "missing optimizations, missing relevance, missing definitions, etc"', and 'identify other useful interactions between graphs of errors/solutions', like 'applying the graph of the definition of error to the graph of the definition of relevance to generate connections between relevance/errors (and vice versa) and identifying relevant structures/counts/positions/sizes of these applications'
 
 
 II. Queries and Results
