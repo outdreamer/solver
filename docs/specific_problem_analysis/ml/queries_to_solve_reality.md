@@ -1070,6 +1070,8 @@ I. To do list
 
 	- identify useful structures like 'sets of graphs to apply for comparisons' and 'sequences of changes to graphs to increase the relevance of sequential comparisons or increase the relevance of comparisons using those graphs', and identify 'structures of graphs to optimize comparisons' like 'sequences of graph pairs or variants of graph pairs to apply to organize comparisons' like 'comparison to a general graph pair, then comparison to a maximally different extreme variant of the graph pair'
 
+- identify useful structures like 'ways to generate errors' other than 'changes to requirements' like applying 'relevant definitions of error, like error components'
+
 
 II. Queries and Results
 
