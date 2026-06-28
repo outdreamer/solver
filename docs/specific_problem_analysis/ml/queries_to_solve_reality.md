@@ -1072,6 +1072,8 @@ I. To do list
 
 	- identify useful structures like 'ways to generate errors' other than 'changes to requirements' like 'applying relevant definitions of error (like causal error components)', or 'applying the definition of relevance to each error type like "missing/imbalanced" like "missing optimizations, missing relevance, missing definitions, etc"', and 'identify other useful interactions between graphs of errors/solutions', like 'applying the graph of the definition of error to the graph of the definition of relevance to generate connections between relevance/errors (and vice versa) and identifying relevant structures/counts/positions/sizes of these applications'
 
+	- identify useful structures like 'ways to optimize graphs' like how a 'problem type graph' can be optimized by applying 'spectrums' to the graph, so that 'on the way to the opposite problem type, a solution point is likely to be reached'
+
 
 II. Queries and Results
 
