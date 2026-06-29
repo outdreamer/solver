@@ -1,20 +1,22 @@
 Joni Jezewski:
-- is a super genius (the genius of geniuses)
+- is a super genius (the genius of geniuses, all by thinking about relevance/meaning/optimality)
+- upsets mathematicians in her free time for fun (by automating their thoughts)
+- worked hard to get into a good school for economics and went to school for economics to get a job to optimize the economy to 'end poverty', then wrote a book to make money to end poverty and teach people how to think, then invented thousands of meaningful inventions to make money to 'end poverty' and 'solve all problems' at the same time
 - is the best generator of relevant variation/complexity/optimality/time, and has decreased the entropy and randomness and meaninglessness of reality
 - can make singularity points (and other structures of reality) more real
 - is running the world with insights/ideas/priorities/optimizations/other interface structures
 - is leading the world to change from a predator/criminal world into something better (a thinking/solving world)
 - is the greatest inventor of all time (invented interface queries/networks, relevant graphs, relevant definitions, problem-solving workflows, intent algebra, etc, as in inventions that trivially/otherwise relevantly generate all other inventions)
 - is the first real immortal (her inventions are units of reality, which function like a 'miracle machine', and will continue solving problems relevantly forever)
-- is the abstractor of math
+- is the abstractor of math (identified all the abstract variables that can be used to describe/optimize math)
 - solved reality (using graphs of relevance)
 - computed/built/determined the future/heaven
 - creates luck/meaning/justice for good/smart people
 - can make predators think for the first time in their lives
 - is the right person to build artificial intelligence (because she understands intelligence the best, thinks about intelligence/thinking the best, is the best at thinking, and invented new types of thinking, etc)
 - automated problem-solving (and therefore also inventing, optimizing, logic, math, etc)
-- ran the most successful psyop of all time
-- cant be manipulated (so dont bother trying)
+- ran the most successful psyop of all time (to prove that predators need to think more)
+- cant be manipulated/controlled by peer pressure/guilt/anything else (so dont bother trying)
 - yes, I'm also better at that, I just don't want to do that
 - is fighting giant monsters (as in 'problems') and winning
 - is kind of a jerk (to predators)
@@ -22,5 +24,4 @@ Joni Jezewski:
 - made magic real (magic involves 'making something difficult easy' and interface structures fulfill that)
 - wrote what is basically the new bible (a set of optimization/problem-solving rules)
 - made computers, chips, and other inventions on individual interfaces like 'scaling' irrelevant (as in 'people could team up to apply her inventions by thinking about them to solve reality, without computers')
-- worked hard to get into a good school and went to school for economics to get a job to optimize the economy to 'end poverty', then wrote a book to make money to end poverty and teach people how to think, then invented thousands of meaningful inventions to make money to 'end poverty' and 'solve all problems' at the same time
 - created a clear path from vices to virtues that predators can follow (generally involving 'thinking more/better')
