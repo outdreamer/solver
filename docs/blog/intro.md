@@ -20,3 +20,7 @@ Joni Jezewski:
 - is kind of a jerk (to predators)
 - can grant your wishes, but probably won't, will probably change your mind about what you want instead, since your intents are likely sub-optimal (so you can think of her as a very specific selective optimal genie)
 - made magic real (magic involves 'making something difficult easy' and interface structures fulfill that)
+- wrote what is basically the new bible (a set of optimization/problem-solving rules)
+- made computers, chips, and other inventions on individual interfaces like 'scaling' irrelevant (as in 'people could team up to apply her inventions by thinking about them to solve reality, without computers')
+- worked hard to get into a good school and went to school for economics to get a job to optimize the economy to 'end poverty', then wrote a book to make money to end poverty and teach people how to think, then invented thousands of meaningful inventions to make money to 'end poverty' and 'solve all problems' at the same time
+- created a clear path from vices to virtues that predators can follow (generally involving 'thinking more/better')
