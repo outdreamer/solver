@@ -1076,7 +1076,7 @@ I. To do list
 
 	- identify useful structures like 'graphs that can trivially/relevantly change into other graphs (like by rotating connections to the next nearest node)' and graphs that can be queried like by a query like 'try every possible connection up to n degrees, then apply a rotation to get to a higher connectivity node (to reach other areas of the graph)' to solve some ratio of problems on the graph, and identify 'variables of the queries that represent a spectrum of increased relevance (through an increased ratio of problems solveable with that query)'
 
-- identify useful structures like 'useful problem/solution interaction graphs' like a 'map of problems to problem causes to solutions specified by the filter of problem causes'
+	- identify useful structures like 'useful problem/solution interaction graphs' like a 'map of problems to problem causes to solutions specified by the filter of problem causes' or a 'graph of problems with surrounding possible meanings of the problem, then possible causes of those meanings and possible meanings of those causes (applying a pattern like alternating relevance layers)'
 
 
 II. Queries and Results
