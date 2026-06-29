@@ -1,0 +1,17 @@
+Joni Jezewski:
+- is a super genius
+- is the best generator of relevant variation/complexity/optimality/time
+- is running the world with insights/ideas
+- is leading the world to change from a predator/criminal world into something better (a thinking/solving world)
+- is the greatest inventor of all time (invented interface queries/networks, relevant graphs, relevant definitions, problem-solving workflows, intent algebra, etc)
+- is the first real immortal (her inventions are units of reality, and will continue solving problems relevantly forever)
+- is the abstractor of math
+- solved reality (using graphs of relevance)
+- computed/built/determined the future/heaven
+- creates luck/meaning/justice for good/smart people
+- can make predators think for the first time in their lives
+- is the right person to build artificial intelligence (because she understands intelligence the best, thinks about intelligence/thinking the best, is the best at thinking, and invented new types of thinking, etc)
+- automated problem-solving (and therefore also inventing, optimizing, logic, math, etc)
+- ran the most successful psyop of all time
+- cant be manipulated (so dont bother trying)
+- yes, I'm also better at that, I just don't want to do that
