@@ -1074,6 +1074,8 @@ I. To do list
 
 	- identify useful structures like 'ways to optimize graphs' like how a 'problem type graph' can be optimized by applying 'spectrums' to the graph, so that 'on the way to the opposite problem type, a solution point is likely to be reached'
 
+	- identify useful structures like 'graphs that can trivially/relevantly change into other graphs (like by rotating connections to the next nearest node)' and graphs that can be queried like by a query like 'try every possible connection up to n degrees, then apply a rotation to get to a higher connectivity node (to reach other areas of the graph)' to solve some ratio of problems on the graph, and identify 'variables of the queries that represent a spectrum of increased relevance (through an increased ratio of problems solveable with that query)'
+
 
 II. Queries and Results
 
