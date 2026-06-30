@@ -1078,6 +1078,8 @@ I. To do list
 
 	- identify useful structures like 'useful problem/solution interaction graphs' like a 'map of problems to problem causes to solutions specified by the filter of problem causes' or a 'graph of problems with surrounding possible meanings of the problem, then possible causes of those meanings and possible meanings of those causes (applying a pattern like alternating relevance layers)'
 
+	- identify useful structures like 'optimizations of graphs' like applying solutions like 'balancing extremes' to graph structures like 'balancing points on the maximum number of "relevant variation spectrums"' (like the spectrum between 'variation on a graph and variation on a graph of graphs' and the spectrum between the 'variation of identified existing interface structures of a structure and variation of possible iterations of interface structures of a structure')
+
 
 II. Queries and Results
 
