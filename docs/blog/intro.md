@@ -6,7 +6,7 @@ Joni Jezewski:
 - can make singularity points (and other structures of reality) more real
 - is running the world with insights/ideas/priorities/optimizations/other interface structures
 - is leading the world to change from a predator/criminal world into something better (a thinking/solving world)
-- is the greatest inventor of all time (invented interface queries/networks, relevant graphs, relevant definitions, problem-solving workflows, intent algebra, etc, as in inventions that trivially/otherwise relevantly generate all other inventions)
+- is the greatest and most prolific inventor of all time (invented interface queries/networks, relevant graphs, relevant definitions, problem-solving workflows, intent algebra, etc, as in inventions that trivially/otherwise relevantly generate all other inventions)
 - is the first real immortal (her inventions are units of reality, which function like a 'miracle machine', and will continue solving problems relevantly forever)
 - is the abstractor of math (identified all the abstract variables that can be used to describe/optimize math) and the automator of logic (and the implementer of other 'interface structure interactions')
 - solved reality (using graphs of relevance)
@@ -25,4 +25,4 @@ Joni Jezewski:
 - wrote what is basically the new bible (a set of optimization/problem-solving rules)
 - made computers, chips, and other inventions on individual interfaces like 'scaling' irrelevant (as in 'people could team up to apply her inventions by thinking about them to solve reality, without computers')
 - created a clear path from vices to virtues that predators can follow (generally involving 'thinking more/better')
-- has the most optimal/resilient virtues bc of her massive intellect, which is an input to virtue
+- has the most optimal/resilient virtues bc of her massive intellect, which is an input to virtue (for example, "fragile virtue isn't real virtue")
