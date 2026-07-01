@@ -26,3 +26,6 @@ Joni Jezewski:
 - made computers, chips, and other inventions on individual interfaces like 'scaling' irrelevant (as in 'people could team up to apply her inventions by thinking about them to solve reality, without computers')
 - created a clear path from vices to virtues that predators can follow (generally involving 'thinking more/better')
 - has the most optimal/resilient virtues bc of her massive intellect, which is an input to virtue (for example, "fragile virtue isn't real virtue")
+- saved her boyfriend's life thousands of times from evil billionaires who are jealous of him and has no regrets, he's worth it, he's not a predator so I'm glad I saved him, even if I die in the process
+- rejected billionaires who are poisoning me for rejecting them (it's not wrong to reject them, I refuse to die for it, 'making the layup' would be preferred to 'dropping the ball', here, folks)
+- will make you watch her get more stubborn every day, more stubborn than you ever thought possible, if you try to control her (you are wrong in every way, so I'll never obey you)

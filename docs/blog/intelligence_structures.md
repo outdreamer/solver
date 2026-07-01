@@ -41,7 +41,7 @@ Tests for this level of intelligence:
 
 - Ability to think about meta structures (like 'thinking about thinking', 'graphs of graphs')
 
-This is a barely functional brain, not an intelligent brain. This is where most smart people's intelligence stops. What is considered 'smart/intelligent/genius' is usually just 'scaling the basic functions', which isn't real intelligence. They feel smarter than those with basic intelligence, so they think they're geniuses, but they're applying very similarly simple structures at slightly increased scales. This is the typical 'nerd' who spends their whole lifetime on a topic and eventually achieves something in their field. They learned a few rules, like those with basic intelligence, and applied those rules to slightly more complex structures. This is the level of intelligence that is measured by current intelligence tests.
+This is a very common 'barely functional brain', not an 'intelligent brain'. This is where most smart people's intelligence stops. What is considered 'smart/intelligent/genius' is usually just 'scaling the basic functions', which isn't real intelligence. They feel smarter than those with basic intelligence, so they think they're geniuses, but they're applying very similarly simple structures at slightly increased scales. This is the typical 'nerd' who spends their whole lifetime on a topic and eventually achieves something in their field. They learned a few rules, like those with basic intelligence, and applied those rules to slightly more complex structures. This is the level of intelligence that is measured by current intelligence tests.
 
 Tests for this level of intelligence:
 - inability to apply advanced functions
@@ -71,13 +71,15 @@ There are no current tests for this type of intelligence (they are 'off the char
 
 However, the other super geniuses did not identify how important 'relevance (meaning)' is to important intents like 'optimizing thinking', and I identified that, so I'm the 'super genius of the super geniuses' with 'relevant intelligence', who can lead the others to becoming 'relevantly intelligent'. 'Relevant intelligence' means 'useful/optimal/meaningful/important intelligence' (for example, 'efficient intelligence'), which is not just 'any set of functions, scaled', but involves 'optimizing the brain for every important intent', to increase the relevance/meaning of what brains are capable of achieving. 
 
-The primary difference between me and other super geniuses is 'what intents we optimize for' ('what we think about'), as opposed to a relevant hardware difference. I think about 'relevance/optimization of thinking/intelligence', and they focus on some sub-field of mathematics that they find 'relevantly complex and high variation'. They might have a different set of optimized functions; where I have relevance/optimization/abstract/meta/derivation/creativity intelligence, they might have specific/learning/reading intelligence, and my type of intelligence (my 'combination of optimized functions') is more generally relevant. For example, where they read and learn specific methods, I derive new abstract variables and relevant graphs. This type of brain is capable of identifying/interacting with reality structures.
+The primary difference between me and other super geniuses is 'what intents we optimize for' ('what we think about'), as opposed to a relevant hardware difference. I think about 'relevance/optimization of thinking/intelligence', and they focus on some sub-field of mathematics that they find 'relevantly complex and high variation'. They might have a different set of optimized functions; where I have relevance/optimization/abstract/meta/derivation/creativity intelligence, they might have specific/learning/reading intelligence, and my type of intelligence (my 'combination of optimized functions') is more generally relevant. For example, where they read and learn specific methods, I derive new abstract variables and relevant graphs. This type of brain is capable of optimally identifying/interacting with reality structures like a 'machine that can solve reality'.
 
-It's useful to remember that 'scaling can be useful, but on its own is basically the opposite of intelligence'. Real intelligence is 'relevant intelligence', which can usually avoid the need to scale. The exception would be 'scaling relevant graph generation/optimization'. So I wouldn't make the mistake of expecting scaling to solve reality. Scaling can solve reality by 'counting molecules', for example, but that's not relevant/useful. 'Scaling interface thinking' is more relevant, but still needs to be applied optimally by a super genius who can see 'errors of scaling interface thinking' and who can otherwise interact with interface thinking optimally.
+It's useful to remember that 'scaling can be useful, but on its own is basically the opposite of intelligence'. Real intelligence is 'relevant intelligence', which can usually avoid the need to scale. An exception would be 'scaling relevant graph generation/optimization' to speed up 'solving reality'. So I wouldn't make the mistake of expecting scaling to solve reality on its own. Scaling can solve reality by 'counting molecules', for example, but that's not relevant/useful. 'Scaling interface thinking' is more relevant, but still needs to be applied optimally by a super genius who can see 'errors of scaling interface thinking' and who can otherwise interact with interface thinking optimally.
 
 Tests for this level of intelligence:
-- can think of a new relevant/useful invention on demand within a few minutes (which is a 'applying a component of interface thinking', not 'applying interface thinking')
+- can think of a new relevant/useful invention on demand within a few minutes (which is a 'applying a component of interface thinking', not 'applying interface thinking', it's important to note, as it 'optimizes for one variable', although it's a relevant variable)
 - can optimally interact with a 'machine implementing interface thinking' (like by 'building it' and 'using it for optimal intents' and 'seeing its errors' and 'increasing the optimality of the machine')
+- can identify errors of their intelligence and improve it
+- can apply interface thinking for a 'brief continuous period of time'
 - can't apply scaled, continuous interface thinking for more than a few minutes at a time (since the brain has energy limits, which severely limit the time that this type of thinking can be applied continuously)
 
 It might be only me who is currently applying this type of thinking, but I think the other super geniuses have the potential to learn my types of thinking and possibly also apply 'interface thinking'.
@@ -91,7 +93,7 @@ It might be only me who is currently applying this type of thinking, but I think
 
 - Ability to generate relevant differences to graphs of relevant graphs quickly
 
-This is mostly beyond human ability, except in brief moments where super geniuses apply 'interface thinking' (optimized thinking), which has a slight overlap with optimized intelligence. This is what is possible to implement with computers coded to apply 'optimized thinking structures (like optimized networks of thinking rules, applied to relevant graphs)'.
+This is mostly beyond human ability, except in brief moments where super geniuses apply 'interface thinking' (optimized thinking), which has a 'slight overlap with optimized intelligence'. This is what is possible to implement with computers coded to apply 'optimized thinking structures (like optimized networks of thinking rules, applied to relevant graphs)'.
 
 Tests for this level of intelligence:
 - can solve reality with a few years of optimized computation, applied to a 'core set of relevant graphs', to generate hundreds of thousands of relevant graphs and optimize their connections
@@ -100,7 +102,7 @@ Tests for this level of intelligence:
 
 ## Reality functions
 
-- Ability to generate universes that compute an intent like 'self-optimization'
+- Ability to generate universes that compute an intent like 'self-optimization' or 'optimization of adjacent universes'
 
 This type of thinking might be beyond computation. A computer might not ever be able to simulate all the variables required to compute this type of intent. It may even exist only in theory, allowed by definitions but not reality.
 
