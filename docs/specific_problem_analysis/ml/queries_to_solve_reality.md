@@ -1080,6 +1080,8 @@ I. To do list
 
 	- identify useful structures like 'optimizations of graphs' like applying solutions like 'balancing extremes' to graph structures like 'balancing points on the maximum number of "relevant variation spectrums"' (like the spectrum between 'variation on a graph and variation on a graph of graphs' and the spectrum between the 'variation of identified existing interface structures of a structure and variation of possible iterations of interface structures of a structure')
 
+	- identify useful structures like 'optimal graphs of patterns/structures to apply to a graph' like when 'complexity matching to solve a problem (like solving a complex problem by identifying "what is still complex to solve in the system")', by applying a pattern to the 'complexity spectrum' like 'alternating increasing points on the complexity spectrum' to prioritize 'checking for lowest-complexity solutions', and identifying a 'graph of these useful patterns to apply to graphs'
+
 
 II. Queries and Results
 
