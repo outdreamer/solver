@@ -86,10 +86,13 @@ It might be only me who is currently applying this type of thinking, but I think
 
 Tendencies of super geniuses:
 - intellectually curious (motivated by understanding/learning/epiphanies/relevant variation/more thinking time)
-- extreme self-control/self-awareness/selflessness/independence/objectivity/willpower/patience/focus/other intelligence components
+- extreme self-control/self-awareness/self-motivation/selflessness/independence/objectivity/willpower/patience/focus/other intelligence components
 - sits/walks around thinking all day for fun (no, walking doesn't make someone a genius, neither does caffeine, try them anyway to be slightly smarter)
 - extreme mental freedom (can choose what to think about, doesn't need 'thinking boosters/tricks', not addicted to negative structures, can choose to be addicted to thinking/other positive structures, which is not a real addiction)
-- has high standards
+- has high standards (is easily annoyed)
+- is highly sensitive, but can control this sensitivity to be resilient
+- is competitive with computers
+- often 'thinks through an intent' and can't justify 'completing an intent' once it's identified/described/pre-computed/simple and once its disadvantages/advantages are identified (once you think it through, as in 'once the steps to complete an intent are identified/simple, and the cost/benefit is identified', it's difficult to justify actually completing it in real life, and geniuses and above will often 'think it through' and thereby avoid unnecessary/irrelevant action so they can focus on 'real/relevant variation' like 'relevant complexity')
 
 
 ## Optimized functions
