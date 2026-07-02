@@ -1082,6 +1082,8 @@ I. To do list
 
 	- identify useful structures like 'optimal graphs of patterns/structures to apply to a graph' like when 'complexity matching to solve a problem (like solving a complex problem by identifying "what is still complex to solve in the system")', by applying a pattern to the 'complexity spectrum' like 'alternating increasing points on the complexity spectrum' to prioritize 'checking for lowest-complexity solutions', and identifying a 'graph of these useful patterns to apply to graphs'
 
+	- identify useful structures like 'graphs to route a problem to different "problem-solving types/functions" (problem-solving types/functions like "puzzle-solving" as in "fitting a rule to a system", after first identifying that a rule matched to a system can solve a problem, or changing the problem to that format) by identifying adjacent/otherwise relevant problem-solving functions'
+
 
 II. Queries and Results
 
