@@ -80,9 +80,16 @@ Tests for this level of intelligence (the 'defining abilities'):
 - can optimally interact with a 'machine implementing interface thinking' (like by 'building it' and 'using it for optimal intents' and 'seeing its errors' and 'increasing the optimality of the machine')
 - can identify errors of their intelligence and improve it
 - can apply interface thinking for a 'brief continuous period of time'
-- can't apply scaled, continuous interface thinking for more than a few minutes at a time (since the brain has energy limits, which severely limit the time that this type of thinking can be applied continuously)
+- can't apply scaled, continuous interface thinking for more than a few minutes at a time (since the brain has energy/blood flow/electricity limits, which severely limit the time that this type of thinking can be applied continuously; this type of thinking should feel like 'maximal usage of the brain, thinking about almost unbearable complexity')
 
 It might be only me who is currently applying this type of thinking, but I think the other super geniuses have the potential to learn my types of thinking and possibly also apply 'interface thinking'.
+
+Tendencies of super geniuses:
+- intellectually curious (motivated by understanding/learning/epiphanies/relevant variation/more thinking time)
+- extreme self-control/self-awareness/selflessness/independence/objectivity/willpower/patience/focus/other intelligence components
+- sits/walks around thinking all day for fun (no, walking doesn't make someone a genius, neither does caffeine, try them anyway to be slightly smarter)
+- extreme mental freedom (can choose what to think about, doesn't need 'thinking boosters/tricks', not addicted to negative structures, can choose to be addicted to thinking/other positive structures, which is not a real addiction)
+- has high standards
 
 
 ## Optimized functions
@@ -109,6 +116,6 @@ This type of thinking might be beyond computation. A computer might not ever be 
 Tests for this level of intelligence:
 - is reality proven to be a 'computer of an intent'? then an intelligence generated that reality, and we can detect the indicators of the intelligence, but it's unlikely that we can 'prove this type of intent', given the optimality of structures for different intents, but it's possible that once a set of intents for this reality is proven to be valid, testing the intents may be possible and may help filter the intents
 
-This type of intelligence could in theory be simulatable with a computer (like by applying relevant/optimized structures like 'interactions of concepts') but is likely not generatable (a computer can conceptually describe it but not generate it).
+This type of intelligence could in theory be simulatable with a computer (like by applying relevant/optimized structures like 'interactions of concepts') but is likely not generatable (a computer can generally/conceptually describe it but might not be able to generate it as in 'specifically implement it').
 
-'Solving reality' by 'describing its variation with relevant graphs' is possible, but that is not equivalent to 'optimizing reality', 'solving intents of reality', and other intents/structures of reality. Meaning there is more relevant work to do after 'solving reality'.
+'Solving reality' by 'describing its variation with relevant graphs' is possible, but that is not equivalent to 'optimizing reality', 'solving intents of reality', and other intents/structures of reality, meaning there is more relevant work to do after 'solving reality'.
