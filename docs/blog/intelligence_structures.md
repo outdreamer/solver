@@ -107,7 +107,7 @@ This is mostly beyond human ability, except in brief moments where super geniuse
 
 Tests for this level of intelligence:
 - can solve reality with a few years of optimized computation, applied to a 'core set of relevant graphs', to generate hundreds of thousands of relevant graphs and optimize their connections
-- cannot build itself
+- cannot build itself (this applies to the others below it as well, but it's still relevant to identify limits/errors of a superintelligence)
 
 
 ## Reality functions

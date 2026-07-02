@@ -1084,6 +1084,8 @@ I. To do list
 
 	- identify useful structures like 'graphs to route a problem to different "problem-solving types/functions" (problem-solving types/functions like "puzzle-solving" as in "fitting a rule to a system", after first identifying that a rule matched to a system can solve a problem, or changing the problem to that format) by identifying adjacent/otherwise relevant problem-solving functions'
 
+	- identify useful structures like 'relevant graph optimizations, like optimizing the connections in the graph of the definition of relevance (which connects optimization-specifying structures) to reflect additional/other relevant similarities to defined similarities, which is a relevant graph to optimize, in order to define relevance in a way that trivializes other intents than "defining relevance"'
+
 
 II. Queries and Results
 
