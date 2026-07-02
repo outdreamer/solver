@@ -91,8 +91,8 @@ Tendencies of super geniuses:
 - extreme mental freedom (can choose what to think about, doesn't need 'thinking boosters/tricks', not addicted to negative structures, can choose to be addicted to thinking/other positive structures, which is not a real addiction)
 - has high standards (is easily annoyed)
 - is highly sensitive, but can control this sensitivity to be resilient
-- is competitive with computers
-- often 'thinks through an intent' and can't justify 'completing an intent' once it's identified/described/pre-computed/simple and once its disadvantages/advantages are identified (once you think it through, as in 'once the steps to complete an intent are identified/simple, and the cost/benefit is identified', it's difficult to justify actually completing it in real life, and geniuses and above will often 'think it through' and thereby avoid unnecessary/irrelevant action so they can focus on 'real/relevant variation' like 'relevant complexity')
+- is competitive with computers/algorithms/other inventions
+- often 'thinks through an intent' and can't justify 'completing an intent' once it's identified/described/pre-computed/simple and once its disadvantages/advantages are identified (once you think it through, as in 'once the steps to complete an intent are identified/simple, and the cost/benefit is identified', it's difficult to justify actually completing it in real life, and geniuses and above will often 'think it through' and thereby avoid unnecessary/irrelevant action so they can focus on 'real/relevant variation' like 'relevant complexity' such as 'relevant inventions/optimizations')
 
 
 ## Optimized functions
