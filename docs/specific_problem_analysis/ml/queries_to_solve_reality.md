@@ -1086,6 +1086,8 @@ I. To do list
 
 	- identify useful structures like 'relevant graph optimizations, like optimizing the connections in the graph of the definition of relevance (which connects optimization-specifying structures) to reflect additional/other relevant similarities to defined similarities, which is a relevant graph to optimize, in order to define relevance in a way that trivializes other intents than "defining relevance"'
 
+	- identify useful structures like 'requirements of graphs required to solve reality' like how a 'causal variable graph' is obviously required to 'solve reality' and 'as other relevant graphs are identified, the causal variable graph will need to be updated to reflect the causal impact of relevant graphs', or a 'causal variable graph of relevant graphs' will be required as an alternative, and similarly, identify other trivially/otherwise relevantly required graphs
+
 
 II. Queries and Results
 
