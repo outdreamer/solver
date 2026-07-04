@@ -1088,6 +1088,8 @@ I. To do list
 
 	- identify useful structures like 'requirements of graphs required to solve reality' like how a 'causal variable graph' is obviously required to 'solve reality' and 'as other relevant graphs are identified, the causal variable graph will need to be updated to reflect the causal impact of relevant graphs', or a 'causal variable graph of relevant graphs' will be required as an alternative, and similarly, identify other trivially/otherwise relevantly required graphs
 
+	- identify useful structures like 'ranges of ratios of "identified info/other interface structures" that makes an algorithm useful' like how an 'algorithm that generates a graph of relevant graphs (connections between only solution structures) can use a subset of relevant graphs as an input by identifying similarities between the subset of already identified relevant graphs as an initial similarity to apply when generating a graph of all relevant graphs' but this algorithm is only valid/useful for a 'range of ratios of identified relevant graphs', and identify similarities between 'structures of relevance' of algorithms/graphs to identify relevant sets/combinations/structures of algorithms/graphs (that are useful in a set/combination/structure), and identify interface structures of these sets/structures like 'intent-implementation potential of a set of relevant graphs (that is useful as a set) that has a similar range of identified info determining its usefulness'
+
 
 II. Queries and Results
 
