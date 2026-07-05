@@ -1093,6 +1093,8 @@ I. To do list
 
 	- identify useful structures like 'cases when derivation is useful (when its useful to "identify new/relevant connections between differences", like "connections between inventions") and when learning is useful (like when "reinventing an invention" is not relevant, as its too simple to be useful, or otherwise doesnt contain relevant variation)'
 
+	- identify useful structures like 'variants of conceptual math' like 'concept math related to graphs' like 'identify what is true if this set of concepts is included in a graph (what is true about the potential of the graph, or the connections between the concepts, given similarities possible with their definitions)'
+
 
 II. Queries and Results
 
