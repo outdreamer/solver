@@ -1,7 +1,21 @@
 # Reality structures
 
 
-## Singularities/points
+## Reality machines
+
+- anything that is 'automatic as in happens by default in a reality' can be considered a 'reality machine'
+- anything that generates an input to reality like 'relevant variation' can also be considered a 'reality machine'
+- a 'reality computer' would be a machine that 'computes some variable of reality' or 'solves reality', or alternately a 'reality computer' could be a 'machine that computes some intent that the reality is intended to compute'
+
+
+## Reality vacuums
+
+Reality vacuums would act like 'opposing/destructive forces' of reality:
+- time vacuums that prevent 'relevant variation' (as in 'time')
+- complexity vacuums would over-simplify the reality they consume
+
+
+## Reality singularities/points
 
 Singularities are 'points where interface variables change' such as a 'point where an interface variable cascades'.
 
@@ -19,7 +33,7 @@ Optimal singularities:
 - a point that triggers an optimality cascade
 
 
-## Forces/functions
+## Reality forces/functions
 
 - 'Gravitational intelligence' would act like a magnetic/gravitational force on other intelligences
 - 'Predictive forces' would be useful to 'predict possible problems/solutions' before they occur or are otherwise relevant, to implement reality intents like 'invalidate time'
@@ -39,7 +53,14 @@ Reality intents include:
 - identify reality interface structure interactions (identify interactions between reality limits and reality singularities and reality functions)
 
 
+## Reality computation intents
+
+Intents that a reality could be intended to compute include:
+- identify the optimal interaction of interface variables
+- identify the reality configuration that optimizes for 'maximum relevant variation' or 'maximizes the number of relevant optimal points that can simultaneously exist in one reality'
+
+
 ## Reality solutions
 
-- a reality unit that can 'trivially accurately predict any variable interaction, locally', which requires 'applying the reality unit to compute these variable interactions'
+- a reality unit that can 'trivially accurately predict any variable interaction, locally, from any starting point', which requires 'applying the reality unit to compute these variable interactions'
 - a 'general description of reality limits' that makes 'solving reality more specifically' invalid
