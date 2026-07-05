@@ -3,16 +3,17 @@
 
 ## Reality machines
 
-- anything that is 'automatic as in happens by default in a reality' can be considered a 'reality machine'
-- anything that generates an input to reality like 'relevant variation' can also be considered a 'reality machine'
+- anything that is 'automatic (as in happens by default) in a reality' can be considered a 'reality machine'
+- anything that generates an input to or component of reality like 'relevant variation' can also be considered a 'reality machine'
 - a 'reality computer' would be a machine that 'computes some variable of reality' or 'solves reality', or alternately a 'reality computer' could be a 'machine that computes some intent that the reality is intended to compute'
+- a 'reality machine' could also be a 'possible real structure that can compute/generate reality', like a 'computer' or a 'molecular force interaction that acts like a computer (implements matrix multiplication/statistical regression or some other useful function to identify variable interactions)'
 
 
 ## Reality vacuums
 
 Reality vacuums would act like 'opposing/destructive forces' of reality:
 - time vacuums that prevent 'relevant variation' (as in 'time')
-- complexity vacuums would over-simplify the reality they consume
+- complexity vacuums would over-simplify the reality they consume, decreasing relevant variation
 
 
 ## Reality singularities/points
@@ -51,6 +52,7 @@ Reality intents include:
 - invalidate reality interface variables like 'time' and functions like 'predict'
 - identify structures that can invalidate reality and solutions to oppose these structures
 - identify reality interface structure interactions (identify interactions between reality limits and reality singularities and reality functions)
+- identify what other realities would act like better computers than this reality and how to apply those as computers
 
 
 ## Reality computation intents
