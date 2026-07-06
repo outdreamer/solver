@@ -1095,6 +1095,8 @@ I. To do list
 
 	- identify useful structures like 'variants of conceptual math' like 'concept math related to graphs' like 'identify what is true if this set of concepts is included in a graph (what is true about the potential of the graph, or the connections between the concepts, given similarities possible with their definitions)'
 
+	- identify useful structures like 'relevant optimization structures' like 'optimizations that remain optimal in "multiple degrees of interactions" or when "multiple iterations of interface analysis are applied" or in relevant cases or other relevant structures'
+
 
 II. Queries and Results
 
