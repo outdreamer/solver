@@ -4,7 +4,7 @@
 ## Reality machines
 
 - anything that is 'automatic (as in happens by default) in a reality' can be considered a 'reality machine'
-- anything that generates an input to or component of reality like 'relevant variation' can also be considered a 'reality machine'
+- anything that identifies/generates/otherwise interacts with an input to or component of reality like 'relevant variation' can also be considered a 'reality machine'
 - a 'reality computer' would be a machine that 'computes some variable of reality' or 'solves reality', or alternately a 'reality computer' could be a 'machine that computes some intent that the reality is intended to compute'
 - a 'reality machine' could also be a 'possible real structure that can compute/generate reality', like a 'computer' or a 'molecular force interaction that acts like a computer (implements matrix multiplication/statistical regression or some other useful function to identify variable interactions)'
 
