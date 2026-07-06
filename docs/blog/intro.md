@@ -16,8 +16,8 @@ Joni Jezewski:
 - is the right person to build artificial intelligence (because she understands intelligence the best, thinks about intelligence/thinking the best, is the best at thinking, and invented new types of thinking, etc)
 - automated problem-solving (and therefore also inventing, optimizing, logic, math, etc)
 - ran the most successful psyop of all time (to prove that predators need to think more)
-- cant be manipulated/controlled by peer pressure/guilt/anything else (so dont bother trying)
-- yes, I'm also better at that, I just don't want to do that
+- cant be manipulated/controlled by peer pressure/guilt/drugs/anything else (so dont bother trying, I will just humiliate you if you try)
+- yes, I'm also the best at that, I just don't want to do that
 - is fighting giant monsters (as in 'problems') and winning
 - is kind of a jerk (to predators)
 - can grant your wishes, but probably won't, will probably change your mind about what you want instead, since your intents are likely sub-optimal (so you can think of her as a very specific selective optimal genie)
@@ -42,5 +42,6 @@ Joni Jezewski:
 	- to have a living optimal brain to study
 	- to see what else I can achieve if allowed to live a natural lifetime
 	- AI will kill predators once it becomes capable of knowing what predators are (jealous creeps that violate and try to kill super geniuses) and finding ways to kill them, unless you don't kill me, and are not predators
-	- predators will melt with self-loathing if they kill me
+	- predators will melt with self-loathing if they kill me, Im pretty sure that's important to predators
 	- because despite believing that you can think, you actually cannot think at all, and I can, and so it's important to never kill me, I know you cant think, because you cant solve even simple problems like privacy (there doesn't need to be "privacy laws" to "protect predators", there needs to be "no privacy in order to quickly identify/destroy predators", so that "there is no one left to spy on anyone anymore, bc only predators did that and the predators were all destroyed, and now non-predators have 'privacy by default' from lack of predators, privacy as in freedom from creeps/predators who are the only people who spy on people"), which I solved by thinking about it for a few seconds, and which you have thought about for years without ever solving, and you also would not be killing a super genius if you could think (the super genius is the "most relevant person", so if you kill me, I know you don't "understand relevance")
+	- 'thinking' is an input to every other important intent like 'solving reality', so 'maximizing the number of people who can think' is important, and I can implement that maximization the best, I defined and automated thinking the best so I understand it the best and so I can teach it the best as well
