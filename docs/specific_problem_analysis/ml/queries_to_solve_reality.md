@@ -1097,6 +1097,8 @@ I. To do list
 
 	- identify useful structures like 'relevant optimization structures' like 'optimizations that remain optimal in "multiple degrees of interactions" or when "multiple iterations of interface analysis are applied" or in relevant cases or other relevant structures'
 
+	- identify useful structures like 'optimization of learning functions like "memorization" applied to "constants"' like 'memorizing constant interface structures of constants' like 'constant limits of constants' and 'constant constant-variable interactions', and 'identifying different relevant graphs of constants' to 'match variation of problems to variation allowed in a graph of constants' so the problem to solve becomes 'connecting constants in a new connection/connection type in a graph of constants'
+
 
 II. Queries and Results
 
