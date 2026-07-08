@@ -1101,6 +1101,8 @@ I. To do list
 
 	- identify useful structures like 'relevant insights to implement in a graph' like 'interactive insights' like how a relevant problem-solving workflow like 'apply relevant variation within possibility spaces identified by constants (relevant variation, as is relevant to constants, which can be generalized to "relevant variation, to an interface structure")' and a relevant structure like 'a graph of optimizations' can be applied to generate an insight regarding their interaction like 'apply generally/frequently/other components of a relevant definition of optimal variables as "constant structures to apply changes to", in a graph of optimizations' ('apply a graph of optimizations' and 'apply changes to constants' are 'interactive insights' bc they 'can be integrated in a graph')
 
+	- identify useful structures like 'optimization rules' like 'update rules' like 'update inputs up to n steps previously before updating/applying a structure, to update "adjacent/otherwise relevant" inputs, since changes that are more distant than n are less likely to be relevant, and update other relevant inputs like important inputs with higher frequency'
+
 
 II. Queries and Results
 
