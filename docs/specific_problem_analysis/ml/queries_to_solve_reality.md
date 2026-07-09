@@ -1103,6 +1103,8 @@ I. To do list
 
 	- identify useful structures like 'optimization rules' like 'update rules' like 'update inputs up to n steps previously before updating/applying a structure, to update "adjacent/otherwise relevant" inputs, since changes that are more distant than n are less likely to be relevant, and update other relevant inputs like important inputs with higher frequency'
 
+	- identify useful structures like 'relevant graphs' like 'graphs where each structure like an "interface variable" is surrounded by "maximally different structures" like "interface variables with one interface similarity" and "interface variables with every possible difference", to optimize for "identifying relevant/maximal differences"'
+
 
 II. Queries and Results
 
