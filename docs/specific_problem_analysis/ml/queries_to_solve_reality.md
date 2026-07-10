@@ -1105,6 +1105,8 @@ I. To do list
 
 	- identify useful structures like 'relevant graphs' like 'graphs where each structure like an "interface variable" is surrounded by "maximally different structures" like "interface variables with one interface similarity" and "interface variables with every possible difference", to optimize for "identifying relevant/maximal differences"', and "graphs of relevance implemented as filter combinations/sequences, filters like different 'invalidation structures' like 'where a structure is actually its simple opposite, or where a structure invalidates/reduces/opposes its inputs/intents', where if a structure makes it past the filter sequence, its possibly/probably relevant/true, and the possible/probable relevant positions reflect the definition of relevance, so 'similarly possibly/probably relevant states' are similar in the graph in some way like 'positional adjacence', like different concentric circles corresponding to different truth/relevance ratios"
 
+	- identify useful structures like 'graph-organizing/optimizing templates of a graph' like a 'graph template that is useful for "identifying/connecting structures in a graph" like "identifying/connecting thresholds" in a graph'
+
 
 II. Queries and Results
 
