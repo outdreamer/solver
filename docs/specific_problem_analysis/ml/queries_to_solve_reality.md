@@ -1111,6 +1111,8 @@ I. To do list
 	
 	- identify useful structures like 'graph implementation/organization/optimization problems' like 'missing graph structures like missing graph layers (associated with "info gaps" or "reductions in info" in graph implementations)' given a 'graph of optimal graph implementation/organization/optimization requirements' (requirements like 'given that a graph has these structures and this info, these other structures/info should be implemented/integrated, to distribute info evenly or continuously throughout the graph or the graph implementation/optimization sequence')
 
+	- identify useful structures like graphs that make it trivial/otherwise relevant to identify the 'position/type/structure of required variation' like whether its useful to apply changes to a 'standard or a definition or an implementation or other structure' by sequencing/structuring these structures in the graph to make this identification relevant (like by making it trivial to identify 'upstream/downstream variation relevance' by organizing relevant structures in a sequence or organizing them adjacently or otherwise relevantly)
+
 
 II. Queries and Results
 
