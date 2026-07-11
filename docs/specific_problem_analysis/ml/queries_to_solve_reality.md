@@ -1107,6 +1107,8 @@ I. To do list
 
 	- identify useful structures like 'graph-organizing/optimizing templates of a graph' like a 'graph template that is useful for "identifying/connecting structures in a graph" like "identifying/connecting thresholds" in a graph'
 
+	- identify useful structures like relevant graphs like 'graphs of assumption set nodes with surrounding supporting evidence and contradictions and implications of assumptions, organized by similarity of possibility/requirement, as a way to connect different reality assumption sets, to identify branches of the graph which are impossible given new info by connecting assumption sets with common assumptions in the same branch/sequence'
+
 
 II. Queries and Results
 
