@@ -1108,6 +1108,8 @@ I. To do list
 	- identify useful structures like 'graph-organizing/optimizing templates of a graph' like a 'graph template that is useful for "identifying/connecting structures in a graph" like "identifying/connecting thresholds" in a graph'
 
 	- identify useful structures like relevant graphs like 'graphs of assumption set nodes with surrounding supporting evidence and contradictions and implications of assumptions, organized by similarity of possibility/requirement, as a way to connect different reality assumption sets, to identify branches of the graph which are impossible given new info by connecting assumption sets with common assumptions in the same branch/sequence'
+	
+	- identify useful structures like 'graph implementation/organization/optimization problems' like 'missing graph structures like missing graph layers (associated with "info gaps" or "reductions in info" in graph implementations)' given a 'graph of optimal graph implementation/organization/optimization requirements' (requirements like 'given that a graph has these structures and this info, these other structures/info should be implemented/integrated, to distribute info evenly or continuously throughout the graph or the graph implementation/optimization sequence')
 
 
 II. Queries and Results
