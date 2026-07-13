@@ -1116,6 +1116,8 @@ I. To do list
 	- identify useful structures like 'relevance optimizations of a graph' like 'ways to increase relevance of a graph structure (like by changing every connection until its also a spectrum or interface, or changing every sequence until its also a generative sequence)'
 		- relatedly, identify useful structures like 'optimality iterations' like 'optimization structures applied to optimization structures' like 'optimal transport algorithms applied to allocate optimizations or allocate optimization algorithms' and identify 'graphs to allocate optimization algorithms/optimizations' as problem-solving graphs of optimization problems
 
+	- identify useful structures like relevant graphs like how a 'causal identification graph' can be implemented as a 'set of maximally different function sequences (where function sequences are associated with different causes bc the function sequences add enough variation to generate differences in cause)' which 'implements the definition of relevance' by 'adding enough variation (through maximally different function sequences) to approximate relevance (the definition of relevance, as relevant to different possible causes)', and identify other optimal applications of the definition of relevance than 'applying approximations of the definition of relevance (through relevant variation)'
+
 
 II. Queries and Results
 
