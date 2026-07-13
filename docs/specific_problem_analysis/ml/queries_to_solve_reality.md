@@ -1114,6 +1114,7 @@ I. To do list
 	- identify useful structures like graphs that make it trivial/otherwise relevant to identify the 'position/type/structure of required variation' like whether its useful to apply changes to a 'standard or a definition or an implementation or other structure' by sequencing/structuring these structures in the graph to make this identification relevant (like by making it trivial to identify 'upstream/downstream variation relevance' by organizing relevant structures in a sequence or organizing them adjacently or otherwise relevantly)
 
 	- identify useful structures like 'relevance optimizations of a graph' like 'ways to increase relevance of a graph structure (like by changing every connection until its also a spectrum or interface, or changing every sequence until its also a generative sequence)'
+		- relatedly, identify useful structures like 'optimality iterations' like 'optimization structures applied to optimization structures' like 'optimal transport algorithms applied to allocate optimizations or allocate optimization algorithms'
 
 
 II. Queries and Results
