@@ -1118,6 +1118,14 @@ I. To do list
 
 	- identify useful structures like relevant graphs like how a 'causal identification graph' can be implemented as a 'set of maximally different function sequences (where function sequences are associated with different causes bc the function sequences add enough variation to generate differences in cause)' which 'implements the definition of relevance' by 'adding enough variation (through maximally different function sequences) to approximate relevance (the definition of relevance, as relevant to different possible causes)', and identify other optimal applications of the definition of relevance than 'applying approximations of the definition of relevance (through relevant variation)'
 
+	- identify useful structures like 'composable relevance components in a graph' that can be 'combined/moved to create implementations of the definition of relevance in any graph' and identify algorithms to increase the relevance of a graph like by 'combining/merging local/specific relevance sequences to create global/general relevance sequences'
+
+	- identify useful variants of graphs like 'problems associated with points in the graph of the definition of relevance' like 'problems of uniqueness'
+
+	- identify the level of 'specificity/composability/variable of the definition of relevance' at which point a 'simple opposite' of the specification/component/structure can indicate 'problems solvable with that specification/component/structure'
+
+	- identify useful structures like 'relevance structures to include in a graph' like 'organizations of multiple nested connections across interfaces' like including 'connected problem and problem cause info' and connecting this problem/cause info with 'relevant info like "multiple alternate optimizations/solutions" that can solve that problem/cause' and organizing these 'multiple solution connections between problem structures to connect' by 'local optimality or the definition of relevance'
+
 
 II. Queries and Results
 
