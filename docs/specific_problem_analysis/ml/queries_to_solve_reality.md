@@ -1128,6 +1128,8 @@ I. To do list
 
 	- identify useful structures like 'optimal graph descriptions' like an 'optimal graph of solutions' like a 'relevance spectrum of general solution types/structures (like general graph/algorithm types)' and identify ways to construct this graph like by 'merging other graphs, connecting overlapping sequences of local relevance spectrums from other graphs, generalizing/connecting specific relevance structures, etc', and identify optimal variants of this graph like by applying a 'solution generality' or 'relevant graph distance' or 'relevance definition distance' spectrum as an alternate axis of a 'relevance' spectrum
 
+	- identify useful structures like 'optimal graph relevance interactions' like how a graph's "interaction with relevance through implementing distance/difference as having specific meaning" or its "similarity to the graph of the definition of relevance" can mean that its "relevant as an average/connecting graph between other graphs" which is optimal for some relevant intent like 'merging graphs'
+
 
 II. Queries and Results
 
