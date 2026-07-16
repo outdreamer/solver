@@ -1131,6 +1131,8 @@ I. To do list
 	- identify useful structures like 'optimal graph relevance interactions' like how a graph's "interaction with relevance through implementing distance/difference as having specific meaning" or its "similarity to the graph of the definition of relevance" can mean that its "relevant as an average/connecting graph between other graphs" which is optimal for some relevant intent like 'merging graphs'
 
 	- identify useful structures like 'relevant sequenceability of embedding of attributes of a graph' like '"validity of distributivity" of a graph structure (like applications of a graph as nodes in a graph)' ('validity of distributivity' can be applied as a relevant attribute of other graphs/graph intents) and 'relevant sequences/structures of graphs of a graph' like how a 'relevant type network graph (what graph types does a graph attribute generate) is often useful subsequently to a relevant spectrum graph (what threshold values does a graph attribute generate), so identify relevant graph sequences and integrating them into a graph is relevant'
+	
+	- identify relevant 'graph optimalities' like how 'generating a graph in some direction as identified by some variable set can generate an increase in optimality on some "optimal ratio of relevant graphs" or otherwise implements the definition of relevance in the structure of optimizations across relevant graphs' and identify the network of these optimalities
 
 
 II. Queries and Results
