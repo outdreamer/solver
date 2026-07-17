@@ -1136,9 +1136,11 @@ I. To do list
 
 	- identify useful structures like 'relevant graphs emerging from graphs which can be pre-computed' like how a graph of 'common useful graph sequences' for 'describing/generating/implementing/organizing/optimizing a graph' emerges as a useful graph which can be pre-computed rather than identified after implementing graph intents
 
-	- identify useful structures like 'interactions of solution structures like "solution types" and graph structures like "graph networks"' like 'general/specific solutions' and 'error graphs of a graph' like a 'general solution might be reusable across multiple graphs of a graph' and 'points where a graph becomes a solution' and identify 'interaction networks of solution types' like 'general/specific solutions' like 'general solutions might more optimally generate/connect to other solution types given the differences encoded in general solutions' and identify optimizations of these interaction networks for interactions across interaction networks 
+	- identify useful structures like 'interactions of solution structures like "solution types" and graph structures like "graph networks"' like 'general/specific solutions' and 'error graphs of a graph' like a 'general solution might be reusable across multiple graphs of a graph' and 'points where a graph becomes a relevant solution' and identify 'interaction networks of solution types' like 'general/specific solutions' like 'general solutions might more optimally generate/connect to other solution types given the differences encoded in general solutions' and identify optimizations of these interaction networks for interactions across interaction networks 
 
 	- identify useful structures like 'connections between graph structures (like connections between graph intents and graphs of a graph)' like 'how errors in graph organization might impact errors in graph optimization' and identify 'optimizations of these connections' like how 'similarizing optimization of organization/optimization like by applying optimization to both intents can solve the problem of errors that occur later in a sequence'
+
+	- identify useful structures like 'useful graph variants' like how a useful variant of an interaction network applies some degree of interface structures between interactive structures like instead of 'error-error interactions', 'error-resulting solutions-resulting causes of solutions-resulting differences in error implementation-error interactions', which apply optimal/realistic degrees of variation in interactivity
 
 
 II. Queries and Results
