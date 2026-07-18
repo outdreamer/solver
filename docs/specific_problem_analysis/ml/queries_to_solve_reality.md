@@ -1142,6 +1142,8 @@ I. To do list
 
 	- identify useful structures like 'useful graph variants' like how a useful variant of an interaction network applies some degree of interface structures between interactive structures like instead of 'error-error interactions', 'error-resulting solutions-resulting causes of solutions-resulting differences in error implementation-error interactions', which apply optimal/realistic degrees of variation in interactivity
 
+	- identify useful structures like 'useful graph variants' like how an 'optimization graph (like the definition of relevance)' has optimal variants like being 'organized by which combinations/structures of optimizations are trivial/otherwise optimal to optimize for as a combination/structure'
+
 
 II. Queries and Results
 
