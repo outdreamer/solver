@@ -1146,6 +1146,10 @@ I. To do list
 
 	- identify useful structures like 'useful graphs of graphs' like a 'graph implementing the definition of relevance identifies "low-info graphs like a relevance spectrum" at various optimal points in the graph of the definition of relevance, if that info is adjacent in associated graphs (if its "trivial to identify relevance of a graph")', where 'identifying the graph of these variable-info graphs implementing the graph of the definition of relevance' and 'identify the graph of graphs at each point (connecting a low-info and a high-info graph to identify relevance at a relevant point)' are useful intents, and identify useful 'directions of problem-solving' like 'solving high info problems first to help identify info required to solve low-info problems'
 
+	- identify useful structures like 'logical optimalities' like how an 'optimal proof' applies 'relevant logic/understanding' like how 'identifying if a general function/variable is implemented by a type' applies understanding of the 'limits/other interface structures of that type' rather than applying for example a 'search to find a counterexample'
+
+	- identify useful structures like 'relevant structures/sequences/graphs of changes to apply to insights to generate other insights' like applying 'abstraction or other maximal differences' to 'connect an insight to other insights or generate a variant of an insight or generate another insight from an insight', as a way to generate questions to prove and proofs based on an insight, which can be optimized by applying 'changes to insight graphs'
+
 
 II. Queries and Results
 
