@@ -1156,6 +1156,8 @@ I. To do list
 	- identify useful structures like 'graph structure interaction relevance' like how 'a set of graphs with combined variation above some relevant level for an intent' could mean that 'this graph set should be applied as additive graph layers to generate a higher variation graph for that intent'
 		- relatedly, identify 'inference structures on graphs' like a 'cognitive leap on graphs' like 'inferring a similarity that appears on a related graph, through an undefined current graph similarity like adjacency/sequence' and identify structures of 'valid/otherwise relevant variation on a graph' like 'applying a variable to the "graph identity" when a node appears on multiple graphs to infer next steps in a sequence as being next steps on multiple different graphs'
 
+	- identify useful structures like useful 'interactions of applications of a graph (like the graph of the definition of relevance)', like by 'matching applications of the definition of relevance' to 'useful structures to optimize', like 'applying the graph of the definition of relevance to interfaces/sub-interfaces (like matrices/algebras, like find optimal matrices/matrix states/matrix intents)' and identify the 'graph of useful applications of graphs', applications like 'first apply the graph of the definition of relevance to an interface, then a maximally different interface, then optimal interactions of those interfaces, then optimal integration of those interfaces'
+
 
 II. Queries and Results
 
