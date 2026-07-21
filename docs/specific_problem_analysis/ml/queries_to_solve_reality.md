@@ -1153,6 +1153,8 @@ I. To do list
 	- identify useful structures like 'graphs optimized for core problem-solving functions like connect/filter/reduce' like how a 'connect problem/solution' workflow can be implemented with a 'graph that connect similarities to generate differences (or vice versa)', with variants like for a 'filter solutions' workflow like 'graphs that filter differences with abstract similarities (like a graph of filtered subsets as nodes and abstract similarities/differences as connecting functions)'
 		- relatedly, identify how graphs optimize for 'scaling' by 'identifying many connections, and generating connections from scaled combinations/sequences of component similarities/connections' and identify other intents/implementations to optimize graphs for like 'organize/optimize'
 
+	- identify useful structures like 'graph structure interaction relevance' like how 'a set of graphs with combined variation above some relevant level for an intent' could mean that 'this graph set should be applied as additive graph layers to generate a higher variation graph for that intent'
+
 
 II. Queries and Results
 
