@@ -1148,9 +1148,10 @@ I. To do list
 
 	- identify useful structures like 'logical optimalities' like how an 'optimal proof' applies 'relevant logic/understanding' like how 'identifying if a general function/variable is implemented by a type' applies understanding of the 'limits/other interface structures of that type' rather than applying for example a 'search to find a counterexample' (since 'search/test' implies 'lack of understanding')
 
-	- identify useful structures like 'relevant structures/sequences/graphs of changes to apply to insights to generate other insights' like applying 'abstraction or other maximal differences' to 'connect an insight to other insights or generate a variant of an insight or generate another insight from an insight', as a way to generate questions to prove (as in 'does this identified difference have a similarity', etc) and proofs based on an insight, which can be optimized by applying 'changes to insight graphs'
+	- identify useful structures like 'relevant structures/sequences/graphs of changes to apply to insights to generate other insights' like applying 'abstraction or other maximal differences' to 'connect an insight to other insights, or generate a variant of an insight, or generate another insight from an insight', as a way to generate questions to prove (as in 'does this identified difference have a similarity', etc) and proofs based on an insight, which can be optimized by applying 'changes to insight graphs' rather than applying 'changes to insights'
 
 	- identify useful structures like 'graphs optimized for core problem-solving functions like connect/filter/reduce' like how a 'connect problem/solution' workflow can be implemented with a 'graph that connect similarities to generate differences (or vice versa)', with variants like for a 'filter solutions' workflow like 'graphs that filter differences with abstract similarities (like a graph of filtered subsets as nodes and abstract similarities/differences as connecting functions)'
+		- relatedly, identify how graphs optimize for 'scaling' by 'identifying many connections, and generating connections from scaled combinations/sequences of component similarities/connections' and identify other intents/implementations to optimize graphs for like 'organize/optimize'
 
 
 II. Queries and Results
