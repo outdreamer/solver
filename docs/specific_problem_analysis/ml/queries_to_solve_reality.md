@@ -1158,6 +1158,10 @@ I. To do list
 
 	- identify useful structures like useful 'interactions of applications of a graph (like the graph of the definition of relevance)', like by 'matching applications of the definition of relevance' to 'useful structures to optimize', like 'applying the graph of the definition of relevance to interfaces/sub-interfaces (like matrices/algebras, like find optimal matrices/matrix states/matrix intents)' and identify the 'graph of useful applications of graphs', applications like 'first apply the graph of the definition of relevance to an interface, then a maximally different interface, then optimal interactions of those interfaces, then optimal integration of those interfaces'
 
+	- identify useful structures like 'extensions/optimal interface structures of relevance' like 'cross-graph layer relevance' like how 'connections between solutions in the definition of relevance also reflect connections between associated problems with those solutions'
+
+	- identify useful structures like 'sequences of extensions' of the graph of the definition of relevance like 'optimization structures, then structures/combinations of optimization structures, then associated problem/intent types solved by those structures of optimization structures, then specific systems/constants incentivizing solving those problems/intents, then types/variants of those systems/constants, then prioritized concepts causing those types of systems/constants' and identify useful 'points/structures to apply the graph of the definition of relevance and other optimization structures in that sequence'
+
 
 II. Queries and Results
 
