@@ -857,7 +857,7 @@ System design study guide
 			- But every visitor needs to be updated when a class is added or removed from the hierarchy, and if there are too many visitor classes its hard to extend the interface, and visitors might not have access to private fields of classes theyre supposed to work with
 			- visitor method works well with recursive structures like directory trees or xml structures bc it can visit each node in the recursive structure, and the visitor method is useful when performing operations on all elements of the complex object like a tree
 
-- Cloud Native Distributed System Design Patterns
+- Cloud Native Distributed System Design Patterns: priority queue, api routing, retry, rate limiting, failover, circuit breaker, sharding, throttling, health endpoint monitoring, index table
 	Pattern							Summary
 	Ambassador						Create helper services that send network requests on behalf of a consumer service or application.
 	Anti-Corruption Layer			Implement a façade or adapter layer between a modern application and a legacy system.
@@ -910,7 +910,7 @@ System design study guide
 	Throttling						Control the consumption of resources from applications, tenants, or services.
 	Transactional Outbox			The outbox table resolves the dual write operations issue that occurs when a single operation involves a database write operation and an event notification which can create inconsistencies if one fails
 	Valet Key						Use a token/key to provide clients with restricted, direct access to a specific resource or service.
-zabbix, splunk, kibana, cloud watch, slack
+
 	- distributed system architectures:
 		- client-server architecture: servers provide resources and clients request them, communicating over a network
 		- peer-to-peer architecture (P2P): each peer/node in the network acts as both a client and server, sharing resources directly with each other
