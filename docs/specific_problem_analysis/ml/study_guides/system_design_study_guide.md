@@ -857,7 +857,7 @@ System design study guide
 			- But every visitor needs to be updated when a class is added or removed from the hierarchy, and if there are too many visitor classes its hard to extend the interface, and visitors might not have access to private fields of classes theyre supposed to work with
 			- visitor method works well with recursive structures like directory trees or xml structures bc it can visit each node in the recursive structure, and the visitor method is useful when performing operations on all elements of the complex object like a tree
 
-- Cloud Native Distributed System Design Patterns: priority queue, api routing, retry, rate limiting, failover, circuit breaker, sharding, throttling, health endpoint monitoring, index table
+- Cloud Native Distributed System Design Patterns:
 	Pattern							Summary
 	Ambassador						Create helper services that send network requests on behalf of a consumer service or application.
 	Anti-Corruption Layer			Implement a façade or adapter layer between a modern application and a legacy system.

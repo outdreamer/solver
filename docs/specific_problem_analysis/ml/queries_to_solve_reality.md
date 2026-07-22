@@ -1163,6 +1163,8 @@ I. To do list
 
 	- identify useful structures like 'sequences of extensions' of the graph of the definition of relevance like 'optimization structures, then structures/combinations of optimization structures, then associated problem/intent types solved by those structures of optimization structures, then specific systems/constants incentivizing solving those problems/intents, then types/variants of those systems/constants, then prioritized concepts causing those types of systems/constants' and identify useful 'points/structures to apply the graph of the definition of relevance and other optimization structures in that sequence'
 
+	- identify useful structures like graphs of 'maximally different or otherwise relevant general solution structures to a problem of verifying a statement/connection' ('is true/relevant, is false/irrelevant, fits into a relevant graph, can be made true/false, a general variant is true, is locally true, is nearer to truth structures than false structures on a relevant ratio of relevant graphs, is less true than other statements') and different connection structures of solution structures (like different definitions of relevance, different integrations of graphs, different function sequences, etc) and identify similarities in these different connection structures, and how these similarities can scale/extend to implement related intents like 'verifying a graph (verifying a set of statements/connections that generate a graph)'
+
 
 II. Queries and Results
 
