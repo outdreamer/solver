@@ -8,9 +8,23 @@ Religious structures like heaven/god can have real counterparts.
 Immortality can be achieved by inventing something that:
 - is forever relevant (still used/relevant at the end of time)
 - generates relevant variation, like other relevant inventions
+- implements the definition of relevance/optimality/meaning
 - connects other realities/universes to increase the 'relevant lifespan of an invention', beyond the definition of time in this reality/universe
 - causes the end of time (makes time irrelevant)
 - causes immortality as in 'permanent stability of relevant variation' of a life form (finding some structure supporting permanent relevant variation, like an optimized set of relevant graphs that is always updating/optimizing itself)
+
+
+## Miracles/magic
+
+Miracles are seen as:
+- extreme good luck
+- an extremely good event
+
+Magic is seen as:
+- extreme power, like the power to generate efficiencies/optimalities to make some intent trivial/relevant
+- an extremely trivial/efficient/otherwise relevant implementation of an intent
+
+So miracles can be seen as 'optimal points/structures' and magic can be seen as 'optimality implementations (like efficiency implementations)'.
 
 
 ## God
