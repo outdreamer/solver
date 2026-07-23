@@ -1165,6 +1165,8 @@ I. To do list
 
 	- identify useful structures like graphs of 'maximally different or otherwise relevant general solution structures to a problem of verifying a statement/connection' ('is true/relevant, is false/irrelevant, fits into a relevant graph, can be made true/false, a general variant is true, is locally true, is nearer to truth structures than false structures on a relevant ratio of relevant graphs, is less true than other statements') and different connection structures of solution structures (like different definitions of relevance, different integrations of graphs, different function sequences, etc) and identify similarities in these different connection structures and identify general/otherwise relevant integrations of these 'graphs connecting solution structures' across problem types, and how these similarities can scale/extend to implement related intents like 'verifying a graph (verifying a set of statements/connections that generate a graph)'
 
+	- identify useful structures like 'graph variables' like 'variable relevance interactions of a graph' like 'graphs that increase relevance of node structures, as the graph is completed/optimized/organized' and 'graphs that have stable relevance of node structures which already have optimized relevance (the graph doesnt increase the relevance of the node structures)' and 'graphs that generate relevance through additional connections in some direction on the graph'
+
 
 II. Queries and Results
 
