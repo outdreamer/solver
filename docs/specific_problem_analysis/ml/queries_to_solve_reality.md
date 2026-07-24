@@ -1167,7 +1167,7 @@ I. To do list
 
 	- identify useful structures like 'graph variables' like 'variable relevance interactions of a graph' like 'graphs that increase relevance of node structures, as the graph is completed/optimized/organized' and 'graphs that have stable relevance of node structures which already have optimized relevance (the graph doesnt increase the relevance of the node structures)' and 'graphs that generate relevance through additional connections in some direction on the graph'
 
-	- identify useful structures like 'relevant problem types/structures' like 'required/stable problems' (like how some problems are required, like how 'some info is always missing from a graph' or otherwise always relevant) and relevant graph intents like 'identifying causal sequences in a non-causal graph (like the definition of relevance, where causal sequences are especially useful to identify)'
+	- identify useful structures like 'relevant problem types/structures' like 'required/stable problems' (like how some problems are required, like how 'some info is always missing from a graph' or otherwise always relevant) and relevant graph intents like 'identifying causal sequences in a non-causal graph (like the definition of relevance, where causal sequences are especially useful to identify)' and useful 'graph/algorithm interactions' like 'applying algorithms as a graph layer to connect graph nodes' like 'this set of algorithms identifies this connection trivially/otherwise relevantly' to identify 'some useful direction of algorithms to optimize/organize a graph', and identify 'additively useful algorithm sequences' that 'generate useful sequences on the graph of the definition of relevance'
 
 
 II. Queries and Results
