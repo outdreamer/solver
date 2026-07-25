@@ -16,3 +16,18 @@ Optimizations can be applied to identify more specific solution structures to id
 - a mix of multiple interface structures is likelier to be relevant than one type, so the solution should have more than one of the above interface structure types.
 - variation/complexity matching should be applied (as well as other validity checks) when identifying abstract similarities or new concepts
 - integrating the structures with relevance of their interactions is likelier to be more useful than analyzing them in isolation
+
+
+## Queries to improve AI understanding
+
+Intents like the following are likely useful for AI understanding, intents which are useful to implement/specify, and useful to graph in a 'network of intents':
+
+- identify important general concepts and identify the relevant degree to which their definitions should be specified/implemented and identify the optimal interactions of these definitions
+- identify maximally different combinations/structures of AI interface structures and identify their limits/other interface structures and their optimal interactions with known AI structures
+- identify useful structures like 'mutually improving graph sets' or 'relevant intent/graph sequences/networks' in AI 
+- identify 'implementations of the definition of relevance' that arent optimized yet in AI
+- identify 'optimizations of AI structures' and 'problems with all possible optimizations of AI structures' and optimized solutions to those problems (that dont create other problems)
+- identify maximally different (as in maximally covering) useful 'combinations/variants/structures of interface structures' and identify the relevance of these useful 'structures of interface structures'
+- identify maximally different relevant graphs and identify the useful degree to which they should be described/specified/implemented/integrated/organized/optimized
+- identify the most relevant set of relevant graphs to identify optimal interactions of, and identify unsolved problems on this set of relevant graphs, and identify important problems in this set of unsolved problems (like problems which are not problems that always exist in any system)
+- once some set of structures is usefully specified/implemented, identify their optimal interactions/applications/integrations
