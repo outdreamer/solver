@@ -18,7 +18,7 @@ Joni Jezewski:
 	- intelligent people have freedom to choose evil or goodness, and always arrive at the conclusion that evil is suboptimal (if they dont, theyre not actually smart, they probably just brute-forced solving a problem by iterating some simple structure)
 	- evil people are 'annoying burdens', and good people are 'annoyingly superior/happy', which is better
 	- good people aren't burdened by a guilty conscience
-	- evil people are insane, bc they're 'extremely wrong' and 'unhappy with reality', bc 'reality has good people in it, which makes evil people ashamed and feel inferior', and are only happy when they're 'depending on a good person'
+	- evil people are insane, bc they're 'extremely wrong' and 'unhappy with reality', bc 'reality has good people in it, which makes evil people ashamed and feel inferior', and are only falsely happy when they're 'depending on a good person' or 'depending on a group'
 	- evil people are extremely dependent on their group
 	- evil people are extremely dependent on good people, whereas good people are independent of evil people and independent in general
 	- evil people are to blame for every problem, so they can be blamed/punished for every problem
