@@ -13,7 +13,10 @@ Joni Jezewski:
 - computed/built/determined the future/heaven
 - creates luck/meaning/justice for good/smart people
 - beat evil with insights/graphs/logic:
-	- evil is 'easy cruelty', goodness is 'everything else', goodness is more complicated and everyone likes the 'relevant variation of complexity'
+	- evil is 'easy/irrelevant cruelty' (as opposed to relevant cruelty like 'justice'), goodness is 'everything else', goodness is more complicated and everyone likes the 'relevant variation of complexity', evil is one perspective on the graph of all perspectives, every other perspective is better than evil
+	- evil is not the relevant opposite/alternate/equivalent of 'good', its 'one specific suboptimal optimization' and goodness is 'all the other optimizations which are better than it', similar to how 'chaos' is not the 'simple opposite of order', bc order is 'by definition, everything that matters, as in everything that is relevant'
+	- intelligent people have freedom to choose evil or goodness, and always arrive at the conclusion that evil is suboptimal (if they dont, theyre not actually smart, they probably just brute-forced solving a problem by iterating some simple structure)
+	- evil is suboptimal in many ways including that it's irreversible, bc it involves a 'decay/destructive process', and involves less freedom as a result
 	- evil is simple/predictable/easily beaten with more advanced recent optimizations
 	- evil is easily beaten by 'insights about intelligence (like emotional control)'
 	- evil isnt as fun as intents like 'justice' or 'inventing'
