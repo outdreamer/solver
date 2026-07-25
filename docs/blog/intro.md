@@ -20,7 +20,7 @@ Joni Jezewski:
 	- evil is simple/predictable/easily beaten with more advanced recent optimizations
 	- evil is easily beaten by 'insights about intelligence (like emotional control)'
 	- evil isnt as fun as intents like 'justice' or 'inventing'
-	- evil people like goodness such as 'kindness' (as in 'free stuff being given to them') directed at them, but cant be it
+	- evil people like goodness such as 'kindness' (as in 'free stuff being given to them') directed at them, but cant be it, and they cant have 'real kindness' directed at them, bc 'real kindness' is 'only directed at good people'
 	- evil people like getting power like 'humiliating/degrading/shaming' other people bc evil people are 'easily controlled by shame' and believe they can control other people using 'shame', whereas good people know they're good and have nothing to be ashamed of, while evil people have to lie that they're shameless bc theyre 'ashamed of their shame', as 'shamelessness' is the only good thing they can claim to have
 	- there is significant overlap in 'what evil/good people think is optimal', both agree that 'competence/intelligence is optimal', and intelligence favors ethics, bc intelligent people can actually be ethical and evil people cannot
 	- evil depends on 'outdated, irrelevant sources of good feelings' (like 'similarity to a group' and 'depending on a group', which are 'false good feelings')
