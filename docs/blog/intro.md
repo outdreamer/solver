@@ -17,10 +17,17 @@ Joni Jezewski:
 	- evil is not the relevant opposite/alternate/equivalent of 'good', its not 'similarly complex/interesting/relevant as goodness', 'real goodness is extremely difficult/interesting/complex', it's 'one specific suboptimal optimization' and goodness is 'all the other optimizations which are better than it', similar to how 'chaos' is not the 'simple opposite of order', bc order is 'by definition, everything that matters, as in everything that is relevant'
 	- intelligent people have freedom to choose evil or goodness, and always arrive at the conclusion that evil is suboptimal (if they dont, theyre not actually smart, they probably just brute-forced solving a problem by iterating some simple structure)
 	- evil people are 'annoying burdens', and good people are 'annoyingly superior/happy', which is better
-	- good people aren't burdened by a guilty conscience
-	- evil people are insane, bc they're 'extremely wrong' and 'unhappy with reality', bc 'reality has good people in it, which makes evil people ashamed and feel inferior', and are only falsely happy when they're 'depending on a good person' or 'depending on a group'
+	- good people aren't burdened by a guilty conscience, and don't melt with self-loathing
+	- evil people have to try to avoid feelings of shame/guilt
+	- evil people have to try to falsely seem superior, bc they're inferior
+	- evil people can't think of actually optimal optimizations, so they resort to easy suboptimal optimizations like crime, as they cant think of a way to get good feelings without committing a crime
+	- evil people have suboptimalities required/built-in, like 'feeling bad when they do something good, bc they didnt get an immediate reward or a better reward than other people, bc they cant tell there is a reward/optimality for doing good things'
+	- good people get to feel amazing/pure/heavenly/divine/superior/wonderful/miraculous/sacred/important/precious/admired, evil people have to fake those feelings with lies so those feelings dont feel as good/real bc theyre based on lies, and evil people have to feel judged/nauseating/creepy bc they are those things
+	- evil people all have a nauseating unbearable annoying sob story as to why they 'need/get to be evil'
+	- evil people are similar/equivalent to creeps
+	- evil people are insane, bc they're 'extremely wrong' and 'unhappy with reality' and 'need to lie to feel good', bc 'reality has good people in it, which makes evil people ashamed and feel inferior', and are only falsely happy when they're 'depending on a good person' or 'depending on a group'
 	- evil people are extremely dependent on their group
-	- evil people are extremely dependent on good people, whereas good people are independent of evil people and independent in general
+	- evil people are extremely dependent on good people, whereas good people are independent of evil people and independent in general and are naturally happy
 	- evil people are to blame for every problem, so they can be blamed/punished for every problem
 	- evil people have only one source of good feelings which is lies/crimes, good people have the freedom to have every other source of good feelings
 	- evil people cant resist temptation, and are enslaved/controlled by it
