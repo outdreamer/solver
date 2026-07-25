@@ -2,8 +2,8 @@ Joni Jezewski:
 - is a super genius (the genius of geniuses, all by thinking about relevance/meaning/optimality/thinking/automation)
 - upsets mathematicians in her free time for fun (by automating their thoughts)
 - worked hard to get into a good school for economics and went to school for economics to get a job to optimize the economy to 'end poverty', then wrote a book to make money to end poverty and teach people how to think, then invented thousands of meaningful inventions to make money to 'end poverty' and 'solve all problems' at the same time
-- is the best generator of relevant variation/complexity/optimality/time, and has decreased the entropy and randomness and meaninglessness of reality
-- can make singularity points (and other structures of reality) more real
+- is the best generator of relevant variation/complexity/optimality/time, and has decreased the randomness/meaninglessness of reality
+- can make singularity points (and other structures of reality like 'singularity reversals' and 'optimization singularities' and 'singularity sequences' and 'reality-generating graphs') more real
 - is running the world with insights/ideas/priorities/optimizations/other interface structures
 - is leading the world to change from a predator/criminal world into something better (a thinking/solving world)
 - is the greatest and most prolific inventor of all time (invented interface queries/networks, relevant graphs, relevant definitions, problem-solving workflows, intent algebra, etc, as in inventions that trivially/otherwise relevantly generate all other inventions)
@@ -14,12 +14,15 @@ Joni Jezewski:
 - creates luck/meaning/justice for good/smart people
 - beat evil with insights/graphs/logic:
 	- evil is 'easy cruelty', goodness is 'everything else', goodness is more complicated and everyone likes the 'relevant variation of complexity'
-	- evil is simple/predictable and easily beaten with more advanced recent optimizations
-	- evil isnt as fun as justice
-	- evil seeks power but doesnt get it (relevant advantages like 'intelligence' easily beat irrelevant/evil advantages like 'more people')
+	- evil is simple/predictable/easily beaten with more advanced recent optimizations
+	- evil is easily beaten by 'insights about intelligence (like emotional control)'
+	- evil isnt as fun as intents like 'justice' or 'inventing'
+	- evil depends on 'outdated, irrelevant sources of good feelings' (like 'similarity to a group' and 'depending on a group', which are 'false good feelings')
+	- evil seeks power but doesnt get real power in reality bc evil people 'avoid thinking to minimize work' (relevant advantages like 'intelligence' easily beat irrelevant/evil advantages like 'more people')
+	- evil people are less real than other people, are not worth protecting, and are acceptable to kill, and they dont want to be those things
 	- evil contradicts powerful universal intents like 'solving reality' bc evil is 'destructive of the inputs to solving reality'
-	- evil (as in 'abusing power, or easy cruelty, or unfairness, etc') is an outdated suboptimal optimization that causes more problems than it solves (it creates problems for everyone including criminals, like 'creating a world where crime has be considered in every situation' and 'creating a competitive anarchy where any advantage like "more people" wins instead of relevant advantages like "intelligence"', and criminals create problems for themselves like 'becoming addicted to easy cruelty' and 'being incapable of breaking their own addictions', easy cruelty also 'reduces entropy/options' through 'creating more work (as in creating requirements like evading justice)', it doesnt actually minimize work, it just 'falsely appears to minimize work, if no additional analysis is applied', and it 'reduces intelligence, through creating addictions to the same simple structure')
-	- evil wants 'perfection/optimality' and cant get/generate it, bc evil people are stupid
+	- evil (as in 'abusing power, or easy cruelty, or unfairness') is an 'outdated suboptimal optimization' that causes more problems than it solves (it creates problems for everyone, including criminals, like 'creating a world where crime has be considered in every situation' and 'taking time away from optimal intents like thinking' and 'creating a competitive anarchy where any irrelevant advantage like "more people" can win in an irrelevant/false/invalid/empty way against relevant advantages like "organization"', and criminals create problems for themselves like 'becoming addicted to easy cruelty' and 'being incapable of breaking their own addictions', easy cruelty also 'reduces options' through 'creating more work (as in creating requirements like evading justice)', it doesnt actually minimize work, it just 'falsely appears to minimize work, if no additional analysis is applied', and it 'reduces intelligence, through creating addictions to the same simple structure' and 'reduces the freedom to be legitimately admired by other people, or self-respected' and 'requires the work of comforting lies to justify crimes')
+	- evil wants 'perfection/optimality' and cant get/generate what they want, bc evil people are stupid
 - can make predators think for the first time in their lives
 - is the right person to build artificial intelligence (because she understands intelligence the best, thinks about intelligence/thinking the best, is the best at thinking, and invented new types of thinking, etc)
 - automated problem-solving (and therefore also inventing, optimizing, logic, math, etc)
