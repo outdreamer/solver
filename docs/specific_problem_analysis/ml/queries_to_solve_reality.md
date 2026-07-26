@@ -1180,6 +1180,8 @@ I. To do list
 
 	- identify useful structures like 'sequences of relevant graphs' that are useful to 'standardize/similarize a graph to, when implementing a graph intent sequence', which applies 'relevant graphs' as a 'filter' in a 'generate/filter' workflow
 		- for example, identify useful algorithms like 'generate/filter possibilities, by applying changes to a constant base structure' that are useful to standardize to a graph like the 'definition of relevance' to 'organize the possibilities by relevance' (to answer questions like, 'is it always useful to start by applying changes from the definition of relevance or is it always useful to generate different sets and try to organize it to the definition of relevance so that already identified relevance connections/optimizations can be applied')
+		- relatedly, identify graph structures like 'graph spectrums/sequences' like how an 'absorbing graph' and a 'comparison/standard graph' of a graph can act like a sequence or spectrum to move a graph on for different intents
+		- relatedly, identify 'problem-solving state sequences' like where a problem is 'impossible not to solve or required to solve' at specific points in various problem-solving state sequences
 
 
 II. Queries and Results
