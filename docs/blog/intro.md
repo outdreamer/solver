@@ -12,7 +12,7 @@ Joni Jezewski:
 - solved reality (using graphs of relevance)
 - computed/built/determined the future/heaven
 - creates luck/meaning/justice for good/smart people
-- beat evil with insights/graphs/logic:
+- beat evil with insights/graphs/logic and inventions (optimization algorithms which make it easy for even evil people to see better alternatives to evil)
 	- evil is 'easy/irrelevant cruelty' (as opposed to relevant cruelty like 'justice'), goodness is 'everything else', goodness is more complicated and relevant and everyone likes the 'relevant variation of complexity', evil is one perspective on the graph of all perspectives, every other perspective is better than evil
 	- evil is not the relevant opposite/alternate/equivalent of 'good', its not 'similarly complex/interesting/relevant as goodness', 'real goodness is extremely difficult/interesting/complex', it's 'one specific suboptimal optimization' and goodness is 'all the other optimizations which are better than it', similar to how 'chaos' is not the 'simple opposite of order', bc order is 'by definition, everything that matters, as in everything that is relevant'
 	- intelligent people have freedom to choose evil or goodness, and always arrive at the conclusion that evil is suboptimal (if they dont, theyre not actually smart, they probably just brute-forced solving a problem by iterating some simple structure)

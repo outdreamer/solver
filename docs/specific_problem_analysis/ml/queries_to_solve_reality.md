@@ -1190,6 +1190,7 @@ I. To do list
 	- identify useful structures like a 'component singularity/limit' to 'filter interface analysis applications' like where 'interface analysis can be usefully iterated up to that point, where additional analysis is trivial, bc it can be generated using previous analysis as components' to avoid problems like 'combinatorial interface analysis applications', similar to how a 'reality-related singularity' may exist where 'additional analysis applications are irrelevant when representing reality', and identify 'optimal interactions of these singularities/points/limits', and identify related structures like 'complete sets of perspectives/intents to filter reality descriptions'
 
 	- identify useful structures like 'suboptimal connections which are still useful to apply regularly in specific sequences' (like 'everything is constant' and 'everything is equal') which are suboptimal by being 'generally false' or 'overly simplistic' but which are useful in the same way that 'starting to identify connections by first assuming equivalent distances in a graph, or the same graph layer, or other similarity' is useful at first to enable other intents
+		- relatedly, identify useful structures like 'graphs with unique connections' which are 'regularly useful to standardize/similarize to', such as when 'initially constructing a graph' or when 'selecting optimal connections out of a set of multiple optimized alternative connections'
 
 
 II. Queries and Results
