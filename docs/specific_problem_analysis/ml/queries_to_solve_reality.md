@@ -1180,10 +1180,12 @@ I. To do list
 
 	- identify useful structures like 'sequences of relevant graphs' that are useful to 'standardize/similarize a graph to, when implementing a graph intent sequence', which applies 'relevant graphs' as a 'filter' in a 'generate/filter' workflow
 		- for example, identify useful algorithms like 'generate/filter possibilities, by applying changes to a constant base structure' that are useful to standardize to a graph like the 'definition of relevance' to 'organize the possibilities by relevance' (to answer questions like, 'is it always useful to start by applying changes from the definition of relevance or is it always useful to generate different sets and try to organize it to the definition of relevance so that already identified relevance connections/optimizations can be applied')
-		- relatedly, identify graph structures like 'graph spectrums/sequences' like how an 'absorbing graph' and a 'comparison/standard graph' of a graph can act like a sequence or spectrum to move a graph on for different intents
+		- relatedly, identify graph structures like 'graph spectrums/sequences' like how an 'absorbing graph' and a 'comparison/standard graph' of a graph can act like 'opposing sides of a sequence or spectrum to move a graph on for different intents'
 		- relatedly, identify 'problem-solving state sequences' like where a problem is 'impossible not to solve or required to solve' at specific points in various problem-solving state sequences
 
 	- identify useful structures like 'optimal relevance interactions' like 'when one type of interaction is identified, another type of interaction should be re-calculated, or its degree of interactivity should be varied, or other functions/changes should be applied, to update the relevance graph of a structure in a specific prioritized sequence or other interaction structure between relevance structures/types (like the relevant causes/intents/other interface structures of a structure identified when interface analysis is iterated)'
+
+	- identify useful structures like 'useful graph layers of a graph' like how a 'graph of error interactions like interactions between gaps in computation/specification/information/conceptualization/definition/variation' can be applied as a useful graph layer of an 'intent network' to identify 'gaps in computation/etc of intents' and 'optimal errors to solve in a sequence/network'
 
 
 II. Queries and Results
