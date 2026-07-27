@@ -1187,7 +1187,7 @@ I. To do list
 
 	- identify useful structures like 'useful graph layers of a graph' like how a 'graph of error interactions like interactions between gaps in computation/specification/information/conceptualization/definition/variation' can be applied as a useful graph layer of an 'intent network' to identify 'gaps in computation/etc of intents' and 'optimal errors to solve in a sequence/network', and identify 'relevant errors created by these errors like computation gaps, that would change whether its useful to solve those errors in a specific sequence'
 
-	- identify useful structures like a 'component singularity' to 'filter interface analysis applications' like where 'interface analysis can be usefully iterated up to that point, where additional analysis is trivial, bc it can be generated using previous analysis as components', similar to how a 'reality-related singularity' may exist where 'additional analysis applications are irrelevant when representing reality'
+	- identify useful structures like a 'component singularity/limit' to 'filter interface analysis applications' like where 'interface analysis can be usefully iterated up to that point, where additional analysis is trivial, bc it can be generated using previous analysis as components', similar to how a 'reality-related singularity' may exist where 'additional analysis applications are irrelevant when representing reality', and identify 'optimal interactions of these singularities/points/limits'
 
 
 II. Queries and Results
