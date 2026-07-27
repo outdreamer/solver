@@ -1183,6 +1183,8 @@ I. To do list
 		- relatedly, identify graph structures like 'graph spectrums/sequences' like how an 'absorbing graph' and a 'comparison/standard graph' of a graph can act like a sequence or spectrum to move a graph on for different intents
 		- relatedly, identify 'problem-solving state sequences' like where a problem is 'impossible not to solve or required to solve' at specific points in various problem-solving state sequences
 
+	- identify useful structures like 'optimal relevance interactions' like 'when one type of interaction is identified, another type of interaction should be re-calculated, or its degree of interactivity should be varied, or other functions/changes should be applied, to update the relevance graph of a structure in a specific prioritized sequence or other interaction structure between relevance structures/types (like the relevant causes/intents/other interface structures of a structure identified when interface analysis is iterated)'
+
 
 II. Queries and Results
 
