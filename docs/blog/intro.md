@@ -24,6 +24,7 @@ Joni Jezewski:
 	- evil people can't think of actually optimal optimizations, so they resort to easy suboptimal optimizations like crime, as they cant think of a way to get good feelings without committing a crime
 	- evil people have suboptimalities required/built-in, like 'feeling bad when they do something good, bc they didnt get an immediate reward or a better reward than other people, bc they cant tell there is a reward/optimality for doing good things'
 	- evil people love judging people for inferiority, but dont have any superiority to power that judgement
+	- evil people are like headless chickens, and good people have a mind, and complexity, and a conscience, and dignity, and potential
 	- good people get to feel amazing/pure/heavenly/divine/superior/wonderful/miraculous/sacred/important/precious/admired, evil people have to fake those feelings with lies so those feelings dont feel as good/real bc theyre based on lies, and evil people have to feel judged/nauseating/creepy bc they are those things
 	- evil people all have a nauseating unbearable annoying sob story as to why they 'need/get to be evil'
 	- evil people are similar/equivalent to creeps
