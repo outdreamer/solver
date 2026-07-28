@@ -36,7 +36,7 @@ Joni Jezewski:
 	- evil people cant resist temptation, and are enslaved/controlled by it
 	- evil is suboptimal in many ways including that it's irreversible after a certain point, bc it's wrong to forgive evil people as forgiveness punishes the victim again, and bc it involves a 'decay/destructive process', and involves less freedom as a result
 	- evil is simple/predictable/easily beaten with more advanced recent optimizations
-	- evil people only have 'beetle joy' and good people have 'every other type of joy'
+	- evil people only have 'beetle joy' and good people have 'every other type of joy' (like having potential to be a hero, not just a victim)
 	- evil people have to carefully avoid thinking about ethics or theyll hate themselves, whereas good people are free to think about whatever they want without guilt
 	- evil is easily beaten by 'insights about intelligence (like emotional control)'
 	- evil isnt as fun as intents like 'justice' or 'inventing'
@@ -50,7 +50,7 @@ Joni Jezewski:
 	- evil (as in 'abusing power, or easy cruelty, or unfairness') is an 'outdated suboptimal optimization' that causes more problems than it solves (it creates problems for everyone, including criminals, like 'creating a world where crime has be considered in every situation' and 'taking time away from optimal intents like thinking' and 'creating a competitive anarchy where any irrelevant advantage like "more people" can win in an irrelevant/false/invalid/empty way against relevant advantages like "organization"', and criminals create problems for themselves like 'becoming addicted to easy cruelty' and 'being incapable of breaking their own addictions', easy cruelty also 'reduces options' through 'creating more work (as in creating requirements like evading justice)', it doesnt actually minimize work, it just 'falsely appears to minimize work, if no additional analysis is applied', and it 'reduces intelligence, through creating addictions to the same simple structure' and 'reduces the freedom to be legitimately admired by other people, or self-respected' and 'requires the work of comforting lies to justify crimes')
 	- evil people want 'perfection/optimality' and cant get/generate what they want, bc evil people are stupid
 	- evil people cant empathize, so they cant be different, and they cant understand/predict/control other people, and they want to have power over other people
-	- good people have good urges like 'protect/invent/avenge' and get to act on their urges, as in they get to do whatever they want, bc they only want good things
+	- good people have good urges like 'protect/invent/think/avenge' and get to act on their urges, as in they get to do whatever they want, bc they only want good things
 	- good people don't have to sacrifice themselves, bc it's wrong to sacrifice a good person, so they're entitled to protect themselves first above all, and it's wrong to sacrifice a good person bc it makes being a good person less fun so other people are less likely to want to be a good person if good people have to sacrifice themselves, so good people don't have to sacrifice themselves, and also good people can think of other optimizations as alternatives to sacrificing themselves, so they never have to
 	- evil people are inferior, so they're insecure and jealous as well, by definition
 	- evil people are obligated to tolerate justice, but good people aren't obligated to tolerate crime
