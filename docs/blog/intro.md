@@ -36,6 +36,8 @@ Joni Jezewski:
 	- evil people cant resist temptation, and are enslaved/controlled by it
 	- evil is suboptimal in many ways including that it's irreversible after a certain point, bc it's wrong to forgive evil people as forgiveness punishes the victim again, and bc it involves a 'decay/destructive process', and involves less freedom as a result
 	- evil is simple/predictable/easily beaten with more advanced recent optimizations
+	- evil people only have 'beetle joy' and good people have 'every other type of joy'
+	- evil people have to carefully avoid thinking about ethics or theyll hate themselves, whereas good people are free to think about whatever they want without guilt
 	- evil is easily beaten by 'insights about intelligence (like emotional control)'
 	- evil isnt as fun as intents like 'justice' or 'inventing'
 	- evil people like goodness such as 'kindness' (as in 'free stuff being given to them') directed at them, but cant be it, and they cant have 'real kindness' directed at them, bc 'real kindness' is 'only directed at good people'
