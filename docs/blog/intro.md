@@ -35,6 +35,10 @@ Joni Jezewski:
 	- evil people have only one source of good feelings which is lies/crimes, good people have the freedom to have every other source of good feelings
 	- evil people cant resist temptation, and are enslaved/controlled by it
 	- evil is suboptimal in many ways including that it's irreversible after a certain point, bc it's wrong to forgive evil people as forgiveness punishes the victim again, and bc it involves a 'decay/destructive process', and involves less freedom as a result
+	- evil people depend on the inventions identified by superior good people
+	- evil people cant get real respect, only fear, and evil people fear superior good people
+	- evil people are only falsely powerful in a world without superior good people, as they'll always be inferior to good people, and good people are powerful in every way
+	- evil people have to force a win, where good people can win in every other way
 	- evil is simple/predictable/easily beaten with more advanced recent optimizations
 	- evil people believe they have the only 'easy' false good feelings, but real good feelings are easy for good people to get, bc good people naturally want to earn good feelings with good decisions, so it's easy for good people to earn real good feelings, which feel better than false good feelings, and there are other types of 'optimal' good feelings than just 'easy' good feelings, as 'easy' is only one optimization variable (such as 'unique' good feelings or 'important' good feelings or good feelings from other components of relevance/optimality)
 	- evil people only have 'beetle joy' and good people have 'every other type of joy' (like having potential to be a hero, not just a victim)
