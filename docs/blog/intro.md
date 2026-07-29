@@ -35,6 +35,7 @@ Joni Jezewski:
 	- evil people have only one source of good feelings which is lies/crimes, good people have the freedom to have every other source of good feelings
 	- evil people cant resist temptation, and are enslaved/controlled by it
 	- evil is suboptimal in many ways including that it's irreversible after a certain point, bc it's wrong to forgive evil people as forgiveness punishes the victim again, and bc it involves a 'decay/destructive process', and involves less freedom as a result
+	- each good person on their own is worth more than all of the evil people combined, bc evil people are burdens
 	- evil people depend on the inventions identified by superior good people
 	- evil people cant get real respect, only fear, and evil people fear superior good people
 	- evil people are only falsely powerful in a world without superior good people, as they'll always be inferior to good people, and good people are powerful in every way
