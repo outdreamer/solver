@@ -1196,6 +1196,8 @@ I. To do list
 		- identify functions to avoid combinatorial/iterated analysis like 'applying initially combinatorial/iterated analysis to some degree in one variable' to identify relevant 'directions to apply additional iterations of analysis in' or 'applying combinations of iterations of multiple different variables to generate "specific example test structures" to filter relevant directions'
 		- identify 'patterns/sequences/structures of partial filters' that can be applied as different subsets of info become 'trivial to differentiate' with iterated changes like applying a 'partial causal filter on the latest generated differences with trivially identifiable causality' and then a 'partial validity filter as validity makes some subset of possibilities trivial to filter' and so on
 
+	- identify useful structures like 'variables of realistic/relevant graphs' to generate 'sequences of increasingly realistic/relevant graphs' like how one graph of solutions can 'apply the solutions as initial nodes to connect with causality' and another graph 'applies solutions as initial nodes with a similarity/pattern (like in a simple shape or the same position)' and some graphs are more realistic than others (as in a 'realistic graph of a system would apply solutions in different positions most of the time') and 'spectrums/sequences/structures of increasingly relevant graphs' are useful for graph intents like 'optimizing graphs and queries'
+
 
 II. Queries and Results
 
