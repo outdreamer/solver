@@ -1200,6 +1200,8 @@ I. To do list
 
 	- identify useful structures like 'relevant graph layer structures/sequences' like how 'overlapping/causal definitions' can be applied as a graph layer to predict structures of graphs like 'limits/subsets of graphs' to identify 'optimal definition structures for understanding/prediction intents', and 'variation applied on the definition layer' can be applied as the next useful graph layer to predict 'relevant changes to definitions', where 'identifying the most optimal definition structures for prediction' is a useful intent to generate a 'prediction graph'
 
+	- identify useful structures like the '"level of variation/multiple iterations of interface analysis/other interface structures" required for "optimization" intents (or interface analysis applications, or graph intents, or other interface intents)' and the 'generality of structurization that enables optimization similarities/patterns/structures to be identified (like how general a set of interface structures can be like "limits/sets" that identifies/connects optimization structures in a graph)' and identify optimizations of optimizations to apply when optimizing like 'specific optimizations applied to specific interface structures which are generally optimal for optimization intents' and identify the 'generality/other interface variables of optimality that is useful to identify/generate in a graph'
+
 
 II. Queries and Results
 
