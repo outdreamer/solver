@@ -1206,6 +1206,8 @@ I. To do list
 
 	- identify useful structures like 'query optimizations' like where a 'local/connection/type similarity exists between the current graph and a relevant graph, and the relevant graph indicates that a specific direction/position/structure change should be applied, and multiple/otherwise relevant graphs also indicate the same change, given the local/connection/type similarity or similarity ratio'
 
+	- identify useful structures like 'connections between "structures of concepts" and problems/solutions' like how randomness can be useful in a problem/solution graph where solutions are more common and cover more area and are infrequently adjacent to problems' bc 'trivial changes created by a low ratio of randomness' would rarely change a solution into an error in such a graph and identify 'relevance optimizations' like 'relevance-increasing changes' like how the 'relevance of a connection can increase when applied in a more relevant graph'
+
 
 II. Queries and Results
 
