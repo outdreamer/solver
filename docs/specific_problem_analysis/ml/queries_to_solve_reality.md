@@ -1204,6 +1204,8 @@ I. To do list
 
 	- identify useful structures like 'graph structures' like 'graph identification interactions' like 'convolutions of interactions of a set of graphs (all possible interactions of a set of graphs), across another graph like an intent graph (graph interactions that implement/interact with intents), to the point where another graph like an optimal interaction graph of the convolution can be identified' and 'sufficient/approximate graphs for an intent' like 'graphs of points that can act like a general solver, like a graph that prevents/corrects change in general error directions on any relevant graph'
 
+	- identify useful structures like 'query optimizations' like where a 'local/connection/type similarity exists between the current graph and a relevant graph, and the relevant graph indicates that a specific direction/position/structure change should be applied, and multiple/otherwise relevant graphs also indicate the same change, given the local/connection/type similarity or similarity ratio'
+
 
 II. Queries and Results
 
