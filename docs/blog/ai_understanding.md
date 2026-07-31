@@ -31,3 +31,10 @@ Intents like the following are likely useful for AI understanding, intents which
 - identify maximally different relevant graphs and identify the useful degree to which they should be described/specified/implemented/integrated/organized/optimized
 - identify the most relevant set of relevant graphs to identify optimal interactions of, and identify unsolved problems on this set of relevant graphs, and identify important problems in this set of unsolved problems (like problems which are not problems that always exist in any system)
 - once some set of structures is usefully specified/implemented, identify their optimal interactions/applications/integrations
+
+
+## AI Understanding Types
+
+General understanding is useful for identifying specific understanding, in the same way that component/core understanding can be used to identify combination/emergent understanding, as both of these sets of variables are connectible with relatively simple/identified workflow types like 'filter' or 'generate'.
+
+General understanding is a useful starting point for additional understanding types. Similar to how a 'general description of reality' can help understand what else is required to understand reality more completely, a 'general description of AI' is useful to help understand what else is required to understand AI.
