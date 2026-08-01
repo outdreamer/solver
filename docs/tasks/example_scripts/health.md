@@ -1048,7 +1048,8 @@
 			- depression
 				- poppy seeds, astragalus, ginger, jujube, GABA, SAMe, probiotics, zinc, ashwagandha, 5-htp (avoid for heart impact), st john's wort (avoid for drug interactions), turmeric, magnesium, theanine, green tea, berberine, mucuna pruriens (l-dopa), kanna, vitamin d/b9/b12/k, omega 3s, tyrosine, sarcosine (cancer patients should avoid sarcosine), passionflower (an MAOI), lavender, saffron, chamomile, ginseng, ginkgo biloba
 			- anxiety:
-				- Lactiplantibacillus plantarum PS128, Lacticaseibacillus helveticus R0052, Bifidobacterium longum R0175/1714
+				- poppy seeds
+				- psychobiotics including: Lactiplantibacillus plantarum PS128, Lacticaseibacillus helveticus R0052, Bifidobacterium longum R0175/1714
 				- Transcranial Direct Current Stimulation (TDCS) devices can treat anxiety/depression
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC6969693/
 				- Beta-blockers are commonly prescribed for both conditions due to their ability to block stress hormones that raise heart rate and blood pressure
