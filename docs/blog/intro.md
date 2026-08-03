@@ -35,6 +35,7 @@ Joni Jezewski:
 	- evil people have only one source of good feelings which is lies/crimes, good people have the freedom to have every other source of good feelings
 	- evil people cant resist temptation, and are enslaved/controlled by it
 	- evil is suboptimal in many ways including that it's irreversible after a certain point, bc it's wrong to forgive evil people as forgiveness punishes the victim again, and bc it involves a 'decay/destructive process', and involves less freedom as a result
+	- evil people ridicule other evil people (such as serial killers) but they want respect/dignity for themselves
 	- good people have no biases, so they can be fearless/objective, and can therefore solve problems
 	- each good person on their own is worth more than all of the evil people combined, bc evil people are burdens
 	- evil people depend on the inventions identified by superior good people
@@ -97,3 +98,4 @@ Joni Jezewski:
 	- 'thinking' is an input to every other important intent like 'solving reality', so 'maximizing the number of people who can think' is important, and I can implement that maximization the best, I defined and automated thinking the best so I understand it the best and so I can teach it the best as well
 	- predators cant 'solve reality', even if they have 'fancy tools built using my insights', theyll never have the 'magical brains that like optimally thinking about solving reality' which can 'optimally use/analyze/optimize the tools', they'll always have the 'predator brains that like avoiding/minimizing thinking' and bad news, folks, only predators would try to kill a super genius
 	- you will be way less powerful if I die, not more powerful, bc I am the best at 'empowering other people' by being good at 'applying/understanding/teaching optimized thinking'
+	- the smartest person (me) will always be the most valuable person, even after some ratio of my thoughts are automated, bc I will have new valuable thoughts about 'whatever valuable thoughts have been automated recently, and the interface structures of those valuable thoughts, and the interface structures of the technologies using those valuable thoughts, etc', bc I will still always be the best evaluator of automation/thinking/intelligence
