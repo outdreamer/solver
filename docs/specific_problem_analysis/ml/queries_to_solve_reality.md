@@ -1218,6 +1218,8 @@ I. To do list
 
 	- identify useful structures like 'graphs where solutions have multiple/otherwise relevant optimalities (like any relevant change can identify/generate another solution on the graph, or solutions have multiple connection types/structures like causality and other connection types, or solution sets have cycles, or most queries always end up at solution nodes)' and identify 'overlapping/coordinating optimality sets that are useful to optimize for or apply in graphs'
 
+	- identify useful structures like 'optimal interactions of concepts and graphs' like how 'randomness' can be applied in a graph such as by 'identifying equivalent alternates of graph nodes so that each node in a set of possible alternates can be randomly selected to generate a different graph every time the graph is applied while still being effectively equivalent to other graph variants for all intents' or 'randomly varying a graph with a sufficiently stable identity (sufficiently distant from other graph types) that trivial changes are unlikely to change the meaning of the graph for all intents, to increase handling of irrelevant variation errors in graph interactions'
+
 
 II. Queries and Results
 
