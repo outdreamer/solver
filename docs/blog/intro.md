@@ -37,13 +37,13 @@ Joni Jezewski:
 	- evil people cant resist temptation, and are enslaved/controlled by it
 	- evil is suboptimal in many ways including that it's irreversible after a certain point, bc it's wrong to forgive evil people as forgiveness punishes the victim again, and bc it involves a 'decay/destructive process', and involves less freedom as a result
 	- evil people ridicule other evil people (such as serial killers) but they want respect/dignity for themselves
-	- evil people have every problem/flaw/suboptimality (such as 'hypocrisy', 'being determined by their flaws', etc), problems/flaws/suboptimalities which they hate other evil people for having
+	- evil people are flawed, as in they have every problem/flaw/suboptimality (such as 'hypocrisy', 'being determined by their flaws', etc), problems/flaws/suboptimalities which they hate other evil people for having
 	- evil people have to try to ban the truth, bc the truth condemns them
-	- what about dark humor, can we still have dark humor? no you cant even have dark humor, which is:
-		- a suboptimal optimization involving 'reducing everything relevant to nothing' and 'connecting relevant/irrelevant structures in false ways (like making good things falsely seem simply/relevantly bad, or making bad things falsely seem simply/relevantly good)' to optimize for suboptimal intents like 'comforting themselves about the superiority of good people' or 'avoiding work (work such as the work of protecting good people)' by 'reducing good people to nothing' (like by saying good people are 'just another structure/phrase/other trivialization')
+	- what about dark humor, can we still have dark humor? no you cant even have dark humor:
+		- dark humor is a suboptimal optimization involving 'reducing everything relevant to nothing' and 'connecting relevant/irrelevant structures in false ways (like making good things falsely seem simply/relevantly bad, or making bad things falsely seem simply/relevantly good)' to optimize for suboptimal intents like 'comforting themselves about the superiority of good people' or 'avoiding work (work such as the work of protecting good people)' by 'reducing good people to nothing' (like by saying good people are 'just another structure/phrase/other trivialization')
+		- dark humor is not surprising, its an 'expected/boring suboptimal optimization used by flawed people to trivialize excellence'
+		- dark humor is just one function ('reduction') and it frequently leads to suboptimalities like 'over-simplification errors'
 		- 'trivializing dark humor' (like by 'identifying suboptimalities of trivializations of optimalities') is a more optimal alternative to 'trivializing relevance/meaning'
-		- not surprising, its an 'expected/boring suboptimal optimization used by flawed people to trivialize excellence'
-		- just one function ('reduction') and it frequently leads to suboptimalities like 'over-simplification errors'
 	- good people have no biases, so they can be fearless/objective, and can therefore solve problems
 	- each good person on their own is worth more than all of the evil people combined, bc evil people are burdens
 	- evil people depend on the inventions identified by superior good people
