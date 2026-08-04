@@ -1226,6 +1226,8 @@ I. To do list
 
 	- identify useful structures like 'relevant graphs' like 'graphs with maximal relevance like "alternating layers of problems/relevance" like a "set of problems of a type" and the "implications/relevance of those problems" (like the "impact of a problem on relevant graphs like problem/solution graphs" like how a "problem can make a solution more optimal on some relevant graph")'
 
+	- identify useful structures like 'fact interaction structures' as 'core system components' (structures like 'this fact contradicts another fact, but they can exist in the same system by avoiding direct interactivity and navigating independent sub-structures like independent circuits of the system')
+
 
 II. Queries and Results
 
