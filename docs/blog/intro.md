@@ -44,11 +44,12 @@ Joni Jezewski:
 		- dark humor is not surprising, its an 'expected/boring suboptimal optimization used by flawed people to trivialize excellence'
 		- dark humor is just one function ('reduction') and it frequently leads to suboptimalities like 'over-simplification errors'
 		- 'trivializing dark humor' (like by 'identifying suboptimalities of trivializations of optimalities') is a more optimal alternative to 'trivializing relevance/meaning'
+		- everything can be trivialized to nothing, that doesnt make it automatically a good point, good things need to be 'falsely trivialized' in order to be trivialized, meaning bad people need 'lies' to trivialize good people
 	- good people have no biases, so they can be fearless/objective, and can therefore solve problems
 	- each good person on their own is worth more than all of the evil people combined, bc evil people are burdens
 	- evil people depend on the inventions identified by superior good people
 	- evil people cant get real respect, only fear, and evil people fear superior good people
-	- evil stupid people would take thousands if not millions of years to create enough genetic mutations to create a good smart person, and by then earth will be destroyed and evil people wont have the tech to leave earth, so evil people cant win or theyll go extinct at that point anyway, whereas good smart people already exist who can invent the tech required to survive the destruction of earth, and 'good smart people who already exist' are more valuable than 'evil people who could eventually create enough mutations to create a good smart person (if lucky enough), once its too late to invent the tech required to survive the destruction of earth'
+	- evil stupid people would take thousands if not millions of years to create enough genetic mutations to create a good smart person, and by then earth will be destroyed and evil people wont have the tech to leave earth, so evil people cant win even temporarily, or theyll go extinct at that point anyway, whereas good smart people already exist who can invent the tech required to survive the destruction of earth, and 'good smart people who already exist' are more valuable than 'evil people who could eventually create enough mutations to create a good smart person (if lucky enough), once its too late to invent the tech required to survive the destruction of earth'
 	- evil people are only falsely powerful in a world without superior good people, as they'll always be inferior to good people, and good people are powerful in every way
 	- evil people have to force a win, where good people can win in every other way
 	- evil is simple/predictable/easily beaten with more advanced recent optimizations
