@@ -18,8 +18,9 @@ Joni Jezewski:
 	- intelligent people have freedom to choose evil or goodness, and always arrive at the conclusion that evil is suboptimal (if they dont, theyre not actually smart, they probably just brute-forced solving a problem by iterating some simple structure)
 	- evil people are 'annoying burdens', and good people are 'annoyingly superior/happy', which is better
 	- good people aren't burdened by a guilty conscience, and don't melt with self-loathing
-	- evil people have to try to avoid feelings of shame/guilt
+	- evil people have to try to avoid bad feelings of shame/guilt
 	- evil people have to try to falsely seem superior, bc they're inferior
+	- good people arent 'simple rule-followers', they're 'capable of following the most difficult rules (like self-optimizing to the point of optimality, or maintaining optimality)', whereas by comparison, evil people obey simple rules like 'always do the worst/easiest thing'
 	- evil people love killing other evil people, but good people dont like killing other good people, and good people also like killing evil people, so evil people are doomed to go extinct as a result
 	- evil people can't think of actually optimal optimizations, so they resort to easy suboptimal optimizations like crime, as they cant think of a way to get good feelings without committing a crime
 	- evil people have suboptimalities required/built-in, like 'feeling bad when they do something good, bc they didnt get an immediate reward or a better reward than other people, bc they cant tell there is a reward/optimality for doing good things'
