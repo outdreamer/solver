@@ -1224,6 +1224,8 @@ I. To do list
 
 	- identify useful structures like 'relevance of graph structures' like how 'pairs of nodes with a high ratio of adjacency across relevant graphs can be a source of facts' and identify 'relevant graphs to generate from a graph structure, given the relevance of a graph structure' like 'generating a causal graph of facts (facts that cause other facts) identified with a high ratio of adjacency and identifying errors in the causal graph'
 
+	- identify useful structures like 'relevant graphs' like 'graphs with maximal relevance like "alternating layers of problems/relevance" like a "set of problems of a type" and the "implications/relevance of those problems" (like the "impact of a problem on relevant graphs like problem/solution graphs" like how a "problem can make a solution more optimal on some relevant graph")'
+
 
 II. Queries and Results
 
