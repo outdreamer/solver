@@ -1222,6 +1222,8 @@ I. To do list
 
 	- identify useful graph interaction structures like 'how many embedded graphs are required to make a specific graph relevant/useful' (like 'how specific of a definition graph should be integrated with a concept graph to make the concept graph relevant') and interactions like applying 'optimal structures of concepts' to generate 'useful variants of a graph' like 'apply optimal structures of randomness for maximally different intents to generate relevant variants of a graph'
 
+	- identify useful structures like 'relevance of graph structures' like how 'pairs of nodes with a high ratio of adjacency across relevant graphs can be a source of facts' and identify 'relevant graphs to generate from a graph structure, given the relevance of a graph structure' like 'generating a causal graph of facts (facts that cause other facts) identified with a high ratio of adjacency and identifying errors in the causal graph'
+
 
 II. Queries and Results
 
