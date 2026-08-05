@@ -1228,6 +1228,8 @@ I. To do list
 
 	- identify useful structures like 'fact interaction structures' as 'core system components' (structures like 'this fact contradicts another fact, but they can exist in the same system by avoiding direct interactivity and navigating independent sub-structures like independent circuits of the system')
 
+	- identify useful structures like 'useful optimization sequences' like how optimization errors like 'optimization limits' can be handled by 'switching to another graph where additional sequential optimization is possible' and identify 'additive optimization across graphs' and other interface structures of optimization
+
 
 II. Queries and Results
 
