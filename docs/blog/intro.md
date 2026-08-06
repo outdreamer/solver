@@ -40,6 +40,10 @@ Joni Jezewski:
 	- evil people ridicule other evil people (such as serial killers) but they want respect/dignity for themselves
 	- evil people are flawed, as in they have every problem/flaw/suboptimality (such as 'hypocrisy', 'being determined by their flaws', etc), problems/flaws/suboptimalities which they hate other evil people for having
 	- evil people have to try to ban the truth, bc the truth condemns them, and they hate the truth about themselves. as they hate themselves
+	- what about fun, can evil people at least be the fun ones? nope:
+		- their fun is 'beetle joy', and what's fun for people is usually all they're capable of, bc it's what they want to do, and what they want to do is usually all they do, so evil people have the soul/potential of a beetle
+		- it's more fun to rebel against or otherwise oppose/attack evil people than to be one
+		- it's also more fun (bc of the higher relevant variation) to learn/interact in more complex ways than evil people interact
 	- what about dark humor, can evil people still have dark humor? no, they can't even have dark humor:
 		- dark humor is a suboptimal optimization involving 'reducing everything relevant to nothing' and 'connecting relevant/irrelevant structures in false ways (like making good things falsely seem simply/relevantly bad, or making bad things falsely seem simply/relevantly good)' to optimize for suboptimal intents like 'comforting themselves about the superiority of good people' or 'avoiding work (work such as the work of protecting good people)' by 'reducing good people to nothing' (like by saying good people are 'just another structure/phrase/other trivialization')
 		- dark humor is not surprising, its an 'expected/boring suboptimal optimization used by flawed people to trivialize excellence'
@@ -48,7 +52,7 @@ Joni Jezewski:
 		- everything can be trivialized to nothing, that doesnt make it automatically a good point, good things need to be 'falsely trivialized' in order to be trivialized, meaning bad people need 'lies' to trivialize good people
 	- can evil people at least call themselves the attractive ones? no, they can't even have that:
 		- I'm pretty sure that even evil people, who are known to lie constantly to comfort themselves, can tell they don't look like society's physical ideal (even evil people can "do the math on this one", despite claiming to be above doing math)
-		- evil people seem like disgusting burdens, I can believe they want to be attractive however, that's not the same as being attractive
+		- evil people seem like disgusting burdens, I can believe they want to be attractive, but that's not the same as being attractive
 	- good people have no biases, so they can be fearless/objective, and can therefore solve problems
 	- each good person on their own is worth more than all of the evil people combined, bc evil people are burdens
 	- evil people depend on the inventions identified by superior good people

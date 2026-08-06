@@ -1238,6 +1238,8 @@ I. To do list
 	- identify useful structures like 'relevant graph sets that are sufficiently similar to cause/generate/otherwise usefully interact with each other' like how a 'graph of system states (as combinations of problems/solutions)' can be completed by a graph of relevant function structures (like "extreme-balancing function sets" and "compounding function sequences" with a "level of relevant variation, for a problem with some level of complexity") that can connect problem/solution structures (like the 'set of ways that a function structure can cause a problem/solution from a problem/solution'), which can be extended to 'generate a graph of connected problem/solution combination structures to complete the system state graph'
 		- relatedly, identify 'graph structure sets that make graph intents trivial/relevant (like implementation of relevant graphs trivial/relevant)' like 'sets of graph descriptions with "sufficient specification in sufficiently maximal directions in sufficiently regular positions on a sufficiently complex graph for representing relevance" to trivially/relevantly filter common/core/connecting/input/otherwise similar graphs that can trivially/relevantly generate other relevant graphs'
 
+	- identify useful structures like 'how to reach the optimal point on a graph of points/counterpoints' like the 'point where a false statement is obviously incorrect in every way (as opposed to one way, or non-obviously incorrect)' like 'combining points with complementary/additive sets of falsification/contradiction structures'
+
 
 II. Queries and Results
 
