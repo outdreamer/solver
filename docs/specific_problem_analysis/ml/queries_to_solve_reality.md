@@ -1235,6 +1235,8 @@ I. To do list
 
 	- identify useful structures like 'optimization variants of relevant graphs for an intent, then multiple/important intents and other optimizations of intents' like 'optimized variants of the graph of the definition of relevance for an intent like "generating relevant graphs"'
 
+	- identify useful structures like 'relevant graph sets' like how a 'graph of system states (as combinations of problems/solutions)' can be completed by a graph of relevant function structures (like "extreme-balancing function sets" and "compounding function sequences") that can connect problem/solution structures (like the 'set of ways that a function structure can cause a problem/solution from a problem/solution'), which can be extended to 'generate a graph of connected problem/solution combination structures to complete the system state graph'
+
 
 II. Queries and Results
 
