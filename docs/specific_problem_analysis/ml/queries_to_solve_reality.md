@@ -1240,6 +1240,8 @@ I. To do list
 
 	- identify useful structures like 'how to reach the optimal point on a graph of points/counterpoints' like the 'point where a false statement is obviously incorrect in every way (as opposed to one way, or non-obviously incorrect)' like 'combining points with complementary/additive sets of falsification/contradiction structures'
 
+	- identify useful structures like 'incremental re-organizations of a graph with high error rates to an identified similar graph with lower error rates, or connections between a graph with high error rates and its opposite graphs' that can optimize graph errors like 'barriers/asymptotes/limits'
+
 
 II. Queries and Results
 
