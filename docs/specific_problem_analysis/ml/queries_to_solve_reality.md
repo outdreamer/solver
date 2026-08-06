@@ -1228,7 +1228,8 @@ I. To do list
 
 	- identify useful structures like 'fact interaction structures' as 'core system components' (structures like 'this fact contradicts another fact, but they can exist in the same system by avoiding direct interactivity and navigating independent sub-structures like independent circuits of the system')
 
-	- identify useful structures like 'useful optimization sequences' like how optimization errors like 'optimization limits' of 'sequential limits in an optimization problem from a starting point' can be handled by 'switching to another graph where additional sequential optimization is possible' and identify 'additive optimization across graphs' and other interface structures of optimization, and identify 'networks of general optimization errors like optimization limits with specific variants for networks of specific optimization errors'
+	- identify useful structures like 'useful optimization sequences' like how optimization errors like 'optimization limits of a graph' of 'sequential limits in an optimization problem from a starting point' can be handled by 'switching to another graph where additional sequential optimization is possible' and identify 'additive optimization across graphs' and other interface structures of optimization, and identify 'networks of general optimization errors like optimization limits with specific variants for networks of specific optimization errors'
+		- relatedly, identify useful changes to a graph that can 'increase optimization limits of a graph' or otherwise decrease optimization errors, and sequences/networks/structures of changes like 'causal sequences' that can 'cause other optimality to be possible or less limited on a graph'
 
 
 II. Queries and Results
