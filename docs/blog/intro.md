@@ -36,6 +36,7 @@ Joni Jezewski:
 	- evil people have only one source of good feelings which is lies/crimes, good people have the freedom to have every other source of good feelings
 	- evil people cant resist temptation, and are enslaved/controlled by it
 	- evil is suboptimal in many ways including that it's irreversible after a certain point, bc it's wrong to forgive evil people as forgiveness punishes the victim again, and bc it involves a 'decay/destructive process', and involves less freedom as a result
+	- evil people preach 'charity directed at evil people' but cant be generous, and good people just earn good things by default
 	- evil people can't come up with even one point in their defense ("not being able to come up with a point in their defense" means "they agree that they're inferior and should all die", even though they probably want to disagree, and don't like that fact)
 	- evil people ridicule other evil people (such as serial killers) but they want respect/dignity for themselves
 	- evil people are flawed, as in they have every problem/flaw/suboptimality (such as 'hypocrisy', 'being determined by their flaws', etc), problems/flaws/suboptimalities which they hate other evil people for having
@@ -52,6 +53,7 @@ Joni Jezewski:
 		- everything can be trivialized to nothing, that doesnt make it automatically a good point, good things need to be 'falsely trivialized' in order to be trivialized, meaning bad people need 'lies' to trivialize good people
 	- can evil people at least call themselves the attractive ones? no, they can't even have that:
 		- I'm pretty sure that even evil people, who are known to lie constantly to comfort themselves, can tell they don't look like society's physical ideal (even evil people can "do the math on this one", despite claiming to be above doing math)
+		- attractive people dont have to commit crimes to get stuff, stuff is given to them for free
 		- evil people seem like disgusting burdens, I can believe they want to be attractive, but that's not the same as being attractive
 	- good people have no biases, so they can be fearless/objective, and can therefore solve problems
 	- each good person on their own is worth more than all of the evil people combined, bc evil people are burdens
