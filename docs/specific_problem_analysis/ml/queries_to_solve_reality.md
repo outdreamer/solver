@@ -1243,6 +1243,7 @@ I. To do list
 	- identify useful structures like 'incremental re-organizations of a graph with high error rates to an identified similar graph with lower error rates, or connections between a graph with high error rates and its opposite graphs' that can optimize graph errors like 'barriers/asymptotes/limits'
 
 	- identify useful structures like 'assumptions identifying relevant graph sets' like how 'assuming that math/physics will always be relevant' identifies a 'relevant graph set including a set of specific system graphs of these interfaces', and once other 'assumptions identifying other relevant graph sets' are identified, identify the network of these assumptions and optimizations of that network like 'overlapping sets for intents' and relevant integrations of the optimized network into other relevant graphs, and identify interface structures of the graph like 'generalizations' like 'identifying other interface structures than "assumptions" which identify relevant graph sets/structures' and the optimized network of these other graphs like useful 'integrations of those graphs'
+		- relatedly, identify the relevant (like general) 'interaction network of optimizations of a graph', like the interactions of 'graph generation optimizations' and 'optimizations of interface graphs of the graph' and 'graph organization optimizations' and 'optimization limits of an optimization variable of a graph and its possible defined variants'
 
 
 II. Queries and Results
