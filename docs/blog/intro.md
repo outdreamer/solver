@@ -55,6 +55,15 @@ Joni Jezewski:
 		- I'm pretty sure that even evil people, who are known to lie constantly to comfort themselves, can tell they don't look like society's physical ideal (even evil people can "do the math on this one", despite claiming to be above doing math)
 		- attractive people dont have to commit crimes to get stuff, stuff is given to them for free
 		- evil people seem like disgusting burdens, I can believe they want to be attractive, but that's not the same as being attractive
+	- what about taste, can evil people at least have 'good taste'? no, 'good taste' means 'excellent judgment', so good smart people get to have this one as well (if you didn't automate 'judgement/filtering/evaluation', then you don't have 'good taste')
+		- btw, it's in poor taste to do any of the following, so careful with all these claims that you have 'good taste':
+			- it's in poor taste to avoid solving the problems of other people just bc there's no law requiring you to help them
+			- it's in poor taste to 'avoid thinking to solve problems' when 'solving problems' helps everyone, especially deserving people
+			- it's in poor taste to 'criticize/violate/torture/exploit a hero/genius' (only evil people would do that)
+			- it's in poor taste to "claim you have good taste when it's false", such as 'without understanding good taste enough to automate it'
+		- I'm sure a creep would wrongly feel that it's in 'poor taste' to 'choose the wrong outfit' or 'criticize/disrespect a creep' or 'phrase a criticism impolitely, thereby hurting the feelings of a creep', but that's not what 'poor taste' actually means (meaning it's not the relevant definition of 'taste')
+	- what about class, can evil people at least have 'class'? nope:
+		- 'class' is where you are 'respectful to good smart people', meaning you 'do the right thing', meaning you have 'potential/power/freedom' and 'use your power to lift other people up so they can also have dignity', like by 'solving all problems' or 'automating intelligence/problem-solving', which is the classiest thing that it's possible to do
 	- good people have no biases, so they can be fearless/objective, and can therefore solve problems
 	- each good person on their own is worth more than all of the evil people combined, bc evil people are burdens
 	- evil people depend on the inventions identified by superior good people
