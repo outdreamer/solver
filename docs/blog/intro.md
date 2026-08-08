@@ -18,8 +18,10 @@ Joni Jezewski:
 	- intelligent people have freedom to choose evil or goodness, and always arrive at the conclusion that evil is suboptimal (if they dont, theyre not actually smart, they probably just brute-forced solving a problem by iterating some simple structure)
 	- evil people are 'annoying burdens', and good people are 'annoyingly superior/happy', which is better
 	- good people aren't burdened by a guilty conscience, and don't melt with self-loathing
+	- good people don't need to use drugs to 'feel happy' or 'forget the truth' bc they're 'happy with reality'
 	- evil people have to try to avoid bad feelings of shame/guilt
 	- evil people have to try to falsely seem superior, bc they're inferior
+	- evil people have to try to pressure people to compliment them, bc they're inferior
 	- good people arent 'simple rule-followers', they're 'capable of following the most difficult rules (like self-optimizing to the point of optimality, or maintaining optimality)', whereas by comparison, evil people obey simple rules like 'always do the worst/easiest thing'
 	- evil people love killing other evil people, but good people dont like killing other good people, and good people also like killing evil people, so evil people are doomed to go extinct as a result
 	- evil people can't think of actually optimal optimizations, so they resort to easy suboptimal optimizations like crime, as they cant think of a way to get good feelings without committing a crime
@@ -39,11 +41,12 @@ Joni Jezewski:
 	- evil people preach 'charity directed at evil people' but cant be generous, and good people just earn good things by default
 	- evil people can't come up with even one point in their defense ("not being able to come up with a point in their defense" means "they agree that they're inferior and should all die", even though they probably want to disagree, and don't like that fact)
 	- evil people ridicule other evil people (such as serial killers) but they want respect/dignity for themselves
+	- evil people 'get enraged and try to kill you' if you tell the truth about them, whereas good/smart people get to be like 'thanks, I know, Im amazing' if you tell the truth about them, so evil people are going to be very upset when they find out what we're all thinking about them (we're all thinking the truth about them, which will certainly enrage them)
 	- evil people are flawed, as in they have every problem/flaw/suboptimality (such as 'hypocrisy', 'being determined by their flaws', etc), problems/flaws/suboptimalities which they hate other evil people for having
 	- evil people have to try to ban the truth, bc the truth condemns them, and they hate the truth about themselves. as they hate themselves
 	- what about fun, can evil people at least be the fun ones? nope:
 		- their fun is 'beetle joy', and what's fun for people is usually all they're capable of, bc it's what they want to do, and what they want to do is usually all they do, so evil people have the soul/potential of a beetle
-		- it's more fun to rebel against or otherwise oppose/attack evil people than to be one
+		- it's more fun to rebel against or otherwise oppose/attack evil people than to be one or to obey them
 		- it's also more fun (bc of the higher relevant variation) to learn/interact in more complex ways than evil people interact
 	- what about dark humor, can evil people still have dark humor? no, they can't even have dark humor:
 		- dark humor is a suboptimal optimization involving 'reducing everything relevant to nothing' and 'connecting relevant/irrelevant structures in false ways (like making good things falsely seem simply/relevantly bad, or making bad things falsely seem simply/relevantly good)' to optimize for suboptimal intents like 'comforting themselves about the superiority of good people' or 'avoiding work (work such as the work of protecting good people)' by 'reducing good people to nothing' (like by saying good people are 'just another structure/phrase/other trivialization')
@@ -64,6 +67,14 @@ Joni Jezewski:
 		- I'm sure a creep would wrongly feel that it's in 'poor taste' to 'choose the wrong outfit' or 'criticize/disrespect a creep' or 'phrase a criticism impolitely, thereby hurting the feelings of a creep', but that's not what 'poor taste' actually means (meaning it's not the relevant definition of 'taste')
 	- what about class, can evil people at least have 'class'? nope:
 		- 'class' is where you are 'respectful to good smart people', meaning you 'do the right thing', meaning you have 'potential/power/freedom' and 'use your power to lift other people up so they can also have dignity', like by 'solving all problems' or 'automating intelligence/problem-solving', which is the classiest thing that it's possible to do
+	- what about power or mystery, can evil people at least be powerful or mysterious? no, they can't have these either:
+		- a 'drone army with poisonous gas weapons' could easily take out all the evil people within a few weeks, whose whereabouts are currently easily known, and this likely soon will occur, bc it's both easy and useful/optimal to get rid of them all, since they cause every problem for society/other groups and don't solve any problems for society/other groups, so their luck/advantages/power are false and easily beaten with more optimal optimizations than evil
+		- 'mysterious' means 'uncertain/unpredictable', evil people are 'extremely certain to always do the easiest/worst thing (the easiest/worst thing they feel they can get away with)', so only smart people are 'mysterious' to stupid people
+	- what about cleverness, can evil people at least have cleverness? what do you think? (no):
+		- 'cleverness' is like being 'one unit smarter than someone else' like having 'one unit of information more than someone else', 'clever' doesnt mean 'intelligent'
+		- everyone is cleverer than someone else except the dumbest person, it's not a rare or valuable quality, it's not an 'indicator of relevant superiority' in other words
+		- good/smart people are cleverer than predators
+	- evil/stupid people have 'urges/feelings', smart/good people have 'thoughts' ('thoughts' are 'mental work')
 	- good people have no biases, so they can be fearless/objective, and can therefore solve problems
 	- each good person on their own is worth more than all of the evil people combined, bc evil people are burdens
 	- evil people depend on the inventions identified by superior good people
