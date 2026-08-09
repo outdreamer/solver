@@ -109,6 +109,8 @@ Joni Jezewski:
 		- those are 'efficiency/optimization' structures, good people get to have those as well, by definition ('good' means 'optimal')
 	- what about 'randomness/chaos'? can evil people at least be 'agents of chaos'? nope:
 		- 'randomness/chaos' is sometimes an optimization structure for some problems, it's not an 'evil structure' by default/definition (such as how 'creating chaos for bad people' is a good thing)
+	- can evil people at least be the 'playful' ones? no (like all the other virtues/optimization metrics, evil people have less of this one as well):
+		- 'play' is 'unrequired/pointless work' which can be useful for 'identifying new useful intents/variables/structures', but is extremely suboptimal compared to other algorithms to 'identify new useful structures', in a similar way as how 'pain' can be useful for 'learning', but is not the 'optimal learning method'
 	- evil people preach justice for themselves (they always retaliate), but not for their victims
 	- evil people have problems of 'stupidity' (like 'bias/short-term thinking'), which creates problems for themselves that they can't solve ('bias/short-term thinking' frequently backfire)
 	- evil/stupid people have 'urges/feelings', smart/good people have 'thoughts' ('thoughts' are 'mental work')
