@@ -86,6 +86,10 @@ Joni Jezewski:
 		- babies are the opposite of predators
 	- can evil people at least be the princesses? no:
 		- princesses are 'extremely kind, wonderful, lovely people who are given decisions/freedom/power, bc they naturally always use their power to protect and lift up deserving unlucky people', not 'just anyone who gives commands bc they are greedy for power'
+	- how about wizards, can evil people at least be the magical wizards, collecting souls and other powerful things? nope:
+		- 'magic' is 'making valuable/important/otherwise relevant difficult intents trivial/otherwise relevant' which can only be done by a good smart person with a specific genius for 'optimization', 'magic' is not just 'destroying anything nearby, bc of an advantage acquired through randomness'
+		- if an evil person happens to win locally/temporarily against a good person, that's bc they had 'luck created by randomness' (luck which isnt rare or valuable or exclusive to evil people), and the same could be said for 'animals who are predators as well' (a 'bear eating a good person' isnt a 'good person being relevantly defeated', meaning 'goodness isnt destroyed/defeated, now that one good person had bad luck')
+		- 'destroying the potential of a good person' isnt the relevant opposite of 'creating a miracle (like creating a soul)', it's the 'simple irrelevant opposite', bc 'creating a soul' is more important/relevant/meaningful (a soul is potential, and only good people have souls/potential, so good people will win over evil people, evil people don't control good people, and therefore don't control our souls, and only good people can create souls, similar to how only smart people can create intelligence)
 	- evil people preach justice for themselves (they always retaliate), but not for their victims
 	- evil people have problems of 'stupidity' (like 'bias/short-term thinking'), which creates problems for themselves that they can't solve ('short-term thinking' frequently backfires)
 	- evil/stupid people have 'urges/feelings', smart/good people have 'thoughts' ('thoughts' are 'mental work')
