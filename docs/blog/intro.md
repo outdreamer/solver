@@ -59,7 +59,7 @@ Joni Jezewski:
 		- attractive people dont have to commit crimes to get stuff, stuff is given to them for free
 		- evil people seem like disgusting burdens, I can believe they want to be attractive, but that's not the same as being attractive
 	- what about taste, can evil people at least have 'good taste'? no, 'good taste' means 'excellent judgment', so good smart people get to have this one as well (if you didn't automate 'judgement/filtering/evaluation', then you don't have 'good taste')
-		- btw, it's in poor taste to do any of the following, so careful with all these claims that you have 'good taste':
+		- btw, it's in poor taste to do any of the following, so careful with all these claims that evil people have 'good taste':
 			- it's in poor taste to "avoid solving the problems of other people just bc there's no law requiring you to help them"
 			- it's in poor taste to 'avoid thinking to solve problems' when 'solving problems' helps everyone, especially deserving people
 			- it's in poor taste to 'criticize/violate/torture/exploit a hero/genius' (only evil people would do that)
@@ -74,6 +74,20 @@ Joni Jezewski:
 		- 'cleverness' is like being 'one unit smarter than someone else' like having 'one unit of information more than someone else', 'clever' doesnt mean 'intelligent'
 		- everyone is cleverer than someone else except the dumbest person, it's not a rare or valuable quality, it's not an 'indicator of relevant superiority' in other words
 		- good/smart people are cleverer than predators
+	- how about fanciness?
+		- fanciness is 'high standards', I'll let you do the math on this one as to the question of whether it's good/smart people or evil/stupid people who have the high standards (for those who are struggling with math, 'requiring a lot of cruelty/evil' isn't 'having a high standard', it's 'having a low standard')
+		- similarly, it's not relevant to call 'pure evil' a form of 'purity', bc 'purity' is like 'innocence' and 'virtue'
+	- can evil people at least claim 'innocence/blamelessness/no responsibility', since they 'cant help but be evil'?
+		- innocence is where you 'dont have any criminal urges, dont act on criminal urges, try to do the right thing, succeed at doing the right thing, and try to create justice for good people'
+		- innocence is not 'uncontrollably committing crimes'
+		- even evil people have the option of 'taking no action and making no decisions', which is even easier than crime
+		- you dont blame good people for crimes committed against them, you blame the criminal
+	- can evil people at least be the babies? nope:
+		- babies are the opposite of predators
+	- can evil people at least be the princesses? no:
+		- princesses are 'extremely kind, wonderful, lovely people who are given decisions/freedom/power, bc they naturally always use their power to protect and lift up deserving unlucky people', not 'just anyone who gives commands bc they are greedy for power'
+	- evil people preach justice for themselves (they always retaliate), but not for their victims
+	- evil people have problems of 'stupidity' (like 'bias/short-term thinking'), which creates problems for themselves that they can't solve ('short-term thinking' frequently backfires)
 	- evil/stupid people have 'urges/feelings', smart/good people have 'thoughts' ('thoughts' are 'mental work')
 	- good people have no biases, so they can be fearless/objective, and can therefore solve problems
 	- each good person on their own is worth more than all of the evil people combined, bc evil people are burdens
