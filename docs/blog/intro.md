@@ -13,6 +13,7 @@ Joni Jezewski:
 - computed/built/determined the future/heaven
 - creates luck/meaning/justice for good/smart people
 - beat evil with insights/graphs/logic and inventions (optimization algorithms which make it easy for even evil people to see better alternatives to evil)
+	- evil people can't think of actually optimal optimizations, so they resort to easy suboptimal optimizations like 'evil/crime' ('falsely minimizing work, by trivially maximizing easy'), as they cant think of a way to get good feelings without committing a crime (this is the most important connection ever identified, and there is no valid/true/relevant counterpoint, so lead with this point)
 	- evil is 'easy/irrelevant cruelty' (as opposed to relevant cruelty like 'justice'), goodness is 'everything else', goodness is more complicated and relevant and everyone likes the 'relevant variation of complexity', evil is one perspective on the graph of all perspectives, every other perspective is better than evil
 	- evil is not the relevant opposite/alternate/equivalent of 'good', its not 'similarly complex/interesting/relevant as goodness', 'real goodness is extremely difficult/interesting/complex', it's 'one specific suboptimal optimization' and goodness is 'all the other optimizations which are better than it', similar to how 'chaos' is not the 'simple opposite of order', bc order is 'by definition, everything that matters, as in everything that is relevant'
 	- intelligent people have freedom to choose evil or goodness, and always arrive at the conclusion that evil is suboptimal (if they dont, theyre not actually smart, they probably just brute-forced solving a problem by iterating some simple structure)
@@ -24,7 +25,6 @@ Joni Jezewski:
 	- evil people have to try to pressure people to compliment them, bc they're inferior
 	- good people arent 'simple rule-followers', they're 'capable of following the most difficult rules (like self-optimizing to the point of optimality, or maintaining optimality)', whereas by comparison, evil people obey simple rules like 'always do the worst/easiest thing'
 	- evil people love killing other evil people, but good people dont like killing other good people, and good people also like killing evil people, so evil people are doomed to go extinct as a result
-	- evil people can't think of actually optimal optimizations, so they resort to easy suboptimal optimizations like crime, as they cant think of a way to get good feelings without committing a crime
 	- evil people have suboptimalities required/built-in, like 'feeling bad when they do something good, bc they didnt get an immediate reward or a better reward than other people, bc they cant tell there is a reward/optimality for doing good things'
 	- evil people love judging people for inferiority, but dont have any superiority to power that judgement
 	- evil people are like headless chickens, and good people have a mind, and complexity, and a conscience, and dignity, and potential
@@ -58,6 +58,9 @@ Joni Jezewski:
 		- I'm pretty sure that even evil people, who are known to lie constantly to comfort themselves, can tell they don't look like society's physical ideal (even evil people can "do the math on this one", despite claiming to be above doing math)
 		- attractive people dont have to commit crimes to get stuff, stuff is given to them for free
 		- evil people seem like disgusting burdens, I can believe they want to be attractive, but that's not the same as being attractive
+	- what about 'sexy bad boys/girls'?
+		- by 'bad boys/girls', I gather you mean to say 'people who are independent of you', and smart/good people have this one covered as well, bc smart/good people are more independent than anyone
+		- an 'excellent brilliant person who cant be corrupted' is way more attractive than yet another 'evil person out trying to hurt someone, so they can feel falsely important/powerful'
 	- what about taste, can evil people at least have 'good taste'? no, 'good taste' means 'excellent judgment', so good smart people get to have this one as well (if you didn't automate 'judgement/filtering/evaluation', then you don't have 'good taste')
 		- btw, it's in poor taste to do any of the following, so careful with all these claims that evil people have 'good taste':
 			- it's in poor taste to "avoid solving the problems of other people just bc there's no law requiring you to help them"
@@ -88,8 +91,11 @@ Joni Jezewski:
 		- princesses are 'extremely kind, wonderful, lovely people who are given decisions/freedom/power, bc they naturally always use their power to protect and lift up deserving unlucky people', not 'just anyone who gives commands bc they are greedy for power'
 	- how about wizards, can evil people at least be the magical wizards, collecting souls and other powerful things? nope:
 		- 'magic' is 'making valuable/important/otherwise relevant difficult intents trivial/otherwise relevant' which can only be done by a good smart person with a specific genius for 'optimization', 'magic' is not just 'destroying anything nearby, bc of an advantage acquired through randomness'
-		- if an evil person happens to win locally/temporarily against a good person, that's bc they had 'luck created by randomness' (luck which isnt rare or valuable or exclusive to evil people), and the same could be said for 'animals who are predators as well' (a 'bear eating a good person' isnt a 'good person being relevantly defeated', meaning 'goodness isnt destroyed/defeated, now that one good person had bad luck')
+		- if an evil person happens to win locally/temporarily against a good person, that's bc they had 'luck created by randomness' (luck which isnt rare or valuable or exclusive to evil people), and the same could be said for 'animals who are predators as well' (a 'bear eating a good person' isnt a 'good person being relevantly defeated' or the 'bear acquiring the soul of a good person', meaning 'goodness isnt destroyed/defeated, now that one good person had bad luck')
 		- 'destroying the potential of a good person' isnt the relevant opposite of 'creating a miracle (like creating a soul)', it's the 'simple irrelevant opposite', bc 'creating a soul' is more important/relevant/meaningful (a soul is potential, and only good people have souls/potential, so good people will win over evil people, evil people don't control good people, and therefore don't control our souls, and only good people can create souls, similar to how only smart people can create intelligence)
+		- can evil people at least have voodoo or dark magic?
+			- I would love to see this 'evil magic spell' that can destroy any good/smart person, but I know it doesn't exist, bc that's not how good/smart people work, good/smart people are basically addicted to being good/smart, which is not a real addiction bc it's more relevant to call that a miracle than an addiction
+			- I also know this 'evil magic spell' doesn't exist bc evil people have been wishing me powerless/dead/destroyed/erased/impossible for a long time now, as a group, so I know that 'praying/wishing/voodoo/evil spells/curses' dont work, bc while one of my physical forms will die someday, my other physical forms (as in my inventions) are immortal (as in they will 'likely be installed on the last computer')
 	- evil people preach justice for themselves (they always retaliate), but not for their victims
 	- evil people have problems of 'stupidity' (like 'bias/short-term thinking'), which creates problems for themselves that they can't solve ('short-term thinking' frequently backfires)
 	- evil/stupid people have 'urges/feelings', smart/good people have 'thoughts' ('thoughts' are 'mental work')
