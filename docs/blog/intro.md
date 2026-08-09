@@ -48,6 +48,8 @@ Joni Jezewski:
 		- their fun is 'beetle joy', and what's fun for people is usually all they're capable of, bc it's what they want to do, and what they want to do is usually all they do, so evil people have the soul/potential of a beetle
 		- it's more fun to rebel against or otherwise oppose/attack evil people than to be one or to obey them
 		- it's also more fun (bc of the higher relevant variation) to learn/interact in more complex ways than evil people interact
+	- can evil people at least be the 'playful' ones? no (like all the other virtues/optimization metrics, evil people have less of this one as well):
+		- 'play' is 'unrequired/pointless work' which can be useful for 'identifying new useful intents/variables/structures', but is extremely suboptimal compared to other algorithms to 'identify new useful structures', in a similar way as how 'pain' can be useful for 'learning', but is not the 'optimal learning method'
 	- what about dark humor, can evil people still have dark humor? no, they can't even have dark humor:
 		- dark humor is a suboptimal optimization involving 'reducing everything relevant to nothing' and 'connecting relevant/irrelevant structures in false ways (like making good things falsely seem simply/relevantly bad, or making bad things falsely seem simply/relevantly good)' to optimize for suboptimal intents like 'comforting themselves about the superiority of good people' or 'avoiding work (work such as the work of protecting good people)' by 'reducing good people to nothing' (like by saying good people are 'just another structure/phrase/other trivialization')
 		- dark humor is not surprising, its an 'expected/boring suboptimal optimization used by flawed people to trivialize excellence'
@@ -58,8 +60,12 @@ Joni Jezewski:
 		- I'm pretty sure that even evil people, who are known to lie constantly to comfort themselves, can tell they don't look like society's physical ideal (even evil people can "do the math on this one", despite claiming to be above doing math)
 		- attractive people dont have to commit crimes to get stuff, stuff is given to them for free
 		- evil people seem like disgusting burdens, I can believe they want to be attractive, but that's not the same as being attractive
+	- can evil people at least claim they're not victims? nope:
+		- the 'relevant opposite' of an evil person (a predator) is a hero, not a victim (a victim is a 'simple/irrelevant opposite' of a predator)
+	- can evil people at least claim they're heroes to other evil people? no:
+		- 'being a hero to other evil people' means 'being a hero locally/specifically, as in being a hero only if you ignore everything about the situation', because 'being a hero to evil people' means 'being an evil person', which is the more relevant thing to say, as opposed to calling it the same as 'being a hero'
 	- what about 'sexy bad boys/girls'? can evil people at least be that? no:
-		- by 'bad boys/girls', I gather you mean to say 'people who are independent of you', and smart/good people have this one covered as well, bc smart/good people are more independent than everyone else
+		- by 'bad boys/girls', I gather you mean to say 'people who are independent of you (who dont need you)', and smart/good people have this one covered as well, bc smart/good people are more independent than everyone else
 		- an 'excellent brilliant person who cant be corrupted' is way more attractive than yet another 'evil person out trying to hurt someone, so they can feel falsely important/powerful'
 		- if by 'bad boys/girls', you mean 'jealous people who fight over you', 'jealousy' is 'inferiority', and only 'inferior people want to be fought over by jealous people, bc they havent received love yet as theyre inferior, so they still need/want love (love is admiration, and its only possible to admire superior/optimal people, as in good/smart people)'
 	- what about love, can evil people get love, at least from other evil people? nope, they can only get false admiration, and only from their fellow inferior people (inferior people are evil people by definition, and 'superiority' is required to get admiration):
@@ -107,10 +113,9 @@ Joni Jezewski:
 		- animals can sometimes co-exist with humans, whereas evil people are lower than animals, bc they can't coexist with humans
 	- what about 'cuteness/elegance/beauty'? can evil people at least be that? no:
 		- those are 'efficiency/optimization' structures, good people get to have those as well, by definition ('good' means 'optimal')
+		- good/smart people can easily/relevantly create other optimization structures, similar to how good/smart people can easily/relevantly create goodness/intelligence
 	- what about 'randomness/chaos'? can evil people at least be 'agents of chaos'? nope:
 		- 'randomness/chaos' is sometimes an optimization structure for some problems, it's not an 'evil structure' by default/definition (such as how 'creating chaos for bad people' is a good thing)
-	- can evil people at least be the 'playful' ones? no (like all the other virtues/optimization metrics, evil people have less of this one as well):
-		- 'play' is 'unrequired/pointless work' which can be useful for 'identifying new useful intents/variables/structures', but is extremely suboptimal compared to other algorithms to 'identify new useful structures', in a similar way as how 'pain' can be useful for 'learning', but is not the 'optimal learning method'
 	- evil people preach justice for themselves (they always retaliate), but not for their victims
 	- evil people have problems of 'stupidity' (like 'bias/short-term thinking'), which creates problems for themselves that they can't solve ('bias/short-term thinking' frequently backfire)
 	- evil/stupid people have 'urges/feelings', smart/good people have 'thoughts' ('thoughts' are 'mental work')
