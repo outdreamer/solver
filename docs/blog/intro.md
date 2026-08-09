@@ -105,8 +105,10 @@ Joni Jezewski:
 		- evil is outdated/suboptimal (it's 'less optimal than everything else', by definition), so it may as well be already dead
 	- can evil people at least be the animals? nope:
 		- animals can sometimes co-exist with humans, whereas evil people are lower than animals, bc they can't coexist with humans
-	- what about 'cuteness/elegance/beauty'? no:
+	- what about 'cuteness/elegance/beauty'? can evil people at least be that? no:
 		- those are 'efficiency/optimization' structures, good people get to have those as well, by definition ('good' means 'optimal')
+	- what about 'randomness/chaos'? can evil people at least be 'agents of chaos'? nope:
+		- 'randomness/chaos' is sometimes an optimization structure for some problems, it's not an 'evil structure' by default/definition (such as how 'creating chaos for bad people' is a good thing)
 	- evil people preach justice for themselves (they always retaliate), but not for their victims
 	- evil people have problems of 'stupidity' (like 'bias/short-term thinking'), which creates problems for themselves that they can't solve ('bias/short-term thinking' frequently backfire)
 	- evil/stupid people have 'urges/feelings', smart/good people have 'thoughts' ('thoughts' are 'mental work')
