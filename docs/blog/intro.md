@@ -60,13 +60,13 @@ Joni Jezewski:
 		- evil people seem like disgusting burdens, I can believe they want to be attractive, but that's not the same as being attractive
 	- what about taste, can evil people at least have 'good taste'? no, 'good taste' means 'excellent judgment', so good smart people get to have this one as well (if you didn't automate 'judgement/filtering/evaluation', then you don't have 'good taste')
 		- btw, it's in poor taste to do any of the following, so careful with all these claims that you have 'good taste':
-			- it's in poor taste to avoid solving the problems of other people just bc there's no law requiring you to help them
+			- it's in poor taste to "avoid solving the problems of other people just bc there's no law requiring you to help them"
 			- it's in poor taste to 'avoid thinking to solve problems' when 'solving problems' helps everyone, especially deserving people
 			- it's in poor taste to 'criticize/violate/torture/exploit a hero/genius' (only evil people would do that)
-			- it's in poor taste to "claim you have good taste when it's false", such as 'without understanding good taste enough to automate it'
+			- it's in poor taste to "claim you have good taste, when that claim is false", such as 'without understanding good taste enough to automate it'
 		- I'm sure a creep would wrongly feel that it's in 'poor taste' to 'choose the wrong outfit' or 'criticize/disrespect a creep' or 'phrase a criticism impolitely, thereby hurting the feelings of a creep', but that's not what 'poor taste' actually means (meaning it's not the relevant definition of 'taste')
 	- what about class, can evil people at least have 'class'? nope:
-		- 'class' is where you are 'respectful to good smart people', meaning you 'do the right thing', meaning you have 'potential/power/freedom' and 'use your power to lift other people up so they can also have dignity', like by 'solving all problems' or 'automating intelligence/problem-solving', which is the classiest thing that it's possible to do
+		- 'class' is where you are 'respectful to good smart people', meaning you 'do the right thing', meaning you have 'potential/power/freedom' and 'use your power to lift other deserving people up so they can also have dignity', like by 'solving all problems' or 'automating intelligence/problem-solving', which is the classiest thing that it's possible to do
 	- what about power or mystery, can evil people at least be powerful or mysterious? no, they can't have these either:
 		- a 'drone army with poisonous gas weapons' could easily take out all the evil people within a few weeks, whose whereabouts are currently easily known, and this likely soon will occur, bc it's both easy and useful/optimal to get rid of them all, since they cause every problem for society/other groups and don't solve any problems for society/other groups, so their luck/advantages/power are false and easily beaten with more optimal optimizations than evil
 		- 'mysterious' means 'uncertain/unpredictable', evil people are 'extremely certain to always do the easiest/worst thing (the easiest/worst thing they feel they can get away with)', so only smart people are 'mysterious' to stupid people
