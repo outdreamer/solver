@@ -30,6 +30,13 @@ Each component mind can:
 - take the form of a graph (a graph can connect problems/solutions, so it can solve problems, so it's a new way of thinking, so a graph can be applied as a mind)
 - apply specific interface structures (a mind can apply a 'perspective/set of priorities/core functions/common intents')
 
+'Component minds' aren't the only structure of mind in a meta-mind, that's just a core/default structure.
+
+Other structures of minds can include:
+- overlapping minds
+- embedded minds
+- interaction minds (controlling interactions between other minds)
+
 
 ## Other types of mind
 
