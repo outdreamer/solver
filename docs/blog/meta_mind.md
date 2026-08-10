@@ -33,9 +33,19 @@ Each component mind can:
 'Component minds' aren't the only structure of mind in a meta-mind, that's just a core/default structure.
 
 Other structures of minds can include:
-- overlapping minds
-- embedded minds
+- overlapping/integrating minds
+- base/embedded minds
+- opposing minds
 - interaction minds (controlling interactions between other minds)
+
+
+## Mind interactions
+
+A meta-mind involves the following interactions:
+- an organization/filtering/integration/change/optimization mind to organize/filter/integrate/change/optimize variables like 'positions/connections/variation' of the other minds
+- a connector mind to translate/standardize the input/output of a mind for another mind
+- a control mind (like a 'conscious' mind) to send commands to the other minds
+- a base mind (like a 'subconscious' mind) to act as an adapter/connector to the body/memory
 
 
 ## Other types of mind

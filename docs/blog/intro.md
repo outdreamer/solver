@@ -129,7 +129,7 @@ Joni Jezewski:
 		- I dont know how you're not aware of this, but killing is not exclusive to bad people (good people kill bad people, good people are like 'avenging archangels who destroy evil')
 		- evil is outdated/suboptimal (it's 'less optimal than everything else', by definition), so it may as well be already dead
 	- can evil people at least be the ice queens/savages/bitches/sassy ones? no, this is similar to the previous point:
-		- what you're asking is 'can evil people be the ones who give negative feedback', and in reality, good people get to be those things to bad people, meaning they get to 'give negative feedback' to bad people, and the 'negative feedback of good people directed at evil people' is more powerful/valid/real/true than that of 'negative feedback from evil people directed at good people', since evil people are inferior to good people
+		- what you're asking is 'can evil people be the ones who give negative feedback', and in reality, good people get to be those things to bad people, meaning they get to 'give negative feedback' to bad people, and the 'negative feedback of good people directed at evil people' is more powerful/valid/real/true than 'negative feedback from evil people directed at good people', since evil people are inferior to good people
 	- can evil people at least be the animals? nope:
 		- animals can sometimes co-exist with humans, whereas evil people are lower than animals, bc they can't coexist with humans
 	- what about 'cuteness/elegance/beauty'? can evil people at least be that? no:
