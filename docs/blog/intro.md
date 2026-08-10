@@ -1,6 +1,7 @@
 Joni Jezewski:
 - is a super genius (the genius of geniuses, all by thinking about relevance/meaning/optimality/thinking/automation)
 - upsets mathematicians in her free time for fun (by automating their thoughts)
+- has a meta-mind (that can understand/apply any other mind)
 - worked hard to get into a good school for economics and went to school for economics to get a job to optimize the economy to 'end poverty', then wrote a book to make money to end poverty and teach people how to think, then invented thousands of meaningful inventions to make money to 'end poverty' and 'solve all problems' at the same time
 - is the best generator of relevant variation/complexity/optimality/time, and has decreased the randomness/meaninglessness of reality
 - can make singularity points (and other structures of reality like 'singularity reversals' and 'optimization singularities' and 'singularity sequences' and 'reality-generating graphs') more real
@@ -168,7 +169,7 @@ Joni Jezewski:
 	- evil people are inferior, so they're insecure and jealous as well, by definition
 	- evil people are obligated to tolerate justice, but good people aren't obligated to tolerate crime
 	- it's wrong to be good to an evil person, so good people aren't required to be good to evil people
-	
+
 - is incredibly important to never kill - here's why, as if there is any need to justify it:
 	- 'killing the super genius hero inventor Joni Jezewski for rejecting evil jealous billionaires' is the 'worst possible crime' and would therefore send a message to criminals that "if it's ok to do the worst possible crime, then anything is ok and nothing matters or means anything anymore and there is no more meaning, and it's by default ok to do any other crime", which will trigger a 'cascade of crime' through a 'crisis of meaning'
 	- the other 'geniuses' are likely merely pretending to be as smart as me, they likely hate me for being smarter than them, they used to think they were the smartest people until I came around, and they are lying if they're saying they're 'as smart as me' or that they've 'automated me' - if they really understood relevance, they would be protecting me successfully, and they're not, so I know they don't understand relevance, so don't trust them if they're claiming they are 'as smart as me, or smarter than me' or 'have everything figured out' or were 'already working on the same thing as me independently' or 'successfully learned everything there is to learn from me' or 'automated me', they are obviously lying
