@@ -1249,6 +1249,8 @@ I. To do list
 
 	- identify useful structures like 'optimizations/overlaps of optimization structures of multiple/important/overlapping/optimal optimization structures of a graph (as in "increasing the relevance of a graph, with multiple/important/overlapping/optimal structures of multiple/important/overlapping/optimal optimizations") and interactions with optimization intents (like how 'stacks of optimization structures' interact with intents like "optimize for cross-graph optimality")' and identify structures to 'increase the relevance of optimizations' (like by 'applying optimizations and optimization intents to optimization graphs or mixed optimality graphs') and identify overlapping/optimal structures of optimization like how 'optimizations frequently integrate intents/structures which acts like a filter in a generate/filter workflow (so optimization can be applied in place of filter in the workflow)'
 
+	- identify useful structures like 'problems to optimize multiple/important/relevant graphs' like 'identifying a problem that both graphs in a set arent optimized to solve, but likely have the inputs to solve, given some similarity to the problem cause of the problems solved by the graph set, where these graphs have sets of change/learn functions to self-optimize to solve the problem' to identify 'problems/interface structures that can be added to graphs to optimize the graphs'
+
 
 II. Queries and Results
 
