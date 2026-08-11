@@ -51,7 +51,7 @@ A meta-mind involves the following interactions:
 ## Other types of mind
 
 Other types of mind include:
-- a hive mind (one mind controls a group of people/agents)
+- a hive mind (one mind controls a group of people/agents as in 'with no agency', as opposed to a mind interacting with many other minds as in 'with agency')
 - a genius mind (a mind with a scaled/otherwise optimal intelligence type)
 - a relevance mind (a mind with a specific intelligence type, like relevance/optimization intelligence, like how a 'relevance mind' can take the form of a 'brain of relevant graphs as nodes')
 
@@ -61,6 +61,7 @@ Other types of mind include:
 - a meta-mind is not just a 'group of people/AI agents', bc one person can model many minds, and each mind can be 'inhabited/understood/applied' in a way that a different person cant
 - a person can 'live in one of their component minds', and 'occasionally visit other component minds', and 'allow one component mind to take control of the other minds', which is different from how people/agents interact
 - a meta-mind is not just a 'set of mental models' either, similar to how it's not just a 'set of priorities/functions'
+- a meta-mind is not just a mind that is 'good at empathy', which can 'simulate some attributes/functions of other people', it's 'capable of optimizing/applying/generating/integrating other minds'
 
 
 ## Meta-mind, on the scale of intelligence
