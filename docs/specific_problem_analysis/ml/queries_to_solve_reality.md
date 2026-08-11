@@ -1253,6 +1253,8 @@ I. To do list
 
 	- identify useful structures like 'problems of pattern prediction structures/combinations' like 'locally unpredictable, generally obvious' (like where a pattern is difficult to identify with local info, but with general info is trivial/obvious to identify) and associated structures like 'functions/graphs to correct the problems of pattern prediction' (like a 'graph of general patterns' to make more patterns trivial to identify)
 
+	- identify useful structures like 'optimized definitions (in terms of graphs/queries)' like how 'creativity' can be defined by 'limits/errors/opposites (as in what it is not)' (like 'creativity' is not 'where the next step coincidentally is an intersection of relevant variables' or 'where the next step is random bc all steps overlap with pre-randomized combinations') and 'optimizations of these limits/errors/opposites' are useful to identify next (like 'making the graph have a maximally different intersection at every step' or 'making the graph have maximally different adjacent combinations') and 'integrations of these optimized graphs' are useful to identify next (like a 'graph of maximally different combinations that is also a grid of maximally different intersections of relevant variables'), where an 'optimized definition' of 'creativity' is 'any query on the optimized integrated graph'
+
 
 II. Queries and Results
 
