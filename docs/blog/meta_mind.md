@@ -24,7 +24,7 @@ The defining abilities identifying a meta-mind are:
 - it generally has a central mind that controls the other minds for efficiency
 
 
-## Component minds
+## Structures of minds
 
 Each component mind can:
 - take the form of a graph (a graph can connect problems/solutions, so it can solve problems, so it's a new way of thinking, so a graph can be applied as a mind)
@@ -35,8 +35,10 @@ Each component mind can:
 Other structures of minds can include:
 - overlapping/integrating minds
 - base/embedded minds
-- opposing minds
+- opposing/limiting minds
 - interaction minds (controlling interactions between other minds)
+
+Component minds can be used to generate a meta-mind, and other structures like 'limit minds' or 'integrated minds' can also generate a meta-mind.
 
 
 ## Mind interactions
@@ -46,6 +48,15 @@ A meta-mind involves the following interactions:
 - a connector mind to translate/standardize the input/output of a mind for another mind
 - a control mind (like a 'conscious' mind) to send commands to the other minds
 - a base mind (like a 'subconscious' mind) to act as an adapter/connector to the body/memory
+
+
+## Optimizations of minds
+
+Optimizations of mind interactions include:
+- applying 'multiple variants of a mind type' to 'multiple variants of another mind type' (like multiple subconscious/conscious mind variants)
+- applying 'important/relevant minds' as a filter before delegating other intents to other mind types
+- applying 'optimality' as a self-filter to each component mind of a meta-mind
+- applying 'differentiation of optimality' as a general filter across different component minds
 
 
 ## Other types of mind
