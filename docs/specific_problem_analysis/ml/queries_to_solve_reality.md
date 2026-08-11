@@ -1251,6 +1251,8 @@ I. To do list
 
 	- identify useful structures like 'problems to optimize multiple/important/relevant graphs' like 'identifying a problem that both graphs in a set arent optimized to solve, but likely have the inputs to solve, given some similarity to the problem cause of the problems solved by the graph set, where these graphs have sets of change/learn functions to self-optimize to solve the problem' to identify 'problems/interface structures that can be added to graphs to optimize the graphs' and identify 'problems which are still problems, even after applying a generally relevant graph sequence, to identify problem complexity'
 
+	- identify useful structures like 'problems of pattern prediction structures/combinations' like 'locally unpredictable, generally obvious' (like where a pattern is difficult to identify with local info, but with general info is trivial/obvious to identify) and associated structures like 'functions/graphs to correct the problems of pattern prediction'
+
 
 II. Queries and Results
 
