@@ -1255,6 +1255,8 @@ I. To do list
 
 	- identify useful structures like 'optimized definitions (in terms of graphs/queries)' like how 'creativity' can be defined by 'limits/errors/opposites (as in what it is not)' (like 'creativity' is not 'where the next step coincidentally is an intersection of relevant variables' or 'where the next step is random bc all steps overlap with pre-randomized combinations') and 'optimizations of these limits/errors/opposites' are useful to identify next (like 'making the graph have a maximally different intersection at every step' or 'making the graph have maximally different adjacent combinations') and 'integrations of these optimized graphs' are useful to identify next (like a 'graph of maximally different combinations that is also a grid of maximally different intersections of relevant variables'), where an 'optimized definition' of 'creativity' is 'any query on the optimized integrated graph'
 
+	- identify useful structures like 'useful error structures to identify in a graph' like where 'one general pattern represents solutions and a general threshold represents the boundary to error areas and there is one overlapping point between the solution pattern and the threshold, but the solution pattern is generally different/separate from the general threshold'
+
 
 II. Queries and Results
 
