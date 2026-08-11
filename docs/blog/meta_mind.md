@@ -22,6 +22,9 @@ The defining abilities identifying a meta-mind are:
 - it can simulate interactions of different mind types/different minds
 - it can change its own component minds/interactions between components
 - it generally has a central mind that controls the other minds for efficiency
+- it can 'swap out' a mind for another mind trivially, and doesnt 'get stuck' in one mind, and component minds can replace other component minds (as in they're basically equivalent)
+- it can generate relevant 'mind conflicts' for optimization intents
+- it can implement system optimization intents to control the interactions of the minds
 
 
 ## Structures of minds
@@ -69,10 +72,10 @@ Other types of mind include:
 
 ## Differences from a group of people/agents
 
-- a meta-mind is not just a 'group of people/AI agents', bc one person can model many minds, and each mind can be 'inhabited/understood/applied' in a way that a different person cant
-- a person can 'live in one of their component minds', and 'occasionally visit other component minds', and 'allow one component mind to take control of the other minds', which is different from how people/agents interact
+- a meta-mind is not just a 'group of people/AI agents interacting', bc one person with a meta-mind can model many minds, and each mind can be 'inhabited/understood/applied' in a way that another person can't
+- a person with a meta-mind can 'live in one of their component minds', and 'visit other component minds', and 'allow one component mind to take control of the other minds', which is different from how people/agents interact
 - a meta-mind is not just a 'set of mental models' either, similar to how it's not just a 'set of priorities/functions'
-- a meta-mind is not just a mind that is 'good at empathy', which can 'simulate some attributes/functions of other people', it's 'capable of optimizing/applying/generating/integrating other minds'
+- a meta-mind is not just a mind that is 'good at empathy/prediction', which can 'simulate some attributes/functions of other people', it's 'capable of optimizing/applying/generating/integrating other minds'
 
 
 ## Meta-mind, on the scale of intelligence
