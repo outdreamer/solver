@@ -1259,6 +1259,10 @@ I. To do list
 
 	- identify useful structures like 'relevant filters' like 'interactivity structures (like usability/non-bindability/absorbability)' and useful 'sequences of filters' like 'applying interactivity filters before applying variation/uniqueness filters' and 'useful solution metric priority sequences' like 'in cases of ambiguities like where a subset of metrics reaches a limit in optimization potential so additional optimization is ambiguously useful, where applying general solution metrics like interactivity/usability can create useful variation while the ambiguity is resolved'
 
+	- identify useful structures like 'graph variable interactions' like how the 'summarizing/generative/descriptive variables of a graph interact with the limit variables of a graph determining its boundaries' like how those 'variable sets likely involve independent/maximally different variables, given how limiting variables often are different from generative variables'
+
+	- identify useful structures like 'graphs of relevant graphs' like how a 'graph of concept type would make an irrelevant/adjacent connection between good/evil', so 'applying differences to this graph variable could generate more relevant graphs' which is a way to 'generate a graph of relevant graphs with increasing relevance'
+
 
 II. Queries and Results
 
