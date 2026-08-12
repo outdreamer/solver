@@ -52,6 +52,11 @@ A meta-mind involves the following interactions:
 - a control mind (like a 'conscious' mind) to send commands to the other minds
 - a base mind (like a 'subconscious' mind) to act as an adapter/connector to the body/memory
 
+Optimal mind interactions can include:
+- where a control mind sends a general command (like 'coordinate') to other minds (to avoid sending specific different commands for each mind)
+- minimizing trust in command implementation, with understanding (rather than trusting a command will be implemented correctly, knowing it will be implemented correctly, with understanding of other minds)
+- optimizing mind descriptions for optimal usage/applications/intents (rather than describing a mind as a 'set of common/defining/core functions/priorities/limits', describing its optimal interactions with other minds, given a set of other minds)
+
 
 ## Optimizations of minds
 

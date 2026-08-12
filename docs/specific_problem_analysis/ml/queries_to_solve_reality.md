@@ -1263,6 +1263,8 @@ I. To do list
 
 	- identify useful structures like 'graphs of relevant graphs' like how a 'graph of concept type would make an irrelevant/adjacent connection between good/evil', so 'applying differences to this graph variable could generate more relevant graphs' which is a way to 'generate a graph of relevant graphs with increasing relevance'
 
+	- identify useful structures like 'emergent functions from core functions' like how a 'set of function-learning functions' can generate other relevant functionality like 'learning functions about function-learning' and identify useful alternates regarding different core function sets related to intelligence (like 'predict') and their optimal interaction network (organize it based on the relevant overlaps/similarities of the interaction network)
+
 
 II. Queries and Results
 
