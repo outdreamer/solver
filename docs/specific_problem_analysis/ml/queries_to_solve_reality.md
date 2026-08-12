@@ -1257,6 +1257,8 @@ I. To do list
 
 	- identify useful structures like 'useful error structures to identify in a graph' like where 'one general pattern represents solutions and a general threshold represents the boundary to error areas and there is one overlapping point between the solution pattern and the threshold, but the solution pattern is generally different/separate from the general threshold'
 
+	- identify useful structures like 'relevant filters' like 'interactivity structures (like usability/non-bindability/absorbability)' and useful 'sequences of filters' like 'applying interactivity filters before applying variation/uniqueness filters' and 'useful solution metric priority sequences' like 'in cases of ambiguities like where a subset of metrics reaches a limit in optimization potential so additional optimization is ambiguously useful, where applying general solution metrics like interactivity/usability can create useful variation while the ambiguity is resolved'
+
 
 II. Queries and Results
 
