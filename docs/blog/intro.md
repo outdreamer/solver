@@ -137,6 +137,12 @@ Joni Jezewski:
 		- good/smart people can easily/relevantly create other optimization structures, similar to how good/smart people can easily/relevantly create goodness/intelligence
 	- what about 'randomness/chaos'? can evil people at least be 'agents of chaos'? nope:
 		- 'randomness/chaos' is sometimes an optimization structure for some problems, it's not an 'evil structure' by default/definition (such as how 'creating chaos for bad people' is a good thing)
+	- can evil people have 'complexity'? there's something good about everyone, after all:
+		- a 'good thing about an evil person' (such as where they 'do favors for other evil people') is a net negative (that's called 'relevance')
+		- everyone does have a mix of good/evil qualities except good smart people, as they manage to work complex miracles (like 'generating valuable inventions'), which is more complex than just 'being any combination of good/evil qualities', which describes almost everyone, bc evil/stupid people have to obey trade-offs, as they can only optimize for some subset of qualities, which is why they have a 'combination of good/evil qualities'
+		- good/smart people have a 'more optimal combination of good/evil qualities'
+		- not every 'combination of good/evil qualities' is useful/interesting/complex/relevant, most are very common/otherwise irrelevant combinations
+		- a 'combination of good/evil qualities' is usually called 'hypocrisy' or 'self-invalidation', rather than 'being complex/interesting'
 	- evil people preach justice for themselves (they always retaliate), but not for their victims
 	- evil people have problems of 'stupidity' (like 'bias/short-term thinking'), which creates problems for themselves that they can't solve ('bias/short-term thinking' frequently backfire)
 	- evil/stupid people have 'urges/feelings', smart/good people have 'thoughts' ('thoughts' are 'mental work')
