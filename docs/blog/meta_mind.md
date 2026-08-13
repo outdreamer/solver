@@ -80,7 +80,7 @@ Other types of mind include:
 - a meta-mind is not just a 'group of people/AI agents interacting', bc one person with a meta-mind can model many minds, and each mind can be 'inhabited/understood/applied' in a way that another person can't
 - a person with a meta-mind can 'live in one of their component minds', and 'visit other component minds', and 'allow one component mind to take control of the other minds', which is different from how people/agents interact
 - a meta-mind is not just a 'set of mental models' either, similar to how it's not just a 'set of priorities/functions'
-- a meta-mind is not just a mind that is 'good at empathy/prediction', which can 'simulate some attributes/functions of other people', it's 'capable of optimizing/applying/generating/integrating other minds'
+- a meta-mind is not just a mind that is 'good at empathy/prediction', which can 'simulate some attributes/functions of other people', it's 'capable of optimizing/applying/generating/integrating other minds' (rather than just understanding a simple conceptual description of another mind, it can understand the entirety of the other mind, including all of its interface structures)
 
 
 ## Meta-mind, on the scale of intelligence

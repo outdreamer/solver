@@ -2,6 +2,10 @@
 
 There are useful perspective structures to connect, to find/navigate to more optimal perspectives for an intent.
 
+A perspective involves:
+- a difference in some interface variable (like a 'subset of priorities')
+- applying perspective variables like a starting point, an angle/direction, an algorithm to apply to navigate, a change condition, a filter of what to look for, etc (as opposed to just describing a graph indicating a perspective, this involves actually navigating/querying the graph)
+
 
 ## Problem/solution perspectives
 
@@ -15,6 +19,7 @@ Problem/solution perspectives are useful for general problem-solving starting po
 
 Difference perspectives include:
 - simple opposite perspective (where valid/real connections are opposed)
+- irrelevant/independent opposite (where most ridciculous/obviously false statements falsely appear true)
 - specific relevant opposite perspectives (like where 'problems are actually useful', like by being 'gamified', or where 'problems are all solved' in which case it's difficult to find new problems)
 
 Difference perspectives are useful for identifying error structures like 'contradictions'.
@@ -25,6 +30,7 @@ Difference perspectives are useful for identifying error structures like 'contra
 Interface variable perspectives include:
 - interactivity perspective (where interaction variables like 'attention' are prioritized)
 - relevance perspective (like 'where there is meaning/justice')
+- abstract perspective (like where only types or general abstract concepts like 'chaos' exist)
 
 Interface variable perspectives are useful for 'adding variation' or 'expanding the possibility space'.
 
