@@ -116,6 +116,9 @@ Joni Jezewski:
 		- you dont blame good people for crimes committed against them, you blame the criminal
 	- can evil people at least be the babies? nope:
 		- babies are the opposite of predators
+	- can evil people be the 'new' ones? no:
+		- inventors are the 'newest' people, everyone who 'optimizes for easy' is old/outdated by comparison
+		- evil is a prior suboptimal optimization to goodness, which means 'optimality'
 	- can evil people at least be the princesses? no:
 		- princesses are 'extremely kind, wonderful, lovely people who are given decisions/freedom/power, bc they naturally always use their power to protect and lift up deserving unlucky people', not 'just anyone who gives commands bc they are greedy for power'
 	- how about wizards, can evil people at least be the magical wizards, collecting souls and other powerful things? nope, evil is less optimal/powerful/important/meaningful/efficient than excellence, by definition:
