@@ -1265,6 +1265,8 @@ I. To do list
 
 	- identify useful structures like 'emergent functions from core functions' like how a 'set of function-learning functions' can generate other relevant functionality like 'learning functions about function-learning' and identify useful alternates regarding different core function sets related to intelligence (like 'predict') and their optimal interaction network (organize it based on the relevant overlaps/similarities of the interaction network)
 
+	- identify useful structures like 'general graphs of errors (like limits) based on directions of optimality identified by the graph of the definition of relevance' that are known to vary like 'where some problem type has more adjacent limits in general directions' and identify an optimized interaction graph of these graphs for specific problem structures/types
+
 
 II. Queries and Results
 
