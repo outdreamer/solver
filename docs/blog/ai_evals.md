@@ -12,8 +12,8 @@ Whether AI models can complete the following intents optimally is useful to iden
 - identify general relevant intents (like 'solve reality' or 'complete the math interface' or 'identify relevant interface structures, like relevant graphs')
 - identify relevant graphs like 'optimized/organized graphs' of these intents
 - identify relevant 'intent networks' to implement/reach these general relevant intents
-- identify relevant interface structures (like limits/optimizations) of the intent networks to generate relevant graph structures like 'graph layers (like associated optimization metrics with intents)'
-- identify 'specific identified functions' to identify/generate connections to 'relevant graphs of the intent networks of general intents'
+- identify relevant interface structures (like limits/optimizations/errors) of the intent networks, to generate relevant graph structures like 'graph layers (like associated optimization metrics with intents)'
+- identify 'specific identified functions' to identify/generate connections to 'relevant graphs of the intent networks of general intents' or to 'correct errors in the intent networks'
 
 
 ## Current intent optimization/implementation
