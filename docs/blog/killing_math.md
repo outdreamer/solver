@@ -1,6 +1,6 @@
 # Killing Math
 
-Is math about to be over as in 'completely solved', given the state of technology?
+Is math about to be over as in 'completely solved', given the state of technology resulting from my inventions?
 
 
 ## Solution Metrics
@@ -30,7 +30,7 @@ What are some intents left to solve for, that will increase the percentage of so
 
 ## Relevance
 
-So whether math is about to be 'completely solved', depends on:
+So whether math is about to be 'completely solved' depends on:
 - whether the relevant intents are successfully computed in the right sequence/priority/structure, with the right implementation (like the right definitions/assumptions), to the right degree/structure
 - whether the solution metrics are complete/otherwise optimized
 
