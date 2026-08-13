@@ -1265,7 +1265,11 @@ I. To do list
 
 	- identify useful structures like 'emergent functions from core functions' like how a 'set of function-learning functions' can generate other relevant functionality like 'learning functions about function-learning' and identify useful alternates regarding different core function sets related to intelligence (like 'predict') and their optimal interaction network (organize it based on the relevant overlaps/similarities of the interaction network)
 
-	- identify useful structures like 'general graphs of errors (like limits) based on directions of optimality identified by the graph of the definition of relevance' that are known to vary like 'where some problem type has more adjacent limits in general directions' and identify an optimized interaction graph of these graphs for specific problem structures/types
+	- identify useful structures like 'general graphs of errors (like limits) based on directions/structures of optimality identified by the graph of the definition of relevance' that are known to vary like 'where some problem type has more adjacent limits in general directions' and identify an optimized interaction graph of these graphs for specific problem structures/types
+
+	- identify useful structures like 'implementations of interface networks' like 'networks of overlapping structures identified in multiple relevant queries' where 'optimizations are iteratively applied' or 'optimizations of optimizations are applied' (optimizations like 'overlap/compress similar structures of queries' and 'differentiate/expand structures with relevant differences in queries') to 'organize the network for interface queries' and apply the 'optimized network of relevant interface query structures' to relevant problems to define 'starting/ending points of the query network'
+
+	- identify useful structures like 'error structures of interface analysis' like possible error types such as 'errors of meaninglessness (as in similar relevance of everything)' like where 'all graphs of interface structures are similarly relevant' or 'all interfaces are similarly relevant' or 'iterating interface analysis applications can be applied indefinitely with no relevant limit (as in there is no point in trying to minimize interface analysis iterations)', and 'identify indicators of contradictions of these errors' and 'graphs to trivially/relevantly identify these indicators'
 
 
 II. Queries and Results
