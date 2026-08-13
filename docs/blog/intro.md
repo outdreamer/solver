@@ -143,6 +143,12 @@ Joni Jezewski:
 		- good/smart people have a 'more optimal combination of good/evil qualities'
 		- not every 'combination of good/evil qualities' is useful/interesting/complex/relevant, most are very common/otherwise irrelevant combinations
 		- a 'combination of good/evil qualities' is usually called 'hypocrisy' or 'self-invalidation', rather than 'being complex/interesting'
+		- its more complex to be good/smart, bc the 'adjacencies/defaults of physics' frequently generate incentives for evil (meaning it's 'often easier to be evil than good, for evil/stupid people'), which is outdated given recent tech like 'info tech', which created 'incentives to be good/smart'
+		- 'complex optimized ethical systems' (like mine) evolved way later than evil, evil is too outdated/simple/irrelevant to be real
+	- can evil people be the 'cool' people? no:
+		- 'cool' means 'able to handle anything (as in solve any problem)', good/smart people get to be this, 'cool' doesnt mean 'independent of their victims, only bc they constantly mutter to themselves lies, such as that "good/smart people are actually bad/worthless/nothing"'
+	- can evil people at least be the 'vampires/monsters/demons'? no:
+		- vampires/monsters/demons are 'supernatural beings with super powers', does that sound like it describes good/smart people or evil/stupid people? or does this sound like another case where 'good people are the evil people/monsters, to evil people'?
 	- evil people preach justice for themselves (they always retaliate), but not for their victims
 	- evil people have problems of 'stupidity' (like 'bias/short-term thinking'), which creates problems for themselves that they can't solve ('bias/short-term thinking' frequently backfire)
 	- evil/stupid people have 'urges/feelings', smart/good people have 'thoughts' ('thoughts' are 'mental work')
