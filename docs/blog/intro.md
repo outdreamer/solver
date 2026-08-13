@@ -110,12 +110,12 @@ Joni Jezewski:
 		- fanciness is 'high standards', I'll let you do the math on this one as to the question of whether it's good/smart people or evil/stupid people who have the high standards (for those who are struggling with math, 'requiring a lot of cruelty/evil' isn't 'having a high standard', it's 'having a low standard')
 		- similarly, it's not relevant to call 'pure evil' a form of 'purity', bc 'purity' is like 'innocence' and 'virtue'
 	- can evil people at least claim 'innocence/blamelessness/no responsibility', since they 'cant help but be evil'?
-		- innocence is where you 'dont have any criminal urges, dont act on criminal urges, try to do the right thing, succeed at doing the right thing, and try to create justice for good people'
+		- innocence is where you 'dont have any criminal urges, dont act on criminal urges, try to do the right thing, succeed at doing the right thing to some degree, try to create justice for good people, and did everything you could identify that was an optimal way of helping deserving unlucky people', innocence is extremely rare
 		- innocence is not 'uncontrollably committing crimes'
 		- even evil people have the option of 'taking no action and making no decisions', which is even easier than crime
 		- you dont blame good people for crimes committed against them, you blame the criminal
 	- can evil people at least be the babies? nope:
-		- babies are the opposite of predators
+		- babies are the opposite of predators (another relevant opposite of predators is heroes)
 	- can evil people be the 'new' ones? no:
 		- inventors are the 'newest' people, everyone who 'optimizes for easy' is old/outdated by comparison
 		- evil is a prior suboptimal optimization to goodness, which means 'optimality'
