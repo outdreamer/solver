@@ -1271,6 +1271,10 @@ I. To do list
 
 	- identify useful structures like 'error structures of interface analysis' like possible error types such as 'errors of meaninglessness (as in similar relevance of everything)' like where 'all graphs of interface structures are similarly relevant' or 'all interfaces are similarly relevant' or 'iterating interface analysis applications can be applied indefinitely with no relevant limit (as in there is no point in trying to minimize interface analysis iterations)', and 'identify indicators of contradictions of these errors' (like a case where 'one graph is relevant as a base/component of many other graphs') and 'graphs to trivially/relevantly identify these indicators'
 
+	- identify useful structures like the 'relevant graph of matrix structures (like optimizations of matrix structure/state combination interactions)' that 'identifies errors/limits in neural network models trivially/relevantly' (like to understand a neural network type, its important to know how 'this jacobian/factorization combination with this state' and 'this inversion/projection combination with this state' optimally interact for that neural network type, at which point, identifying error structures possible with the neural network is more trivial, or otherwise connecting error graphs to matrix structure graphs), similar to how knowing whether a neural network model can 'flip/otherwise problematically create errors in a solution polynomial' in 'even one case' or at a 'rate higher than random noise' is useful to identify
+
+	- identify useful structures like 'relevant interactions of interface analysis applications' like how to identify relevance/meaning in overlapping/otherwise similar iterations of interface analysis (like identifying the relevance of a loss function structure and the relevance of a solution polynomial structure, where both relevances interact by overlapping, and what is the relevance of that relevance overlap)
+
 
 II. Queries and Results
 
