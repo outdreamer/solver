@@ -37,3 +37,7 @@ So whether math is about to be 'completely solved' depends on:
 What does 'completely solving math' mean?
 - once 'math is solved', 'physics/reality' will be trivial/relevant to solve next (bc 'identifying what numbers are possible to connect' determines 'what connections/variables/structures can occur in reality')
 - once 'math is solved', it can be identified whether math can be changed/optimized, whether there are alternate math systems that could exist with different definitions/assumptions/constants/certainties, and other interface structures of math
+
+Isn't this just a simple matter of 'solving identified remaining unsolved math problems'? Not quite:
+- identified remaining unsolved problems are a suboptimal/incomplete list of connections to resolve, which excludes many other possible independent variable combinations in math (in the possibility space of all possibly ambiguous connections between math variables)
+- there may be many more important/relevant problems to solve in this possibility space than those in the set of 'identified remaining unsolved problems'
