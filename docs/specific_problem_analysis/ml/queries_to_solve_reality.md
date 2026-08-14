@@ -1275,7 +1275,9 @@ I. To do list
 
 	- identify useful structures like 'relevant interactions of interface analysis applications' like how to identify relevance/meaning in overlapping/otherwise similar iterations of interface analysis (like identifying the relevance of a loss function structure and the relevance of a solution polynomial structure, where both relevances interact by overlapping, and what is the relevance of that relevance overlap)
 
-	- identify useful structures like 'relevant graph connections' like how 'optimizing requirements until the graph of requirements is similar to the graph of intents' is useful to 'standardize the graph of requirements (to a related standard like a related interface variable like intent)', so 'applying optimizations to generate similarities to a related relevant graph' can be a useful graph intent
+	- identify useful structures like 'relevant graph connections' like how 'optimizing requirements until the graph of requirements is similar to the graph of intents' is useful to 'standardize the graph of requirements (to a related standard like a related interface variable like intent)', so 'applying optimizations to generate similarities to a related relevant graph' can be a useful graph intent to 'minimize irrelevant differences, so relevant differences can be maximized'
+
+	- identify useful structures like 'graph structure/requirement similarities' like how 'structures that can be applied on their own (like perspectives which represent subsets of priorities, with associated optimizations)' can map to 'graph nodes', similar to how 'graph nodes' should be structures whose 'interactions with other nodes' are relevant
 
 
 II. Queries and Results
