@@ -1285,6 +1285,8 @@ I. To do list
 
 	- identify useful structures like the 'metrics related to the generality of solution structures' like where a 'solution might be more general/reusable if it involves similarizing to more interactive/similar/connected points across relevant graphs' (answering the question 'does changing a problem into a "structure (like a node) more highly connected/interactive/similar to solutions across relevant graphs" always/generally/consistently help solve the problem, or is further specification required than "just any change toward a solution on a relevant graph"')
 
+	- identify useful structures like 'optimalities of graphs' like how a 'graph of nodes as "general matrix state change sequences" connected to each error type can be useful to identify "general ranges of variation" to stay within to avoid errors in general' (identifying 'general/similar solution structures across different error types') and a 'graph of nodes as "error types" can identify common patterns causing errors across "general matrix state change sequences"' (identifying 'similar causal structures across different causal sequences for the same error type or across different error types')
+
 
 II. Queries and Results
 
