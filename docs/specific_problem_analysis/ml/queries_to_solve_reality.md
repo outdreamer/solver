@@ -1287,6 +1287,8 @@ I. To do list
 
 	- identify useful structures like 'optimalities of graphs' like how a 'graph of nodes as "general matrix state change sequences" connected to each error type can be useful to identify "general ranges of variation" to stay within to avoid errors in general' (identifying 'general/similar solution structures across different error types') and a 'graph of nodes as "error types" can identify common patterns causing errors across "general matrix state change sequences"' (identifying 'similar causal structures across different causal sequences for the same error type or across different error types')
 
+	- identify useful structures like 'useful error graph interactions' like how using a 'causal error graph' can be useful in 'identifying errors in another graph, by checking for error variants' (like checking for a 'general error variant of the caused error, indicating a general pattern that is similar to the error indicators/components/definition' or a 'component error variant of the caused error type') which applies relevant variation to 'identify errors in advance of scaled error effects, when errors are still non-trivial to identify'
+
 
 II. Queries and Results
 
