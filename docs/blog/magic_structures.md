@@ -1,6 +1,6 @@
 # Magic Structures
 
-The spectrum of 'magic' (defined as 'efficiency of difficult intents') is useful to identify.
+The spectrum of 'magic' (defined as 'efficiency/optimization of difficult/complex intents') is useful to identify.
 
 
 ## Adjacent/current magic structures
@@ -29,5 +29,5 @@ Within the next few lifetimes, other 'magic' structures are likely possible (whi
 
 Useful interactions between efficiency structures include:
 - 'identifying the useful adjacent/interim intents to make extreme efficiencies more trivial/otherwise relevant' should be a top priority, now that some ratio of "structured info problems" are solved
-- 'solving an extreme efficiency problem conceptually/generally/partially' can be implemented with existing tech (including 'computers/brains/algorithms')
+- 'solving an extreme efficiency problem conceptually/generally/partially' can be implemented with existing tech (including 'computers/brains/algorithms'), such as how 'controlling time' can be 'solved partially with a brain' (like by 'changing how time is defined' or 'reducing potential relevant variation' or 'determining the rest of reality with inventions')
 - 'generating a relevant graph of these conceptual/general/partial solutions and remaining problems unsolved by composing those solutions and optimal interactions of those solutions (like avoiding solving a specific problem type, to wait for randomness to create a related problem that is trivial to solve)' is a useful intent that can still be relevant once extreme 'efficiency' intents are solved (meaning such a graph could help guide the implementation of all efficiency intents remaining)
