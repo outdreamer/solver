@@ -1290,6 +1290,7 @@ I. To do list
 	- identify useful structures like 'useful error graph interactions' like how using a 'causal error graph' can be useful in 'identifying errors in another graph, by checking for error variants' (like when 'identifying any errors caused by a known error', checking for a 'general error variant of the caused error type, indicating a general pattern that is similar to the error indicators/components/definition' or a 'component error variant of the caused error type' or the 'error type on another graph layer or in an adjacent optimization of a graph structure or another variant of a graph structure') which applies relevant variation to 'identify errors in advance of scaled error effects, when errors are still non-trivial to identify'
 
 	- identify useful structures like 'graph filters/changes' like a 'structural filter to move points randomly or add random connections' or a 'semantic filter to add relevant/optimal interaction structures between nodes or integrate definition structures into graphs' that can be useful for 'identifying graph optimizations'
+		- relatedly, identify graph changes that optimize for 'descriptions of optimal graphs' like how a 'graph optimality would be if any graph could be trivially changed so that errors were always in an expected structure'
 
 
 II. Queries and Results
