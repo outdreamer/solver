@@ -1294,6 +1294,8 @@ I. To do list
 
 	- identify useful structures like the 'relevance of algorithms to generate subsets/structures of relevant graph structures' like how 'different networks of algorithms to generate different subsets of relevant graphs' could be applied as 'algorithm networks to generally/relevantly solve problems'
 
+	- identify useful structures like 'optimization problem structures' like where an 'optimization limit prevents implementing an optimization requirement bc of a mismatch in optimizability and required optimizations' and the relevance of these optimization problems for other optimizations (how does an optimization problem change whether other optimizations can occur), and identify how optimization problem structures interact with relevant graphs like the graph of the definition of relevance (given these sets of coordinating optimizable variables, how do optimization problem structures change the associated solution structures or position/connection on the graph to other sets)
+
 
 II. Queries and Results
 
