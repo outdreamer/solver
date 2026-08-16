@@ -1292,6 +1292,8 @@ I. To do list
 	- identify useful structures like 'graph filters/changes' like a 'structural filter to move points randomly or add random connections' or a 'semantic filter to add relevant/optimal interaction structures between nodes or integrate definition structures into graphs' that can be useful for 'identifying graph optimizations'
 		- relatedly, identify graph changes that optimize for 'descriptions of optimal graphs' like how a 'graph optimality would be if any graph could be trivially changed so that errors were always in an expected structure'
 
+	- identify useful structures like the 'relevance of algorithms to generate subsets/structures of relevant graph structures' like how 'different networks of algorithms to generate different subsets of relevant graphs' could be applied as 'algorithm networks to generally/relevantly solve problems'
+
 
 II. Queries and Results
 
