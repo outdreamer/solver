@@ -1301,6 +1301,8 @@ I. To do list
 	- identify useful structures like 'graphs of attributes like "improbability" of a sequence/structure of connections' like how 'structures like additive assumption variance, relative to identified info' of 'each statement in an inference sequence' can be represented on a graph as 'divergence from some central structure, or convergence toward some threshold/limit' to find 'areas of improbability' (like 'add the variation of assumptions in each statement, compared to some standard like known info, until an improbability boundary is crossed'), or otherwise representing 'improbability' in a graph like where 'improbable node connections' have 'lower connection weight strength or other structures'
 		- relatedly, identify the relevance of representations of concepts across graphs like how 'structural relevance can be added across graphs' (a 'structure of input improbability in one graph' can have additive relevance with a complementary 'structure of input improbability in another graph'), and how this additivity can generate useful 'concept definition graphs', and identify how other 'attributes of relevance can generate relevant graphs'
 
+	- identify useful structures like 'structure-graph relevance' like how generally relevant structures like 'count/ratio/structure of general concepts required to implement specificity of interactivity' can be applied to relevant graphs like the 'graph of the definition of relevance' to identify a 'relevant minimum' on 'how many/what structures of concepts should be combined in nodes on the graph of the definition of relevance'
+
 
 II. Queries and Results
 

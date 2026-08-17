@@ -41,6 +41,7 @@ Similar to AI, these 'description/intent sets' can be used to determine how to s
 
 Variables to generate relevant descriptions include:
 - standard interface structures
+- general interface structures for relevance
 - relevant specifications like 'maximally different example specifications' ('specification' being a relevant component of the definition of 'description')
 - cross-interface structures (like 'different values of generality/specificity' and 'different function directions')
 - applying suboptimal descriptions as an input to apply relevance/optimization structures to
