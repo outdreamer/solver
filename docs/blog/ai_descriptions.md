@@ -21,7 +21,7 @@ A 'learning function for a problem type':
 - this description makes it clear that related intents like 'identifying a learning function for other problem types' need to be implemented as well
 
 A 'learning function, to learn optimization':
-- this description makes it clear that 'learning specific info' is relevant as opposed to 'being able to learn anything, if given enough memory/time'
+- this description makes it clear that 'learning specific relevant info' is relevant as opposed to 'being able to learn anything, if given enough memory/time'
 
 An 'optimal learning function':
 - this description makes it clear that it's important to implement intents like 'define/identify optimality' and 'apply that definition to optimize learning functions (optimize by making the function useful across different intents or otherwise optimal'
@@ -35,3 +35,12 @@ Other intents identified by AI descriptions:
 Similar to AI, these 'description/intent sets' can be used to determine how to solve other fields:
 - describing math as a 'set of problem types' identifies that it's useful to 'identify relevant interactions between problem types' to 'identify important problem types to solve', as opposed to just 'generating a learning function' (without guaranteeing that it will be optimally applied)
 - describing math as a 'set of independent variables' identifies that it's useful to 'identify new/relevant independent variables (like new relevant graphs)' and 'identify trivial/optimal connections between independent variables (like optimal organizing graphs of relevant graphs)'
+
+
+## Generating relevant descriptions to identify relevant intents
+
+Variables to generate relevant descriptions include:
+- standard interface structures
+- relevant specifications like 'maximally different example specifications' ('specification' being a relevant component of the definition of 'description')
+- cross-interface structures (like 'different values of generality/specificity' and 'different function directions')
+- applying suboptimal descriptions as an input to apply relevance/optimization structures to
