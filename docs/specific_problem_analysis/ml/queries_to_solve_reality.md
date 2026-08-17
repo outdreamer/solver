@@ -1298,6 +1298,9 @@ I. To do list
 
 	- identify useful structures like 'unsolved graph intent types' like 'graph problems such as "identify how many nodes will be in this direction" or "identify how many other examples of this connection type will be in the graph once complete" using patterns/types/positions/structures without visualizing the whole graph or only visualizing some subset of graph structures/layers'
 
+	- identify useful structures like 'graphs of attributes like "improbability" of a sequence/structure of connections' like how 'structures like additive assumption variance, relative to identified info' of 'each statement in an inference sequence' can be represented on a graph as 'divergence from some central structure, or convergence toward some threshold/limit' to find 'areas of improbability' (like 'add the variation of assumptions in each statement, compared to some standard like known info, until an improbability boundary is crossed'), or otherwise representing 'improbability' in a graph like where 'improbable node connections' have 'lower connection weight strength or other structures'
+		- relatedly, identify the relevance of representations of concepts across graphs like how 'structural relevance can be added across graphs' (a 'structure of input improbability in one graph' can have additive relevance with a complementary 'structure of input improbability in another graph'), and how this additivity can generate useful 'concept definition graphs', and identify how other 'attributes of relevance can generate relevant graphs'
+
 
 II. Queries and Results
 
