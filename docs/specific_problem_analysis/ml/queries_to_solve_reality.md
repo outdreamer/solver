@@ -1296,6 +1296,8 @@ I. To do list
 
 	- identify useful structures like 'optimization problem structures' like where an 'optimization limit prevents implementing an optimization requirement bc of a mismatch in optimizability and required optimizations' and the relevance of these optimization problems for other optimizations (how does an optimization problem change whether other optimizations can occur), and identify how optimization problem structures interact with relevant graphs like the graph of the definition of relevance (given these sets of coordinating optimizable variables, how do optimization problem structures change the associated solution structures or position/connection on the graph to other sets)
 
+	- identify useful structures like 'unsolved graph intent types' like 'graph problems such as "identify how many nodes will be in this direction" or "identify how many other examples of this connection type will be in the graph once complete" using patterns/types/positions/structures without visualizing the whole graph or only visualizing some subset of graph structures/layers'
+
 
 II. Queries and Results
 
