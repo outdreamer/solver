@@ -22,7 +22,7 @@ Similarly, the prompt can include a 'useful prompt-specific definition of releva
 
 ### Variation matching
 
-The complexity/variation of the prompt should match the target complexity/variation of the solution, which also 'does some of the work for the model' (like how 'for a complex problem, a larger set of examples or more specific definitions is often useful').
+The complexity/variation of the prompt should match the target complexity/variation of the solution, which also 'does some of the work for the model' (like how 'for a complex problem, a larger set of examples or more specific definitions is often useful'). This is mostly useful for 'uncertain/unsolved/ill-defined problems' that benefit from interface analysis.
 
 
 ### Meta-prompting

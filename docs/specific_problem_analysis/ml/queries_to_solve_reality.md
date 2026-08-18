@@ -1306,6 +1306,8 @@ I. To do list
 	- identify useful structures like 'relevant connections between related graphs' like how a 'problem/solution graph where a structure is a solution, and a graph where its a problem' are useful to connect (and useful to apply different graphs of, to avoid problems like 'excess info in a graph'), and 'identify relevant connecting graphs' like a 'graph of graphs where a specific relevant structure is a problem/solution, to identify areas of graphs where a structure is useful and where its a problem, to identify graph changes to avoid and graph changes which dont cause problems'
 		- relatedly, identify useful 'integrations of analysis', like where 'identifying relevant graphs based on a specific structure, and identifying relevant graphs based on other specific structures, and integrating these graphs' can be more relevant than 'querying identified generally relevant graphs' (starting analysis from specific structure sets like 'different neural network types', as opposed to applying generally relevant graphs)
 
+	- identify useful structures like 'relevant graphs that are useful for problem types/structures (like low info problems) and function sets (like derive/learn)' like how the 'graph of the definition of relevance' is more useful for 'derivation' than for other intents, bc 'derivation' involves a 'low-info problem space' and the 'graph of the definition of relevance' integrates a 'high ratio of info' to oppose that problem
+
 
 II. Queries and Results
 
