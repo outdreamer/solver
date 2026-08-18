@@ -1303,6 +1303,8 @@ I. To do list
 
 	- identify useful structures like 'structure-graph relevance' like how generally relevant structures like 'count/ratio/structure of general concepts required to implement specificity of interactivity' can be applied to relevant graphs like the 'graph of the definition of relevance' to identify a 'relevant minimum' on 'how many/what structures of concepts should be combined in nodes on the graph of the definition of relevance'
 
+	- identify useful structures like 'relevant connections between related graphs' like how a 'problem/solution graph where a structure is a solution, and a graph where its a problem' are useful to connect (and useful to apply different graphs of, to avoid problems like 'excess info in a graph')
+
 
 II. Queries and Results
 
