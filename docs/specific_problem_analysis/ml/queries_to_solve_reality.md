@@ -1313,6 +1313,8 @@ I. To do list
 
 	- identify useful structures like 'graphs that can be applied as inference/optimization units' like a 'graph of a set of points (like "this variable value is similar/different to this variable value") connected by cause/other connection type' where these 'point sets can connect different problem/solution structures'
 
+	- identify useful structures like 'covering convergent sets' like 'requirements of limits, and probable variation, and optimality of intents' which 'systems/graphs frequently/regularly/are required converge to' and identify 'relevant graphs of convergent sets' like 'given each component of an n-item convergent set, graph what changes are probably useful to apply to that component and what is the limit of those changes' and 'graphs of interactions of these convergent set change graphs', as a way to 'avoid computing every interaction in complex systems' and to 'pre-compute simple interactions based on a convergent set'
+
 
 II. Queries and Results
 
