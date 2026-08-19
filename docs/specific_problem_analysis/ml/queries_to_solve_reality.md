@@ -1317,6 +1317,8 @@ I. To do list
 
 	- identify useful structures like relevant graphs like 'graphs of problem/connection/structure variables like "trivial to identify/verify" and "generally true", and the causes of these variables, and causal connections between these structure variables' as a way to 'identify other valid/possible variables of a structure based on causality'
 
+	- identify useful structures like 'relevant graph problems/solutions' as the 'most relevant problems to solve' like 'whether its useful to apply "absolute constants" in relevant graphs, given that newness is a component of relevance'
+
 
 II. Queries and Results
 
