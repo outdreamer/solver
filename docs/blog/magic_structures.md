@@ -13,7 +13,7 @@ What is being generated currently can be considered 'efficient' in many ways, us
 ## Interim magic structures
 
 Within the next lifetime, other 'magic' structures specified in sci-fi are likely possible:
-- efficiency in the form of 'controlling simple physical structures/objects with willpower' is likely possible within a lifetime (using a relevant starting point such as 'mentally generating quantum entanglements and their organizations' to base research on)
+- efficiency in the form of 'controlling simple physical structures/objects with willpower' is likely possible within a lifetime (using a relevant starting point such as 'mentally generating quantum entanglements and their organizations' to base research on, using 'scaled consciousness, like by comprehending or being conscious of an entire set of molecular connections at once' and 'algorithms to trivialize comprehending connecting entire sets of molecules in a useful way, like by identifying base connections in the set of connections to start from')
 - other efficiencies (like 'controlling time with willpower') are the next step in the spectrum
 
 
