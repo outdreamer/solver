@@ -1319,6 +1319,8 @@ I. To do list
 
 	- identify useful structures like 'relevant graph problems/solutions' as the 'most relevant problems to solve' like 'whether its useful to apply "absolute constants" in relevant graphs, given that newness is a component of relevance'
 
+	- identify useful structures like 'relevant optimality structures' like 'abstract/specific optimization' and identify 'optimal points of optimality on interface spectrums and other relevant graphs' and 'relevant graphs integrating these optimal points'
+
 
 II. Queries and Results
 
