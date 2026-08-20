@@ -1325,12 +1325,14 @@ I. To do list
 
 	- identify useful structures like 'graphs of optimization structures/problems' like a graph of 'optimization problem structures like optimization trade-offs, and optimization solution structures like coordinating optimization metrics, etc' and their optimized interactions (like 'to avoid this optimization trade-off, apply this independent invalidating variable')
 
-	- identify useful structures like 'graphs of optimizations of problem definition structures' like how defining problems as 'changes to requirements' overlaps with 'valid requirement changes' which can be 'integrated into the definition to avoid a contradiction', so a 'graph of these valid definition structures with areas representing problem/solution structures' is useful to identify
+	- identify useful structures like 'graphs of optimizations of problem definition structures' like how defining problems as 'changes to requirements' overlaps with 'valid requirement changes' or 'useful implementations of requirements' which can be 'integrated into the definition to avoid a contradiction', so a 'graph of these valid definition structures with areas representing problem/solution structures' is useful to identify
 
 	- identify useful structures like 'graphs of optimized/overlapping problem structures' like where 'different problem formats apply in the same graph validly (without contradictions as in without mistakenly identifying a solution as a problem or vice versa)', which applies a 'graph of optimized structures (like optimized problem formats)' to a 'base graph (like a graph of definitions/connections)', and identify 'optimizations of graphs' like 'coordinating sets of other graphs' which can be 'applied to a graph, without invalidating/otherwise suboptimally changing the base graph'
 
 	- identify useful structures like 'optimized optimality interaction graphs' like how 'interactions between solution/optimality structures' like 'requirements should be unique/independent' exist which can be identified and their interactions optimized
 		- relatedly, identify useful structures like 'optimizations of optimiztion structures' like how 'one variable from each different causal sequence can be included in a data set to avoid redundancy'
+
+	- identify useful structures like 'problem/cause/structure connections' like how a 'solution is often rare, bc if solutions are common, its not usually defined as a problem' so 'selecting the points on a graph with a rare attribute value identifies a "structure of probability of optimality"', as a 'derivation method' as opposed to 'learning methods'
 
 
 II. Queries and Results
