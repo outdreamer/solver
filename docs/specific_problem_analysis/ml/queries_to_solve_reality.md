@@ -1323,6 +1323,10 @@ I. To do list
 
 	- identify useful structures like 'relevant graph filters' like to answer the question "when a graph's variables dont identify all useful variants of a structure, indicating the expected pattern doesnt cover every example, what other relevant graphs should be applied next" like by connecting the graph to an 'abstract graph indicating how patterns often work or work by definition or commonly occur in similar systems' or an 'optimal graph of how patterns would optimally work', to avoid applying 'simple structural filters' like 'iterated random trivial changes (to the pattern)' or 'maximal differences (applied to generate possible different patterns)' or 'probable contradictions (of the pattern to identify its limits/errors)'
 
+	- identify useful structures like 'graphs of optimization structures/problems' like a graph of 'optimization problem structures like optimization trade-offs, and optimization solution structures like coordinating optimization metrics, etc' and their optimized interactions (like 'to avoid this optimization trade-off, apply this independent invalidating variable')
+
+	- identify useful structures like 'graphs of optimizations of problem definition structures' like how defining problems as 'changes to requirements' overlaps with 'valid requirement changes' which can be 'integrated into the definition to avoid a contradiction', so a 'graph of these valid definition structures with areas representing problem/solution structures' is useful to identify
+
 
 II. Queries and Results
 
