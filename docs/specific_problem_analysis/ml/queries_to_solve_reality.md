@@ -1329,6 +1329,9 @@ I. To do list
 
 	- identify useful structures like 'graphs of optimized/overlapping problem structures' like where 'different problem formats apply in the same graph validly (without contradictions as in without mistakenly identifying a solution as a problem or vice versa)', which applies a 'graph of optimized structures (like optimized problem formats)' to a 'base graph (like a graph of definitions/connections)', and identify 'optimizations of graphs' like 'coordinating sets of other graphs' which can be 'applied to a graph, without invalidating/otherwise suboptimally changing the base graph'
 
+	- identify useful structures like 'optimized optimality interaction graphs' like how 'interactions between solution/optimality structures' like 'requirements should be unique/independent' exist which can be identified and their interactions optimized
+		- relatedly, identify useful structures like 'optimizations of optimiztion structures' like how 'one variable from each different causal sequence can be included in a data set to avoid redundancy'
+
 
 II. Queries and Results
 
