@@ -1321,6 +1321,8 @@ I. To do list
 
 	- identify useful structures like 'relevant optimality structures' like 'abstract/specific optimization' and identify 'optimal points of optimality on interface spectrums and other relevant graphs' and 'relevant graphs integrating these optimal points'
 
+	- identify useful structures like 'relevant graph filters' like to answer the question "when a graph's variables dont identify all useful variants of a structure, indicating the expected pattern doesnt cover every example, what other relevant graphs should be applied next" like by connecting the graph to an 'abstract graph indicating how patterns often work or work by definition or commonly occur in similar systems' or an 'optimal graph of how patterns would optimally work', to avoid applying 'simple structural filters' like 'iterated random trivial changes (to the pattern)' or 'maximal differences (applied to generate possible different patterns)' or 'probable contradictions (of the pattern to identify its limits/errors)'
+
 
 II. Queries and Results
 
