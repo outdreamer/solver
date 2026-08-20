@@ -1327,6 +1327,8 @@ I. To do list
 
 	- identify useful structures like 'graphs of optimizations of problem definition structures' like how defining problems as 'changes to requirements' overlaps with 'valid requirement changes' which can be 'integrated into the definition to avoid a contradiction', so a 'graph of these valid definition structures with areas representing problem/solution structures' is useful to identify
 
+	- identify useful structures like 'graphs of optimized/overlapping problem structures' like where 'different problem formats apply in the same graph validly (without contradictions as in without mistakenly identifying a solution as a problem or vice versa)', which applies a 'graph of optimized structures (like optimized problem formats)' to a 'base graph (like a graph of definitions/connections)', and identify 'optimizations of graphs' like 'coordinating sets of other graphs' which can be 'applied to a graph, without invalidating/otherwise suboptimally changing the base graph'
+
 
 II. Queries and Results
 
