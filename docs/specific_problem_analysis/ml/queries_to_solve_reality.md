@@ -1338,6 +1338,8 @@ I. To do list
 
 	- identify useful structures like 'graph/insight connections' like how insights about 'variation-matching in problem-solving' can 'filter relevant graphs' by 'filtering the next graph node type in a sequence from hub/leaf nodes' by 'applying matching variation node types to the problem' and insights about 'regularly connecting to relevance/meaning interfaces' can 'filter relevant graphs' by 'applying relevance node types (or related requirement/definition/limit node types) regularly in a hub/leaf node sequence'
 
+	- identify useful structures like 'unrequired/indirect problem cause structures' like 'unrequired/uncontrolled variation which can create random interactions/variation'
+
 
 II. Queries and Results
 
