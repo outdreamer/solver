@@ -1334,7 +1334,9 @@ I. To do list
 
 	- identify useful structures like 'problem/cause/structure connections' like how a 'solution is often rare, bc if solutions are common, its not usually defined as a problem' so 'selecting the points on a graph with a rare attribute value identifies a "structure of probability of optimality"', as a 'derivation method' as opposed to 'learning methods'
 
-	- identify useful structures like 'solution descriptions which can be used to filter solutions' like how a description of solutions like 'structures which are robust to changes applied by optimized errors (like stable errors, such as randomness applied to interface solution structures like variable count, or complete opposites in which case every variant of a definition is also a solution)' can be used to filter solutions and identify solution optimality
+	- identify useful structures like 'solution descriptions which can be used to filter solutions' like how a description of solutions like 'structures which are robust to changes applied by optimized errors (like stable errors, such as randomness applied to interface solution structures like variable count, or complete opposites in which case every variant of a definition is also a solution)' like where 'only randomness or complete opposites of solution variables can move the solution into an error position on any relevant graph' can be used to filter solutions and identify solution optimality
+
+	- identify useful structures like 'graph/insight connections' like how insights about 'variation-matching in problem-solving' can 'filter relevant graphs' by 'filtering the next graph node type in a sequence from hub/leaf nodes' by 'applying matching variation node types to the problem' and insights about 'regularly connecting to relevance/meaning interfaces' can 'filter relevant graphs' by 'applying relevance node types (or related requirement/definition/limit node types) regularly in a hub/leaf node sequence'
 
 
 II. Queries and Results
