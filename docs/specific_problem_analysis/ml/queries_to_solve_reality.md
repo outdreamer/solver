@@ -1340,6 +1340,8 @@ I. To do list
 
 	- identify useful structures like 'unrequired/indirect problem cause structures' like 'unrequired/uncontrolled variation which can create random interactions/variation'
 
+	- identify useful structures like 'graph optimizations' like how just 'being able to graph a source/destination or problem definition position and a solution metric position doesnt mean the problem is solved, bc the graph can be so general (like a graph of optimality/relevance) that the "connection between these points" isnt a useful solution structure (bc its already identified/defined/required/trivially inferred that a problem/solution differ in optimality)', where a 'relevance graph with possible valid connectivity between any adjacent pair of points' is a 'possible optimization, since it requires there is a path connecting every point pair', and identify other useful optimizations to solve problems like 'over-general graphs' and 'graphs of exclusively already identified/required (certainty) structures'
+
 
 II. Queries and Results
 
