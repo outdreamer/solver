@@ -4,11 +4,11 @@
 It's useful to optimize interactions of minds, thinking structures, intelligence structures, graphs, and queries.
 
 
-# Definitions
+## Definitions
 
 - a mind: a structure that can use structures like 'graphs' to run queries, run thinking structures (like thinking types such as 'graph connection types' or 'interface thinking'), and run intelligence structures like 'logical analysis functions'
-- a thinking structure: thinking is 'using a mind', and it has interface structures like thinking types (like 'connection functions on a graph')
-- an intelligence structure: intelligence is 'potential of a mind', so an intelligence structure could be an 'indicator/input/output of intelligence' (like a 'defining ability', like a 'degree/structure of derivation' required for intelligence requirements like 'solving realistic/complex problems' and 'seeing/experiencing reality') or a 'component of intelligence' (like a 'logical analysis function, generating an increase in potential/intelligence'), where intelligence involves thinking/minds as 'inputs to intelligence/potential' (like how 'including a specific mind type as a component mind can increase the intelligence/potential of a meta-mind')
+- a thinking structure: thinking is 'using a mind', and it has interface structures like thinking types (like 'connection functions on a graph' or 'structure-based thinking, like limit-based thinking')
+- an intelligence structure: intelligence is 'potential of a mind', so an intelligence structure could be an 'indicator/input/output of intelligence' (like a 'defining ability', like a 'degree/structure of derivation' required for intelligence requirements like 'solving realistic/complex problems' and 'seeing/experiencing reality') or a 'component of intelligence' (like a 'logical analysis function, generating an increase in potential/intelligence'), where intelligence involves thinking/minds as 'inputs to intelligence/potential' (like how 'including a specific mind type as a component mind can increase the intelligence/potential of a meta-mind' or how 'intelligence/potential can emerge from similarities/connection function types on a graph')
 - graphs: a graph is an interface structure that can 'overlap with a mind' and 'contain components/inputs of thinking/intelligence' and 'enable thinking to be run' and 'enable intelligence to be changed/increased'
 - queries: a query is a function/algorithm applied to a graph to generate a structure like a 'connection on a graph, or a target end node on a graph', which can 'solve a problem on a graph' (including problems of thinking/intelligence)
 - neurons: a unit of a base graph in a mind (which can store a unit of info, like an 'interface/graph')
@@ -17,11 +17,12 @@ It's useful to optimize interactions of minds, thinking structures, intelligence
 ## Specific interface structures
 
 Mind structures include:
+- associated interface structures like intents/priorities/definitions/perspectives
 - associated thinking/intelligence structures, including graphs on which the mind can exist
 - attributes like self-optimizability of the mind
 
 Thinking structures include:
-- thinking types: since thinking involves 'using a mind', thinking types are 'different ways of how to use a mind' (like 'bouncing between alternatives until an option is clearly different in a relevant way', 'bouncing between requirements/certainties/limits to determine possibilities/probabilities in the possibility space between limits', 'applying changes to certainty structures', etc)
+- thinking types: since thinking involves 'using a mind', thinking types are 'different ways of how to use a mind' (like 'bouncing between alternatives until an option is clearly different in a relevant way', 'bouncing between requirements/certainties/limits to determine possibilities/probabilities in the possibility space between limits', 'applying changes to certainty structures', 'structure-based thinking, like limit thinking', 'optimized thinking like interface thinking', etc)
 - thinking requirements: required inputs to thinking include a 'mind to run thinking processes on' and 'intents'
 
 Intelligence structures include:
