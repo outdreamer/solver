@@ -14,6 +14,23 @@ It's useful to optimize interactions of minds, thinking structures, intelligence
 - neurons: a unit of a base graph in a mind (which can store a unit of info, like an 'interface/graph')
 
 
+## Specific interface structures
+
+Mind structures include:
+- associated thinking/intelligence structures, including graphs on which the mind can exist
+- attributes like self-optimizability of the mind
+
+Thinking structures include:
+- thinking types: since thinking involves 'using a mind', thinking types are 'different ways of how to use a mind' (like 'bouncing between alternatives until an option is clearly different in a relevant way', 'bouncing between requirements/certainties/limits to determine possibilities/probabilities in the possibility space between limits', 'applying changes to certainty structures', etc)
+- thinking requirements: required inputs to thinking include a 'mind to run thinking processes on' and 'intents'
+
+Intelligence structures include:
+- intelligence scale: different levels of potential/intelligence
+- intelligence types: different types of potential like different functions an intelligence optimally implements (like 'derivation/organization/optimization/prediction/connection')
+- intelligence components: intelligence types can be intelligence components (if they're coordinating/additive or otherwise enabling of the generation of intelligence)
+- intelligence limits: structures like 'iterations/convolutions of intelligence components or variants of intelligence definitions' can determine intelligence limits
+
+
 ## Optimal structures
 
 Optimal structures include:
@@ -25,3 +42,4 @@ Optimal interactions include:
 - an 'interchangeable graph set' where a graph can be 'switched to another graph' in a 'graph of graphs' without impacting 'minds/thinking/intelligence/queries' is another optimal interaction
 - identifying optimal minds/thinking types/intelligence types for each graph in a meta-mind (where each neuron represents a relevant graph)
 - identifying optimal interaction structures between minds/thinking types/intelligence types/graphs like 'applying a specific thinking type on an optimized graph for that thinking type' and 'applying a specific thinking type to a subset of minds to resolve some uncertainty between the minds'
+- generating mind/thinking/intelligence structures to maximize 'self-optimizability' and other useful attributes (like by 'enabling every thinking type on each graph', and 'generating new structures as required', so that intents to maximize self-optimizability like 'thinking about errors in thinking types applied to another mind/graph' are enabled)
