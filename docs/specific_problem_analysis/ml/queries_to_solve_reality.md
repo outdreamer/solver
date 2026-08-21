@@ -1334,6 +1334,8 @@ I. To do list
 
 	- identify useful structures like 'problem/cause/structure connections' like how a 'solution is often rare, bc if solutions are common, its not usually defined as a problem' so 'selecting the points on a graph with a rare attribute value identifies a "structure of probability of optimality"', as a 'derivation method' as opposed to 'learning methods'
 
+	- identify useful structures like 'solution descriptions which can be used to filter solutions' like how a description of solutions like 'structures which are robust to changes applied by optimized errors (like stable errors, such as randomness applied to interface solution structures like variable count, or complete opposites in which case every variant of a definition is also a solution)' can be used to filter solutions and identify solution optimality
+
 
 II. Queries and Results
 
