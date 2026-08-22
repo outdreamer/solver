@@ -36,3 +36,4 @@ Generally relevant graphs like the 'graph of the definition of relevance' offer 
 Optimal proofs (the most useful types of proofs) could implement descriptions like:
 - applying high certainty graphs: 'being able to trivially query a causal graph (bc the causal graph is complete, indicating all relevant causal connections across problems)' ('causality' being 'more identifiable/certain in many cases')
 - applying conceptual understanding: 'being able to identify/generate relevant (valid) concepts to connect to solve any problem' is an optimal proof structure
+- applying graphs with realistic (or 'certain/relevant') variation/other interface variables: identifying relevant graphs that 'contain enough variation to solve any problem (like varying/interacting with/comparing any problem enough to solve it, where any problem is representable in some subset of the graph structures)'
