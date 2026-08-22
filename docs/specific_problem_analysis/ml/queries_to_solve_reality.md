@@ -1344,6 +1344,8 @@ I. To do list
 
 	- identify useful structures like 'graph optimizations' like how 'adding structures to separate problem structures to make it less trivial to connect problems, or clustering problem structures in a point to make problem positions less common' can help with problem-solving intents like 'complicating problem generation' or 'reducing problems'
 
+	- identify useful structures like 'functional/output/relevant equivalence at similar evaluation intervals' to 'reduce implementation requirements' of structures like 'interface intents', and identify graphs of these equivalence concepts to identify optimal requirements/intents to implement, like where 'standardizing to a specific format is possible, so implementing another format standardization is unrequired, bc of functional equivalence of intents in different formats'
+
 
 II. Queries and Results
 
