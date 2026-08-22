@@ -1346,6 +1346,8 @@ I. To do list
 
 	- identify useful structures like 'functional/output/relevant equivalence at similar evaluation intervals' to 'reduce implementation requirements' of structures like 'interface intents', and identify graphs of these equivalence concepts to identify optimal requirements/intents to implement, like where 'standardizing to a specific format is possible, so implementing another format standardization is unrequired, bc of functional equivalence of intents in different formats'
 
+	- identify useful structures like 'overlapping/otherwise optimal relevance optimizations' like 'generalizing a graph into types, which is useful for an intent applying types as an input (which is a general/intent relevance optimization)' and identify which of these relevance optimizations of graphs are generally/otherwise useful, and how they can be used to 'organize graphs, like applying local relevance-optimizing algorithms to remove globally irrelevant nodes/connections'
+
 
 II. Queries and Results
 
