@@ -8,17 +8,25 @@ It's useful to specify mind structures.
 Minds can contain components such as the following.
 
 Memory:
-- graph neurons (neurons storing a graph)
+- graph neurons (neurons storing a graph, where the graph can represent a mind, enable a thinking type, or represent an info structure as in a relevant interface graph)
 - algorithm neurons (neurons storing an algorithm, as in a problem-solving workflow or a graph query)
 - mind neurons (neurons storing a reference to other minds, like a mind description)
 - functional neurons (neurons that act as a router between mind structures, or generate/analyze/optimize/limit/implement/otherwise interact with other neurons)
 - interface structure neurons (neurons storing a concept/priority/function/definition/intent/etc)
 - thinking structure neurons (neurons storing a thinking type or a graph connection function)
 
-Applications/functions:
+Applications/states:
 - applications of thinking structures/minds/graphs that 'identified/generated/organized/optimized other minds or intelligence structures/potential or thinking structures' (thinking types which generated intelligence functions) to avoid re-applying structures like re-running a function
-- connection variables (connection weights/strength, connection types, connection overlaps, connection direction, sub/connection sequences, connection generality/optimality, etc)
-- simulation/test networks (which function similar to a solving device, answering the question of 'what is caused by this input') or aggregator/routing/organizing/optimizing/variation/generation/identification/other functionality networks
+- 'states of a graph/application' that are useful to store
+
+Functions:
+- simulation/test networks (which function similar to a solving device, answering the question of 'what is caused by this input') or aggregator/routing/organizing/optimizing/variation/generation/identification/other functionality-implementing networks
+
+Variables:
+- query variables (like useful starting points for queries in a network of minds for some function like 'analyze')
+- optimization variables (like different sets of optimization metrics or different optimization graphs)
+- connection variables (connection weights/strength, connection types, connection overlaps, connection direction, sub/connection sequences, connection generality/optimality, graphs aligned with each point in a connection, etc)
+- mind variables like mind types: network minds (like aggregating outputs from each mind with a voting algorithm), meta-minds (usually where one mind can act as a control mind, but prioritizing diversity/independence of minds and switchability of minds in any position), and other variants of mind types (a mind where multiple minds are in control simultaneously/regularly/relevantly, as in 'where output from each mind is integrated into every decision, or only relevant/net decisions are made, or where minds are specialized like to a region of the mind network or specialized for a function like alternative functions')
 
 Graph structures:
 - layers: layered minds, layered applications, graph layers, and other layer structures can be useful to indicate 'similarities in alignment' across different structures
