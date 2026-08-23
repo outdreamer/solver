@@ -1,6 +1,6 @@
 # Mind Structures
 
-It's useful to identify mind structures in detail.
+It's useful to specify mind structures.
 
 
 ## Mind Components
@@ -32,5 +32,6 @@ Graph structures:
 Mind optimizations include optimal interface structure interactions:
 - storing multiple/otherwise optimal graphs/thinking types/intelligence functions (or other combinations of these like thinking definitions and intelligence function graphs) in each mind
 - maximizing adaptability/flexibility by using extra resources to optimize 'subsets of mind structures'
-- applying some structures (like the most relevant definitions/graphs) as constants by 'adding barriers to changing these structures or by creating copies of them regularly'
+- applying some structures (like the most relevant definitions/graphs) as constants by 'adding barriers to changing these structures or by creating copies of them regularly' (to avoid re-identifying useful structures that are still useful)
 - regularly increasing complexity/variation of 'problems solved/solvable by the mind' to reach and stay ahead of the complexity/variation of reality (to be able to simulate reality by containing more free parameters than the simulated relevant subset/description/structure of reality)
+- enabling advanced functionality (like 'self-analysis/reference' or 'functions that can analyze functions') by enabling structures like 'function networks which can apply any subset/description/structure of itself or its base mind or memory referencing the same as an input to any function'
