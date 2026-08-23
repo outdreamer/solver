@@ -1348,6 +1348,8 @@ I. To do list
 
 	- identify useful structures like 'overlapping/otherwise optimal relevance optimizations' like 'generalizing a graph into types, which is useful for an intent applying types as an input (which is a general/intent relevance optimization)' and identify which of these relevance optimizations of graphs are generally/otherwise useful, and how they can be used to 'organize graphs, like applying local relevance-optimizing algorithms to remove globally irrelevant nodes/connections'
 
+	- identify useful structures like an 'optimal learning graph' like a 'graph that can add variation in a way that most variable connections are trivial to learn, like by applying an interactivity layer of the problem with interface variables first, then applying other layers/variables/structures to adapt the graph to solving any problem (solving like by organizing the graph so that source/destination nodes are trivial to connect, or problems are differentiated from solutions, or multiple combinations or other optimizations of these problem-solving structures in graphs)'
+
 
 II. Queries and Results
 
