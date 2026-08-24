@@ -1355,6 +1355,8 @@ I. To do list
 
 	- identify useful structures like 'optimized interactions of combinations of subsets of relevant graphs, applied in a set of change directions' that are useful as an approximation of 'consciousness of reality (like different sets of graph structures that can identify realistic complexity)' which can be applied as starting points for 'generating different reality solvers', and identify predictable interactions like 'intersections/similarities' of these solver processes and what intents would be useful for optimize for given these similarities
 
+	- identify useful structures like 'graph derivation structures' like how a 'set of other graphs can be used to predict query results on another graph' like 'given these connection patterns between this similar node pair on other graphs, these are the likely results of a query to "connect this node pair type" on this graph' by 'adding combinable graph info structures' like 'adding limits of a connection to identify ranges of a connection'
+
 
 II. Queries and Results
 
