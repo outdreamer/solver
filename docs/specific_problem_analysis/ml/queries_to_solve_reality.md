@@ -1357,6 +1357,8 @@ I. To do list
 
 	- identify useful structures like 'graph derivation structures' like how a 'set of other graphs can be used to predict query results on another graph' like 'given these connection patterns between this similar node pair on other graphs, these are the likely results of a query to "connect this node pair type" on this graph' by 'adding combinable graph info structures' like 'adding limits of a connection to identify ranges of a connection' (like 'given that this type connection has this variation on this graph and this related more specific sub-type connection has this variation on this graph, an interim sub-type connection between the abstract/specific type is unlikely to exceed those variation levels but rather be in between those limits'), and identify relevant graphs of these 'cross-graph connections/similarities' like a graph of 'type generality connections and other graph connection structures' and identify the optimal interactions of these connection types
 
+	- identify useful structures like 'relevant definition types' like 'strict definitions under complex/real interaction conditions (like how prediction is implemented if a function can predict an output from minimal input info rather than maximal input info, and empathy is implemented if an empathy function is a perfect predictor, and understanding is implemented if the applicator of understanding can apply that understanding optimally)' which specify the 'required interactions necessary for a real implementation of a structure that can be stable in complex realistic systems' and identify 'relevant applications of these definition types to graphs, like to identify their optimal interactions'
+
 
 II. Queries and Results
 
