@@ -1359,6 +1359,8 @@ I. To do list
 
 	- identify useful structures like 'relevant definition types' like 'strict definitions under complex/real interaction conditions (like how prediction is implemented if a function can predict an output from minimal input info rather than maximal input info, and empathy is implemented if an empathy function is a perfect predictor, and understanding is implemented if the applicator of understanding can apply that understanding optimally)' which specify the 'required interactions necessary for a real implementation of a structure that can be stable in complex realistic systems' and identify 'relevant applications of these definition types to graphs, like to identify their optimal interactions'
 
+	- identify useful structures like 'optimization optimization/application graphs' like using frequency-based generative functions like how 'its common to apply an optimization for a limited duration before replacing it with an independent invalidating optimization, and usually multiple optimization metrics or optimizations are applied like when balancing extremes, and usually an optimization should apply a net increase/decrease of an optimization metric, rather than immediately increasing after decreasing, but occasionally correcting an optimization is required' and other bases of generative functions to generate 'probable optimization application/optimization graphs' so that 'common patterns of how an optimization is applied' can be simulated and problems with an application/optimization can be identified
+
 
 II. Queries and Results
 
