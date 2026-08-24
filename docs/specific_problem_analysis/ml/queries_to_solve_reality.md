@@ -1353,6 +1353,8 @@ I. To do list
 	- identify useful structures like 'relevant graphs' like 'graphs of causal problem types (and other cross-interface structures of problems than cause/type) to identify the most important problems to solve (and other interface intents of cross-interface structures of problems)' and 'graphs where an optimization metric (component of the definition of relevance) is applied to solve every problem type' and 'graphs where optimization metrics become increasingly relevant (like where each problem solved by an optimization metric enables the next problem in the problem sequence to be solved more trivially/relevantly with the same metric)', to identify the 'limits of relevance of optimization metrics'
 		- relatedly, identify the relevance of 'graphs where problem structures are added in a position intentionally (like by applying a problem network/layer)' and 'graphs where problem positions/patterns emerge from some core graph similarity' and useful graph structures of these graphs like a 'spectrum of these graphs' and 'optimal points on the spectrum graph'
 
+	- identify useful structures like 'optimized interactions of combinations of subsets of relevant graphs, applied in a set of change directions' that are useful as an approximation of 'consciousness of reality (like different sets of graph structures that can identify realistic complexity)' which can be applied as starting points for 'generating different reality solvers', and identify predictable interactions like 'intersections/similarities' of these solver processes and what intents would be useful for optimize for given these similarities
+
 
 II. Queries and Results
 

@@ -20,7 +20,7 @@ Applications/states:
 - 'states of a graph/application' that are useful to store
 
 Functions:
-- simulation/test networks (which function similar to a solving device, answering the question of 'what is caused by this input') or aggregator/routing/organizing/optimizing/variation/generation/identification/other functionality-implementing networks
+- simulation/test networks (which function similar to a solving device, answering the question of 'what is caused by this input') or aggregator/routing/organizing/optimizing/variation/generation/implementation/identification/other functionality-implementing networks
 
 Variables:
 - query variables (like useful starting points for queries in a network of minds for some function like 'analyze')
