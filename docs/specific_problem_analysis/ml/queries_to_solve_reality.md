@@ -1362,6 +1362,7 @@ I. To do list
 	- identify useful structures like 'optimization optimization/application graphs' like using frequency-based generative functions like how 'its common to apply an optimization for a limited duration before replacing it with an independent invalidating optimization, and usually multiple optimization metrics or optimizations are applied like when balancing extremes, and usually an optimization should apply a net increase/decrease of an optimization metric, rather than immediately increasing after decreasing, but occasionally correcting an optimization is required' and other bases of generative functions to generate 'probable optimization application/optimization graphs' so that 'common patterns of how an optimization is applied' can be simulated and problems with an application/optimization can be identified
 
 	- identify useful structures like 'query integrations to increase query relevance' like "integrating pre-computed structures like 'irreversible steps to leaf nodes' and 'sequences of hub nodes' as useful 'local direction optimizations' to implement 'general direction optimizations' like 'move in the direction of the target node' for a query like 'connect point A/B'"
+		- similarly, identify query masks/filters (similar to a possibility space graph, or a maze) that can be useful for specific graphs/intents like how a 'query mask allowing only 90 degree direction changes could be useful in a grid for specific intents'
 
 
 II. Queries and Results
