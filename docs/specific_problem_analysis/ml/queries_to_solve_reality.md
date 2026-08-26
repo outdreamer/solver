@@ -1364,7 +1364,9 @@ I. To do list
 	- identify useful structures like 'query integrations to increase query relevance' like "integrating pre-computed structures like 'irreversible steps to leaf nodes' and 'sequences of hub nodes' as useful 'local direction optimizations' to implement 'general direction optimizations' like 'move in the direction of the target node' for a query like 'connect point A/B'"
 		- similarly, identify query masks/filters (similar to a possibility space graph layer, or a maze) that can be useful for specific graphs/intents like how a 'query mask allowing only 90 degree direction changes could be useful in a grid for specific intents'
 
-	- identify useful structures like 'graph optimality structures' like 'optimized local connections that can be applied to generate optimized global connections in a graph' and 'problem-solving layer sets like where solving problems on surrounding layers solves problems on interim layers on a graph'
+	- identify useful structures like 'graph optimality structures' like 'optimized local connections that can be applied to generate optimized global connections in a graph' and 'problem-solving layer sets like where solving problems on surrounding layers solves problems on interim layers on a graph (like where solutions are causal of other solutions)'
+		- relatedly, identify optimal requirements of the 'graph of relevant graphs' like where 'future optimal intents/problems/relevant graphs' have structure, and where time/other interface variables are otherwise optimally implemented, and where optimal graph structure interactions (like the optimal interaction between 'graph layer count and graph axes and generative graph variables and core graph similarities') are identified/implemented/organized
+		- relatedly, identify optimizations of graph structures like how 'graph structures should implement some level of accuracy, but should be variable to allow for adaptability'
 
 
 II. Queries and Results
