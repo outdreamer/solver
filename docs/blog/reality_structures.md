@@ -8,6 +8,11 @@
 - a 'reality computer' would be a machine that 'computes some variable of reality' or 'solves reality', or alternately a 'reality computer' could be a 'machine that computes some intent that the reality is intended to compute'
 - a 'reality machine' could also be a 'possible real structure that can compute/generate reality', like a 'computer' or a 'molecular force interaction that acts like a computer (implements matrix multiplication/statistical regression or some other useful function to identify variable interactions)'
 
+Other machines related to reality machines include machines regarding interface variables or components of reality, like:
+- perspective/intent/graph/logic/base machines (like to 'change the base constants/definitions/requirements of reality')
+- possibility machine (like to identify whether some structure is possible by 'identifying changes to apply to constants, to identify whether the constant will create another constant structure, like a barrier to that possibility')
+- time machines (like to 'generate energy-generating functions to generate alternate realities/universes at specific points in time to switch to other universes, to avoid the cost of calculating info/functions/entropy dynamics/energy generation required to implement reversing/forwarding functions within a universe, or generating a functionally equivalent universe at the target point in time, rather than the exact same universe at a different point in time' or to 'apply time relativity dynamics to change how isolated observers experience time')
+
 
 ## Reality vacuums
 

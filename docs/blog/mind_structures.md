@@ -46,3 +46,10 @@ Mind optimizations include optimal interface structure interactions:
 - enabling many different 'sets of structures' that enable 'advanced functionality/thinking types' and maintaining connections between these structure sets so there is always a 'guaranteed route to consciousness'
 - distributing copies of frequently used info in between other neuron types
 - organizing mind structures so that multiple/important/otherwise relevant optimal interaction structures are possible in the same structure
+
+
+## Mind Tricks
+
+Tricks are 'efficiencies/optimizations' or 'illusions (like false similarities/differences)', so mind tricks are 'mind efficiencies/optimizations' or 'illusions (false mind similarities/differences)', such as:
+- barriers to limit a mind (like imprisoning a mind) such as with a 'logical argument in every direction that the mind can change in which prevents change in that direction'
+- mind interaction functions like 'tricking a mind into thinking its another mind by layering mind variables/functions/structures' or 'tricking a mind into a conflict with another mind. by generating differences generally, and by specifically generate conflicts by generating similar intent/resources/structures, or positioning a mind so that it will encounter another mind and generate a false impression requiring a conflict' or 'tricking a mind into solving a problem to fulfill some intent'
