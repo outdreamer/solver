@@ -1370,7 +1370,9 @@ I. To do list
 
 	- identify useful structures like 'problem organization/implementation/definition optimizations' like identifying functionally equivalent problem types to optimize problem-solving workflows
 
-	- identify useful structures like 'optimization intents related to graph relevance structures' like 'identifying that graph relevance structures like "straight/direct/adjacent connections between source/target nodes" are a useful structure' so 'identifying graphs that maximize the number of straight/direct/adjacent connections between source/target nodes' is a useful graph optimization intent
+	- identify useful structures like 'optimization intents related to graph relevance structures' like 'identifying that graph relevance structures like "straight/direct/adjacent connections between source/target nodes" are a useful structure' so 'identifying graphs that maximize the number of straight/direct/adjacent connections between source/target nodes' is a useful graph optimization intent, and identify useful sequences of optimization structures applied to interface structures like 'optimize certainty structures like definitions first, then resulting certainty structures like requirements, then uncertainty structures like possibilities/variables'
+
+	- identify useful structures like 'optimization connections' like 'optimize for other metrics than solution metrics, in case it invalidates the original solution metrics, bc the definition of optimal often changes when any metric is optimized for'
 
 
 II. Queries and Results
