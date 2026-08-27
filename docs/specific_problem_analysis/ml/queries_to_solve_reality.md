@@ -1368,6 +1368,8 @@ I. To do list
 		- relatedly, identify optimal requirements of the 'graph of relevant graphs' like where 'future optimal intents/problems/relevant graphs' have structure, and where time/other interface variables are otherwise optimally implemented, and where optimal graph structure interactions (like the optimal interaction between 'graph layer count and graph axes and generative graph variables and core graph similarities') are identified/implemented/organized
 		- relatedly, identify optimizations of graph structures like how 'graph structures should implement some level of accuracy, but should be variable to allow for adaptability'
 
+- identify useful structures like 'problem organization/implementation/definition optimizations' like identifying functionally equivalent problem types to optimize problem-solving workflows
+
 
 II. Queries and Results
 
