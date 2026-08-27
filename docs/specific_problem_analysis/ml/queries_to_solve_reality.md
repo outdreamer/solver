@@ -1374,6 +1374,8 @@ I. To do list
 
 	- identify useful structures like 'optimization connections' like 'optimize for other metrics than solution metrics, in case it invalidates the original solution metrics, bc the definition of optimal often changes when any metric is optimized for'
 
+	- identify useful structures like 'graphs to identify indicators of optimality variables like "optimality generality"' like 'graphs of optimization metric clusters and combinations' and 'graphs of general optimization metrics' and identify optimizations like 'overlaps/similarities/connections' of these graphs and optimizations of these optimizations, and identify related optimization intents like 'identify optimization structures like "maximally different optimizations for the same problem" which can identify structures like "problem limits" and "areas of optimizations that are relevant to a problem" and "problems which can be trivially/relevantly solved with any general optimization"' and other relevant optimization structures
+
 
 II. Queries and Results
 
