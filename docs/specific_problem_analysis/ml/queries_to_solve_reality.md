@@ -1376,6 +1376,8 @@ I. To do list
 
 	- identify useful structures like 'graphs to identify indicators of optimality variables like "optimality generality"' like 'graphs of optimization metric clusters and combinations' and 'graphs of general optimization metrics' and identify optimizations like 'overlaps/similarities/connections' of these graphs and optimizations of these optimizations, and identify related optimization intents like 'identify optimization structures like "maximally different optimizations for the same problem" which can identify structures like "problem limits" and "areas of optimizations that are relevant to a problem" and "problems which can be trivially/relevantly solved with any general optimization"' and other relevant optimization structures
 
+	- identify useful structures like 'graph structure relevance' like how 'applying requirements as an input similarity to a graph to generate emergent similarities/requirements' can be a way to identify 'implementation requirements' of a requirement, similar to identifying 'implementation intents of a general intent'
+
 
 II. Queries and Results
 
