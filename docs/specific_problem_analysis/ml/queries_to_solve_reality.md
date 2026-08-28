@@ -1376,7 +1376,9 @@ I. To do list
 
 	- identify useful structures like 'graphs to identify indicators of optimality variables like "optimality generality"' like 'graphs of optimization metric clusters and combinations' and 'graphs of general optimization metrics' and identify optimizations like 'overlaps/similarities/connections' of these graphs and optimizations of these optimizations, and identify related optimization intents like 'identify optimization structures like "maximally different optimizations for the same problem" which can identify structures like "problem limits" and "areas of optimizations that are relevant to a problem" and "problems which can be trivially/relevantly solved with any general optimization"' and other relevant optimization structures
 
-	- identify useful structures like 'graph structure relevance' like how 'applying requirements as an input similarity to a graph to generate emergent similarities/requirements' can be a way to identify 'implementation requirements' of a requirement, similar to identifying 'implementation intents of a general intent'
+	- identify useful structures like 'graph structure relevance' like how 'applying requirements as an input similarity to a graph to generate emergent similarities/requirements' can be a way to identify 'implementation requirements' of a requirement, similar to identifying 'implementation intents of a general intent', or 'identifying causal sequences of optimizations/requirements/interface structures'
+
+	- identify useful structures like 'causal optimization structures' which can be applied for intents like 'identifying an optimization that wont invalidate the original solution metrics, by identifying causal optimization sequences' to reduce a problem to 'identifying the relevant causal optimization sequence in a graph of causal optimization sequences', or intents like 'applying a sequence with a high ratio of optimization structures in the causal sequence to apply a high ratio of optimization structures to a problem'
 
 
 II. Queries and Results
