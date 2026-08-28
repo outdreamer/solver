@@ -1380,6 +1380,8 @@ I. To do list
 
 	- identify useful structures like 'causal optimization structures' which can be applied for intents like 'identifying an optimization that wont invalidate the original solution metrics, by identifying causal optimization sequences' to reduce a problem to 'identifying the relevant causal optimization sequence in a graph of causal optimization sequences', or intents like 'applying a sequence with a high ratio of optimization structures in the causal sequence to apply a high ratio of optimization structures to a problem'
 
+	- identify useful structures like 'optimizations of relevant graphs' like 'applying variants to structures implementing an optimization metric combination in the graph of the definition of relevance' to identify different structures that can implement optimization metric sets which can generate a high ratio of difference in what problems are solvable with that combination, and otherwise applying variables between 'optimization metrics and associated problems solved' that can change the problems solved
+
 
 II. Queries and Results
 
