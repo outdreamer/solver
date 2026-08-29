@@ -1382,7 +1382,7 @@ I. To do list
 
 	- identify useful structures like 'optimizations of relevant graphs' like 'applying variants to structures implementing an optimization metric combination in the graph of the definition of relevance' to identify different structures that can implement optimization metric sets which can generate a high ratio of difference in what problems are solvable with that combination, and otherwise applying variables between 'optimization metrics and associated problems solved' that can change the problems solved, and other optimizations like 'solution metrics of the graph of the definition of relevance' like 'identify specifying structures required to identify maximally unique/trivial connections between optimization and problem structures like solution/problem types (unique trivial connections being useful for connecting problems/solutions)'
 
-- identify useful structures like 'changes applied to structures implementing optimization metric combinations to generate associated problems with optimization metric combinations to optimize the graph of the definition of relevance' and 'identify complete solutions as the set of solution structures across relevant graphs'
+	- identify useful structures like 'changes applied to structures implementing optimization metric combinations to generate associated problems with optimization metric combinations to optimize the graph of the definition of relevance' and 'identify complete solutions as the set of solution structures across relevant graphs'
 
 
 II. Queries and Results
