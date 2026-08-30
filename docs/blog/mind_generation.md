@@ -18,7 +18,7 @@ Consciousness is related to 'awareness/understanding', so those definitions appl
 
 ## Optimizing mind generation for other useful functions
 
-Other than 'consciousness' functions, other functions to optimize for include:
+Other than 'consciousness' or 'intelligence' functions, other functions to optimize for include:
 - mind structure interaction-optimization functions (enabled by 'consciousness', since 'being conscious or achieving understanding' is required for other intents like 'optimization')
 - mind constant-changing functions (as in 'identifying limits/trade-offs/errors of a mind structure' and 'work around or change those limits/errors')
 - meta-mind functions ('being conscious of consciousness' which means 'being able to understand/apply consciousness optimally', optimizing minds for mind optimization, loading sub-minds to evaluate and optimize the meta-mind, storing 'representative graphs of consciousness/reality in neurons' to optimize for 'consciousness/reality intents', and other complex meta-interactions of mind structures)
