@@ -15,7 +15,7 @@ elasticsearch==7.8.0
 idna==2.10
 iso8601==0.1.12
 jmespath==0.10.0
-joblib==0.16.0
+joblib==1.2.0
 kiwisolver==1.2.0
 matplotlib==3.3.1
 networkx==2.4
