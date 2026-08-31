@@ -1385,3 +1385,5 @@ I. To do list
 	- identify useful structures like 'applying changes to structures implementing optimization metric combinations, to identify/generate associated problems with optimization metric combinations, to optimize the graph of the definition of relevance' and 'identify complete solutions as the set of solution structures across relevant graphs'
 
 	- identify useful structures like 'graph descriptions that trivialize graph search intents' like 'describing a graph as "directly connecting indirect connections" so the graph is identified in a search for "non-standard connections" in a variation-matching workflow (like identify possible relevant variation from variables not applied in problem-solving processes yet)'
+
+	- identify useful structures like 'query relevance optimizations' like how 'hub nodes in a graph are incentivized to be traversed by a query, so its useful to incentivize more relevant nodes/sequences to increase the relevance of queries where there arent automatic incentives to traverse relevant nodes in a graph'
