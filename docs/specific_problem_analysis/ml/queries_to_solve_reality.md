@@ -1390,7 +1390,7 @@ I. To do list
 
 	- identify useful structures like 'graph structure optimization structures' like how a 'causal graph sequence should optimize the causal graphs in the same sequence as the causal sequence' as a way to optimize the process of optimization
 
-	- identify useful structures like 'optimization rules' like 'when optimizing a set of graphs to identify their interactions and optimizations of those interactions, start optimizing the interaction graph when there are sufficient similarities/overlaps in optimization structures across graphs to justify optimizing the interaction graph or when optimizing the interaction graph also optimizes/simplifies the original graph set'
+	- identify useful structures like 'optimization rules' like 'when optimizing a set of graphs to identify their interactions and optimizations of those interactions, start optimizing the interaction graph when there are sufficient similarities/overlaps in optimization structures across graphs to justify optimizing the interaction graph or when optimizing the interaction graph also optimizes/simplifies the original graph set', and identify 'generally/relevantly optimal graph interactions'
 
 	- identify useful structures like 'optimization rules' like 'when a core graph similarity doesnt generate the target difference with iterations/structures of that similarity, identify types of useful changes to apply to core graph similarities (like abstractions) to generate optimal variation degrees/structures'
 
@@ -1398,4 +1398,6 @@ I. To do list
 
 	- identify useful structures like graphs that implement 'additivity/other variables of relevance' like graphs that 'connect all interface structures in useful sequences' like 'connecting requirements/definitions/variables in a sequence' where 'connecting another structure to the sequence' in the graph 'increases the relevance of the graph structure (the sequence)' bc 'connecting interface structures/variables' is a highly relevant intent, and otherwise identify 'graphs that increasingly/additively/optimally implement highly relevant intents' and optimizations of these graphs and their interactions
 
-	- identify useful graphs like 'graphs of causality of optimality' like for intents like 'identify if an optimization is possible to generate/cause' by 'identifying whether the causes of that optimization are possible in a system'
+	- identify useful structures like 'relevant graphs' like 'graphs of causality of optimality' like for intents like 'identify if an optimization is possible to generate/cause' by 'identifying whether the causes of that optimization are possible in a system'
+
+	- identify useful structures like 'relevant query/graph structures/sequences in graphs' like 'first this query/structure of this graph is relevant in this connection, then this query/structure of this graph is relevant next in that connection' and identify relevant combinations/structures of relevance structures like 'structures which are generally relevant and causally relevant across core intents or across relevant graphs (like core graph intents, which are generally/causally relevant across relevant graphs)'
