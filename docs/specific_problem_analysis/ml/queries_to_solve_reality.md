@@ -1388,6 +1388,8 @@ I. To do list
 
 	- identify useful structures like 'query relevance optimizations' like how 'hub nodes in a graph are incentivized to be traversed by a query, so its useful to incentivize more relevant nodes/sequences to increase the relevance of queries where there arent automatic incentives to traverse relevant nodes in a graph'
 
-	- identify useful structures like 'graph structure optimization structures' like how a 'causal graph sequence should optimize the causal graphs first' as a way to optimize the process of optimization
+	- identify useful structures like 'graph structure optimization structures' like how a 'causal graph sequence should optimize the causal graphs in the same sequence as the causal sequence' as a way to optimize the process of optimization
 
 	- identify useful structures like 'optimization rules' like 'when optimizing a set of graphs to identify their interactions and optimizations of those interactions, start optimizing the interaction graph when there are sufficient similarities/overlaps in optimization structures across graphs to justify optimizing the interaction graph or when optimizing the interaction graph also optimizes/simplifies the original graph set'
+
+	- identify useful structures like 'optimization rules' like 'when a core graph similarity doesnt generate the target difference with iterations/structures of that similarity, identify types of useful changes to apply to core graph similarities (like abstractions) to generate optimal variation degrees/structures'
