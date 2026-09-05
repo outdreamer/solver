@@ -1,0 +1,30 @@
+# Mind Usages
+
+Common mind usages include:
+- picturing a structure, to fit/match a structure to another structure (answering 'does this structure fit inside this structure, like is it a possible structure allowed by a set of constraints/limits/requirements/boundaries?' or 'does it apply as an input to this structure, meaning is the input interactive with the function?')
+- picturing a structure, to complete/connect a structure (answering 'what is the pattern/similarity/connection to be completed/connected?')
+- picturing a structure, to see its limits (answering 'what happens if this is iterated/extended?' or 'does its implications or inputs/outputs run into a limit/boundary/barrier or another structure at some point?')
+- picturing a structure, to see the result of a conflict with another structure (answering 'which structure would be stable, if it encountered another structure?')
+- picturing a structure, to differentiate it from or similarize it to another structure, to identify the structure (answering 'what type is this structure or what structure is it similar to/different from?')
+- bouncing a structure within a set of simple boundary tests/questions (answering "does this structure pass these boundary tests, when it encounters the boundary tests as it's bounced around?")
+
+Optimal mind usages include:
+- extending/optimizing the above 'common mind usages' like by 1. applying the 'common mind usages' to graph structures (like by replacing 'simple boundary tests/questions' with 'boundary tests/questions about relevant graph sets') or 2. optimizing network/graph structures in the above 'common mind usages' (like by 'identifying optimal networks of questions/tests')
+	- identifying optimal 'question/test sequences/networks' for solving problem types or general problem-solving intents (as in 'when these questions are answered in this sequence, most problems are solvable'), by identifying 'overlapping integrated common query/function/intent/requirement networks' as 'problem-solving networks'
+	- organizing relevant graphs by similarities like 'common distance definitions' and 'common core generative similarities' to optimize queries to identify relevant graphs, like 'identifying a set of graphs that are useful starting points for most problem-solving intents' like the 'graph of the definition of relevance' and the 'intersecting spectrum combination graph' and the 'maximal difference-generating (creativity) graph', to apply these graphs as 'more relevant boundary tests to bounce thoughts between than simple questions' (answering 'what structures are relevant across these graphs')
+	- identifying useful graph structures like 'graph integrations (like mixed graph subsets, or graphs of graphs, or boundary graph sets, or graph sequences/embeddings/layers)' and graph intents like 'graph generation/optimization/compression intent sequences' to pre-compute useful 'base structures to apply changes to' across problem-solving processes, to 'complete a graph set' or 'fit/match a set of graphs', by 'specifying/optimizing relevant graphs' enough to solve most if not all problems
+- generating relevant variation
+	- generating new differences to 'identify new maximally complex connections to simplify, or other connection types to otherwise optimize' or otherwise 'maximally change' relevant graphs (or graphs of these graphs, or relevant definitions, like the definition of problem/solution/optimization/relevance)
+	- picturing new relevant graph variants like 'new graphs of problems/solutions' or 'new graphs of relevant/important/prioritized structures' that enable intents like 'identify new/relevant ways to connect specific solutions with specific problems' by applying a 'change' function around every constant structure like 'known useful structures (like relevant graphs)'
+- structuring concepts like 'relevance' for optimal functions/variables like 'additivity' and 'implementation'
+	- identifying relevance variables/inputs/components/causes/definitions/limits, like variables that 'require/increase relevance', to make a specific problem like 'is this the only example of this connection' more general/relevant (such as 'what types/variables/requirements/interface structures of problems are associated with uniqueness/other optimization variables of solutions'), to implement additive/optimized/increasing relevance or other relevance variables/functions
+- optimizing mind structures
+	- optimizing memory storage (like by 'storing structure descriptions/differentiations or abstract structures instead of complete/specific structures') to enable higher-level functions like 'implement relevant graphs to a useful degree of specificity/interactivity/similarity, and optimize the interactions of these graphs for these metrics/intents'
+	- optimizing iteration potential (like by 'increasing structures/layers of new/empty nodes/connections') to enable functionality resulting from scaling/iteration like 'increasing dimensionality' or 'identifying limits'
+	- optimizing connectivity (like by 'creating trivial connections between all useful function sequences')
+	- optimizing stored/constant info (like by 'storing descriptions of realities/graphs with sufficient variation in mind nodes to make it possible/trivial/relevant to simulate reality')
+- identify relevant intent structures
+    - identifying 'subsets of interface intents that are relevant to implement/complete/specify/iterate until limits are encountered' and 'generally relevant intent subsets' and 'subsets that are relevant to optimize for' and other relevant intent subsets
+    - identifying relevant mind structures that avoid errors of 'intent irrelevance', and optimize for metrics like 'maximal conflicts, with minimal contradictions/invalidations' (like 'generating a mind that can simulate conflicts, without invalidating itself')
+- optimize mind interactions
+    - identifying 'overlapping/similar neuron organizations/storage' that allows the maximum number of relevant minds to 'take control of other minds/switch minds/evaluate other minds/apply other mind functions'
