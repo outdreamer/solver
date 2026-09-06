@@ -1,7 +1,7 @@
 # Consciousness
 
 
-## Definition
+## Definitions
 
 It's useful to define/specify consciousness further, beyond a simple definition like 'capable of understanding'.
 
@@ -18,6 +18,9 @@ Expanding this to include definitions of consciousness including high-level func
 Other core functions expand the potential functionality of connections, such as by integrating core functions like 'change/apply/filter/define/describe/aggregate/average/compress' to support functions like 'simulate' which are useful for understanding.
 
 The structure of the brain (and which nodes/functions it applies/implements) filters how a specific definition of consciousness can be implemented.
+
+
+## Requirements
 
 Given that the brain activity of 'consciousness' requires the 'identify' function, identifying other types of brain activity requiring other functions is useful, to generate an optimized brain (which applies problem-solving intents optimally).
 
