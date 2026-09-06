@@ -5,7 +5,9 @@
 
 It's useful to define/specify consciousness further, beyond a simple definition like 'capable of understanding'.
 
-To be 'conscious' is approximately to be 'aware', as in 'being able to tell/sense/see (identify) some structure', so a brain that 'regularly' applies an 'identify' function as a node/connector is a brain that can be 'conscious' of regular subsets of itself.
+To be 'conscious' is approximately to be 'aware', as in 'being able to tell/sense/see (identify) some structure', so a brain that 'regularly' applies an 'identify' function as a node/connector is a brain that can be 'conscious' of regular subsets of itself. 
+
+Consciousness can similarly be defined as 'optimized identification' like 'identifying multiple/relevant structures simultaneously', so implementing and applying the 'identify' function in a way that allows identifying similarities to identify multiple structures at once is useful to optimize consciousness (like 'enabling a 3-variable brain to identify more structures' by identifying similarities like 'types' so that 'storing 3 types' allows 'identifying all connections between examples of those types' rather than just 'connections between 3 structures' and similarly 'identifying the 3 variables that are most relevant' like 'whether a structure increases entropy/relevance' also optimizes this brain for 'consciousness of reality').
 
 A more complex variant of 'identify' as a 'consciousness function' includes an 'evaluate/analyze function' (a brain that 'tests or evaluates or judges' a structure is 'conscious' of that structure), so a brain that identifies a structure and also evaluates/analyzes/judges it accurately/realistically (such as 'alternating between these functions') is a more conscious brain than one that merely applies 'identify' regularly.
 
