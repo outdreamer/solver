@@ -1431,4 +1431,4 @@ I. To do list
 
 	- identify useful structures like 'graphs of interface structures representing a connection (like a graph of causal sequences of requirements of a connection)' and related 'ways to identify accuracy/validity/other truth variables of a connection related to the graphed connection, based on structures like whether the graph of interface structures is similar like a subset of the graph or overlapping on an abstract layer of the graph'
 		- relatedly, identify whether a solution structure like a 'fulfilled requirement' becomes 'untrue/contradicted/opposed/undefined/invalid/irrelevant' by iteratively applying a 'graph of truth addition definition' (like 'is not + not' = 'is' indicates a change that doesnt change an 'is' connection into its opposing/error variants like 'is not') for each required change
-		- similarly, identify if required changes can cause/generate/otherwise connect to a solution structure
+		- similarly, identify if 'required changes can cause/generate/otherwise connect to a solution structure' and identify if a 'required change generates an input to a problem or a component of a problem or other problem definition structure'
