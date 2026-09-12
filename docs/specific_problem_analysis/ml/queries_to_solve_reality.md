@@ -1484,3 +1484,5 @@ I. To do list
 	- identify useful structures like 'relevance errors like missing relevance levels' and ways to correct these errors by optimizing relevant graphs like 'connecting some specification of relevance level structures until the abstract connection between relevance levels can be generated'
 
 	- identify useful structures like 'relevant filter connections (like causal filter connections)' and identify enabled optimizations like 'identifying general solution types (filtering a solution set into general solutions like solution types)' by 'identifying type connections between causal filters' (like 'once this filter is applied, identifying a general type, that general type can cause this other filter to also filter into general solution types, as opposed to requiring a specific solution from each filter')
+
+	- identify useful structures like the 'general limits of errors' to identify 'structures to solve errors in other useful ways like solving errors specifically, starting with a general limit of an error type'

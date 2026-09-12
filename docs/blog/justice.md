@@ -27,6 +27,8 @@ Relevant questions to identify property rights (as in 'contribution/value/credit
 - who causes the most valuable work to be completed by other people
 - who enjoys doing valuable work the most, meaning they are the likeliest to actually do that valuable work
 - who has natural property/resources/value (intelligence) and who has the right to those resources by nature (who should be made intelligent)
+- what 'groups/other social structures' have contributed valuable work (where the group is 'required to work as a group' to contribute)
+- what 'definition of property rights' would filter out useful/required intents like 'space exploration' (defining 'justice' too specifically might preclude intents like 'space exploration', which is non-trivial to identify)
 
 These questions can identify 'how to allocate property currently' and "how to change its allocation to an optimal allocation, in a sequence to avoid cases like 'mass theft/injustice'".
 
