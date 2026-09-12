@@ -8,7 +8,7 @@ It's useful to identify queries to identify/generate useful understanding struct
 Example queries: 
 - summarize recent progress in this field (a field like AI optimization), up to the last 3 iterations of a workflow like 'generation/optimization'
 - identify new general similarities/patterns that can be differentiated into new concepts and define the concepts and generate a few examples of an application of each concept
-- fit this new change into a set of relevant graphs, and explain how the graphs are optimized now (like being 'more complete' now)
+- fit this new change into a set of relevant graphs (standardize this field to a set of queries/graph structures on relevant graphs), and explain how the graphs are optimized now (like being 'more complete' now)
 - identify the most different structures in this field, compared to this other similar/related field
 - identify the unsolved problems in this field, and 'probable solutions to those problems', by applying imminent/existing solutions
 - identify complex/suboptimal structures like 'specific exceptions' that arent trivially/relevantly understood yet and identify possible connections between these suboptimal structures like 'causal connections'
@@ -16,6 +16,9 @@ Example queries:
 - identify current directions of progress in this field and where those directions will lead (like what suboptimality states could occur or what limits could be identified), as a result of prioritizing those directions or continuing in those directions
 - identify equivalent structures in this field and summarize the 'type of each equivalent set'
 - identify relevant graphs to help understand this field, like the graph of optimal solutions to known problems in the field, and the graph of unsolved problems in the field, and the graph of important concepts/assumptions/progress directions in the field
+- identify the 'sets of structures (like concepts/variables) which maximally cover a field, by generating a graph of that field' and generalize those structures until the summary of those structures is learnable/understandable by a person within one hour
+- identify 'what structures to organize/derive/invent/learn' to 'optimize understanding identification/generation'
+- define understanding/insight in new ways that optimizes/trivializes 'functions to identify/generate understanding'
 
 
 ## Understanding/insight query types
