@@ -25,6 +25,6 @@ Alternate intent sequences:
 
 Useful variants include:
 - AI that generates/tests/analyzes itself
-- AI that learns optimization specifically
+- AI that learns/optimizes optimization (iterates optimization of optimizations) specifically
 - AI that organizes/controls/optimizes/graphs/identifies other optimal AI implementations optimally
 - AI that optimizes for alternative functions like 'infer/predict/derive/imply/require/define' as opposed to 'learn/depend'
