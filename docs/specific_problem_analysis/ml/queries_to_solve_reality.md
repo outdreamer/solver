@@ -1488,3 +1488,7 @@ I. To do list
 	- identify useful structures like the 'general limits of errors' to identify 'structures to solve errors in other useful ways like solving errors specifically, starting with a general limit of an error type'
 
 	- identify useful structures like 'optimization optimizations, to specify optimizations for a subset of cases)' like how a 'structure can be too complex to optimize every subset of a certain size all at once', so optimizations like 'increasing the size/generality of the subset' can enable general optimization intents like 'optimize for a combination of metrics simultaneously'
+
+	- identify useful structures like the 'complete set of ways that interface structures (requirements/intents) can generate problems' like how 'changes to requirements' is a source of problems and similarly 'intents like "generate new variables" can generate problems'
+	
+	- identify useful graphs like 'graphs where error directions are opposite to solution directions, like an intersecting spectrum graph where error values of variables are separated from solution values of variables with a linear boundary'

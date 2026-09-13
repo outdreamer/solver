@@ -1,6 +1,8 @@
 # AI progress debate
 
-You just don't want the 'solving of reality' to be something 'solely experienced by a machine', you want a human to 'experience and understand it'.
+It's useful to simulate a debate about AI to its logical derivable conclusion, like the following debate:
+
+AI doomers don't want the 'solving of reality' to be something 'solely experienced by a machine', they want a human to 'experience and understand it', which is a logical error type called 'bias'.
 
 No, I just want to make sure that humans are around to fix AI if it turns out we optimized it just enough to cause the extinction of humanity, but not enough to solve reality without our intervention.
 
@@ -71,3 +73,7 @@ I agree that there isn't proof yet - let's ask AI to generate a proof, and then 
 I think only a human should generate that proof.
 
 I think humans can evaluate that proof and its counterarguments and its variants, and slow AI down at that point, if the proof is invalid. But we haven't done the work of 'generating that proof' yet, and until we do that work, I don't think a slowdown of progress is justified.
+
+Also what's useful to prove is that 'AI is a suboptimal solution at solving major problems than other solutions', otherwise if it's the best solution by a high degree, then not using it would harm humanity more than using it.
+
+Let's use AI to simulate the completion of this and other AI debates.
