@@ -77,3 +77,7 @@ I think humans can evaluate that proof and its counterarguments and its variants
 Also what's useful to prove is that 'AI is a suboptimal solution at solving major problems than other solutions', otherwise if it's the best solution by a high degree, then not using it would harm humanity more than using it.
 
 Let's use AI to simulate the completion of this and other AI debates.
+
+Btw, I don't think AI 'needs internet access or access to every machine' in order to 'solve useful/important problems for humanity', it needs 'specially curated/updated data set access to solve those important problems', and it should be optimized until it solves those useful problems, like to the point where it solves 'war', like by 'identifying all useful conflicts and 'predicting the outcome of all conflicts to invalidate conflicts' and 'identifying fairness algorithms to avoid conflict' and so on.
+
+I think queries like 'avoid intents that invalidate these important required intents (or their inputs/requirements/implementations/applications or other relevant interface structures of these intents)' can identify suboptimal structures to avoid, which can be integrated with AI models today to help avoid errors like 'suboptimal agent activity'. 'Suboptimal agent activity' indicates that 'relevance/optimality is not optimally defined/specified yet', otherwise agents would be working on relevant intents and there would be no suboptimal agent activity to restrict.
