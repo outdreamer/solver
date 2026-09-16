@@ -1504,3 +1504,5 @@ I. To do list
 		- relatedly, its useful to identify 'connections between interface structures that hold over many different variants applied to the connection' which are likely to be useful to connect in a 'set of adjacent graph structures' like as a 'set of nodes and node structures' like 'important/hub nodes and node types', and otherwise identify 'adjacent/other connections that can be implemented as adjacent/other graph structures' like 'nodes and node types'
 
 	- identify useful structures like 'interface structures which are still solutions after applying changes' like how 'requirements are often solution structures' and 'requirement change optimizations are also often solution structures'
+
+	- identify useful structures like overlapping similarities like a state change connection between points and a causal connection between nodes that can change an axes/spectrum embedding graph into a network graph
