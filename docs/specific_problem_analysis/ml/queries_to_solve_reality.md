@@ -1506,3 +1506,5 @@ I. To do list
 	- identify useful structures like 'interface structures which are still solutions after applying changes' like how 'requirements are often solution structures' and 'requirement change optimizations are also often solution structures'
 
 	- identify useful structures like overlapping similarities like a state change connection between points and a causal connection between nodes that can change an axes/spectrum embedding graph into a network graph
+
+	- identify useful structures like a 'graph where requirement set states are nodes, where changes to requirement set states that overlap with error definition structures are identified' or a 'graph where requirements that change requirements are possible error structures', where 'definition of an error' includes its relevant structures (like its variants in different interactions), as opposed to only identifying 'differences from other errors' to 'define an error'
