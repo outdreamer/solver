@@ -1514,3 +1514,5 @@ I. To do list
 		- relatedly, identify errors of problem type identification, like where its 'often incorrect to identify any problem as simple bc of its potential relevance to/interactivity with other problems'
 
 	- identify useful structures like 'relevant graph generation functions' like a function that generates 'efficiency' structures by generating 'local' useful structures (like by 'applying interface structures locally'), and otherwise generates structures implementing 'optimality' components/structures
+
+	- identify useful structures like 'relevant proof structure-generation graphs' like a 'graph of changes applied to "interface variable connections/sets/structures" as "new possible proof structures" where changes are regularly required to prove an identified true connection, to implement the components of the definition of truth which includes stability (as in, if a new interface variable connection cant be trivially/relevantly used to prove an identified true connection, it might not be applicable as a proof structure)'
