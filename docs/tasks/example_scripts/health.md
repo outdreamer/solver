@@ -99,6 +99,7 @@
 				- carrots, keto diet, holy basil, sitosterol, kombucha/kefir/probiotics/lactic acid bacteria, beets, coconut (dont take sitosterol if you have cancer, it suppresses a tumor suppressor IL-25), capsaicin, ginger, garlic, onions, pumpkin seeds, rutabaga
 				- sporotrichosis: vismia guianensis, holy basil, propolis
 			- viral infections: 
+				- wasabi, nicotinamide, spirulina, infrared light
 				- 1,2,3,4-Tetrahydroisoquinoline derivatives, 7-Methoxycryptopleurine, 10-Hydroxyusambarensine, Ajmaline, Aloperine, Amarbellisine, Berbamine, Berberine, Canthin-6-one derivatives, Capsaicin, Cepharanthine, Cephaeline, Cherylline, Cinchonine, Colchicine, Conessine, Cyclopamine, Dehydroevodiamine, Deoxynojirimycin derivatives, Emetine, Ephedrine, Fangchinoline, Harmaline, Harmine, Harringtonine, Hernandezine, Homoharringtonine, Indirubin, Lycorine, Matrine, Michellamine B, Neferine, Oxysophoridine, Panicutine, Piperine, Pseudoephedrine, Quinidine, Quinine, Rutaecarpine, Scopolamine, Sophocarpine, Sophoridine, Strychnine, Tetrahydropalmatine, Tetrandrine, Tylophorine & analogues, Tryptanthrine, Vilmorrianone, Vinblastine
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC12899901/
 				- prevent cytokine storm
@@ -164,7 +165,7 @@
 					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7551890/
 					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7831775/
 				- flu: astilbe rivularis (river astilbe), bergenia ciliate, hyoscyamus niger (stinking nightshade), justicia adhatoda (bansa), sitosterol, selenium, andrographis, dandelion, ginger, astragalus, rosemary, lemon balm, fennel, aloe vera, zinc, garlic, licorice, olive leaf, chaga, holy basil, echinacea, ginseng, St John's wort, curcumin, elderberry, Pelargonium sidoides, Spirooliganone B (Illicium oligandrum root), chalcones (Glycyrrhiza inflata), xanthones (Polygala karensium), and homoisoflavonoids (Caesalpinia sappan)
-				- dengue: dandelion, papaya, basil, lemon, neem, uncaria tomentosa (cat's claw), curcumin, baicalein, quercetin, narasin, marine seaweed, chebulagic acid and punicalagin (Terminalia chebula)
+				- dengue: andrographis (andrographolide), coptis chinensis (palmatine), dandelion, papaya, basil, lemon, neem, uncaria tomentosa (cat's claw), curcumin, baicalein, narasin, marine seaweed, chebulagic acid and punicalagin (Terminalia chebula), betulinic acid, galactan, chlorogenic acid, ellagic acid, ursolic acid, rutin, quercetin, fucoidan
 					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824034/
 				- hepatitis: sophora flavescens, ginseng, astragalus, rosemary, sweet basil, dandelion, licorice, olive leaf, reishi, wormwood, chaga, aloe vera, neem, milk thistle, st john's wort, phyllanthus niruri
 					- hepatitis B: isochlorogenic acid A (Laggera alata), amide alkaloid (piper longum), and dehydrocheilanthifoline (Corydalis saxicola), Xiao-Chai-Hu-Tang, saikosaponins from Bupleurum, Polygonum cuspidatum sieb. et zucc, curcumin
@@ -182,7 +183,7 @@
 				- malaria: coronopus didymus (jangli halon; bitter cress), cryptolepis sanguinolenta (Ghanaian quinine), neem
 				- chagas: resveratrol, turmeric, Coptis chinensis and berberine
 			- bacterial infections: 
-				- infrared light, keto diet, probiotic kefir/kombucha (broad-spectrum probiotics like Garden of Life with multiple strains)
+				- oatmeal, infrared light, keto diet, probiotic kefir/kombucha (broad-spectrum probiotics like Garden of Life with multiple strains)
 				- general antimicrobials: ginger, clove, holy basil, black seed oil, garlic, honey, echinacea, goldenseal, oregano, CBD, banyan, turmeric
 				- immune stimulants: cordyceps/other medicinal mushrooms
 				- bacterial imbalances: treat bacterial imbalances like from antibiotics such as doxycycline with prebiotics/probiotics/antiinflammatories/antimicrobials (also avoid high acid foods which can cause acidosis which can cause microbe overgrowths)
@@ -263,6 +264,8 @@
 			- nattokinase, elastin F, omega-3s, moringa, policosanol, glycine, carob pods (avoid carob with high lead content)
 			- atherosclerosis caused by diabetes: prunella vulgaris
 			- atherosclerosis caused by air pollution: air purifier
+			- inhibit PRC2
+            	- egcg, tanshinone I > curcumin > resveratrol/genistein > sulforaphane/quercetin
 			- statins (red yeast rice) and PCSK9 inhibitors (berberine)
 				- statins are linked to a higher diabetes risk
 					- https://medicalxpress.com/news/2025-11-ldl-cholesterol-linked-higher-diabetes.html
@@ -419,6 +422,7 @@
 				- https://journals.physiology.org/doi/full/10.1152/ajpcell.00160.2005
 				- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6721516/
 		- repair organ damage
+			- vanilla bean
 			- fasting to increase polyamines (or increase dietary intake of polyamines) which can help regenerate organs
 				- mTOR activation in these stem cells by fasting also led to production of large quantities of polyamines (small molecules that help cells to grow and divide)
 				- https://www.eurekalert.org/news-releases/1054876
@@ -1211,7 +1215,8 @@
 				- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5495071/
 			- inhibit intestinal inflammation by inhibiting TNF-alpha, IL-6, and IL-12 and increasing IL-10
 			- ibd/ibs: 
-				- poppy seeds, fennel, calendula, tangerine peel, coptis chinensis, artemisinin, berberine, oregano, Lactiplantibacillus plantarum PS128, Lacticaseibacillus helveticus R0052, Bifidobacterium longum R0175/1714
+				- L plantarum 299v
+				- dragon's blood, poppy seeds, fennel, calendula, tangerine peel, coptis chinensis, artemisinin, berberine, oregano, Lactiplantibacillus plantarum PS128, Lacticaseibacillus helveticus R0052, Bifidobacterium longum R0175/1714
 				- raisins/walnuts/pistachios for reducing inflammation
             		- https://pmc.ncbi.nlm.nih.gov/articles/PMC11170004/
 		        - Phocaeicola vulgatus bacteria
