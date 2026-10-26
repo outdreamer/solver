@@ -96,8 +96,13 @@
 		- some of these substances kill pathogens, some inhibit/suppress pathogen activity indirectly/directly, some boost the immune system, and some help only with specific symptoms rather than the causal pathogen
 
 			- fungal infections:
-				- carrots, keto diet, holy basil, sitosterol, kombucha/kefir/probiotics/lactic acid bacteria, beets, coconut (dont take sitosterol if you have cancer, it suppresses a tumor suppressor IL-25), capsaicin, ginger, garlic, onions, pumpkin seeds, rutabaga
+				- carrots, keto diet, holy basil, beta-sitosterol (dont take sitosterol if you have cancer, it suppresses a tumor suppressor IL-25), kombucha/kefir/probiotics/lactic acid bacteria, beets, coconut, capsaicin, ginger, garlic, onions, pumpkin seeds, rutabaga
 				- sporotrichosis: vismia guianensis, holy basil, propolis
+				- trichomoniasis
+		            - wormwood, calendula, zinc, vitamin c/d
+		        - yeast infection
+		            - Lactobacillus fermentum RC-14, Lactobacillus fermentum B-54, Lactobacillus rhamnosus GR-1, Lactobacillus rhamnosus GG and Lactobacillus acidophilus
+		            - tea tree oil, coconut oil, castor oil, zinc, vitamin c/d, boric acid
 			- viral infections: 
 				- wasabi, nicotinamide, spirulina, infrared light
 				- 1,2,3,4-Tetrahydroisoquinoline derivatives, 7-Methoxycryptopleurine, 10-Hydroxyusambarensine, Ajmaline, Aloperine, Amarbellisine, Berbamine, Berberine, Canthin-6-one derivatives, Capsaicin, Cepharanthine, Cephaeline, Cherylline, Cinchonine, Colchicine, Conessine, Cyclopamine, Dehydroevodiamine, Deoxynojirimycin derivatives, Emetine, Ephedrine, Fangchinoline, Harmaline, Harmine, Harringtonine, Hernandezine, Homoharringtonine, Indirubin, Lycorine, Matrine, Michellamine B, Neferine, Oxysophoridine, Panicutine, Piperine, Pseudoephedrine, Quinidine, Quinine, Rutaecarpine, Scopolamine, Sophocarpine, Sophoridine, Strychnine, Tetrahydropalmatine, Tetrandrine, Tylophorine & analogues, Tryptanthrine, Vilmorrianone, Vinblastine
@@ -641,7 +646,11 @@
 					- Plants are full of compounds known as phytochemicals—literally, "plant chemicals"—many of which seem to have antioxidant properties as well
 					- For example, after vitamin C has "quenched" a free radical by donating electrons to it, a phytochemical called hesperetin (found in oranges and other citrus fruits) restores the vitamin C to its active antioxidant form
 					- Carotenoids (such as lycopene in tomatoes and lutein in kale) and flavonoids (such as flavanols in cocoa, anthocyanins in blueberries, quercetin in apples and onions, and catechins in green tea) are also antioxidants
+        - leukopenia (low white blood cell count)
+            - astragalus, ginseng, jujube, sophora flavescens, cortisol
+            - correct vitamin deficiency: a/d/c/b12/b9/zinc/iron/copper
 		- autoimmune conditions: 
+			- avoid immunity-stimulating supplements like ginseng, astragalus, echinacea, etc
 		    - Autoimmune disease is not weak immunity
 	            - It is misdirected, overactive, or poorly regulated immunity, so anything that does the following can worsen disease activity:
 	                - boosts Th1 or Th17
@@ -1052,7 +1061,8 @@
 			- depression
 				- poppy seeds, astragalus, ginger, jujube, GABA, SAMe, probiotics, zinc, ashwagandha, 5-htp (avoid for heart impact), st john's wort (avoid for drug interactions), turmeric, magnesium, theanine, green tea, berberine, mucuna pruriens (l-dopa), kanna, vitamin d/b9/b12/k, omega 3s, tyrosine, sarcosine (cancer patients should avoid sarcosine), passionflower (an MAOI), lavender, saffron, chamomile, ginseng, ginkgo biloba
 			- anxiety:
-				- poppy seeds
+				- creatine: produced from glycine and arginine, using S-adenosyl methionine
+				- potassium, poppy seeds, choline, taurine, apigenin, magnolia, magnesium, rhodiola rosea, saffron, bitter orange, bergamot, CNS depressants
 				- psychobiotics including: Lactiplantibacillus plantarum PS128, Lacticaseibacillus helveticus R0052, Bifidobacterium longum R0175/1714
 				- Transcranial Direct Current Stimulation (TDCS) devices can treat anxiety/depression
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC6969693/
@@ -1061,7 +1071,6 @@
 				- Angiotensin receptor blockers (ARBs) and angiotensin-converting enzyme (ACE) inhibitors have been explored for their potential role in managing anxiety
 				- suppress IL-6, a contributor to neuroinflammation and disorders like anxiety
 				- increase IL-4 and IL-10 to suppress anxiety
-				- taurine, apigenin, magnolia, magnesium, rhodiola rosea, saffron, bitter orange, bergamot, CNS depressants
 				- glycine transporter type 1 inhibitors: sarcosine (cancer patients should avoid sarcosine)
 				- avoid GLP-1 agonists which can cause anxiety
 				- suppress non-Hoxb8 microglia and mutant Hoxb8 microglia
