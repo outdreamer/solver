@@ -156,7 +156,7 @@
 				- hpv: garlic, curcumin, indole-3-carbinol, DIM (decreases risk of estrogen-related cancers), zinc, ashwagandha, green tea, medicinal mushrooms including shiitake/turkey tail/reishi, d-mannose, aloe vera (dont use aloe with kidney damage)
 				- Tacaiuma virus (TCMV) and Guama virus (GMAV): mycophenolic acid
 				- mayaro: pyridine
-				- oropouche: acridones, Wedelolactone (false daisy), hops
+				- oropouche: acridones, Wedelolactone (false daisy), hops, quercetin
 					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11090880/
 					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10792649/
 					- https://pubmed.ncbi.nlm.nih.gov/38140109/
