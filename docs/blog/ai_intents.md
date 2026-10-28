@@ -1,0 +1,15 @@
+# AI Intents
+
+The goal of AI is to 'identify the optimal set of rules/graphs/structures', so 'interface analysis' is the goal of AI, similar to how 'insights' are the goal of a 'learning/prediction method'. Creating 'AI that implements a few insights' can identify the remaining insights, but applying the complete set of insights (interface analysis) is more useful as a starting point, similar to how 'applying relevant changes to a set of relevant graphs of relevant graphs' is a useful specific interface analysis-implementing starting point.
+
+Creating AI that 'self-optimizes' is a useful interim intent, but can similarly be replaced with interface analysis, which is still the goal of AI, even AI that self-optimizes.
+
+Identifying the 'optimal algorithm to apply to interface analysis, to complete/optimize interface analysis' is a useful direction to apply changes in, to connect AI, interface analysis, and optimal implementations of interface analysis (such as the 'optimal algorithm to apply relevant variation to relevant graphs').
+
+The goal of 'interface analysis' includes 'optimizing interface analysis' and 'apply that optimal implementation of interface analysis optimally for optimal intents (like increasing relevant variation, determining/changing/solving/optimizing reality, etc)'.
+
+Once the 'optimal set of insights' (interface analysis) is identified/completed, 'optimal changes to that set can be identified', and 'optimal problems to solve, once remaining uncertainties become identifiable, can be identified'. These 'remaining uncertainties' will be 'complex graph intents, like trivially/optimally connecting specific optimal variants of graphs of relevant graphs', which at some point in the optimization process of interface analysis, will fall to some unitary/specified/iterated/defining/limiting interface structure, like an 'optimization graph'.
+
+The 'optimal implementation of interface analysis' optimizes for metrics like 'reusability of a set of rules/graphs' or 'definability of possibility limits/variables (possibilities of solution implementations/applications)'.
+
+The 'optimal applications of interface analysis (intents to apply it for)' include 'maintaining useful problems', 'maintaining a useful solution/problem ratio', and otherwise implementing intents like 'increase/generate relevant variation (time)'. It's important to implement intents like 'completing/optimizing interface analysis', so that important problems like 'identifying how interface variables (like time) could be invalidated or otherwise have errors (like by causing limits to be more optimal/stronger than variables) and paths to avoid this error on a set of relevant graphs', and 'identifying/optimizing other interface variable interactions', can be solved.
