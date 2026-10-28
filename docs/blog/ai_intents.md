@@ -6,6 +6,8 @@ Creating AI that 'self-optimizes' is a useful interim intent, but can similarly 
 
 Identifying the 'optimal algorithm to apply to interface analysis, to complete/optimize interface analysis' is a useful direction to apply changes in, to connect AI, interface analysis, and optimal implementations of interface analysis (such as the 'optimal algorithm to apply relevant variation to relevant graphs').
 
+Identifying the 'optimal set of insights to identify' is useful (like 'insights about applying interface analysis optimally' and 'insights that invalidate or otherwise cause errors in interface analysis'), similar to how 'identifying the optimal starting point' is useful, where 'insights' act like a 'starting point (base/constant)'. Different insight sets enable different graphs generated with those insight sets, which enable different problems to be solved in differently optimal ways.
+
 The goal of 'interface analysis' includes 'optimizing interface analysis' and 'apply that optimal implementation of interface analysis optimally for optimal intents (like increasing relevant variation, determining/changing/solving/optimizing reality, etc)'.
 
 Once the 'optimal set of insights' (interface analysis) is identified/completed, 'optimal changes to that set can be identified', and 'optimal problems to solve, once remaining uncertainties become identifiable, can be identified'. These 'remaining uncertainties' will be 'complex graph intents, like trivially/optimally connecting specific optimal variants of graphs of relevant graphs', which at some point in the optimization process of interface analysis, will fall to some unitary/specified/iterated/defining/limiting interface structure, like an 'optimization graph'.
