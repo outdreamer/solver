@@ -19,6 +19,7 @@ Existing AI models/algorithms assume other irrelevant assumptions, like:
 
 ## Example solutions
 
-As an example of a solution structure:
+As an example of solution structures to the above error structures:
 - applying 'surrounding layers of error types' to each 'neuron (each possible variable connection) in a neural network model' is a way to identify 'ways that each possible connection can be false/irrelevant' (to apply at least one layer of interface analysis to each node, and optionally applying additional layers/integrations/structures of interface analysis when a specific central/original node continues identifying additional relevant info)
 - 'applying a ratio/degree/structure of graphs that need to be identified in some direction, before/while applying changes in that direction' or 'applying some default general/relevant graph in some direction, until the specific/correct variant of the relevant graph can be identified in that direction' is a way to oppose the problem of 'applying changes in an uncertain/unknown direction'
+- applying relevant differences to identify what graphs are useful in some direction in a graph (like 'graphs applying opposing variables of changes in that direction')
