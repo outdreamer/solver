@@ -4,7 +4,7 @@ It's useful to identify different requirements/intents/possibilities of self-pro
 
 Useful requirements of hypnosis:
 - 'authoritative repetition of simple/general/relevant intents (right before sleep, since sleep is when the brain has the maximum available resources)' is important
-- 'using language the brain understands' is also important ('repair the area that hurts' is likelier to be understood by your brain than 'repair this specific cell type')
+- 'using language the brain understands' is also important ('repair the area that hurts' is likelier to be understood by your brain than 'repair this specific cell type'), and where understanding is lacking, learning how the target systems work is useful to identify specific structures to help the brain understand what to identify/generate/change (like 'looking at graphs of specific structures to increase/decrease or graphs of how organs/systems work')
 - 'solving the problem for the brain (or 'doing the thinking', as in 'pre-computing info')' by 'identifying the specific intents/structures that the brain should change' is similarly important, when specific intents are understood by the brain
 
 It's also useful to identify intents that the brain might not already be optimized for:
