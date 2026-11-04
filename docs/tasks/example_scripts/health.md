@@ -137,7 +137,7 @@
 				- viral pneumonia: garlic
 				- coxsackievirus (CVA/CVB): linalool, apigenin, and ursolic acid (Ocimum basilicum - sweet basil), Raoulic acid (Raoulia australis), the medicinal prescription Xiao-Chai-Hu-Tang and its major component herb Bupleurum kaoi
 				- enterovirus: Ocimum basilicum (sweet basil), raoulic acid, Gallic acid (Woodfordia fruticosa flowers), EGCG (green tea)
-				- measles: Sheng-Ma-Ge-Gen-Tang, spicebush, biflavonoids (Rhus succedanea and Garcinia multiflora), calcium spirulan (Spirulina platensis), Crotalus durissus terrificus snake venom, Olinia rochetiana (Olkirenyi) and Warburgia ugandensis (Osokonoi), Cajanus cajan, chebulagic acid and punicalagin	
+				- measles: Sheng-Ma-Ge-Gen-Tang, spicebush, biflavonoids (Rhus succedanea and Garcinia multiflora), calcium spirulan (Spirulina platensis), Crotalus durissus terrificus snake venom, Olinia rochetiana (Olkirenyi) and Warburgia ugandensis (Osokonoi), Cajanus cajan, chebulagic acid and punicalagin, black currant, bilberry, astaxanthin
 				- niv (nipah): griffithsin (red algae Griffithsia), 6-gingerol (ginger), 4-hydroxypanduratin A (fingerroot), and luteolin (celery, broccoli, artichoke, parsley, thyme, dandelion, perilla, chamomile, carrots, olive oil, peppermint, rosemary, oregano), Serpentinine
 					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8483238/
 					- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9993391/

@@ -9,6 +9,7 @@ For example, once a graph that 'solves complexity' is identified (like a graph o
 - iterating/varying the complexity-solving graph to generate new complexity, to identify limits/structures/optimizations of complexity, and otherwise implement intents related to complexity
 - applying the complexity-solving graph to 'cover/describe/simplify/reduce other relevant graphs trivially', like applying the complexity-solving graph to optimize the 'graph of the definition of optimality/relevance'
 - applying the complexity-solving graph to connect other interface variable extremes (like to 'simplify connections between abstraction/specification')
+- specifying the complexity-solving graph until it connects other useful variables
 
 
 ## Applications of generally optimal graphs
