@@ -189,6 +189,8 @@
 				- chagas: resveratrol, turmeric, Coptis chinensis and berberine
 			- bacterial infections: 
 				- oatmeal, infrared light, keto diet, probiotic kefir/kombucha (broad-spectrum probiotics like Garden of Life with multiple strains)
+				- ultraviolet blood irradiation (uvbi) 
+					- https://pmc.ncbi.nlm.nih.gov/articles/PMC4783265/
 				- general antimicrobials: ginger, clove, holy basil, black seed oil, garlic, honey, echinacea, goldenseal, oregano, CBD, banyan, turmeric
 				- immune stimulants: cordyceps/other medicinal mushrooms
 				- bacterial imbalances: treat bacterial imbalances like from antibiotics such as doxycycline with prebiotics/probiotics/antiinflammatories/antimicrobials (also avoid high acid foods which can cause acidosis which can cause microbe overgrowths)
