@@ -9,6 +9,7 @@ Examples of 'graph interaction functions' include:
 - increase the specification/resolution of a graph until relevant info is identifiable (like resolution of a layer of a graph of a problem, breaking it into components with different resolution degrees on different layers, to identify different structures like concepts/causes on different resolution degrees)
 - expand a general/otherwise relevant graph until other graphs fit into it
 - expand a 'graph where other relevant graphs are a point' until the 'graph of other relevant graphs as layers' is identified, to identify their common alignments/axes/cross-layer interactions
+- 'expand' a graph to 'prioritize' the graph
 - apply a relevant graph regularly until its not relevant anymore (as in 'until some specific optimal variant is identified, until some invalidating graph is identified, etc')
 - generate different 'interaction structures of graphs' until the connections between graphs stabilize
 - generate different variants of a graph until other relevant graphs are nodes of the graph
@@ -16,6 +17,7 @@ Examples of 'graph interaction functions' include:
 - apply an optimization graph to optimize itself until the 'limits of optimization potential' of a graph application are identified
 - vary/connect/reduce/organize/optimize a graph until its relevance/meaning is trivially identifiable
 - optimize graphs for 'identifiable relevance'
+- prioritize graphs that generate 'unique/otherwise optimal relevance' to optimize for implementation of 'maximally different intents'
 
 
 ## Intents
