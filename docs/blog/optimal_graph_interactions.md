@@ -13,6 +13,9 @@ Examples of 'graph interaction functions' include:
 - generate different 'interaction structures of graphs' until the connections between graphs stabilize
 - generate different variants of a graph until other relevant graphs are nodes of the graph
 - generate differences in connections/nodes of a graph until other relevant graphs are generated/emerge in the graph
+- apply an optimization graph to optimize itself until the 'limits of optimization potential' of a graph application are identified
+- vary/connect/reduce/organize/optimize a graph until its relevance/meaning is trivially identifiable
+- optimize graphs for 'identifiable relevance'
 
 
 ## Intents
