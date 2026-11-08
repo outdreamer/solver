@@ -24,6 +24,7 @@ Optimal graphs apply optimization metrics like:
 - solutions dont require a 'high ratio of specification' (where the same treatment can be applied to most/all people)
 - solutions are 'similar' in some ways (where solutions apply some common solution structure like 'balancing extremes') so that 'solutions are predictable'
 - solutions are 'trivially matchable to problems' (where solutions are the simple opposite of problems in some variable)
+- graphs implementing insights (like a graph implementing an insight like 'indicators of a problem can also be causes of a problem' and a graph implementing the insight 'most structures can be causes of both problems and solutions' and a graph implementing the insight 'indicators of a problem can more relevantly indicate solution processes for that problem, rather than problem causes') should be integrated as optimally as possible (so that for example a 'structure which can be either a problem or a solution is not indicated exclusively as either')
 
 
 ## Related intents
