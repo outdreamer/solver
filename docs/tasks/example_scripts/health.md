@@ -1,5 +1,8 @@
 - useful sub-intents connecting conditions with substances
 		
+		- general solution structure
+			- a general solution structure to aim for would be a graph that trivially identifies optimal supplements for each condition (like identifying 'astragalus for heart inflammation' or 'algae for immunity' or 'oatmeal for cancer' or 'ginger for inflammation'), which likely include variables like 'interactive/surface structures' and 'ratios of combinations of components of each supplement'
+
 		- cancer
 			
 			- substances to avoid with cancer

@@ -19,3 +19,8 @@ Useful graphs include:
 - a graph that identifies 'optimal sequence/connection variants' that avoid general problem types (like 'different expressions of genes that dont cause problems in a pathway')
 - a graph that trivially identifies emergent problem types (like how 'missing causes' are trivial to identify in an optimal causal graph)
 - a graph that identifies the 'net impact (the meaning/relevance)' of a 'combination/sequence/structure of changes' (like 'what is the net immune impact of a set of supplements')
+
+Optimal graphs apply optimization metrics like:
+- solutions dont require a 'high ratio of specification' (where the same treatment can be applied to most/all people)
+- solutions are 'similar' in some ways (where solutions apply some common solution structure like 'balancing extremes') so that 'solutions are predictable'
+- solutions are 'trivially matchable to problems' (where solutions are the simple opposite of problems in some variable)
