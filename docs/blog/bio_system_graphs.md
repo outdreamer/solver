@@ -33,3 +33,7 @@ For example, once a 'set of gene expressions' is identified as 'uniquely/directl
 Similarly, solving the problem of 'connecting every problem to a set of gene expressions related to DNA/RNA/eccDNA/miRNA/other structures' is similarly useful for solving the problem of 'identifying optimal graphs of a system'. 
 
 For less well-defined (high uncertainty, low info) problems, solving the problem of 'identifying the filter/test sequence that would identify the relevant info required for solving a problem' is a related intent to solve.
+
+Relatedly, solving the problem of 'simulating a system' is related to solving the problem of 'representing the system in a relevant way'.
+
+Relatedly, identifying a graph to 'solve the most complex problems first' (like solving the 'highest variation interactions') or to 'solve problems on the most optimal interface first' (like with 'existing solutions like already available medicines, or trivial combinations of existing solutions like light therapy patterns, etc') are useful intents that can 'solve a high ratio of problems, with a high ratio of optimality'.
