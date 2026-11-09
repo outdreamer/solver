@@ -39,3 +39,10 @@ For less well-defined (high uncertainty, low info) problems, solving the problem
 Relatedly, solving the problem of 'simulating a system' is related to solving the problem of 'representing the system in a relevant way (identifying relevant graphs)'.
 
 Relatedly, identifying a graph to 'solve the most complex problems first' (like solving the 'highest variation interactions') or to 'solve problems on the most optimal interface first' (like with 'existing solutions like already available medicines, or trivial combinations of existing solutions like light therapy patterns, etc') are useful intents that can 'solve a high ratio of problems, with a high ratio of optimality'.
+
+
+## Useful queries related to bio-systems
+
+Useful queries related to bio-system research include:
+- identify immune impacts and relevant variables like 'tissue accessibility' of different interventions like air filtering, sprinting, aerobic exercise, weight-lifting, sunlight exposure, UVBI, UVA/UVB light therapy, red light/infrared therapy, blue/green light therapy, ultrasound therapy, PEMF therapy, vibration therapy, vagus nerve stimulation, brain wave manipulation, TDCS/TENS therapy, and identify results of the latest research studies regarding combinations of these therapies, and identify relevant unexplored combinations of these therapies for different conditions or bio-system intents
+- identify important/complex variables of the bio-system that arent yet 'trivial to change', and identify possible interventions/combinations/sequences/networks/variables/structures that could 'trivialize changing those variables'
