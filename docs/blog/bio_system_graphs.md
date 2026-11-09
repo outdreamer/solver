@@ -36,6 +36,6 @@ Similarly, solving the problem of 'connecting every problem to a set of gene exp
 
 For less well-defined (high uncertainty, low info) problems, solving the problem of 'identifying the filter/test sequence that would identify the relevant info required for solving a problem' is a related intent to solve.
 
-Relatedly, solving the problem of 'simulating a system' is related to solving the problem of 'representing the system in a relevant way'.
+Relatedly, solving the problem of 'simulating a system' is related to solving the problem of 'representing the system in a relevant way (identifying relevant graphs)'.
 
 Relatedly, identifying a graph to 'solve the most complex problems first' (like solving the 'highest variation interactions') or to 'solve problems on the most optimal interface first' (like with 'existing solutions like already available medicines, or trivial combinations of existing solutions like light therapy patterns, etc') are useful intents that can 'solve a high ratio of problems, with a high ratio of optimality'.
