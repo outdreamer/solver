@@ -16,3 +16,7 @@ Solving this problem of 'identifying the "net impact (relevance)" as in "relevan
 - identifying relevant/optimal graphs (which 'applies the graph of the definition of relevance' to 'generate/filter relevant graphs')
 - identifying an algorithm/definition/graph that can identify other relevant/optimal graphs (which 'applies many different structure combinations' to 'generate/filter relevant graphs')
 - recursive self-improvement of AI models (which aims to identify the 'most optimal AI model interaction' for 'optimal learning')
+
+Other related intents include:
+- identifying an 'optimal graph to apply to optimize a graph' (like by identifying the 'level of complexity required to compare all adjacent alternatives from any node in the graph, which can determine the required complexity of the graph applied to optimize the graph')
+- defining a mind (like 'any combination/structure of graphs and navigation/comparison/analysis functions that can generate other functions' or a 'set of functions that implements optimization'), a graph, and other related structures optimally

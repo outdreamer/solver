@@ -659,6 +659,7 @@
             - astragalus, ginseng, jujube, sophora flavescens, cortisol
             - correct vitamin deficiency: a/d/c/b12/b9/zinc/iron/copper
 		- autoimmune conditions: 
+			- UVBI
 			- avoid immunity-stimulating supplements like ginseng, astragalus, echinacea, etc
 		    - Autoimmune disease is not weak immunity
 	            - It is misdirected, overactive, or poorly regulated immunity, so anything that does the following can worsen disease activity:
