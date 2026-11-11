@@ -23,3 +23,13 @@ Here are some visuals of simple variants of example relevant graphs that are use
 8. The eighth graph indicates a simple visual of a 'graph of the definition of relevance', with different sub-graphs representing different optimal interactions between relevance components like 'reusability', 'efficiency', and 'independence'.
 
 ![Example Graph 2](https://github.com/outdreamer/solver/blob/master/docs/blog/images/graph_examples_2.png)
+
+For an example of how to solve problems with graphs (in this case, by 'increasing the dimensionality of a graph'), see the below graphs 9 and 10.
+
+9. Graph 9 indicates a simple visual of an 'evil perspective' (where 'virtue' is a simple/boring line, and 'evil' is 'everything else, representing higher variation/complexity').
+
+10. Graph 10 indicates a simple visual of a higher dimensional graph, a 'graph of perspective graphs', where points are connected to a lower graph layer representing different perspective graphs, in which 'evil' is just one point in this graph (indicating that 'evil' is the boring structure, and every other perspective, other perspectives implementing virtues like 'stability/multi-functionality/independence' as a 'component of reality/relevance', is higher variation/complexity than the 'evil' graph).
+
+![Example Graph 3](https://github.com/outdreamer/solver/blob/master/docs/blog/images/graph_examples_3.png)
+
+![Example Graph 4](https://github.com/outdreamer/solver/blob/master/docs/blog/images/graph_examples_4.png)
