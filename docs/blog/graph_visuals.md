@@ -28,7 +28,11 @@ For an example of how to solve problems with graphs (in this case, by 'increasin
 
 9. Graph 9 indicates a simple visual of an 'evil perspective' (where 'virtue' is a simple/boring line, and 'evil' is 'everything else, representing higher variation/complexity').
 
-10. Graph 10 indicates a simple visual of a higher dimensional graph, a 'graph of perspective graphs', where points are connected to a lower graph layer representing different perspective graphs, in which 'evil' is just one point in this graph (indicating that 'evil' is the boring structure, and every other perspective, other perspectives implementing virtues like 'stability/multi-functionality/independence' as a 'component of reality/relevance', is higher variation/complexity than the 'evil' graph).
+10. Graph 10 indicates a simple visual of a higher dimensional graph, a 'graph of perspective graphs', where points are connected to a lower graph layer representing different perspective graphs, in which the 'evil' perspective is just one point in this graph (indicating that 'evil' is the simple/boring structure, and every other perspective, other perspectives implementing virtues like 'stability/multi-functionality/independence' as a 'component of reality/relevance', is higher variation/complexity than the 'evil' graph).
+
+The 'more optimal graph' in this set is the more 'relevantly variable/complicated' graph (graph 10) which better reflects reality and more optimally implements the definition of relevance/optimality.
+
+This is why criminals have an 'incorrect sense that its higher variation/complexity to be evil than to be good, which they incorrectly see as "following simple rules"', when in reality, it's trivial to 'identify who is a criminal by their intelligence/complexity/variation level' and trivial to 'identify that criminals always do the same thing' (the 'easy cruel thing, which they can trivially identify, which they think they can get away with').
 
 ![Example Graph 3](https://github.com/outdreamer/solver/blob/master/docs/blog/images/graph_examples_3.png)
 
