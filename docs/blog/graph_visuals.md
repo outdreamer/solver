@@ -14,6 +14,6 @@ The fifth graph indicates a graph of 'complexity graph structures', like 'graphs
 
 The sixth graph indicates a graph of a 'high ratio of solution/problem complexity/variation', where outer solution structures are more complex than the relatively organized/simple problem structures, which is a useful graph to aim for when optimizing problem-solving.
 
-![Example Graph 0](docs/images/graph_examples_0.png)
+![Example Graph 0](https://github.com/outdreamer/solver/blob/master/docs/blog/images/graph_examples_0.png)
 
-![Example Graph 1](docs/images/graph_examples_1.png)
+![Example Graph 1](https://github.com/outdreamer/solver/blob/master/docs/blog/images/graph_examples_1.png)
