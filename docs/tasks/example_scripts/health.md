@@ -433,6 +433,10 @@
 				- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6721516/
 		- repair organ damage
 			- vanilla bean
+			- hematopoietic chimerism for organ transplant recipients (introduce donor-derived blood-forming stem cells into the transplant recipient so donor and recipient immune cells coexist)
+				- https://pmc.ncbi.nlm.nih.gov/articles/PMC13102117/
+			- injections of RNA-lipid nanoparticles that encode Nppa to produce pro-ANP, to repair heart tissue
+				- https://www.science.org/doi/10.1126/science.adu9394
 			- fasting to increase polyamines (or increase dietary intake of polyamines) which can help regenerate organs
 				- mTOR activation in these stem cells by fasting also led to production of large quantities of polyamines (small molecules that help cells to grow and divide)
 				- https://www.eurekalert.org/news-releases/1054876
