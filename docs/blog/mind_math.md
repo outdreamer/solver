@@ -6,13 +6,13 @@ It's useful to identify what (a mind) x (a graph) x (a problem space) x (other v
 ## Examples
 
 For example, it's useful to identify:
-- what a '1-variable mind' using 'trial and error' on a 'simple problem space, formatted as a grid, to solve problems by navigating from problem intersections to solution intersections' is capable of trivially/optimally identifying/generating (as in 'if this mind starts at every possible position, what can it trivially/optimally identify/generate')
+- what a '1-variable mind' using 'trial and error' on a 'simple problem space, formatted as a grid, to solve problems by navigating from problem intersections to solution intersections' is capable of trivially/optimally identifying/generating (as in 'if this mind starts at every possible position on this grid, what can it trivially/optimally identify/generate, using a navigation function like "trial and error" and a 1-variable comparison')
 - what a 'graph-based 100-variable mind' using 'relevant graph connection algorithms' on a 'problem space, formatted as a complexity structure combination graph, to solve problems by avoiding the most complex combinations or reducing them' is capable of trivially/optimally identifying/generating (as in 'starting from any relevant graph, what can this mind trivially/optimally identify/generate, using what optimal algorithms to connect relevant graphs')
 
 
 ## Related intents
 
 Solving this problem of 'identifying the "net impact (relevance)" as in "relevant problems solved" by applying mind/graph/algorithm/problem space combinations' is related to problems like:
-- identifying relevant/optimal graphs
-- identifying an algorithm/definition/graph that can identify other relevant/optimal graphs
+- identifying relevant/optimal graphs (which 'applies the graph of the definition of relevance' to 'generate/filter relevant graphs')
+- identifying an algorithm/definition/graph that can identify other relevant/optimal graphs (which 'applies many different structure combinations' to 'generate/filter relevant graphs')
 - recursive self-improvement of AI models (which aims to identify the 'most optimal AI model interaction' for 'optimal learning')
