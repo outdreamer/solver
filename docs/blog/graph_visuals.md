@@ -35,5 +35,3 @@ The 'more optimal graph' in this set is the more 'relevantly variable/complicate
 Graph 9 is why criminals have an 'incorrect sense that its higher variation/complexity to be evil than to be good, which they incorrectly see as "following simple rules"', when in reality, using Graph 10, it's trivial to 'identify who is a criminal by their intelligence/complexity/variation level' and trivial to 'identify that criminals always do the same thing, bc they all have the same sense of the same graph/perspective' (the 'work-minimization graph, identifying the "easy cruel" action, which they can trivially identify, which they think they can trivially get away with').
 
 ![Example Graph 3](https://github.com/outdreamer/solver/blob/master/docs/blog/images/graph_examples_3.png)
-
-![Example Graph 4](https://github.com/outdreamer/solver/blob/master/docs/blog/images/graph_examples_4.png)

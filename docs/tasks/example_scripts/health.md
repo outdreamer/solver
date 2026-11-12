@@ -1073,7 +1073,8 @@
 			- anxiety:
 				- creatine: produced from glycine and arginine, using S-adenosyl methionine
 				- potassium, poppy seeds, choline, taurine, apigenin, magnolia, magnesium, rhodiola rosea, saffron, bitter orange, bergamot, CNS depressants
-				- psychobiotics including: Lactiplantibacillus plantarum PS128, Lacticaseibacillus helveticus R0052, Bifidobacterium longum R0175/1714
+				- psychobiotics including:
+					- Bifidobacterium longum 1714, Bifidobacterium longum NCC3001, Lactobacillus helveticus R0052, Bifidobacterium longum R0175, Lactobacillus paracasei Lpc-37, Lactobacillus plantarum PS128, Bifidobacterium breve 1205, Lactobacillus gasseri SBT2055, Bifidobacterium longum SBT2928, Lactobacillus rhamnosus JB-1, Lactobacillus plantarum P8, Lactobacillus plantarum DR7, Lactobacillus helveticus IDCC3801, Bifidobacterium infantis R0033, Bifidobacterium bifidum R0071
 				- Transcranial Direct Current Stimulation (TDCS) devices can treat anxiety/depression
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC6969693/
 				- Beta-blockers are commonly prescribed for both conditions due to their ability to block stress hormones that raise heart rate and blood pressure
