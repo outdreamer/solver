@@ -1849,3 +1849,4 @@ I. To do list
 
 	- identify useful structures like 'neutrality change points' like 'at what point combining/specifying/changing interface variables like relevance components becomes a problem/solution structure'
 		- relatedly, identify 'graph connection' problems like 'where one graph is an error-generating graph when applied to any other graph or where a graph is a bottleneck for other graphs' and their optimality points
+		- relatedly, identify 'connections between graphs', like connections between a 'probability distribution (output) graph' and a 'causal graph of variable combinations that generate different probability distributions' (like 'what structures can cause a specific probability distribution')
