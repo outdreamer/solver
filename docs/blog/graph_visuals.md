@@ -28,7 +28,7 @@ For an example of how to solve problems with graphs (in this case, by 'increasin
 
 9. Graph 9 indicates a simple visual of an 'evil perspective' (where 'virtue' is a simple/boring line, and 'evil' is 'everything else, representing higher variation/complexity').
 
-10. Graph 10 indicates a simple visual of a higher dimensional graph, a 'graph of perspective graphs', where points are connected to a lower graph layer representing different perspective graphs, in which the 'evil' perspective is just one point in this graph (indicating that 'evil' is the simple/boring structure, and every other perspective, other perspectives implementing virtues like 'stability/multi-functionality/independence' as a 'component of reality/relevance', is higher variation/complexity than the 'evil' graph).
+10. Graph 10 indicates a simple visual of a higher dimensional graph of optimization graphs, a 'graph of perspective/optimization graphs', where points are connected to a lower graph layer representing different perspective graphs, in which the 'evil' perspective is just one point in this graph (indicating that 'evil' is the simple/boring structure involving 'work minimization (optimizing for easy)', and every other perspective, other perspectives implementing virtues like 'stability/multi-functionality/independence' as a 'component of reality/relevance', is higher variation/complexity than the 'evil' graph, and every other graph is more optimal than the 'evil' graph).
 
 The 'more optimal graph' in this set is the more 'relevantly variable/complicated' graph (graph 10) which better reflects reality and more optimally implements the definition of relevance/optimality.
 
