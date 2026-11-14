@@ -1,6 +1,6 @@
 # Solving the Graph Problem Space
 
-It's useful to identify remaining unsolved (or incompletely/otherwise suboptimally solved) problems in the graph problem space.
+It's useful to identify remaining 'unsolved (or incompletely/otherwise suboptimally solved) problems' in the graph problem space.
 
 
 ## Examples
