@@ -107,7 +107,8 @@
 		            - Lactobacillus fermentum RC-14, Lactobacillus fermentum B-54, Lactobacillus rhamnosus GR-1, Lactobacillus rhamnosus GG and Lactobacillus acidophilus
 		            - tea tree oil, coconut oil, castor oil, zinc, vitamin c/d, boric acid
 			- viral infections: 
-				- wasabi, nicotinamide, spirulina, infrared light
+				- replication inhibitors + latency reversal agents (using resveratrol/procyanidin C1 to decrease latency, and avoiding sulforaphane/EGCG/apigenin/luteolin which can increase/maintain latency) + IL-15 increasers (miracle fruit and eugenol/clove) and IL-2/interferon-gamma increasers + increased NK cell/cd8 activity (NAC/spirulina/mushrooms/oats/barley/zinc/selenium/vitamin d, B. lactis HN019, L. casei Shirota, B. coagulans SNZ 1969, L. plantarum 299v, L. plantarum NCIMB 8826, L. johnsonii La 1)
+				- wasabi, nicotinamide, spirulina, other immune interventions (infrared light, UVBI, vibration plates, PEMF, ultrasound)
 				- 1,2,3,4-Tetrahydroisoquinoline derivatives, 7-Methoxycryptopleurine, 10-Hydroxyusambarensine, Ajmaline, Aloperine, Amarbellisine, Berbamine, Berberine, Canthin-6-one derivatives, Capsaicin, Cepharanthine, Cephaeline, Cherylline, Cinchonine, Colchicine, Conessine, Cyclopamine, Dehydroevodiamine, Deoxynojirimycin derivatives, Emetine, Ephedrine, Fangchinoline, Harmaline, Harmine, Harringtonine, Hernandezine, Homoharringtonine, Indirubin, Lycorine, Matrine, Michellamine B, Neferine, Oxysophoridine, Panicutine, Piperine, Pseudoephedrine, Quinidine, Quinine, Rutaecarpine, Scopolamine, Sophocarpine, Sophoridine, Strychnine, Tetrahydropalmatine, Tetrandrine, Tylophorine & analogues, Tryptanthrine, Vilmorrianone, Vinblastine
 					- https://pmc.ncbi.nlm.nih.gov/articles/PMC12899901/
 				- prevent cytokine storm
