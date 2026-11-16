@@ -69,3 +69,5 @@ Interface structures can be applied to this graph, to increase its usefulness/re
 - making this graph searchable by everyone can increase the 'ratio of problems solved' and 'research experiments/tests completed', which is additional info to enable 'completing the graph' (by 'increasing the info in each test result set' and 'generating new test result set nodes').
 - 'probabilities' can be identified using the graph, to generate 'probably useful tests/experiments for a user to apply'.
 - recommending 'useful queries' of the graph is also possible, to identify 'probably useful sequences to optimize for' and 'generally useful inputs to optimal sequences'
+
+Such a graph would enable a 'general/relevant similarity to node' identification function to 'identify recommended purchases' for patients who are not an 'exact match for any node'.
