@@ -24,7 +24,9 @@ A similar way of structuring it is how a function like 'trial and error (or scal
 
 The graph that 'identifies these more optimal interactions' involves identifying the ways that 'optimization structures can interact optimally, like by coordinating'. Generating a graph of 'simple combinations of optimization structures' (like 'intersections') is a useful starting point, but the more optimal variant involves 'identifying optimal interactions of optimization structures (like stable/efficient/independent/multi-functional/otherwise optimal coordinations/optimization functions)'.
 
-Similarly, intents like 'completing a graph' are generally useful, but when applying optimization structures, it's sometimes useful to 'switch to a more optimal graph, that is being completed in parallel, more efficiently/optimally (which implements optimization structures like multi-functionality/alternatives/maximal differences/independence)'.
+Similarly, intents like 'completing a graph' are generally useful, but when applying optimization structures, it's sometimes useful to 'switch to a more optimal graph, that is being completed in parallel, more efficiently/optimally (which implements optimization structures like multi-functionality/alternatives/maximal differences/independence)'. 
+
+Similarly, 'applying useful functions' to 'filter every possibility' can be useful, but an 'optimal switching function between function applications' is more useful, and it's more useful to 'apply useful functions' to 'identify relevant graphs'.
 
 So it's identifiable as useful to 'start at relevance/optimality', 'generate relevant complexity', 'optimize interactions', and otherwise 'optimize for optimal intents (multi-functionally/regularly/alternately/otherwise optimally)'.
 
