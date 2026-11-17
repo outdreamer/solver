@@ -36,7 +36,7 @@ This is related to the problem of 'identifying useful intents' in general - 'ide
 
 Similarly, an 'optimal learning (dependence on info) algorithm' is less optimal than an 'optimal algorithm to connect/reduce/filter/optimize any relevant combination/structure of differences' (a relevant/optimal/independent/general problem-solving algorithm).
 
-Therefore, it's useful to identify 'optimal' optimization interactions (like 'multi-functional, independent, efficient, and otherwise relevant' optimization interactions), to require above some level of certainty that the 'optimization interaction is useful to apply/implement'.
+Therefore, it's useful to identify 'optimal' optimization interactions (like 'multi-functional, independent, efficient, and otherwise relevant' optimization interactions), to require above some level of certainty that the 'optimization interaction is useful to apply/implement'. Similarly, the 'optimal applications of the optimal optimization interactions' is not completely identified yet.
 
 'Identifying interactive structures' is a useful/trivial first step to 'initialize a graph of relevant structures', since 'interactivity' is a useful 'input to other optimization structures'. 'Identifying the optimal graph of optimization structure interactions' (like optimization structures which are 'proxies/inputs/components/causes/types/applications/optimizers/modulators/representations/descriptions/definitions' of other optimization structures) is a useful intent to 'optimizing optimization structure interactions'.
 
