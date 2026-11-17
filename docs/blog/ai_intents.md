@@ -17,3 +17,39 @@ Once the 'optimal set of insights' (interface analysis) is identified/completed,
 The 'optimal implementation of interface analysis' optimizes for metrics like 'reusability of a set of rules/graphs' or 'definability of possibility limits/variables (possibilities of solution implementations/applications)'.
 
 The 'optimal applications of interface analysis (intents to apply it for)' include 'maintaining useful problems', 'maintaining a useful solution/problem ratio', and otherwise implementing intents like 'increase/generate relevant variation (time)'. It's important to implement intents like 'completing/optimizing interface analysis', so that important problems like 'identifying how interface variables (like time) could be invalidated or otherwise have errors (like by causing limits to be more optimal/stronger than variables) and paths to avoid this error on a set of relevant graphs', and 'identifying/optimizing other interface variable interactions', can be solved.
+
+Other remaining intents to 'stay ahead of AI' include 'applying differences to what structures are being identified/generated/optimized', which can be implemented as:
+- 'apply relevant differences' like by 'identifying new/optimal intents for AI to implement (like "useful change directions on relevant graphs")'
+- while those intents are being implemented by AI, it's useful to 'apply other relevant differences' (like 'perspective differences' like 'changing perspective like "scaling current change patterns or identifying general change patterns" to understand currently identified structures, and see optimization opportunities in what AI is working on')
+- while those optimization opportunities are being implemented/solved by AI, it's useful to 'apply other relevant differences' like 'relevant graph structures (like patterns/limits/errors in graphs, new layers that are useful to integrate with a graph, new optimal organizations of a graph, etc)'
+- while those structures are being implemented/identified/generated/optimized by AI, it's useful to 'apply other relevant interface differences'
+
+Other remaining intents to solve are indicated in the following blogs:
+- https://github.com/outdreamer/solver/blob/master/docs/blog/after_optimal_graph_of_graphs.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/remaining_graphs.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/relevant_graph_applications.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/solving_ai.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/solving_graph_problem_space.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/reality_structures.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/reality_graphs.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/valuable_work.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/unsolvable_problems.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/tech_optimalities.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/thinking.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/thinking_functions.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/self_optimizing_ai.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/perspectives_ai_structures.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/optimization_interactions.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/optimal_graph_interactions.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/meta_mind.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/mind_math.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/relevant_graphs.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/relevant_variation.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/important_intents.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/graphs_interface_thinking.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/futures.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/equivalent_problems.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/ai_optimizations.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/ai_industry_optimization.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/ai_inventing.md
+- https://github.com/outdreamer/solver/blob/master/docs/blog/ai_progress_debate.md
