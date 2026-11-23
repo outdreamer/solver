@@ -6,7 +6,7 @@ It's useful to identify useful structures like 'sequences/networks' of AI optimi
 ## Examples
 
 For example, it's useful to implement the following intent sequence:
-- identify a sufficiently complete set of independent important variables (like 'interface variables') required to explain/predict/identify/generate/optimize a 'sufficiently high ratio of relevant variation', which can be applied as a 'unit of relevance'
+- identify a sufficiently complete set of independent important variables (like 'interface variables') required to explain/predict/identify/generate/optimize a 'sufficiently high ratio of relevant variation', which can be applied as a 'unit of relevance', thereby 'identifying that the algorithm has sufficient information to optimize for more optimal metrics/intents' (which is related to 'identifying connections, then identifying clusters, then identifying more optimal clusters, then identifying optimal cluster layers/generators and cluster limits/errors, etc' in a graph to 'continue switching to more useful higher variation structures')
 - identify what is 'possible/otherwise relevant to identify/generate' with that set of variables
 - identify useful intents to implement with that set of variables, related to graphs (like 'identifying the relevant graphs of interface variables' or 'identify the most important graph structures to identify causes of, in a causal graph, like cross-graph layer slices')
 - identify useful graphs of these intents (like 'graphs of optimal positions of problems/intents to solve in an optimal sequence' and 'graphs of optimal sequences like where solving one problem linearizes the remaining problems in the sequence')
