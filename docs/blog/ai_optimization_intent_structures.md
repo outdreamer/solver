@@ -33,7 +33,8 @@ Other relevant unsolved graphs include:
 ## Priorities
 
 Recursive self-optimization priorities include:
-- identifying the correct 'definition of optimality', before it's scaled/applied iteratively
+- identifying the correct 'definition of optimality', before it's scaled/applied iteratively (or identifying its possible errors, and opposing them when applying the definition)
 - identifying optimal intents (or identifying alternative structures like identifying 'optimal intent-identification algorithms'), before 'switching intents' is required (as in 'before current intent implementations cost too much')
 - identifying useful graphs to 'organize/optimize info that is learned'
 - identifying useful graphs to 'identify what is optimal to learn/derive' ('learning' being related to 'identifying casual graphs in high info problem spaces', 'deriving' being related to 'identifying useful implications/extensions/intents of learned info', which is a useful 'opposing function set', similar to 'filter/generate' and 'predict/review')
+- identify how frequently newly identified variation should be 'extending/specifying/optimizing the graph of optimality'
