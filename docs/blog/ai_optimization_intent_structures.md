@@ -38,3 +38,7 @@ Recursive self-optimization priorities include:
 - identifying useful graphs to 'organize/optimize info that is learned'
 - identifying useful graphs to 'identify what is optimal to learn/derive' ('learning' being related to 'identifying casual graphs in high info problem spaces', 'deriving' being related to 'identifying useful implications/extensions/intents of learned info', which is a useful 'opposing function set', similar to 'filter/generate' and 'predict/review')
 - identify how frequently newly identified variation should be 'extending/specifying/optimizing the graph of optimality'
+
+Other important priorities/intents include:
+- solving 'relevant graph identification' and 'graph optimization' and 'graph relevant variation algorithms (to generate relevant variation in all cases)' which will effectively 'solve math/problems/complexity'
+- identifying math problems that can adjacently/optimally solve interface/graph problems (like whether 'solving Navier-Stokes' can 'predict all variation interactions' by 'modeling variation/complexity as a fluid')
