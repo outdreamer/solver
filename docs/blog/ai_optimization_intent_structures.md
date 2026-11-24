@@ -41,4 +41,4 @@ Recursive self-optimization priorities include:
 
 Other important priorities/intents include:
 - solving 'relevant graph identification' and 'graph optimization' and 'graph relevant variation algorithms (to generate relevant variation in all cases)' which will effectively 'solve math/problems/complexity'
-- identifying math problems that can adjacently/optimally solve interface/graph problems (like whether 'solving Navier-Stokes' can 'predict all variation interactions' by 'modeling variation/complexity as a fluid')
+- identifying math problems that can adjacently/optimally solve interface/graph problems (like whether 'solving Navier-Stokes' can 'predict all variation interactions' by 'modeling variation/complexity as a fluid' or how 'solving prime patterns, or solving randomness' can 'resolve all ambiguities by identifying simple patterns in remaining ambiguities that seemed like randomness')
