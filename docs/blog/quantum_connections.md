@@ -13,6 +13,7 @@ It's useful to identify possible variables/functions/structures of quantum conne
 - changing 'direction of control/starting point/end point/strength/other structural variables' of the connection
 - stacking layered/embedded connections on a base connection
 - connection patterns like 'alternating/regular connections'
+- connection graphs ('creating quantum connections' is similar to 'creating a temporary/unstable network/graph', so 'graph intents/optimizations/structures' also apply, as 'connections' generate 'graphs')
 
 
 ## Optimizations
