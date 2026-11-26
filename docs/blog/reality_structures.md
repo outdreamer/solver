@@ -48,6 +48,7 @@ Optimal singularities:
 ## Relevant graphs of reality
 
 - a relevant graph can be applied as a 'new thinking type' or a 'new variable prediction/connection/identification function' or a 'new language' or a 'new problem-solving structure' because each relevant graph 'connects variables in a new/otherwise relevant way', and a 'relevant graph of reality' can be used to 'identify/generate/solve/apply reality'
+- 'graphs of relevant graphs of reality' can be applied to create structures like a 'reality optimization super-highway' or a 'reality collision/conflict resolution machine' or a 'reality gun/battery/center of gravity', to enable functions like 'reality embeddings (embedding realities in other realities)' and 'reality conductions (applying realities to super-charge other realities)' or 'reality expansions (to enable interactions with other realities by increasing relevant variation in a reality)'
 
 
 ## Reality intents
